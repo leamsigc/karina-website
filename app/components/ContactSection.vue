@@ -1,77 +1,83 @@
 <script setup lang="ts">
-import { COMPANY_INFO } from '~/utils/constants'
+const { t } = useI18n()
+const localePath = useLocalePath()
 </script>
 
 <template>
-    <div class="max-w-7xl mx-auto px-4 md:px-8 py-16">
-        <div
-            class="grid grid-cols-1 lg:grid-cols-2 gap-0 bg-white dark:bg-navy-800 rounded-lg overflow-hidden shadow-2xl">
-
-            <!-- Info Sidebar -->
-            <div class="bg-navy-900 text-white p-10 md:p-16 flex flex-col justify-center">
-                <h3 class="text-3xl font-display font-bold mb-10 text-gold-500 border-b border-navy-800 pb-4">Info</h3>
-
-                <div class="space-y-10">
-                    <!-- Address -->
-                    <div class="flex items-start gap-5 group">
-                        <div
-                            class="bg-navy-800 p-3 rounded-md group-hover:bg-gold-500 group-hover:text-navy-900 transition-colors">
-                            <UIcon name="i-heroicons-map-pin" class="w-7 h-7" />
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-xl mb-1 text-gray-200">Address</h4>
-                            <p class="text-lg font-medium">{{ COMPANY_INFO.address }}</p>
-                        </div>
-                    </div>
-
-                    <!-- Phone -->
-                    <div class="flex items-start gap-5 group">
-                        <div
-                            class="bg-navy-800 p-3 rounded-md group-hover:bg-gold-500 group-hover:text-navy-900 transition-colors">
-                            <UIcon name="i-heroicons-phone" class="w-7 h-7" />
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-xl mb-1 text-gray-200">Phone Line</h4>
-                            <a :href="`tel:${COMPANY_INFO.phone.replace(/[^0-9]/g, '')}`"
-                                class="text-3xl font-display font-black hover:text-gold-500 transition-colors block">
-                                {{ COMPANY_INFO.phone }}
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Email -->
-                    <div class="flex items-start gap-5 group">
-                        <div
-                            class="bg-navy-800 p-3 rounded-md group-hover:bg-gold-500 group-hover:text-navy-900 transition-colors">
-                            <UIcon name="i-heroicons-envelope" class="w-7 h-7" />
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-xl mb-1 text-gray-200">Email</h4>
-                            <a :href="`mailto:${COMPANY_INFO.email}`"
-                                class="text-lg hover:text-gold-500 transition-colors">
-                                {{ COMPANY_INFO.email }}
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Hours -->
-                    <div class="flex items-start gap-5 pt-10 border-t border-navy-800">
-                        <div class="bg-navy-800 p-3 rounded-md">
-                            <UIcon name="i-heroicons-clock" class="w-7 h-7 text-white" />
-                        </div>
-                        <div class="w-full">
-                            <h4 class="font-bold text-xl mb-4 text-gray-200">Operating Hours</h4>
-                            <div class="flex justify-between border-b border-navy-800 pb-2 text-lg">
-                                <span class="font-medium">Mon - Fri:</span>
-                                <span class="font-bold">8:00AM - 6:00PM</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+  <section class="bg-cream py-24 min-h-[80vh] flex items-center">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
+        <div>
+          <h1 class="font-serif text-5xl md:text-6xl mb-6 text-charcoal">{{ t('contact.title') }}<br/><span class="italic text-gold">{{ t('contact.highlight') }}</span></h1>
+          <p class="font-light text-charcoal-light text-lg mb-12 leading-relaxed max-w-md">
+            {{ t('contact.description') }}
+          </p>
+          
+          <div class="space-y-8">
+            <div class="flex items-start space-x-4">
+              <span class="text-gold mt-1">📞</span>
+              <div>
+                <h3 class="text-gold tracking-widest uppercase text-xs font-bold mb-2">{{ t('contact.phone_label') }}</h3>
+                <a href="tel:9516153010" class="font-serif text-3xl text-charcoal hover:text-gold transition-colors">951-615-30-10</a>
+                <p class="text-sm font-light text-charcoal-light mt-1">{{ t('contact.phone_note') }}</p>
+              </div>
+            </div>
+            
+            <div class="flex items-start space-x-4">
+              <span class="text-gold mt-1">📍</span>
+              <div>
+                <h3 class="text-gold tracking-widest uppercase text-xs font-bold mb-2">{{ t('contact.location_label') }}</h3>
+                <p class="text-charcoal-light font-light text-lg">{{ t('contact.location') }}</p>
+                <p class="text-sm font-light text-charcoal-light mt-1">{{ t('contact.location_note') }}</p>
+              </div>
             </div>
 
-            <!-- Form -->
-            <ContactForm />
+            <div class="flex items-start space-x-4">
+              <span class="text-gold mt-1">🕐</span>
+              <div>
+                <h3 class="text-gold tracking-widest uppercase text-xs font-bold mb-2">{{ t('contact.hours_label') }}</h3>
+                <p class="text-charcoal-light font-light text-lg">{{ t('contact.hours_weekday') }}</p>
+                <p class="text-sm font-light text-charcoal-light mt-1">{{ t('contact.hours_saturday') }}</p>
+              </div>
+            </div>
+          </div>
         </div>
+        
+        <div class="bg-charcoal p-10 rounded-sm text-cream shadow-2xl">
+          <h3 class="font-serif text-3xl mb-8">{{ t('contact.form_title') }}</h3>
+          <form class="space-y-6">
+            <div>
+              <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_name') }}</label>
+              <input type="text" class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors" required />
+            </div>
+            <div>
+              <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_phone') }}</label>
+              <input type="tel" class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors" required />
+            </div>
+            <div>
+              <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_interest') }}</label>
+              <select class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors appearance-none" required>
+                <option value="" class="text-charcoal">{{ t('contact.form_select') }}</option>
+                <option value="predial" class="text-charcoal">{{ t('contact.form_predial') }}</option>
+                <option value="civil" class="text-charcoal">{{ t('contact.form_civil') }}</option>
+                <option value="familiar" class="text-charcoal">{{ t('contact.form_familiar') }}</option>
+                <option value="administrativo" class="text-charcoal">{{ t('contact.form_admin') }}</option>
+                <option value="otro" class="text-charcoal">{{ t('contact.form_other') }}</option>
+              </select>
+            </div>
+            <div>
+              <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_message') }}</label>
+              <textarea rows="3" class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors resize-none" required></textarea>
+            </div>
+            <button type="submit" class="w-full bg-gold text-charcoal py-4 text-sm tracking-widest uppercase font-medium hover:bg-cream transition-colors mt-4">
+              {{ t('contact.form_submit') }}
+            </button>
+            <p class="text-xs text-cream-dark/60 text-center mt-4 font-light">
+              {{ t('contact.form_privacy') }}
+            </p>
+          </form>
+        </div>
+      </div>
     </div>
+  </section>
 </template>

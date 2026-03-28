@@ -79,7 +79,8 @@
                 "result": "Reducción del 75%",
                 "category": "Derecho Administrativo",
                 "summary": "Impugnamos exitosamente una actualización catastral arbitraria que multiplicaba el impuesto predial de varios inmuebles comerciales."
-            }
+            },
+            "read_more": "Leer Caso Completo"
         },
         "stats": {
             "experience": "Años de Experiencia",
@@ -100,9 +101,10 @@
         },
         "blog": {
             "hero": {
-                "title": "Editorial",
-                "highlight": "Legal"
-            }
+                "title": "Editorial Legal",
+                "description": "Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca."
+            },
+            "read_article": "Leer Artículo"
         },
         "testimonials": {
             "testimonial1": {
@@ -130,6 +132,7 @@
         "insights": "Editorial",
         "contact": "Contacto",
         "caseStudies": "Casos de Éxito",
+        "back_to_case_studies": "Ver todos los casos",
         "cta": "Agendar Asesoría",
         "navigation": "Navegación",
         "back_to_blog": "Volver a la Editorial",
@@ -148,6 +151,33 @@
         "location_zimatlan": "Zimatlán",
         "location_ocotlan": "Ocotlán",
         "location_tlacolula": "Tlacolula"
+    },
+    "contact": {
+        "title": "Agendar",
+        "highlight": "Asesoría",
+        "description": "Atendemos cada caso con la máxima confidencialidad y rigor jurídico. Contáctenos para evaluar su situación legal en Oaxaca de Juárez y municipios conurbados.",
+        "phone_label": "Línea Directa",
+        "phone": "951-615-30-10",
+        "phone_note": "Atención telefónica y WhatsApp",
+        "location_label": "Ubicación",
+        "location": "Oaxaca de Juárez, Oax.",
+        "location_note": "Atención exclusiva previa cita para garantizar la privacidad de su caso.",
+        "hours_label": "Horario de Atención",
+        "hours_weekday": "Lunes a Viernes: 9:00 AM - 6:00 PM",
+        "hours_saturday": "Sábados: Previa cita",
+        "form_title": "Solicitud de Contacto",
+        "form_name": "Nombre Completo",
+        "form_phone": "Teléfono / WhatsApp",
+        "form_interest": "Área de Interés",
+        "form_select": "Seleccione un área...",
+        "form_predial": "Reducción de Predial",
+        "form_civil": "Derecho Civil (Usucapión, Contratos)",
+        "form_familiar": "Derecho Familiar (Divorcio, Pensión)",
+        "form_admin": "Derecho Administrativo (Amparos, Multas)",
+        "form_other": "Otro asunto legal",
+        "form_message": "Breve descripción de su asunto",
+        "form_submit": "Enviar Solicitud Confidencial",
+        "form_privacy": "Sus datos están protegidos por el secreto profesional y serán utilizados únicamente para contactarle."
     },
     "common": {
         "cta_quote": "Cotizar",

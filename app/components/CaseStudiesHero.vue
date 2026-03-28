@@ -13,9 +13,9 @@ withDefaults(defineProps<Props>(), {
   subtitle: ''
 })
 
-const displayTitle = computed(() => t('caseStudies.hero.title'))
-const displayHighlight = computed(() => t('caseStudies.hero.highlight'))
-const displaySubtitle = computed(() => t('caseStudies.hero.subtitle'))
+const displayTitle = computed(() => t('home.caseStudies.hero.title'))
+const displayHighlight = computed(() => t('home.caseStudies.hero.highlight'))
+const displaySubtitle = computed(() => t('home.caseStudies.hero.subtitle'))
 </script>
 
 <template>

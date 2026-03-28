@@ -2,7 +2,6 @@
 layout: services-layout
 title: "Derecho Civil y Patrimonial | Karina Orocio"
 description: "Regularización de propiedades (Usucapión), juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor en Oaxaca."
-featured: true
 tags:
   - derecho civil oaxaca
   - usucapion oaxaca

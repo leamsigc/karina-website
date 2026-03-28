@@ -29,12 +29,20 @@ const blogSchema = z.object({
   }),
   category: z.string(),
   featured: z.boolean().default(false),
+  type: z.enum(['blog', 'case-study', 'service']).default("blog"),
   author: z.object({
     name: z.string(),
     role: z.string(),
     avatar: z.string(),
     social: z.string()
   }),
+  caseOverview: z.object({
+    client: z.string(),
+    location: z.string(),
+    result: z.string(),
+    category: z.string(),
+    summary: z.string()
+  }).optional(),
   ogImage: z.object({
     component: z.enum(['BlogOgImage', 'Video']).default('BlogOgImage'),
     props: z.object({

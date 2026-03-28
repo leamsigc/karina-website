@@ -2,7 +2,6 @@
 layout: services-layout
 title: "Derecho Administrativo | Karina Orocio"
 description: "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales en Oaxaca."
-featured: true
 tags:
   - derecho administrativo oaxaca
   - juicio amparo oaxaca

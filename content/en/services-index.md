@@ -2,7 +2,6 @@
 layout: services-layout
 title: "Practice Areas | Karina Orocio - Legal Services Oaxaca"
 description: "Specialized legal services in Oaxaca: Property tax reduction, civil, family, and administrative law. Strategic litigation and results."
-featured: true
 tags:
   - legal services oaxaca
   - property tax reduction oaxaca

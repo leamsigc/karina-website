@@ -1,5 +1,5 @@
 ---
-layout: blog-layout
+layout: blog
 title: "¿Cómo reducir el pago del Impuesto Predial en Oaxaca de Juárez?"
 description: "Descubra los mecanismos legales para impugnar cobros excesivos y desproporcionados de predial ante las autoridades municipales y estatales en Oaxaca."
 featured: true

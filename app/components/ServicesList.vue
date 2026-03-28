@@ -45,7 +45,7 @@ const services = [
             service.title }}</span>
           <h2 class="font-serif text-4xl text-charcoal mb-6">
             <NuxtLinkLocale :to="`/services/${service.slug}`" class="hover:text-gold transition-colors">{{ service.title
-            }}</NuxtLinkLocale>
+              }}</NuxtLinkLocale>
           </h2>
           <p class="text-charcoal-light font-light text-lg mb-8 leading-relaxed">
             {{ service.excerpt }}

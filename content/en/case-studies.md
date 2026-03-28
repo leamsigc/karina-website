@@ -2,7 +2,6 @@
 layout: blog-layout
 title: "Case Studies | Karina Orocio - Strategic Litigation Oaxaca"
 description: "Learn about our successful cases in strategic litigation, civil, administrative and family law in the State of Oaxaca. Proven results."
-featured: true
 tags:
   - case studies oaxaca
   - strategic litigation oaxaca

@@ -2,7 +2,6 @@
 layout: services-layout
 title: "Áreas de Práctica | Karina Orocio - Servicios Legales Oaxaca"
 description: "Servicios legales especializados en Oaxaca: Reducción de predial, derecho civil, familiar y administrativo. Litigio estratégico y resultados."
-featured: true
 tags:
   - servicios legales oaxaca
   - reduccion predial oaxaca

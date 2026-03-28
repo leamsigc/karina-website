@@ -98,7 +98,8 @@
                 "result": "75% Reduction",
                 "category": "Administrative Law",
                 "summary": "We successfully challenged an arbitrary cadastral update that multiplied the property tax of several commercial properties."
-            }
+            },
+            "read_more": "Read Full Case"
         },
         "faq": {
             "title": "Frequently",
@@ -115,9 +116,10 @@
         },
         "blog": {
             "hero": {
-                "title": "Legal",
-                "highlight": "Blog"
-            }
+                "title": "Legal Blog",
+                "description": "In-depth legal analysis on the most relevant legal challenges in the State of Oaxaca."
+            },
+            "read_article": "Read Article"
         }
     },
     "nav": {
@@ -128,6 +130,7 @@
         "insights": "Insights",
         "contact": "Contact",
         "caseStudies": "Case Studies",
+        "back_to_case_studies": "View all cases",
         "cta": "Schedule Consultation",
         "navigation": "Navigation",
         "back_to_blog": "Back to Blog",
@@ -146,6 +149,33 @@
         "location_zimatlan": "Zimatlán",
         "location_ocotlan": "Ocotlán",
         "location_tlacolula": "Tlacolula"
+    },
+    "contact": {
+        "title": "Schedule",
+        "highlight": "Consultation",
+        "description": "We handle each case with maximum confidentiality and legal rigor. Contact us to evaluate your legal situation in Oaxaca de Juárez and surrounding municipalities.",
+        "phone_label": "Direct Line",
+        "phone": "951-615-30-10",
+        "phone_note": "Phone and WhatsApp attention",
+        "location_label": "Location",
+        "location": "Oaxaca de Juárez, Oaxaca",
+        "location_note": "Exclusive attention by appointment to guarantee the privacy of your case.",
+        "hours_label": "Business Hours",
+        "hours_weekday": "Monday to Friday: 9:00 AM - 6:00 PM",
+        "hours_saturday": "Saturdays: By appointment",
+        "form_title": "Contact Request",
+        "form_name": "Full Name",
+        "form_phone": "Phone / WhatsApp",
+        "form_interest": "Area of Interest",
+        "form_select": "Select an area...",
+        "form_predial": "Property Tax Reduction",
+        "form_civil": "Civil Law (Usucaption, Contracts)",
+        "form_family": "Family Law (Divorce, Alimony)",
+        "form_admin": "Administrative Law (Amparos, Fines)",
+        "form_other": "Other legal matter",
+        "form_message": "Brief description of your matter",
+        "form_submit": "Send Confidential Request",
+        "form_privacy": "Your data is protected by professional secrecy and will only be used to contact you."
     },
     "common": {
         "cta_quote": "Get Quote",

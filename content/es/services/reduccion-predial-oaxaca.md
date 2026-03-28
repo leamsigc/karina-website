@@ -2,7 +2,6 @@
 layout: service-detail
 title: "Reducción de Predial en Oaxaca | Karina Orocio"
 description: "Defensa contra cobros excesivos de impuesto predial en Oaxaca de Juárez y municipios conurbados mediante juicios de nulidad. Ahorre hasta 70%."
-featured: true
 tags:
   - reduccion predial oaxaca
   - juicio nulidad predial oaxaca
