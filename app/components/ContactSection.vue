@@ -112,15 +112,15 @@ const handleSubmit = async () => {
                 required />
             </div>
             <div>
-              <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_phone')
-                }}</label>
+              <label class="block text-xs tracking-widest uppercase text-gold mb-2">
+                {{ t('contact.form_phone') }}</label>
               <input v-model="form.phone" name="phone" type="tel"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors"
                 required />
             </div>
             <div>
               <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_interest')
-                }}</label>
+              }}</label>
               <select v-model="form.interest" name="interest"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors appearance-none"
                 required>
@@ -129,12 +129,15 @@ const handleSubmit = async () => {
                 <option value="civil" class="text-charcoal">{{ t('contact.form_civil') }}</option>
                 <option value="familiar" class="text-charcoal">{{ t('contact.form_familiar') }}</option>
                 <option value="administrativo" class="text-charcoal">{{ t('contact.form_admin') }}</option>
+                <option value="mercantil" class="text-charcoal">{{ t('contact.form_mercantil') }}</option>
+                <option value="municipal" class="text-charcoal">{{ t('contact.form_municipal') }}</option>
+                <option value="notarial" class="text-charcoal">{{ t('contact.form_notarial') }}</option>
                 <option value="otro" class="text-charcoal">{{ t('contact.form_other') }}</option>
               </select>
             </div>
             <div>
               <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_message')
-                }}</label>
+              }}</label>
               <textarea v-model="form.message" name="message" rows="3"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors resize-none"
                 required></textarea>

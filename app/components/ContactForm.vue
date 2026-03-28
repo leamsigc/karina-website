@@ -10,12 +10,40 @@
  * @todo [ ] Integration test.
  * @todo [✔] Update the typescript.
  */
-const { t } = useI18n()
+const { t, locale } = useI18n()
 const status = ref<'IDLE' | 'SENDING' | 'SUCCESS'>('IDLE')
 const form = reactive({
     name: '',
     email: '',
+    interest: '',
     message: ''
+})
+
+const interestOptions = computed(() => {
+    if (locale.value === 'es') {
+        return [
+            { value: '', label: 'Selecciona un área de interés' },
+            { value: 'reduccion-predial', label: 'Reducción de Predial' },
+            { value: 'derecho-civil', label: 'Derecho Civil' },
+            { value: 'derecho-familiar', label: 'Derecho Familiar' },
+            { value: 'derecho-mercantil', label: 'Derecho Mercantil' },
+            { value: 'derecho-administrativo', label: 'Derecho Administrativo' },
+            { value: 'tramites-municipales', label: 'Trámites Municipales' },
+            { value: 'gestoria-notarial', label: 'Gestoría Notarial' },
+            { value: 'otro', label: 'Otro' }
+        ]
+    }
+    return [
+        { value: '', label: 'Select an area of interest' },
+        { value: 'reduccion-predial', label: 'Property Tax Reduction' },
+        { value: 'derecho-civil', label: 'Civil Law' },
+        { value: 'derecho-familiar', label: 'Family Law' },
+        { value: 'derecho-mercantil', label: 'Commercial Law' },
+        { value: 'derecho-administrativo', label: 'Administrative Law' },
+        { value: 'tramites-municipales', label: 'Municipal Procedures' },
+        { value: 'gestoria-notarial', label: 'Notarial Services' },
+        { value: 'otro', label: 'Other' }
+    ]
 })
 
 const handleSubmit = async () => {
@@ -28,6 +56,7 @@ const handleSubmit = async () => {
                 'form-name': 'contact',
                 name: form.name,
                 email: form.email,
+                interest: form.interest,
                 message: form.message
             })
         })
@@ -85,11 +114,22 @@ const handleSubmit = async () => {
             </div>
 
             <div>
+                <label class="block text-sm font-bold text-gray-600 dark:text-gray-400 mb-2 uppercase tracking-wider">{{
+                    locale === 'es' ? 'Área de Interés' : 'Area of Interest' }}</label>
+                <select v-model="form.interest" name="interest" required
+                    class="w-full px-5 py-4 rounded-sm bg-gray-50 dark:bg-navy-900 border-2 border-gray-200 dark:border-navy-700 focus:border-gold-500 focus:outline-none transition-colors text-lg text-navy-900 dark:text-white">
+                    <option v-for="option in interestOptions" :key="option.value" :value="option.value">
+                        {{ option.label }}
+                    </option>
+                </select>
+            </div>
+
+            <div>
                 <label
                     class="block text-sm font-bold text-gray-600 dark:text-gray-400 mb-2 uppercase tracking-wider">Message</label>
                 <textarea v-model="form.message" name="message" required rows="5"
                     class="w-full px-5 py-4 rounded-sm bg-gray-50 dark:bg-navy-900 border-2 border-gray-200 dark:border-navy-700 focus:border-gold-500 focus:outline-none transition-colors text-lg text-navy-900 dark:text-white placeholder-gray-400 resize-none"
-                    placeholder="¿En qué puedo ayudarte con tu propiedad?"></textarea>
+                    :placeholder="locale === 'es' ? '¿En qué puedo ayudarte?' : 'How can I help you?'"></textarea>
             </div>
 
             <UButton type="submit" :loading="status === 'SENDING'" block size="xl" color="primary" variant="solid"

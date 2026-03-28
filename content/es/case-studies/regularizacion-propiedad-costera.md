@@ -7,7 +7,7 @@ caseOverview:
   client: "Grupo de Inversionistas"
   location: "Puerto Escondido"
   result: "Certeza Jurídica y Escrituración Exitosa"
-  category: "Derecho Civil y Patrimonial"
+  category: "MERCANTIL"
   summary: "Asesoramos a un grupo de inversionistas en la transición segura de derechos de posesión comunal a propiedad privada mediante juicios de usucapión estratégicos."
 tags:
   - caso de exito oaxaca

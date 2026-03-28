@@ -26,6 +26,24 @@ const services = [
     title: "Derecho Administrativo",
     excerpt: "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales.",
     image: "/img/layer-services-1.jpg"
+  },
+  {
+    slug: "derecho-mercantil-oaxaca",
+    title: "Derecho Mercantil",
+    excerpt: "Juicios orales mercantiles, recuperación de cartera, pagarés, facturas, cargos no reconocidos y defensa en procedimientos de amparo.",
+    image: "/img/layer-accounting.jpg"
+  },
+  {
+    slug: "tramites-municipales-oaxaca",
+    title: "Trámites Municipales",
+    excerpt: "Obtención de número oficial, alineamiento, ajuste de pago predial y traslado de dominio en cualquier municipio de Oaxaca.",
+    image: "/img/layer-office-building.jpg"
+  },
+  {
+    slug: "gestoria-notarial-oaxaca",
+    title: "Gestoría Notarial",
+    excerpt: "Asesoría y gestión en trámites notariales, testamentos, contratos y regularización de documentos ante el Registro Civil.",
+    image: "/img/layer-meeting.jpg"
   }
 ];
 </script>

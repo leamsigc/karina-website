@@ -1,3 +1,7 @@
+## Services 
+- Trámite de Registro de Marca
+
+Hoy en día registrar tu marca es una tarea obligatoria si tienes un producto o una empresa, ya que esto garantiza que ninguna otra persona lo pueda usar o beneficiarse del mismo
 
 ◦       Materia Mercantil
 juicios orales
@@ -33,7 +37,6 @@ Notificación de recisión de contrato de arrendamiento.
 
 Una persona utiliza más de 1 nombre, ha variado en muchas formas.
 Testimonial para acreditar identidad de persona.
-
 
         ◦       Trámites municipales
 Tramitación número oficial
@@ -82,3 +85,32 @@ Servicio lunes a sábado
 
 5 años de experiencias
 
+
+
+### Cases studies 
+
+
+Caso
+Mayra Castellanos
+Reducción Predial
+Logramos que nuestra clienta pagara menos impuesto predial derivado de una compraventa realizada.
+
+Caso 
+María Gómez 
+Sabemos que a veces el tiempo es valioso para nuestros clientes, por lo que gestionamos en menos de un mes el trámite de número oficial en cualquier municipio del estado
+
+
+Caso
+Rosa reyes
+Nuestra clienta había prestado dinero pero nunca firmó algún documento que lo comprobara, gracias a nuestra estrategia jurídica hoy Rosa reyes ya cuenta con su dinero devuelta.
+
+Caso 
+Rubén Sánchez 
+Extravié mi tarjeta y me realizaron cargos, no sabía qué hacer, pero después de una consulta con la licenciada supe que podría recuperar mi dinero, hoy tengo mi cheque por concepto de devolución.
+
+Caso 
+David reyes
+Tengo varios  departamentos, pero cada vez más me pedían que querían un contrato de arrendamiento no sabía qué hacer pero después de exponer mis dudas, la Lic Elisa realizó un contrato conforme a las necesidades que tenía
+
+## Form interest option missing 
+- DERECHO MERCANTIL 
