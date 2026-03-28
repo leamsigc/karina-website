@@ -1,5 +1,5 @@
 ---
-layout: services-layout
+layout: case-studies
 title: "Defensa de Propietarios en Contratos de Arrendamiento Eólico | Karina Orocio"
 description: "Caso de éxito: Negociamos un incremento del 40% en regalías para propietarios de tierras en contratos de arrendamiento eólico en el Istmo de Tehuantepec."
 featured: true
@@ -21,14 +21,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-office-building.jpg'
   alt: 'Defensa Arrendamiento Eólico Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Caso de Éxito: Defensa de Propietarios'
     description: 'Incremento del 40% en regalías para propietarios de tierras en el Istmo.'
-    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-office-building.jpg'
     headline: 'Caso de Éxito'
 publishedAt: '2024-02-01'
 head:
@@ -52,7 +52,7 @@ client: "Propietarios de Tierras"
 location: "Juchitán de Zaragoza"
 result: "Renegociación Exitosa y Aumento de Regalías"
 category: "Derecho Civil y Contratos"
-image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-office-building.jpg"
 ---
 ::
 

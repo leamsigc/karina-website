@@ -15,14 +15,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200'
   alt: 'Property Tax Reduction Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Reduce Property Tax Payments Oaxaca'
     description: 'Discover the legal mechanisms to challenge excessive property tax charges in Oaxaca.'
-    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200'
     headline: 'Administrative Law'
 publishedAt: '2023-10-15'
 head:
@@ -45,7 +45,7 @@ schemaOrg:
       "@type": "Person"
       name: "Karina Orocio"
     datePublished: "2023-10-15"
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200"
+    image: "/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200"
 ---
 
 ## The Property Tax Problem in Oaxaca

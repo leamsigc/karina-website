@@ -30,7 +30,7 @@ const displayTitle = computed(() => props.title || t('common.need_help'))
     <section class="py-20 bg-teal-700 dark:bg-teal-900 text-white relative overflow-hidden">
         <!-- Grid Pattern Overlay -->
         <div
-            class="absolute inset-0 bg-[url('https://grainy-gradients.vercel.app/noise.svg')] opacity-10 mix-blend-soft-light">
+            class="absolute inset-0 bg-[url('/img/layer-noise.svg')] opacity-10 mix-blend-soft-light">
         </div>
 
         <div class="max-w-4xl mx-auto px-4 text-center relative z-10">

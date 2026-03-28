@@ -1,5 +1,5 @@
 ---
-layout: services-layout
+layout: case-studies
 title: "Nulidad de Cobros Prediales Excesivos | Karina Orocio"
 description: "Caso de éxito: Logramos una reducción del 75% en el impuesto predial de una plaza comercial en Ocotlán de Morelos mediante juicio de nulidad."
 featured: true
@@ -21,14 +21,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-accounting.jpg'
   alt: 'Reducción Predial Comercial Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Caso de Éxito: Reducción Predial'
     description: 'Reducción del 75% en el impuesto predial de plaza comercial en Oaxaca.'
-    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-accounting.jpg'
     headline: 'Caso de Éxito'
 publishedAt: '2024-03-01'
 head:
@@ -52,7 +52,7 @@ client: "Plaza Comercial"
 location: "Ocotlán de Morelos"
 result: "Reducción del 75% en Impuesto Predial"
 category: "Derecho Administrativo"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-accounting.jpg"
 ---
 ::
 

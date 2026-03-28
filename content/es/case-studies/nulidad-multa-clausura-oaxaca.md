@@ -22,14 +22,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: 'https://images.unsplash.com/photo-1541888087625-f8148fa53436?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-office-building.jpg'
   alt: 'Nulidad Multa Clausura Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Caso de Éxito: Nulidad de Multa'
     description: 'Logramos la nulidad de una multa de $1.2M MXN y la reapertura inmediata.'
-    image: 'https://images.unsplash.com/photo-1541888087625-f8148fa53436?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-office-building.jpg'
     headline: 'Caso de Éxito'
 publishedAt: '2024-01-01'
 head:
@@ -53,7 +53,7 @@ client: "Empresa Constructora Local"
 location: "Oaxaca de Juárez"
 result: "Ahorro de $1.2M MXN y Reapertura Inmediata"
 category: "Derecho Administrativo"
-image: "https://images.unsplash.com/photo-1541888087625-f8148fa53436?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-office-building.jpg"
 ---
 ::
 

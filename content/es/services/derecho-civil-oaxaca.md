@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-office-building.jpg?auto=format&fit=crop&q=80&w=1200'
   alt: 'Derecho Civil Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Derecho Civil Oaxaca'
     description: 'Regularización de propiedades y juicios sucesorios en Oaxaca.'
-    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-office-building.jpg?auto=format&fit=crop&q=80&w=1200'
     headline: 'Civil'
 publishedAt: '2024-01-01'
 head:
@@ -42,7 +42,7 @@ head:
 ---
 title: "Derecho Civil y Patrimonial"
 subtitle: "Protección y regularización de su patrimonio en Oaxaca"
-image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-office-building.jpg?auto=format&fit=crop&q=80&w=1200"
 ---
 ::
 

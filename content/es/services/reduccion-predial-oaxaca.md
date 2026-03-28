@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200'
   alt: 'Reducción de Predial Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Reducción de Predial Oaxaca'
     description: 'Defensa contra cobros excesivos de impuesto predial en Oaxaca.'
-    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200'
     headline: 'Predial'
 publishedAt: '2024-01-01'
 head:
@@ -42,7 +42,7 @@ head:
 ---
 title: "Reducción de Predial en Oaxaca"
 subtitle: "Defensa legal contra cobros excesivos de impuesto predial"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200"
 ---
 ::
 

@@ -4,14 +4,14 @@ title: "Abogado en Salina Cruz | Lic. Karina Orocio"
 description: "Despacho jurídico y servicios legales en Salina Cruz, Oaxaca. Especialistas en derecho corporativo, administrativo y litigios complejos."
 keywords: "abogado salina cruz, servicios legales istmo, litigio comercial oaxaca, Karina Orocio"
 image:
-  src: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
   alt: 'Abogado en Salina Cruz'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Abogado en Salina Cruz'
     description: 'Servicios legales especializados en Salina Cruz.'
-    image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
     headline: 'Salina Cruz'
 publishedAt: '2024-01-01'
 head:
@@ -23,7 +23,7 @@ head:
 ---
 cityName: "Salina Cruz"
 region: "Istmo"
-image: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200"
 context: "El desarrollo portuario, petrolero e industrial de Salina Cruz exige un equipo legal con experiencia sólida. Asesoramos a empresas y trabajadores en derecho corporativo, administrativo y litigios complejos contra autoridades federales y grandes corporativos."
 ---
 ::

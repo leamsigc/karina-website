@@ -4,14 +4,14 @@ title: "Abogado en Puerto Escondido | Lic. Karina Orocio"
 description: "Despacho jurídico y servicios legales en Puerto Escondido, Oaxaca. Especialistas en regularización de propiedades, derecho civil y protección de inversiones turísticas."
 keywords: "abogado en puerto escondido, abogado propiedades costa, servicios legales puerto escondido, regularizacion propiedades oaxaca, Karina Orocio"
 image:
-  src: 'https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-beach-property.jpg?auto=format&fit=crop&q=80&w=1200'
   alt: 'Abogado en Puerto Escondido'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Abogado en Puerto Escondido'
     description: 'Servicios legales especializados en Puerto Escondido.'
-    image: 'https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-beach-property.jpg?auto=format&fit=crop&q=80&w=1200'
     headline: 'Puerto Escondido'
 publishedAt: '2024-01-01'
 head:
@@ -32,7 +32,7 @@ head:
 ---
 cityName: "Puerto Escondido"
 region: "Costa"
-image: "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-beach-property.jpg?auto=format&fit=crop&q=80&w=1200"
 context: "El acelerado auge inmobiliario y turístico en Puerto Escondido requiere asesoría legal altamente especializada. Protegemos inversiones mediante la regularización de tierras, estructuración de fideicomisos para extranjeros y resolución de conflictos de propiedad comunal vs. privada."
 ---
 ::

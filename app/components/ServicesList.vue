@@ -7,25 +7,25 @@ const services = [
     slug: "reduccion-predial-oaxaca",
     title: "Reducción de Predial",
     excerpt: "Defensa contra cobros excesivos de impuesto predial en Oaxaca de Juárez y municipios conurbados mediante juicios de nulidad.",
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800"
+    image: "/img/one.jpeg"
   },
   {
     slug: "derecho-civil-oaxaca",
     title: "Derecho Civil",
     excerpt: "Regularización de propiedades (Usucapión), juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor.",
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800"
+    image: "/img/two.jpeg"
   },
   {
     slug: "derecho-familiar-oaxaca",
     title: "Derecho Familiar",
     excerpt: "Resolución estratégica de divorcios incausados, pensiones alimenticias y guarda y custodia ante los Juzgados Familiares del Centro.",
-    image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&q=80&w=800"
+    image: "/img/tres.jpeg"
   },
   {
     slug: "derecho-administrativo-oaxaca",
     title: "Derecho Administrativo",
     excerpt: "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales.",
-    image: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=800"
+    image: "/img/layer-services-1.jpg"
   }
 ];
 </script>
