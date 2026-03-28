@@ -118,6 +118,7 @@ h6,
   margin-top: 3rem;
   margin-bottom: 1.5rem;
 }
+
 .blog-content h3 {
   font-family: var(--font-serif);
   font-size: 1.5rem;
@@ -125,6 +126,7 @@ h6,
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+
 .blog-content p {
   font-size: 1.125rem;
   color: var(--color-charcoal-light);
@@ -132,6 +134,7 @@ h6,
   line-height: 1.625;
   margin-bottom: 1.5rem;
 }
+
 .blog-content ul {
   margin-bottom: 1.5rem;
   padding-left: 1.5rem;
@@ -140,6 +143,7 @@ h6,
   font-weight: 300;
   list-style-type: disc;
 }
+
 .blog-content ol {
   margin-bottom: 1.5rem;
   padding-left: 1.5rem;
@@ -148,10 +152,16 @@ h6,
   font-weight: 300;
   list-style-type: decimal;
 }
+
 .blog-content li {
   margin-bottom: 0.5rem;
 }
+
 .blog-content strong {
   font-weight: 500;
   color: var(--color-charcoal);
+}
+
+.prose .text-highlighted {
+  color: inherit;
 }

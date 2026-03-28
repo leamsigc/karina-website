@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 'Preguntas Frecuentes - Karina Orocia Abogada Postulante Oaxaca'
 description: 'Preguntas frecuentes sobre asesoría legal patrimonial en Oaxaca. Información sobre reducción de predial, avalúos catastrales y más.'
 image:
@@ -64,7 +65,8 @@ subtitle: Asesoría Legal Patrimonial en Oaxaca - Respondemos tus Dudas
 ---
 ::
 
-<div class="container mx-auto px-4 py-24">
+<div class="prose prose-xl   mx-auto max-w-4xl my-16 font-serif font-light text-xl prose:haighlight:text-gold" >
+
 
 ## Preguntas Frecuentes — Karina Orocia Abogada Postulante
 

@@ -46,7 +46,7 @@ const services = computed(() => [
               {{ t(`home.expertise.services.${service.key}.description`) }}
             </p>
             <NuxtLinkLocale :to="service.link"
-              class="text-xs tracking-widest uppercase font-medium text-gold opacity-0 group-hover:opacity-100 transition-opacity">
+              class="text-xs tracking-widest uppercase font-medium text-gold opacity-50 group-hover:opacity-100 transition-opacity">
               {{ t('common.read_more') }} →
             </NuxtLinkLocale>
           </div>

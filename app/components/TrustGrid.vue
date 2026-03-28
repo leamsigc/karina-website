@@ -29,9 +29,9 @@ const {
 </script>
 
 <template>
-    <div class="grid md:grid-cols-2 gap-8 not-prose my-16">
+    <div class="grid md:grid-cols-2 gap-8 not-prose my-16 ">
         <div v-for="item in trustItems" :key="item.title"
-            class="flex gap-5 items-start p-6 rounded-sm bg-gray-50 dark:bg-navy-800 border border-gray-100 dark:border-navy-700 shadow-sm hover:shadow-hard transition-shadow">
+            class="flex gap-5 items-start p-6 rounded-sm bg-charcoal text-cream  border border-gray-100 dark:border-navy-700 shadow-sm hover:shadow-hard transition-shadow">
             <UIcon :name="item.icon" class="text-gold-500 w-8 h-8 shrink-0" />
             <div>
                 <h4 class="font-bold text-xl text-navy-900 dark:text-white mb-2 font-display uppercase">{{ item.title }}

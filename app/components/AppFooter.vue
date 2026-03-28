@@ -61,6 +61,18 @@ const locations = [
                         <NuxtLinkLocale to="/contact" class="hover:text-gold transition-colors">{{ t('nav.contact') }}
                         </NuxtLinkLocale>
                     </li>
+                    <li>
+                        <NuxtLinkLocale to="/about" class="hover:text-gold transition-colors">{{ t('nav.about') }}
+                        </NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/associates" class="hover:text-gold transition-colors">{{ t('nav.associates') }}
+                        </NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/faq" class="hover:text-gold transition-colors">{{ t('nav.faq') }}
+                        </NuxtLinkLocale>
+                    </li>
                 </ul>
             </div>
 
