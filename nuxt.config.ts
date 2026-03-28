@@ -87,12 +87,8 @@ export default defineNuxtConfig({
     }
   },
   robots: {
-    allow: [
-      '/'
-    ],
     disallow: [
-      '/app/**',
-      '/api/**'
+      '/'
     ]
   },
   sitemap: {
