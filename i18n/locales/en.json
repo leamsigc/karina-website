@@ -176,6 +176,11 @@
         "form_other": "Other legal matter",
         "form_message": "Brief description of your matter",
         "form_submit": "Send Confidential Request",
+        "form_sending": "Sending...",
+        "success_title": "Message Sent!",
+        "success_message": "Your message has been sent successfully. We'll get back to you within 24 hours.",
+        "success_button": "Send another message",
+        "success_home": "Return Home",
         "form_privacy": "Your data is protected by professional secrecy and will only be used to contact you."
     },
     "common": {
