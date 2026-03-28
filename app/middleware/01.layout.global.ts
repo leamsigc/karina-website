@@ -1,20 +1,37 @@
 
 export default defineNuxtRouteMiddleware(async (to) => {
     const routeStart = to.path
-    const isBlog = routeStart.startsWith('/blog/') || routeStart.startsWith('/es/blog/');
-    // const isTools = routeStart.includes('/tools');
 
+    let layout = to.meta.layout || 'default';
+    console.log("meta",to);
+    
 
-    let layout = 'default';
-    if (isBlog) {
-        layout = 'blog-layout';
+    // Service detail pages
+    const isServiceDetail = routeStart.startsWith('/services/') || routeStart.startsWith('/es/services/')
+    
+    // Blog pages
+    const isBlog = routeStart.startsWith('/blog/') || routeStart.startsWith('/es/blog/')
+    
+    // Case studies pages
+    const isCaseStudies = routeStart.startsWith('/case-studies') || routeStart.startsWith('/es/case-studies')
+    
+    // Contact pages
+    const isContact = routeStart === '/contact' || routeStart === '/es/contact' || routeStart === '/en/contact'
+    
+    // Services index
+    const isServices = routeStart === '/services' || routeStart === '/es/services' || routeStart === '/en/services'
+    
+    if (isServiceDetail && !to.meta.layout) {
+        layout = 'service-detail'
+    } else if (isBlog && !to.meta.layout) {
+        layout = 'blog'
+    } else if (isCaseStudies&& !to.meta.layout) {
+        layout = 'case-studies'
+    } else if (isContact && !to.meta.layout) {
+        layout = 'contact'
+    } else if (isServices && !to.meta.layout) {
+        layout = 'services'
     }
-    // else if (isTools) {
-    //     layout = 'tools-layout';
-    // }
-    else {
-        layout = 'default';
-    }
 
-    setPageLayout(layout as any,);
+    setPageLayout(layout as any)
 });

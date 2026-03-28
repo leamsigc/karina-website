@@ -6,6 +6,7 @@ import { asSeoCollection } from '@nuxtjs/seo/content'
 const blogSchema = z.object({
   layout: z.enum(['default', 'blog-layout']).default('blog-layout'),
   title: z.string(),
+  subtitle: z.string(),
   description: z.string(),
   image: z.object({
     src: z.string(),
@@ -53,7 +54,7 @@ export default defineContentConfig({
         type: 'page',
         source: {
           include: 'en/**',
-          prefix: '',
+          prefix: 'en',
         },
         schema: blogSchema
       })
@@ -63,7 +64,7 @@ export default defineContentConfig({
         type: 'page',
         source: {
           include: 'es/**',
-          prefix: 'es',
+          prefix: '',
         },
         schema: blogSchema,
       })

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", ui-serif, Georgia, serif;
+  --color-cream: #F9F6F0;
+  --color-cream-dark: #EAE5D9;
+  --color-charcoal: #1A1A1A;
+  --color-charcoal-light: #2D2D2D;
+  --color-gold: #C5A880;
+  --color-gold-light: #DBC4A1;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6, .font-serif {
+  font-family: var(--font-serif);
+}
+
+.blog-content h2 {
+  @apply text-3xl font-serif text-charcoal mt-12 mb-6;
+}
+.blog-content h3 {
+  @apply text-2xl font-serif text-charcoal mt-8 mb-4;
+}
+.blog-content p {
+  @apply text-lg text-charcoal-light font-light leading-relaxed mb-6;
+}
+.blog-content ul {
+  @apply mb-6 pl-6 text-lg text-charcoal-light font-light list-disc;
+}
+.blog-content ol {
+  @apply mb-6 pl-6 text-lg text-charcoal-light font-light list-decimal;
+}
+.blog-content li {
+  @apply mb-2;
+}
+.blog-content strong {
+  @apply font-medium text-charcoal;
+}

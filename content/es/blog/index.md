@@ -1,0 +1,50 @@
+---
+layout: blog-layout
+title: "Editorial Legal | Karina Orocio - Artículos de Derecho en Oaxaca"
+description: "Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca. Análisis jurídico profundo sobre los retos legales más relevantes."
+featured: true
+tags:
+  - derecho civil oaxaca
+  - derecho familiar oaxaca
+  - derecho administrativo oaxaca
+  - reduccion predial
+  - juicios oaxaca
+author:
+  name: 'Karina Orocio'
+  role: 'Abogada Postulante'
+  avatar: '/img/logo.png'
+  social: 'https://wa.me/529516153010'
+image:
+  src: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200'
+  alt: 'Editorial Legal Karina Orocio Oaxaca'
+ogImage:
+  component: BlogOgImage
+  props:
+    title: 'Editorial Legal Oaxaca'
+    description: 'Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca.'
+    image: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200'
+    headline: 'Editorial'
+publishedAt: '2024-01-01'
+head:
+  bodyAttrs:
+    class: ''
+  meta:
+    - name: 'keywords'
+      content: 'blog legal oaxaca, articulos derecho oaxaca, analisis juridico oaxaca, abogados oaxaca, Karina Orocio'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: 'Karina Orocio'
+    - name: 'description'
+      content: 'Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca.'
+---
+
+::BlogHero
+---
+highlight: Legal
+description: Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca.
+---
+::
+
+::BlogList
+::

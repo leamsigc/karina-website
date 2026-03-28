@@ -1,17 +1,169 @@
 {
+    "home": {
+        "hero": {
+            "title": "Strategic Legal Defense in Oaxaca",
+            "subtitle": "Specialists in property, civil, family, and administrative law. We protect your assets with strategy and results.",
+            "cta_consultation": "Schedule Consultation",
+            "cta_services": "View Services"
+        },
+        "authority": {
+            "title": "Legal Authority in",
+            "location": "Oaxaca de Juárez",
+            "description1": "We deeply understand the legal and administrative environment of the State of Oaxaca. Our firm distinguishes itself for meticulous analysis and impeccable execution in every case we handle before local and federal courts.",
+            "description2": "Whether you face a disproportionate property tax charge from the municipality of Oaxaca de Juárez, Santa Lucía del Camino or Xoxocotlán, or need to secure your family assets through an inheritance proceeding, we provide absolute legal certainty.",
+            "feature1_title": "Strategic Defense",
+            "feature1_desc": "In-depth analysis of each case file.",
+            "feature2_title": "Professional Ethics",
+            "feature2_desc": "Total transparency in fees and processes.",
+            "cta": "Read Editorial Articles"
+        },
+        "expertise": {
+            "title": "Areas of",
+            "subtitle": "Specialty",
+            "description": "Our practice focuses on critical areas of law in Oaxaca, where precision and strategy determine case success.",
+            "cta": "View all services",
+            "services": {
+                "predial": {
+                    "title": "Property Tax Reduction",
+                    "description": "Defense against excessive property tax charges in Oaxaca de Juárez and surrounding municipalities through nullity lawsuits."
+                },
+                "civil": {
+                    "title": "Civil Law",
+                    "description": "Property regularization (Usucapion), inheritance proceedings (intestate and testamentary) and high-rigor contract drafting."
+                },
+                "familiar": {
+                    "title": "Family Law",
+                    "description": "Strategic resolution of no-fault divorces, child support, and custody before the Family Courts of Centro Oaxaca."
+                },
+                "administrativo": {
+                    "title": "Administrative Law",
+                    "description": "Defense against business closures, traffic fines, and arbitrary acts by municipal and state authorities."
+                }
+            }
+        },
+        "testimonials": {
+            "title": "What our",
+            "subtitle": "clients say",
+            "cta": "View case studies",
+            "testimonial1": {
+                "quote": "The Oaxaca municipality wanted to charge me an absurd amount of property tax for a supposed update. Attorney Karina filed a nullity lawsuit and we managed to reduce the payment by 60%. Excellent lawyer, very professional.",
+                "author": "Roberto M.",
+                "case": "Case: Property Tax Reduction"
+            },
+            "testimonial2": {
+                "quote": "We had been trying for years to fix the deeds to my grandparents' house. Thanks to their advice on the intestate succession proceeding, we finally have legal certainty about our family assets in Jalatlaco.",
+                "author": "García Family",
+                "case": "Case: Inheritance Proceeding"
+            },
+            "testimonial3": {
+                "quote": "My divorce process was quick and uncomplicated thanks to their intervention. They achieved a fair agreement for child support for my children. I highly recommend their law firm.",
+                "author": "Ana Lilia S.",
+                "case": "Case: No-Fault Divorce"
+            }
+        },
+        "caseStudies": {
+            "hero": {
+                "title": "Success",
+                "highlight": "Cases",
+                "subtitle": "Our best reference are the results. Learn how we have protected the assets, freedom and rights of our clients in Oaxaca."
+            },
+            "case1": {
+                "title": "Nullification of Administrative Fine and Municipal Closure",
+                "client": "Local Construction Company",
+                "location": "Oaxaca de Juárez",
+                "result": "Savings of $1.2M MXN",
+                "category": "Administrative Law",
+                "summary": "We achieved full nullification of a fine imposed arbitrarily by the municipality on a local construction company."
+            },
+            "case2": {
+                "title": "Regularization of High-Value Coastal Property",
+                "client": "Group of Investors",
+                "location": "Puerto Escondido",
+                "result": "Legal Certainty",
+                "category": "Civil Law",
+                "summary": "We advised a group of investors on the safe transition from communal possession rights to private property."
+            },
+            "case3": {
+                "title": "Defense of Landowners in Wind Farm Lease Contracts",
+                "client": "Land Owners",
+                "location": "Juchitán de Zaragoza",
+                "result": "Successful Renegotiation",
+                "category": "Civil Law",
+                "summary": "We advised land owners in reviewing and renegotiating lease contracts with wind energy companies."
+            },
+            "case4": {
+                "title": "Nullification of Excessive Property Tax Charges",
+                "client": "Commercial Plaza",
+                "location": "Ocotlán de Morelos",
+                "result": "75% Reduction",
+                "category": "Administrative Law",
+                "summary": "We successfully challenged an arbitrary cadastral update that multiplied the property tax of several commercial properties."
+            }
+        },
+        "faq": {
+            "title": "Frequently",
+            "subtitle": "Asked Questions",
+            "cta": "Contact"
+        },
+        "services": {
+            "cta": {
+                "title": "Need advice on {service}?",
+                "default_service": "this legal matter",
+                "description": "Schedule a confidential consultation at our offices in Oaxaca de Juárez to analyze your case and design an effective legal strategy.",
+                "button": "Request Consultation"
+            }
+        },
+        "blog": {
+            "hero": {
+                "title": "Legal",
+                "highlight": "Blog"
+            }
+        }
+    },
     "nav": {
         "home": "Home",
         "about": "About Us",
         "services": "Services",
         "tools": "Tools",
         "insights": "Insights",
-        "contact": "Contact"
+        "contact": "Contact",
+        "caseStudies": "Case Studies",
+        "cta": "Schedule Consultation",
+        "navigation": "Navigation",
+        "back_to_blog": "Back to Blog",
+        "back_to_home": "Back to Home",
+        "location_oaxaca": "Oaxaca de Juárez, Oaxaca",
+        "location_puerto": "Puerto Escondido",
+        "location_huatulco": "Huatulco",
+        "location_salina": "Salina Cruz",
+        "location_juchitan": "Juchitán de Zaragoza",
+        "location_tuxtepec": "Tuxtepec",
+        "location_tehuantepec": "Tehuantepec",
+        "location_pochutla": "Pochutla",
+        "location_tlaxiaco": "Tlaxiaco",
+        "location_huajuapan": "Huajuapan de León",
+        "location_miahuatlan": "Miahuatlán",
+        "location_zimatlan": "Zimatlán",
+        "location_ocotlan": "Ocotlán",
+        "location_tlacolula": "Tlacolula"
     },
     "common": {
         "cta_quote": "Get Quote",
+        "read_more": "Read more",
         "cta_call": "Call Now",
         "licensed_insured": "Licensed & Fully Insured",
         "language": "Language",
-        "theme": "Theme"
+        "theme": "Theme",
+        "title": "Attorney at Law",
+        "footer_description": "Boutique law firm in Oaxaca de Juárez. Specialized in strategic litigation, asset protection, and administrative law with a focus on excellence and results.",
+        "testimonials_subtitle": "The trust of our clients in Oaxaca is our greatest endorsement. Proven results in strategic litigation.",
+        "appointment": "By appointment only",
+        "coverage": "Legal Coverage in the State of Oaxaca",
+        "rights": "ALL RIGHTS RESERVED.",
+        "practice_area": "Practice Area",
+        "need_consultation": "Do you need advice on this topic?",
+        "consultation_subtitle": "Schedule a consultation to analyze your specific case in Oaxaca de Juárez with absolute confidentiality.",
+        "page_not_found": "Page not found",
+        "page_not_found_subtitle": "The page you're looking for doesn't exist."
     }
 }

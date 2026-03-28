@@ -1,17 +1,171 @@
 {
+    "home": {
+        "hero": {
+            "title": "Defensa Legal Estratégica en Oaxaca",
+            "subtitle": "Especialistas en derecho predial, civil, familiar y administrativo. Protegemos su patrimonio con estrategia y resultados.",
+            "cta_consultation": "Agendar Asesoría",
+            "cta_services": "Ver Servicios",
+            "specialist": "Especialista en"
+        },
+        "authority": {
+            "title": "Autoridad Legal en",
+            "location": "Oaxaca de Juárez",
+            "description1": "Comprendemos profundamente el entorno jurídico y administrativo del Estado de Oaxaca. Nuestra firma se distingue por un análisis meticuloso y una ejecución impecable en cada caso que asumimos ante los juzgados locales y federales.",
+            "description2": "Ya sea que enfrente un cobro desproporcionado de impuesto predial por parte del municipio de Oaxaca de Juárez, Santa Lucía del Camino o Xoxocotlán, o requiera asegurar el patrimonio de su familia a través de un juicio sucesorio, le brindamos certeza jurídica absoluta.",
+            "feature1_title": "Defensa Estratégica",
+            "feature1_desc": "Análisis profundo de cada expediente.",
+            "feature2_title": "Ética Profesional",
+            "feature2_desc": "Transparencia total en honorarios y procesos.",
+            "cta": "Leer Artículos Editoriales"
+        },
+        "expertise": {
+            "title": "Áreas de",
+            "subtitle": "Especialidad",
+            "description": "Nuestra práctica se centra en áreas críticas del derecho en Oaxaca, donde la precisión y la estrategia determinan el éxito del caso.",
+            "cta": "Ver todos los servicios",
+            "services": {
+                "predial": {
+                    "title": "Reducción de Predial",
+                    "description": "Defensa contra cobros excesivos de impuesto predial en Oaxaca de Juárez y municipios conurbados mediante juicios de nulidad."
+                },
+                "civil": {
+                    "title": "Derecho Civil",
+                    "description": "Regularización de propiedades (Usucapión), juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor."
+                },
+                "familiar": {
+                    "title": "Derecho Familiar",
+                    "description": "Resolución estratégica de divorcios incausados, pensiones alimenticias y guarda y custodia ante los Juzgados Familiares del Centro."
+                },
+                "administrativo": {
+                    "title": "Derecho Administrativo",
+                    "description": "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales."
+                }
+            }
+        },
+        "caseStudies": {
+            "hero": {
+                "title": "Casos de",
+                "highlight": "Éxito",
+                "subtitle": "Nuestra mejor carta de presentación son los resultados. Conozca cómo hemos protegido el patrimonio, la libertad y los derechos de nuestros clientes en Oaxaca."
+            },
+            "case1": {
+                "title": "Nulidad de Multa Administrativa y Clausura Municipal",
+                "client": "Empresa Constructora Local",
+                "location": "Oaxaca de Juárez",
+                "result": "Ahorro de $1.2M MXN",
+                "category": "Derecho Administrativo",
+                "summary": "Logramos la nulidad lisa y llana de una multa impuesta arbitrariamente por el municipio a una empresa constructora local."
+            },
+            "case2": {
+                "title": "Regularización de Propiedad Costera de Alto Valor",
+                "client": "Grupo de Inversionistas",
+                "location": "Puerto Escondido",
+                "result": "Certería Jurídica",
+                "category": "Derecho Civil",
+                "summary": "Asesoramos a un grupo de inversionistas en la transición segura de derechos de posesión comunal a propiedad privada."
+            },
+            "case3": {
+                "title": "Defensa de Propietarios en Contratos de Arrendamiento Eólico",
+                "client": "Propietarios de Tierras",
+                "location": "Juchitán de Zaragoza",
+                "result": "Renegociación Exitosa",
+                "category": "Derecho Civil",
+                "summary": "Asesoramos a propietarios de tierras en la revisión y renegociación de contratos de usufructo con empresas de energía eólica."
+            },
+            "case4": {
+                "title": "Nulidad de Cobros Prediales Excesivos",
+                "client": "Plaza Comercial",
+                "location": "Ocotlán de Morelos",
+                "result": "Reducción del 75%",
+                "category": "Derecho Administrativo",
+                "summary": "Impugnamos exitosamente una actualización catastral arbitraria que multiplicaba el impuesto predial de varios inmuebles comerciales."
+            }
+        },
+        "stats": {
+            "experience": "Años de Experiencia",
+            "success": "Casos de Éxito"
+        },
+        "faq": {
+            "title": "Preguntas",
+            "subtitle": "Frecuentes",
+            "cta": "Contactar"
+        },
+        "services": {
+            "cta": {
+                "title": "¿Necesita asesoría en {service}?",
+                "default_service": "este tema legal",
+                "description": "Agende una consulta confidencial en nuestras oficinas en Oaxaca de Juárez para analizar su caso y diseñar una estrategia legal efectiva.",
+                "button": "Solicitar Consulta"
+            }
+        },
+        "blog": {
+            "hero": {
+                "title": "Editorial",
+                "highlight": "Legal"
+            }
+        },
+        "testimonials": {
+            "testimonial1": {
+                "quote": "El municipio de Oaxaca me quería cobrar una cantidad absurda de predial por una supuesta actualización. La Licenciada Karina promovió un juicio de nulidad y logramos reducir el pago en un 60%. Excelente.abogada, muy profesional.",
+                "author": "Roberto M.",
+                "case": "Caso: Reducción de Predial"
+            },
+            "testimonial2": {
+                "quote": "Llevábamos años intentando arreglar las escrituras de la casa de mis abuelos. Gracias a su asesoría en el juicio sucesorio intestamentario, por fin tenemos certeza jurídica sobre nuestro patrimonio familiar en Jalatlaco.",
+                "author": "Familia García",
+                "case": "Caso: Juicio Sucesorio"
+            },
+            "testimonial3": {
+                "quote": "Mi proceso de.divorcio fue rápido y sin complicaciones gracias a su intervención. Logró un convenio justo para la pensión alimenticia de mis hijos. Recomiendo ampliamente su despacho jurídico.",
+                "author": "Ana Lilia S.",
+                "case": "Caso: Divorcio Incausado"
+            }
+        }
+    },
     "nav": {
         "home": "Inicio",
         "about": "Nosotros",
         "services": "Servicios",
         "tools": "Herramientas",
-        "insights": "Artículos",
-        "contact": "Contacto"
+        "insights": "Editorial",
+        "contact": "Contacto",
+        "caseStudies": "Casos de Éxito",
+        "cta": "Agendar Asesoría",
+        "navigation": "Navegación",
+        "back_to_blog": "Volver a la Editorial",
+        "back_to_home": "Volver al Inicio",
+        "location_oaxaca": "Oaxaca de Juárez, Oax.",
+        "location_puerto": "Puerto Escondido",
+        "location_huatulco": "Huatulco",
+        "location_salina": "Salina Cruz",
+        "location_juchitan": "Juchitán de Zaragoza",
+        "location_tuxtepec": "Tuxtepec",
+        "location_tehuantepec": "Tehuantepec",
+        "location_pochutla": "Pochutla",
+        "location_tlaxiaco": "Tlaxiaco",
+        "location_huajuapan": "Huajuapan de León",
+        "location_miahuatlan": "Miahuatlán",
+        "location_zimatlan": "Zimatlán",
+        "location_ocotlan": "Ocotlán",
+        "location_tlacolula": "Tlacolula"
     },
     "common": {
         "cta_quote": "Cotizar",
+        "read_more": "Leer más",
         "cta_call": "Llamar Ahora",
         "licensed_insured": "Con Licencia y Asegurados",
         "language": "Idioma",
-        "theme": "Tema"
+        "theme": "Tema",
+        "title": "Abogada Postulante",
+        "footer_description": "Firma legal boutique en Oaxaca de Juárez. Especializados en litigio estratégico, defensa patrimonial y derecho administrativo con un enfoque de excelencia y resultados.",
+        "testimonials_subtitle": "La confianza de nuestros clientes en Oaxaca es nuestro mayor respaldo. Resultados comprobables en litigio estratégico.",
+        "appointment": "Atención previa cita",
+        "coverage": "Cobertura Legal en el Estado de Oaxaca",
+        "rights": "TODOS LOS DERECHOS RESERVADOS.",
+        "practice_area": "Área de Práctica",
+        "need_consultation": "¿Necesita asesoría sobre este tema?",
+        "consultation_subtitle": "Agende una consulta para analizar su caso específico en Oaxaca de Juárez con absoluta confidencialidad.",
+        "page_not_found": "Página no encontrada",
+        "page_not_found_subtitle": "La página que buscas no existe."
     }
 }

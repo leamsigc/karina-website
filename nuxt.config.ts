@@ -61,28 +61,24 @@ export default defineNuxtConfig({
   // },
   fonts: {
     defaults: {
-      weights: [400, 500, 600, 700,],
+      weights: [400, 500, 600, 700],
       styles: ['normal', 'italic'],
       subsets: [
-        'cyrillic-ext',
-        'cyrillic',
-        'greek-ext',
-        'greek',
-        'vietnamese',
         'latin-ext',
-        'latin'
+        'latin',
+        'spanish'
       ]
     },
     families: [
       { name: 'Inter', provider: 'google' },
-      { name: 'Oswald', provider: 'google' }
+      { name: 'Cormorant Garamond', provider: 'google' }
     ]
   },
 
   site: {
-    url: 'https://roofingmendoza.com/',
-    name: 'Roofing Mendoza LLC - North Carolina Roofing Contractor',
-    defaultLocale: 'en',
+    url: 'https://karinaabogadaoaxaca.com/',
+    name: 'Karina Orocio - Abogada Postulante en Oaxaca',
+    defaultLocale: 'es',
     trailingSlash: false
   },
   content: {
@@ -91,8 +87,12 @@ export default defineNuxtConfig({
     }
   },
   robots: {
+    allow: [
+      '/'
+    ],
     disallow: [
-      "/app/**"
+      '/app/**',
+      '/api/**'
     ]
   },
   sitemap: {
@@ -105,55 +105,38 @@ export default defineNuxtConfig({
 
   schemaOrg: {
     identity: {
-      // RoofingContractor is a specific Schema.org sub-type of LocalBusiness
-      // that gives AI systems (GPT-4, Perplexity) a precise entity classification
-      // for improved citability in AI-generated answers about roofing in NC.
-      type: 'RoofingContractor',
-      name: 'Roofing Mendoza LLC',
-      alternateName: ['Mendoza Roofing', 'Mendoza Roofing Company', 'Mendoza Roofing LLC'],
+      type: 'LegalService',
+      name: 'Karina Orocio - Abogada Postulante',
+      alternateName: ['Karina Orocio Abogada', 'Despacho Legal Oaxaca', 'Abogada Karina Orocio'],
       logo: '/img/logo.png',
-      image: '/img/MendozaRoofingShallotte.png',
-      description: 'Licensed roofing contractors in Wilmington, Supply, and Brunswick County NC with 50+ years of experience. Expert roof repair, replacement, commercial roofing, and emergency services.',
-      telephone: '910-367-7628',
-      email: 'contact@roofingmendoza.com',
-      url: 'https://roofingmendoza.com',
-      foundingDate: '1974',
+      image: '/img/karina-hero.png',
+      description: 'Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Especialistas en reducción de predial, derecho civil, familiar y administrativo.',
+      telephone: '+52-951-615-30-10',
+      email: 'karina@abogadaoaxaca.com',
+      url: 'https://karinaabogadaoaxaca.com',
       address: {
-        streetAddress: 'P.O. Box 952',
-        addressLocality: 'Supply',
-        addressRegion: 'NC',
-        postalCode: '28462',
-        addressCountry: 'US'
-      },
-      geo: {
-        latitude: 33.9416,
-        longitude: -78.2733
+        streetAddress: 'Oaxaca de Juárez',
+        addressLocality: 'Oaxaca de Juárez',
+        addressRegion: 'Oaxaca',
+        addressCountry: 'MX'
       },
       openingHoursSpecification: [
         {
           dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-          opens: '07:00',
+          opens: '09:00',
           closes: '18:00'
         }
       ],
       areaServed: [
-        { type: 'City', name: 'Wilmington', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'City', name: 'Supply', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'County', name: 'Brunswick County', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'City', name: 'Shallotte', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'City', name: 'Oak Island', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'City', name: 'Leland', containedInPlace: { type: 'State', name: 'North Carolina' } },
-        { type: 'City', name: 'Southport', containedInPlace: { type: 'State', name: 'North Carolina' } }
+        { type: 'State', name: 'Oaxaca' },
+        { type: 'City', name: 'Oaxaca de Juárez' },
+        { type: 'City', name: 'Santa Lucía del Camino' },
+        { type: 'City', name: 'Xoxocotlán' },
+        { type: 'City', name: 'San Bartolo Coyotepec' }
       ],
       priceRange: '$$',
-      aggregateRating: {
-        ratingValue: '5.0',
-        reviewCount: '50'
-      },
       sameAs: [
-        'https://twitter.com/roofingmendoza',
-        'https://www.facebook.com/mendozaRoofingCompanyWilmington',
-        'https://www.instagram.com/mendozaroofingnc'
+        'https://wa.me/529516153010'
       ]
     }
   },
@@ -174,7 +157,7 @@ export default defineNuxtConfig({
       { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' },
     ],
     strategy: 'prefix_except_default',
-    defaultLocale: 'en',
+    defaultLocale: 'es',
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: 'i18n_redirected',

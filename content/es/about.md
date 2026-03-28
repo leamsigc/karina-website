@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 'Karina Orocia | Abogada Postulante en Oaxaca de Juárez'
 description: 'Karina Orocia - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Primera asesoría gratis. Tel: 951-615-30-10'
 image:
@@ -7,10 +8,17 @@ image:
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
+  bodyAttrs:
+    class: ''
   meta:
     - name: 'keywords'
       content: 'Karina Orocia abogadas oaxaca, about Karina Orocia, abogadas property tax oaxaca, asesoria legal patrimonial oaxaca, abogado predial oaxaca'
-category: 'Company'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: 'Karina Orocio'
+    - name: 'description'
+      content: 'Karina Orocia - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca.'
 author:
   name: 'Karina Orocia'
   role: 'Abogada Postulante'
@@ -22,19 +30,6 @@ ogImage:
     description: 'Abogada especializada en asesoría legal patrimonial en Oaxaca de Juárez.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Sobre Mí'
-schemaOrg:
-  - "@type": "LegalService"
-    name: "Karina Orocia - Abogada Postulante"
-    description: "Especialista en asesoría legal patrimonial y reducción de predial en Oaxaca."
-    telephone: "951-615-30-10"
-    address:
-      "@type": "PostalAddress"
-      addressLocality: "Oaxaca de Juárez"
-      addressRegion: "Oaxaca"
-      addressCountry: "MX"
-    areaServed:
-      - "@type": "State"
-        name: "Oaxaca"
 ---
 
 ::PageHero

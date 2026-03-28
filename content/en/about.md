@@ -1,46 +1,41 @@
 ---
-title: 'Karina Orocia | Abogada Postulante en Oaxaca de Juárez'
-description: 'Karina Orocia - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Primera asesoría gratis. Tel: 951-615-30-10'
+layout: default
+title: 'Karina Orocia | Attorney at Law in Oaxaca de Juárez'
+description: 'Karina Orocia - Attorney at Law specialized in property legal advice in Oaxaca. First consultation free. Phone: 951-615-30-10'
 image:
   src: '/img/MendozaRoofingShallotte.png'
-  alt: 'Karina Orocia - Abogada Postulante Oaxaca'
+  alt: 'Karina Orocia - Attorney at Law Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
+  bodyAttrs:
+    class: ''
   meta:
     - name: 'keywords'
-      content: 'Karina Orocia abogadas oaxaca, about Karina Orocia, abogadas property tax oaxaca, asesoria legal patrimonial oaxaca, abogado predial oaxaca'
-category: 'Company'
+      content: 'Karina Orocia attorney oaxaca, about Karina Orocia, property tax lawyer oaxaca, legal advice oaxaca'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: 'Karina Orocio'
+    - name: 'description'
+      content: 'Karina Orocia - Attorney at Law specialized in property legal advice in Oaxaca.'
 author:
   name: 'Karina Orocia'
-  role: 'Abogada Postulante'
+  role: 'Attorney at Law'
   avatar: '/img/logo.png'
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Karina Orocia | Abogada Postulante Oaxaca'
-    description: 'Abogada especializada en asesoría legal patrimonial en Oaxaca de Juárez.'
+    title: 'Karina Orocia | Attorney at Law Oaxaca'
+    description: 'Attorney specialized in property legal advice in Oaxaca de Juárez.'
     image: '/img/MendozaRoofingShallotte.png'
-    headline: 'Sobre Mí'
-schemaOrg:
-  - "@type": "LegalService"
-    name: "Karina Orocia - Abogada Postulante"
-    description: "Especialista en asesoría legal patrimonial y reducción de predial en Oaxaca."
-    telephone: "951-615-30-10"
-    address:
-      "@type": "PostalAddress"
-      addressLocality: "Oaxaca de Juárez"
-      addressRegion: "Oaxaca"
-      addressCountry: "MX"
-    areaServed:
-      - "@type": "State"
-        name: "Oaxaca"
+    headline: 'About Me'
 ---
 
 ::PageHero
 ---
 title: Karina Orocia
-subtitle: Abogada Postionante en Oaxaca de Juárez — Especialista en Asesoría Legal Patrimonial
+subtitle: Attorney at Law in Oaxaca de Juárez — Property Legal Advice Specialist
 ---
 ::
 
