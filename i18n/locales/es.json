@@ -107,6 +107,9 @@
             "read_article": "Leer Artículo"
         },
         "testimonials": {
+            "title": "Lo que dicen",
+            "subtitle": "nuestros clientes",
+            "cta": "Ver casos de éxito",
             "testimonial1": {
                 "quote": "El municipio de Oaxaca me quería cobrar una cantidad absurda de predial por una supuesta actualización. La Licenciada Karina promovió un juicio de nulidad y logramos reducir el pago en un 60%. Excelente.abogada, muy profesional.",
                 "author": "Roberto M.",

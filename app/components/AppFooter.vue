@@ -37,25 +37,41 @@ const locations = [
                     {{ t('common.footer_description') }}
                 </p>
             </div>
-            
+
             <div>
                 <h3 class="text-gold font-serif text-lg mb-6">{{ t('nav.navigation') }}</h3>
                 <ul class="space-y-3 text-sm font-light">
-                    <li><NuxtLinkLocale to="/" class="hover:text-gold transition-colors">{{ t('nav.home') }}</NuxtLinkLocale></li>
-                    <li><NuxtLinkLocale to="/services" class="hover:text-gold transition-colors">{{ t('nav.services') }}</NuxtLinkLocale></li>
-                    <li><NuxtLinkLocale to="/case-studies" class="hover:text-gold transition-colors">{{ t('nav.caseStudies') }}</NuxtLinkLocale></li>
-                    <li><NuxtLinkLocale to="/blog" class="hover:text-gold transition-colors">{{ t('nav.blog') }}</NuxtLinkLocale></li>
-                    <li><NuxtLinkLocale to="/contact" class="hover:text-gold transition-colors">{{ t('nav.contact') }}</NuxtLinkLocale></li>
+                    <li>
+                        <NuxtLinkLocale to="/" class="hover:text-gold transition-colors">{{ t('nav.home') }}
+                        </NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/services" class="hover:text-gold transition-colors">{{ t('nav.services') }}
+                        </NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/case-studies" class="hover:text-gold transition-colors">{{
+                            t('nav.caseStudies') }}</NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/blog" class="hover:text-gold transition-colors">{{ t('nav.blog') }}
+                        </NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/contact" class="hover:text-gold transition-colors">{{ t('nav.contact') }}
+                        </NuxtLinkLocale>
+                    </li>
                 </ul>
             </div>
-            
+
             <div>
                 <h3 class="text-gold font-serif text-lg mb-6">{{ t('nav.contact') }}</h3>
                 <ul class="space-y-3 text-sm font-light">
                     <li>{{ t('nav.location_oaxaca') }}</li>
                     <li>{{ t('common.appointment') }}</li>
                     <li class="pt-4">
-                        <a href="tel:9516153010" class="text-lg font-serif hover:text-gold transition-colors">951-615-30-10</a>
+                        <a href="tel:9516153010"
+                            class="text-lg font-serif hover:text-gold transition-colors">951-615-30-10</a>
                     </li>
                 </ul>
             </div>
@@ -63,12 +79,14 @@ const locations = [
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16 pt-12 border-t border-cream/10">
             <h3 class="text-gold font-serif text-lg mb-6">{{ t('common.coverage') }}</h3>
             <div class="flex flex-wrap gap-x-6 gap-y-3 text-xs font-light text-cream-dark/80">
-                <NuxtLinkLocale v-for="loc in locations" :key="loc.to" :to="loc.to" class="hover:text-gold transition-colors">
+                <NuxtLinkLocale v-for="loc in locations" :key="loc.to" :to="loc.to"
+                    class="hover:text-gold transition-colors">
                     {{ t(loc.name) }}
                 </NuxtLinkLocale>
             </div>
         </div>
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-8 border-t border-cream/10 text-xs font-light text-cream-dark/60 text-center tracking-wider">
+        <div
+            class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-8 border-t border-cream/10 text-xs font-light text-cream-dark/60 text-center tracking-wider">
             <p>&copy; {{ new Date().getFullYear() }} KARINA OROCIO. {{ t('common.rights') }}</p>
         </div>
     </footer>
