@@ -2,7 +2,6 @@
 layout: case-studies
 title: "Nulidad de Multa Administrativa y Clausura Municipal | Karina Orocio"
 description: "Caso de éxito: Logramos la nulidad de una multa de $1.2M MXN y la reopening inmediata de un negocio en Oaxaca. Defensa contra actos arbitrarios municipales."
-featured: true
 type: case
 caseOverview:
   client: "Empresa Constructora Local"

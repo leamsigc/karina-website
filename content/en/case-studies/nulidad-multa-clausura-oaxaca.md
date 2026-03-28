@@ -2,7 +2,6 @@
 layout: case-studies
 title: "Nullification of Administrative Fine and Municipal Closure | Karina Orocio"
 description: "Success case: We achieved the nullification of a $1.2M MXN fine and immediate reopening of a business in Oaxaca. Defense against arbitrary municipal acts."
-featured: true
 type: case
 caseOverview:
   client: "Local Construction Company"

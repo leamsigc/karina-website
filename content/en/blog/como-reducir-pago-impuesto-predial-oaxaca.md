@@ -48,6 +48,16 @@ schemaOrg:
     image: "/img/layer-accounting.jpg"
 ---
 
+::BlogPost
+---
+title: "¿Cómo reducir el pago del Impuesto Predial en Oaxaca de Juárez?"
+publishedAt: "2023-10-15"
+author:
+  name: "Karina Orocio"
+  role: "Abogada Postulante"
+---
+
+
 ## The Property Tax Problem in Oaxaca
 
 Year after year, hundreds of property owners in Oaxaca de Juárez and surrounding municipalities face property tax charges that are disproportionate, confiscatory, and often unconstitutional. This is frequently due to arbitrary cadastral updates or applying rates that don't correspond to the reality of the property.
@@ -69,3 +79,4 @@ The Supreme Court of Justice of the Nation has established clear criteria on pro
 ## Protect Your Assets
 
 Don't let unjustified charges affect your economy. At our firm, we conduct a feasibility analysis to determine if your case is a candidate for legal property tax reduction, ensuring you pay only what's fair under the law.
+::

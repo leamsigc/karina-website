@@ -2,7 +2,6 @@
 layout: case-studies
 title: "Defense of Landowners in Wind Farm Lease Contracts | Karina Orocio"
 description: "Success case: We negotiated a 40% increase in royalties for landowners in wind farm lease contracts in the Isthmus of Tehuantepec."
-featured: true
 type: case
 caseOverview:
   client: "Landowners"

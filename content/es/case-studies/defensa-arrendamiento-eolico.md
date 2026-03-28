@@ -2,7 +2,6 @@
 layout: case-studies
 title: "Defensa de Propietarios en Contratos de Arrendamiento Eólico | Karina Orocio"
 description: "Caso de éxito: Negociamos un incremento del 40% en regalías para propietarios de tierras en contratos de arrendamiento eólico en el Istmo de Tehuantepec."
-featured: true
 type: case
 caseOverview:
   client: "Propietarios de Tierras"
