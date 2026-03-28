@@ -48,6 +48,15 @@ schemaOrg:
     image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200"
 ---
 
+::BlogPost
+---
+title: "¿Cómo reducir el pago del Impuesto Predial en Oaxaca de Juárez?"
+publishedAt: "2023-10-15"
+author:
+  name: "Karina Orocio"
+  role: "Abogada Postulante"
+---
+
 ## El problema del predial excesivo en Oaxaca
 
 Año con año, cientos de propietarios en Oaxaca de Juárez y municipios conurbados se enfrentan a cobros de impuesto predial que resultan desproporcionados, confiscatorios y, en muchos casos, inconstitucionales. Esto se debe frecuentemente a actualizaciones catastrales arbitrarias o a la aplicación de tarifas que no corresponden a la realidad del inmueble.
@@ -69,3 +78,5 @@ La Suprema Corte de Justicia de la Nación ha establecido criterios claros sobre
 ## Proteja su patrimonio
 
 No permita que cobros injustificados afecten su economía. En nuestra firma, realizamos un análisis de viabilidad para determinar si su caso es candidato a una reducción legal del impuesto predial, asegurando que pague únicamente lo justo conforme a derecho.
+
+::
