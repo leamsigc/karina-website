@@ -162,7 +162,7 @@ export default defineNuxtConfig({
   },
 
   umami: {
-    id: '3e769e50-daf4-4542-8056-a18c02cf11e1',
+    id: 'a50c3575-ccdb-49b4-b3d5-5a747b687481',
     host: 'https://umami.giessen.dev',
     autoTrack: true,
     ignoreLocalhost: true
