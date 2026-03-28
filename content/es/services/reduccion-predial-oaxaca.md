@@ -41,6 +41,7 @@ head:
 ::ServiceDetailHero
 ---
 title: "Reducción de Predial en Oaxaca"
+subtitle: "Defensa legal contra cobros excesivos de impuesto predial"
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200"
 ---
 ::

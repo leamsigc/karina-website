@@ -1,5 +1,5 @@
 ---
-layout: services-layout
+layout: service-detail
 title: "Derecho Familiar | Karina Orocio"
 description: "Resolución estratégica de divorcios incausados, pensiones alimenticias y guarda y custodia ante los Juzgados Familiares del Centro en Oaxaca."
 tags:
@@ -41,6 +41,7 @@ head:
 ::ServiceDetailHero
 ---
 title: "Derecho Familiar"
+subtitle: "Soluciones legales sensibles y efectivas para su familia"
 image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&q=80&w=1200"
 ---
 ::

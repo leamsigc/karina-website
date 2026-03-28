@@ -1,5 +1,5 @@
 ---
-layout: services-layout
+layout: service-detail
 title: "Derecho Administrativo | Karina Orocio"
 description: "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales en Oaxaca."
 tags:
@@ -40,7 +40,8 @@ head:
 
 ::ServiceDetailHero
 ---
-title: "Derecho Administrativo"
+title: "Derecho Administrativo y Amparo"
+subtitle: "Defensa frente a actos arbitrarios de autoridades en Oaxaca"
 image: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200"
 ---
 ::

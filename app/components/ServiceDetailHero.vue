@@ -1,6 +1,7 @@
 <script setup lang="ts">
 defineProps<{
   title?: string
+  subtitle?: string
   image?: string
 }>()
 </script>
@@ -17,6 +18,9 @@ defineProps<{
       <h1 class="font-serif text-5xl md:text-6xl text-cream mb-6 leading-tight">
         {{ title }}
       </h1>
+      <p v-if="subtitle" class="text-cream-dark text-xl font-light max-w-2xl mx-auto">
+        {{ subtitle }}
+      </p>
     </div>
   </section>
 </template>
