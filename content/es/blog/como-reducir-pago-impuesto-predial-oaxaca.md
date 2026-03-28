@@ -15,14 +15,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-accounting.jpg'
   alt: 'Reducción Impuesto Predial Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Reducir Pago Impuesto Predial Oaxaca'
     description: 'Descubra los mecanismos legales para impugnar cobros excesivos de predial en Oaxaca.'
-    image: '/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-accounting.jpg'
     headline: 'Derecho Administrativo'
 publishedAt: '2023-10-15'
 head:
@@ -45,7 +45,7 @@ schemaOrg:
       "@type": "Person"
       name: "Karina Orocio"
     datePublished: "2023-10-15"
-    image: "/img/layer-accounting.jpg?auto=format&fit=crop&q=80&w=1200"
+    image: "/img/layer-accounting.jpg"
 ---
 
 ::BlogPost

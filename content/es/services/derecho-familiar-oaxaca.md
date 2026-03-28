@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-family-law.jpg?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-family-law.jpg'
   alt: 'Derecho Familiar Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Derecho Familiar Oaxaca'
     description: 'Divorcios, pensiones alimenticias y custodia en Oaxaca.'
-    image: '/img/layer-family-law.jpg?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-family-law.jpg'
     headline: 'Familiar'
 publishedAt: '2024-01-01'
 head:
@@ -42,7 +42,7 @@ head:
 ---
 title: "Derecho Familiar"
 subtitle: "Soluciones legales sensibles y efectivas para su familia"
-image: "/img/layer-family-law.jpg?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-family-law.jpg"
 ---
 ::
 

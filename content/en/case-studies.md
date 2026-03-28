@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=2000'
+  src: '/img/layer-services-2.jpg'
   alt: 'Case Studies Karina Orocio Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Case Studies Oaxaca'
     description: 'Learn about our successful cases in strategic litigation in Oaxaca.'
-    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=2000'
+    image: '/img/layer-services-2.jpg'
     headline: 'Cases'
 publishedAt: '2024-01-01'
 head:

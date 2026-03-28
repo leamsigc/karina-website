@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-services-2.jpg'
   alt: 'Editorial Legal Karina Orocio Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Editorial Legal Oaxaca'
     description: 'Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca.'
-    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-services-2.jpg'
     headline: 'Editorial'
 publishedAt: '2024-01-01'
 head:

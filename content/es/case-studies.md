@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=2000'
+  src: '/img/layer-services-2.jpg'
   alt: 'Casos de Éxito Karina Orocio Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Casos de Éxito Oaxaca'
     description: 'Conozca nuestros casos de éxito en litigio estratégico en Oaxaca.'
-    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=2000'
+    image: '/img/layer-services-2.jpg'
     headline: 'Casos'
 publishedAt: '2024-01-01'
 head:

@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-services-2.jpg'
   alt: 'Servicios Legales Karina Orocio Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Servicios Legales Oaxaca'
     description: 'Servicios legales especializados en Oaxaca: Reducción de predial, derecho civil, familiar y administrativo.'
-    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-services-2.jpg'
     headline: 'Servicios'
 publishedAt: '2024-01-01'
 head:

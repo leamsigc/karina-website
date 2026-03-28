@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-services-2.jpg'
   alt: 'Derecho Administrativo Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Derecho Administrativo Oaxaca'
     description: 'Defensa contra actos arbitrarios de autoridades en Oaxaca.'
-    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-services-2.jpg'
     headline: 'Administrativo'
 publishedAt: '2024-01-01'
 head:
@@ -42,7 +42,7 @@ head:
 ---
 title: "Derecho Administrativo y Amparo"
 subtitle: "Defensa frente a actos arbitrarios de autoridades en Oaxaca"
-image: "/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200"
+image: "/img/layer-services-2.jpg"
 ---
 ::
 

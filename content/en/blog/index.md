@@ -15,14 +15,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+  src: '/img/layer-services-2.jpg'
   alt: 'Legal Blog Karina Orocio Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Legal Blog Oaxaca'
     description: 'Legal articles on civil, family, and administrative law in Oaxaca.'
-    image: '/img/layer-services-2.jpg?auto=format&fit=crop&q=80&w=1200'
+    image: '/img/layer-services-2.jpg'
     headline: 'Blog'
 publishedAt: '2024-01-01'
 head:
