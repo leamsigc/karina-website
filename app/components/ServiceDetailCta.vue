@@ -5,11 +5,11 @@ interface Props {
   serviceTitle?: string;
 }
 
-withDefaults(defineProps<Props>(), {
+const props = withDefaults(defineProps<Props>(), {
   serviceTitle: ''
 })
 
-const displayTitle = computed(() => t('home.services.cta.title', { service: t('home.services.cta.default_service') }))
+const displayTitle = computed(() => t('home.services.cta.title', { service: props.serviceTitle || t('home.services.cta.default_service') }))
 </script>
 
 <template>

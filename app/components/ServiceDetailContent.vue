@@ -23,6 +23,10 @@ defineProps<{
           </div>
         </div>
       </div>
+      <div class="prose prose-lg prose-charcoal max-w-none mt-10">
+        <slot>
+        </slot>
+      </div>
     </div>
   </section>
 </template>

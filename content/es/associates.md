@@ -3,7 +3,7 @@ layout: default
 title: "Nuestro Equipo | Karina Orocio - Despacho Jurídico Oaxaca"
 description: "Conoce a nuestro equipo legal en Karina Orocio Abogados. Socios Karina Orocio y Hernández Castellanos Gustavo Antonio, comprometidos con proteger tus derechos en Oaxaca."
 keywords: "equipo de abogados, abogados oaxaca, Karina Orocio, Hernández Castellanos Gustavo Antonio, equipo legal oaxaca"
-image: "/img/law-firm-team.jpg"
+image: "/img/one.jpeg"
 author:
   name: 'Karina Orocio'
   role: 'Abogada'
@@ -13,7 +13,7 @@ ogImage:
   props:
     title: 'Nuestro Equipo Legal Oaxaca'
     description: 'Conoce a nuestro equipo legal en Karina Orocio Abogados.'
-    image: '/img/law-firm-team.jpg'
+    image: '/img/karina-hero.png'
     headline: 'Nuestro Equipo'
 publishedAt: '2024-01-01'
 head:
@@ -68,7 +68,7 @@ email: "karina@abogadaoaxaca.com"
 name: "Hernández Castellanos Gustavo Antonio"
 role: "Socio Director"
 description: "Abogado senior especializado en litigio civil complejo, derecho comercial y resolución de disputas. Con más de 15 años de experiencia representando clientes en los tribunales y procedimientos administrativos de Oaxaca."
-image: "/img/placeholder-avatar.jpg"
+image: "/img/karina-hero.png"
 is-partner: true
 specialties:
   - "Litigio Civil"

@@ -58,9 +58,4 @@ benefits:
   - "Gestión en cualquier municipio de Oaxaca."
   - "Atención personalizada durante todo el proceso."
 ---
-
-::ServiceDetailCta
----
-serviceTitle: "trámites municipales"
----
 ::

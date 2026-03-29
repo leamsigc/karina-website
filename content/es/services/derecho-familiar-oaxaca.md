@@ -57,8 +57,3 @@ benefits:
   - "Juicios de pérdida de patria potestad."
 ---
 
-::ServiceDetailCta
----
-serviceTitle: "derecho familiar"
----
-::

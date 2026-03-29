@@ -56,9 +56,4 @@ benefits:
   - "Elaboración de contratos de compraventa, arrendamiento y comodato."
   - "Recuperación de inmuebles (Juicios Reivindicatorios)."
 ---
-
-::ServiceDetailCta
----
-serviceTitle: "derecho civil"
----
 ::

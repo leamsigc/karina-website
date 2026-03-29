@@ -11,7 +11,7 @@ interface Props {
 }
 
 withDefaults(defineProps<Props>(), {
-  image: '/img/placeholder-avatar.jpg',
+  image: '/img/karina-hero.png',
   isPartner: false
 })
 </script>

@@ -57,8 +57,4 @@ benefits:
   - "Resoluciones favorables que reducen el pago hasta en un 70%."
 ---
 
-::ServiceDetailCta
----
-serviceTitle: "reducción de predial"
----
-::
+

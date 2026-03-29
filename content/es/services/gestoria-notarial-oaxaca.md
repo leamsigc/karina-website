@@ -59,8 +59,4 @@ benefits:
   - "Gestiones ante el Registro Civil."
 ---
 
-::ServiceDetailCta
----
-serviceTitle: "gestoría notarial"
----
 ::

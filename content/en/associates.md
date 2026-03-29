@@ -3,7 +3,7 @@ layout: default
 title: "Our Team | Karina Orocio Law Firm Oaxaca"
 description: "Meet our legal team at Karina Orocio Law Firm. Partners Karina Orocio and Hernández Castellanos Gustavo Antonio, dedicated to protecting your rights in Oaxaca."
 keywords: "law firm team, lawyers oaxaca, Karina Orocio, Hernández Castellanos Gustavo Antonio, legal team oaxaca"
-image: "/img/law-firm-team.jpg"
+image: "/img/one.jpeg"
 author:
   name: 'Karina Orocio'
   role: 'Attorney at Law'
@@ -13,7 +13,7 @@ ogImage:
   props:
     title: 'Our Legal Team Oaxaca'
     description: 'Meet our legal team at Karina Orocio Law Firm.'
-    image: '/img/law-firm-team.jpg'
+    image: '/img/karina-hero.png'
     headline: 'Our Team'
 publishedAt: '2024-01-01'
 head:
@@ -66,7 +66,7 @@ email: "karina@abogadaoaxaca.com"
 name: "Hernández Castellanos Gustavo Antonio"
 role: "Managing Partner"
 description: "Senior attorney specializing in complex civil litigation, commercial law, and dispute resolution. With over 15 years of experience representing clients in Oaxaca's courts and administrative proceedings."
-image: "/img/placeholder-avatar.jpg"
+image: "/img/karina-hero.png"
 is-partner: true
 specialties:
   - "Civil Litigation"
@@ -79,7 +79,7 @@ email: "gustavo@abogadaoaxaca.com"
 ::
 
 </div>
-::
+
 
 ::AssociatesSection
 ---
@@ -87,49 +87,11 @@ title: Associates
 subtitle: Our dedicated legal team ready to assist you
 ---
 ::
+
 <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-::PartnerCard
----
-name: "Lic. María González"
-role: "Senior Associate"
-description: "Specialized in family law and inheritance matters. Dedicated to providing compassionate legal guidance during difficult family situations."
-specialties:
-  - "Family Law"
-  - "Inheritance"
-  - "Divorce"
-  - "Child Custody"
----
-::
-
-::PartnerCard
----
-name: "Lic. Roberto Sánchez"
-role: "Associate Attorney"
-description: "Focuses on administrative law and municipal regulations. Experienced in handling permits, licenses, and government proceedings."
-specialties:
-  - "Administrative Law"
-  - "Municipal Regulations"
-  - "Permits"
-  - "Government Procedures"
----
-::
-
-::PartnerCard
----
-name: "Lic. Ana López"
-role: "Associate Attorney"
-description: "Specialized in commercial and corporate law. Assists businesses with contracts, registrations, and legal compliance."
-specialties:
-  - "Corporate Law"
-  - "Contracts"
-  - "Business Registration"
-  - "Legal Compliance"
----
-::
 
 </div>
-::
 
-::AppCta
+::ServiceDetailCta
 ::

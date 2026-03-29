@@ -61,8 +61,4 @@ benefits:
   - "Asesoría en actos prejudiciales mercantiles."
 ---
 
-::ServiceDetailCta
----
-serviceTitle: "derecho mercantil"
----
-::
+

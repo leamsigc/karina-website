@@ -57,8 +57,8 @@ benefits:
   - "Asesoría en licitaciones y contratos gubernamentales."
 ---
 
-::ServiceDetailCta
----
-serviceTitle: "derecho administrativo"
----
+
 ::
+
+
+
