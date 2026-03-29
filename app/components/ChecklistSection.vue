@@ -3,7 +3,7 @@
  *
  * Component Description: Checklist section highlighting company standards.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogadaoaxaca.com>
+ * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component
@@ -46,7 +46,8 @@ const props = withDefaults(defineProps<Props>(), {
                     </h2>
                     <p class="text-xl text-gray-400 mb-10 leading-relaxed">
                         <slot name="description" mdc-unwrap="p">
-                            No solo cumplimos con los estándares; los superamos. Nuestro compromiso es contigo y tu propiedad.
+                            No solo cumplimos con los estándares; los superamos. Nuestro compromiso es contigo y tu
+                            propiedad.
                         </slot>
                     </p>
 
@@ -54,7 +55,8 @@ const props = withDefaults(defineProps<Props>(), {
                         <div class="absolute -left-1 top-8 h-12 w-1 bg-gold-500"></div>
                         <blockquote class="text-2xl font-display italic text-gray-200">
                             <slot name="quote" mdc-unwrap="p">
-                                "La primera asesoría es totalmente gratis. Te ayudo a reducir tu predial de manera legal."
+                                "La primera asesoría es totalmente gratis. Te ayudo a reducir tu predial de manera
+                                legal."
                             </slot>
                         </blockquote>
                     </div>

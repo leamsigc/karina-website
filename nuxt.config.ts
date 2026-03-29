@@ -76,7 +76,7 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://karinaabogadaoaxaca.com/',
+    url: 'https://abogada-karina-oaxaca.com/',
     name: 'Karina Orocio - Abogada Postulante en Oaxaca',
     defaultLocale: 'es',
     trailingSlash: false
@@ -87,9 +87,8 @@ export default defineNuxtConfig({
     }
   },
   robots: {
-    disallow: [
-      '/'
-    ]
+    allow: ['*'],
+    disallow: []
   },
   sitemap: {
     autoI18n: true,
@@ -108,8 +107,8 @@ export default defineNuxtConfig({
       image: '/img/karina-hero.png',
       description: 'Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Especialistas en reducción de predial, derecho civil, familiar y administrativo.',
       telephone: '+52-951-615-30-10',
-      email: 'karina@abogadaoaxaca.com',
-      url: 'https://karinaabogadaoaxaca.com',
+      email: 'karina@abogada-karina-oaxaca.com',
+      url: 'https://abogada-karina-oaxaca.com',
       address: {
         streetAddress: 'Oaxaca de Juárez',
         addressLocality: 'Oaxaca de Juárez',
@@ -185,7 +184,7 @@ export default defineNuxtConfig({
   },
   vite: {
     optimizeDeps: {
-      include:[]
+      include: []
     }
   }
 })

@@ -3,7 +3,7 @@
  *
  * Component Description: Main Hero component for the Landing Page.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogadaoaxaca.com>
+ * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component

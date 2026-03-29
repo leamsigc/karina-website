@@ -3,7 +3,7 @@
  *
  * Component Description: Customer testimonials section with ratings.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogadaoaxaca.com>
+ * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component

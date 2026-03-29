@@ -8,7 +8,7 @@ export const TRANSLATIONS = {
 export const COMPANY_INFO = {
     name: "Karina Orocia - Abogada Postulante",
     phone: "951-615-30-10",
-    email: "karina@abogadaoaxaca.com",
+    email: "karina@abogada-karina-oaxaca.com",
     address: "Oaxaca de Juárez, Oaxaca, México",
     hours: {
         mon: "9:00AM - 6:00PM",
@@ -117,8 +117,8 @@ export const TESTIMONIALS = [
 ];
 
 export const SEO_KEYWORDS = [
-    "abogada oaxaca", "Karina Orocia", "predial oaxaca", "reducción de predial", 
-    "asesoría legal patrimonial", "abogado property tax oaxaca", "regularización de propiedades oaxaca", 
+    "abogada oaxaca", "Karina Orocia", "predial oaxaca", "reducción de predial",
+    "asesoría legal patrimonial", "abogado property tax oaxaca", "regularización de propiedades oaxaca",
     "trámites municipales oaxaca", "avaluo catastral", "defensa legal predial",
     "abogada property tax", "reduccion predial oaxaca", "asesoria property tax"
 ];

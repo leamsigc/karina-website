@@ -3,7 +3,7 @@
  *
  * Component Description: Teaser section promoting legal services.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogadaoaxaca.com>
+ * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component
@@ -20,7 +20,7 @@
                     ¿Problemas con tu Predial?
                 </h2>
                 <p class="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                    Pagas demasiado en tu predial? Te ayudamos a revisar, corregir y reducir el monto de manera legal. 
+                    Pagas demasiado en tu predial? Te ayudamos a revisar, corregir y reducir el monto de manera legal.
                     Primera asesoría totalmente gratis.
                 </p>
                 <div class="flex gap-4">

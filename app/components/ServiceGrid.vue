@@ -3,7 +3,7 @@
  *
  * Component Description:Desc
  *
- * @author Karina Orocia Abogada Postulante <karina@abogadaoaxaca.com>
+ * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component
@@ -71,7 +71,7 @@ const displayedServices = computed(() => props.services || SERVICES)
                                 Predial
                             </h3>
                             <p class="text-gray-300 text-lg mb-8 max-w-lg">
-                                ¿Pagas demasiado predial? Yo te ayudo a reducirlo de manera legal. Revisión de avalúos 
+                                ¿Pagas demasiado predial? Yo te ayudo a reducirlo de manera legal. Revisión de avalúos
                                 catastrales y gestión ante el municipio de Oaxaca.
                             </p>
                             <NuxtLinkLocale to="/contact"

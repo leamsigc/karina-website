@@ -59,7 +59,7 @@ specialties:
   - "Derecho Administrativo"
   - "Litigio Civil"
 phone: "951-615-30-10"
-email: "karina@abogadaoaxaca.com"
+email: "karina@abogada-karina-oaxaca.com"
 ---
 ::
 
@@ -76,7 +76,7 @@ specialties:
   - "Resolución de Disputas"
   - "Derecho Contractual"
 phone: "951-615-30-10"
-email: "gustavo@abogadaoaxaca.com"
+email: "gustavo@abogada-karina-oaxaca.com"
 ---
 ::
 
