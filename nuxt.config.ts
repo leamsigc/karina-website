@@ -46,6 +46,7 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/i18n',
     '@vueuse/nuxt',
+    '@nuxt/fonts'
   ],
   // routeRules: {
   //   '/blog/**': {
