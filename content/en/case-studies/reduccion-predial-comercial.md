@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Nullification of Excessive Property Tax Charges | Karina Orocio"
+title: "Nullification of Excessive Property Tax Charges | Karina Orocio Cruz"
 description: "Success case: We achieved a 75% reduction in property tax for a commercial plaza in Ocotlán de Morelos through a nullification lawsuit."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - nullification lawsuit oaxaca
   - administrative law
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, property tax reduction, nullification lawsuit, Karina Orocio'
+      content: 'success case oaxaca, property tax reduction, nullification lawsuit, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: 75% reduction in property tax for commercial plaza.'
 ---

@@ -6,7 +6,7 @@ export const TRANSLATIONS = {
 };
 
 export const COMPANY_INFO = {
-    name: "Karina Orocia - Abogada Postulante",
+    name: "Karina Orocio Cruz - Abogada Postulante",
     phone: "951-615-30-10",
     email: "karina@abogada-karina-oaxaca.com",
     address: "Oaxaca de Juárez, Oaxaca, México",
@@ -43,7 +43,7 @@ export const SERVICES = [
     },
     {
         id: '2',
-        title: 'Gestión para Reducción de Predial',
+        title: 'Gestión para Derecho Municipal',
         description: 'Te ayudamos a gestionar la reducción del monto de tu predial de manera legal y efectiva.',
         iconName: 'i-heroicons-currency-dollar',
         link: '/contact'
@@ -117,7 +117,7 @@ export const TESTIMONIALS = [
 ];
 
 export const SEO_KEYWORDS = [
-    "abogada oaxaca", "Karina Orocia", "predial oaxaca", "reducción de predial",
+    "abogada oaxaca", "Karina Orocio Cruz", "predial oaxaca", "reducción de predial",
     "asesoría legal patrimonial", "abogado property tax oaxaca", "regularización de propiedades oaxaca",
     "trámites municipales oaxaca", "avaluo catastral", "defensa legal predial",
     "abogada property tax", "reduccion predial oaxaca", "asesoria property tax"

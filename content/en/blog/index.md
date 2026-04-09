@@ -1,6 +1,6 @@
 ---
 layout: blog-layout
-title: "Legal Blog | Karina Orocio - Law Articles in Oaxaca"
+title: "Legal Blog | Karina Orocio Cruz - Law Articles in Oaxaca"
 description: "Legal articles on civil, family, and administrative law in Oaxaca. In-depth legal analysis on the most relevant legal issues."
 featured: true
 tags:
@@ -10,13 +10,13 @@ tags:
   - property tax reduction
   - lawsuits oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/layer-services-2.jpg'
-  alt: 'Legal Blog Karina Orocio Oaxaca'
+  alt: 'Legal Blog Karina Orocio Cruz Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
@@ -30,11 +30,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'legal blog oaxaca, legal articles oaxaca, legal analysis oaxaca, lawyers oaxaca, Karina Orocio'
+      content: 'legal blog oaxaca, legal articles oaxaca, legal analysis oaxaca, lawyers oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Legal articles on civil, family, and administrative law in Oaxaca.'
 ---

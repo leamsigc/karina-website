@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Tehuantepec | Lic. Karina Orocio"
+title: "Abogado en Tehuantepec | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico en Santo Domingo Tehuantepec, Oaxaca. Especialistas en juicios sucesorios, conflictos de linderos y patrimonio familiar."
-keywords: "abogado tehuantepec, servicios legales istmo, juicios sucesorios oaxaca, Karina Orocio"
+keywords: "abogado tehuantepec, servicios legales istmo, juicios sucesorios oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Abogado en Tehuantepec'

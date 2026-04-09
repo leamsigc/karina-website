@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Nuestro Equipo | Karina Orocio - Despacho Jurídico Oaxaca"
-description: "Conoce a nuestro equipo legal en Karina Orocio Abogados. Socios Karina Orocio y Hernández Castellanos Gustavo Antonio, comprometidos con proteger tus derechos en Oaxaca."
-keywords: "equipo de abogados, abogados oaxaca, Karina Orocio, Hernández Castellanos Gustavo Antonio, equipo legal oaxaca"
+title: "Nuestro Equipo | Karina Orocio Cruz - Despacho Jurídico Oaxaca"
+description: "Conoce a nuestro equipo legal en Karina Orocio Cruz Abogados. Socios Karina Orocio Cruz y Hernández Castellanos Gustavo Antonio, comprometidos con proteger tus derechos en Oaxaca."
+keywords: "equipo de abogados, abogados oaxaca, Karina Orocio Cruz, Hernández Castellanos Gustavo Antonio, equipo legal oaxaca"
 image: "/img/one.jpeg"
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada'
   avatar: '/img/logo.png'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Nuestro Equipo Legal Oaxaca'
-    description: 'Conoce a nuestro equipo legal en Karina Orocio Abogados.'
+    description: 'Conoce a nuestro equipo legal en Karina Orocio Cruz Abogados.'
     image: '/img/karina-hero.png'
     headline: 'Nuestro Equipo'
 publishedAt: '2024-01-01'
@@ -21,13 +21,13 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'equipo de abogados, abogados oaxaca, Karina Orocio, Hernández Castellanos Gustavo Antonio, equipo legal oaxaca'
+      content: 'equipo de abogados, abogados oaxaca, Karina Orocio Cruz, Hernández Castellanos Gustavo Antonio, equipo legal oaxaca'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Conoce a nuestro equipo legal en Karina Orocio Abogados en Oaxaca.'
+      content: 'Conoce a nuestro equipo legal en Karina Orocio Cruz Abogados en Oaxaca.'
 ---
 
 ::PageHero
@@ -44,17 +44,17 @@ subtitle: Conoce a los líderes de nuestro despacho jurídico
 ::
 
 
-<div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+<div class="grid md:grid-cols-3 gap-8 max-w-7xl mx-auto">
 
 ::PartnerCard
 ---
-name: "Karina Orocio"
+name: "Karina Orocio Cruz"
 role: "Socia Fundadora"
 description: "Abogada Postulante con amplia experiencia en derecho patrimonial mexicano. Especializada en reducción de predial, regularización de propiedades y derecho administrativo. Comprometida con la protección de los derechos de propiedad de nuestros clientes en Oaxaca."
 image: "/img/karina-hero.png"
 is-partner: true
 specialties:
-  - "Reducción de Predial"
+  - "Derecho Municipal"
   - "Regularización de Propiedades"
   - "Derecho Administrativo"
   - "Litigio Civil"
@@ -77,6 +77,23 @@ specialties:
   - "Derecho Contractual"
 phone: "951-615-30-10"
 email: "gustavo@abogada-karina-oaxaca.com"
+---
+::
+
+::PartnerCard
+---
+name: "Mitzeli Jazmin Martinez"
+role: "Abogada Asociada"
+description: "Especialista en Materia Civil con un enfoque humano y detallista. Experta en juicios sucesorios, contratos de arrendamiento y regularización de la propiedad privada en el Estado de Oaxaca."
+image: "/img/mitzeli-martinez.png"
+is-partner: true
+specialties:
+  - "Materia Civil"
+  - "Juicios Sucesorios"
+  - "Derecho Contractual"
+  - "Regularización de Propiedades"
+phone: "951-615-30-10"
+email: "mitzeli@abogada-karina-oaxaca.com"
 ---
 ::
 

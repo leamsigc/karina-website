@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Regularización de Propiedad Costera de Alto Valor | Karina Orocio"
+title: "Regularización de Propiedad Costera de Alto Valor | Karina Orocio Cruz"
 description: "Caso de éxito: Regularización de propiedad frente a la playa en Puerto Escondido. Certe jurídica y escrituración exitosa para inversionistas."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - regularizacion propiedad oaxaca
   - derecho civil oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, usucapion oaxaca, regularizacion propiedad oaxaca, Karina Orocio'
+      content: 'caso de exito oaxaca, usucapion oaxaca, regularizacion propiedad oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Caso de éxito: Regularización de propiedad frente a la playa en Puerto Escondido.'
 ---

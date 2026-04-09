@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "High-Value Beachfront Property Regularization | Karina Orocio"
+title: "High-Value Beachfront Property Regularization | Karina Orocio Cruz"
 description: "Success case: Beachfront property regularization in Puerto Escondido. Legal certainty and successful deed transfer for investors."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - property regularization oaxaca
   - civil law oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, usucapion oaxaca, property regularization oaxaca, Karina Orocio'
+      content: 'success case oaxaca, usucapion oaxaca, property regularization oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: Beachfront property regularization in Puerto Escondido.'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Trámite de Número Oficial para María Gómez | Karina Orocio"
+title: "Trámite de Número Oficial para María Gómez | Karina Orocio Cruz"
 description: "Caso de éxito: Gestionamos en menos de un mes el trámite de número oficial en cualquier municipio del estado para nuestra clienta María Gómez."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - maría gómez oaxaca
   - trámites municipales
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, número oficial, María Gómez, Karina Orocio'
+      content: 'caso de exito oaxaca, número oficial, María Gómez, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Caso de éxito: Trámite de número oficial para María Gómez.'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Casos de Éxito | Karina Orocio - Litigio Estratégico Oaxaca"
+title: "Casos de Éxito | Karina Orocio Cruz - Litigio Estratégico Oaxaca"
 description: "Conozca nuestros casos de éxito en litigio estratégico, derecho civil, administrativo y familiar en el Estado de Oaxaca. Resultados comprobables."
 tags:
   - casos de exito oaxaca
@@ -9,13 +9,13 @@ tags:
   - reduccion predial
   - juicio sucesorio
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/layer-services-2.jpg'
-  alt: 'Casos de Éxito Karina Orocio Oaxaca'
+  alt: 'Casos de Éxito Karina Orocio Cruz Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
@@ -29,11 +29,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'casos de exito oaxaca, litigio estrategico oaxaca, resultados legales oaxaca, abogado oaxaca, Karina Orocio'
+      content: 'casos de exito oaxaca, litigio estrategico oaxaca, resultados legales oaxaca, abogado oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Conozca nuestros casos de éxito en litigio estratégico en Oaxaca.'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Property Tax Reduction for Mayra Castellanos | Karina Orocio"
+title: "Property Tax Reduction for Mayra Castellanos | Karina Orocio Cruz"
 description: "Success case: We achieved that our client Mayra Castellanos paid less property tax derived from a sale transaction."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - mayra castellanos oaxaca
   - administrative law
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, property tax reduction, Mayra Castellanos, Karina Orocio'
+      content: 'success case oaxaca, property tax reduction, Mayra Castellanos, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: Property tax reduction for Mayra Castellanos.'
 ---

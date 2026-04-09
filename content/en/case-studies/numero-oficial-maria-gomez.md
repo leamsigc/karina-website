@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Official Number Procedure for María Gómez | Karina Orocio"
+title: "Official Number Procedure for María Gómez | Karina Orocio Cruz"
 description: "Success case: We managed to obtain the official number procedure in less than a month in any municipality of the state for our client María Gómez."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - maría gómez oaxaca
   - municipal procedures
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, official number, María Gómez, Karina Orocio'
+      content: 'success case oaxaca, official number, María Gómez, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: Official number procedure for María Gómez.'
 ---

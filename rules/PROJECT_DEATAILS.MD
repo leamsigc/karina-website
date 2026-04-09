@@ -1,9 +1,9 @@
 
-Karina Orocia Abogada Postulante
+Karina Orocio Cruz Abogada Postulante
 
 1. Business Overview & Branding
 
-    Name: Karina Orocia
+    Name: Karina Orocio Cruz
     Title: Abogada Postulante
     Location: Oaxaca de Juárez, Oaxaca, Mexico
     Specialization: Legal advisory for property tax (predial) and property regularization

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Puerto Escondido | Lic. Karina Orocio"
+title: "Abogado en Puerto Escondido | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico y servicios legales en Puerto Escondido, Oaxaca. Especialistas en regularización de propiedades, derecho civil y protección de inversiones turísticas."
-keywords: "abogado en puerto escondido, abogado propiedades costa, servicios legales puerto escondido, regularizacion propiedades oaxaca, Karina Orocio"
+keywords: "abogado en puerto escondido, abogado propiedades costa, servicios legales puerto escondido, regularizacion propiedades oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-beach-property.jpg'
   alt: 'Abogado en Puerto Escondido'
@@ -19,11 +19,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'abogado puerto escondido, servicios legales costa oaxaca, Karina Orocio'
+      content: 'abogado puerto escondido, servicios legales costa oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Despacho jurídico en Puerto Escondido, Oaxaca.'
 ---

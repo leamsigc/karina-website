@@ -3,7 +3,7 @@
  *
  * Component Description: Call to Action section.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
+ * @author Karina Orocio Cruz Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component

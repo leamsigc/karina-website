@@ -2,7 +2,7 @@
     "home": {
         "hero": {
             "title": "Defensa Legal Estratégica en Oaxaca",
-            "subtitle": "Especialistas en derecho predial, civil, familiar y administrativo. Protegemos su patrimonio con estrategia y resultados.",
+            "subtitle": "DERECHO PRIVADO (FAMILIAR, CIVIL, MERCANTIL Y ADMINISTRATIVO). Protegemos su patrimonio con estrategia y resultados.",
             "cta_consultation": "Agendar Asesoría",
             "cta_services": "Ver Servicios",
             "specialist": "Especialista en"
@@ -12,6 +12,10 @@
             "location": "Oaxaca de Juárez",
             "description1": "Comprendemos profundamente el entorno jurídico y administrativo del Estado de Oaxaca. Nuestra firma se distingue por un análisis meticuloso y una ejecución impecable en cada caso que asumimos ante los juzgados locales y federales.",
             "description2": "Ya sea que enfrente un cobro desproporcionado de impuesto predial por parte del municipio de Oaxaca de Juárez, Santa Lucía del Camino o Xoxocotlán, o requiera asegurar el patrimonio de su familia a través de un juicio sucesorio, le brindamos certeza jurídica absoluta.",
+            "mission_title": "Misión",
+            "mission_text": "Brindar servicios jurídicos especializados en derecho privado con excelencia, ética y compromiso, ofreciendo soluciones legales integrales y personalizadas que protejan los intereses de nuestros clientes en el estado de Oaxaca. Nos enfocamos en generar confianza a través de un acompañamiento cercano, transparente y eficaz en cada asunto legal.",
+            "vision_title": "Visión",
+            "vision_text": "Consolidarnos como una firma legal líder en Oaxaca en el ámbito del derecho privado, reconocida por su profesionalismo, innovación y resultados, contribuyendo al desarrollo jurídico y social de la región, y posicionándonos como referente de calidad y confianza a nivel estatal y nacional.",
             "feature1_title": "Defensa Estratégica",
             "feature1_desc": "Análisis profundo de cada expediente.",
             "feature2_title": "Ética Profesional",
@@ -24,13 +28,13 @@
             "description": "Nuestra práctica se centra en áreas críticas del derecho en Oaxaca, donde la precisión y la estrategia determinan el éxito del caso.",
             "cta": "Ver todos los servicios",
             "services": {
-                "predial": {
-                    "title": "Reducción de Predial",
+                "municipal": {
+                    "title": "Derecho Municipal",
                     "description": "Defensa contra cobros excesivos de impuesto predial en Oaxaca de Juárez y municipios conurbados mediante juicios de nulidad."
                 },
                 "civil": {
                     "title": "Derecho Civil",
-                    "description": "Regularización de propiedades (Usucapión), juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor."
+                    "description": "Regularización de propiedades (Usucapión), Juicio Sumario Hipotecario, juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor."
                 },
                 "familiar": {
                     "title": "Derecho Familiar",
@@ -39,6 +43,10 @@
                 "administrativo": {
                     "title": "Derecho Administrativo",
                     "description": "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales."
+                },
+                "mercantil": {
+                    "title": "Derecho Mercantil",
+                    "description": "Juicios orales mercantiles, Juicio Ejecutivo Mercantil, recuperación de cartera, pagarés, facturas, cargos no reconocidos y defensa en procedimientos de amparo."
                 }
             }
         },
@@ -49,20 +57,20 @@
                 "subtitle": "Nuestra mejor carta de presentación son los resultados. Conozca cómo hemos protegido el patrimonio, la libertad y los derechos de nuestros clientes en Oaxaca."
             },
             "case1": {
-                "title": "Nulidad de Multa Administrativa y Clausura Municipal",
-                "client": "Empresa Constructora Local",
+                "title": "Préstamo II Pagaré",
+                "client": "Edenia López",
                 "location": "Oaxaca de Juárez",
-                "result": "Ahorro de $1.2M MXN",
-                "category": "Derecho Administrativo",
-                "summary": "Logramos la nulidad lisa y llana de una multa impuesta arbitrariamente por el municipio a una empresa constructora local."
+                "result": "Recuperación de Capital e Intereses",
+                "category": "Derecho Mercantil",
+                "summary": "Gracias a una adecuada estrategia legal, la señora Edenia logró recuperar el dinero que había prestado a unos conocidos, quienes habían firmado un pagaré pero se negaban a cumplir con su obligación de pago. A través de la interposición de la demanda correspondiente, no solo se obtuvo la devolución del monto prestado, sino también el pago de los intereses generados, garantizando así la protección de sus derechos."
             },
             "case2": {
-                "title": "Regularización de Propiedad Costera de Alto Valor",
-                "client": "Grupo de Inversionistas",
-                "location": "Puerto Escondido",
-                "result": "Certería Jurídica",
-                "category": "Derecho Civil",
-                "summary": "Asesoramos a un grupo de inversionistas en la transición segura de derechos de posesión comunal a propiedad privada."
+                "title": "Divorcio Incausado y Pensión Alimenticia",
+                "client": "Leticia Cabrera",
+                "location": "Oaxaca de Juárez",
+                "result": "Resolución Ágil y Favorable",
+                "category": "Derecho Familiar",
+                "summary": "Gracias a una estrategia legal adecuada, la señora Leticia logró formalizar su divorcio de manera ágil y efectiva, pese a existir hijos menores de edad. A través de la preparación de un convenio previo, se establecieron de forma clara los derechos y obligaciones de ambas partes, incluyendo una pensión alimenticia justa en beneficio de sus hijos. Este resultado prioriza el bienestar de los menores y evita procesos prolongados."
             },
             "case3": {
                 "title": "Defensa de Propietarios en Contratos de Arrendamiento Eólico",
@@ -77,7 +85,7 @@
                 "client": "Plaza Comercial",
                 "location": "Ocotlán de Morelos",
                 "result": "Reducción del 75%",
-                "category": "Derecho Administrativo",
+                "category": "Derecho Municipal",
                 "summary": "Impugnamos exitosamente una actualización catastral arbitraria que multiplicaba el impuesto predial de varios inmuebles comerciales."
             },
             "read_more": "Leer Caso Completo"
@@ -89,6 +97,12 @@
         "faq": {
             "title": "Preguntas",
             "subtitle": "Frecuentes",
+            "question_location": "¿Dónde se encuentra ubicado?",
+            "answer_location": "Nuestras oficinas principales se encuentran en Oaxaca de Juárez, atendiendo con previa cita para garantizar su privacidad.",
+            "question_costs": "¿Cuáles son los costos?",
+            "answer_costs": "Los honorarios varían según la complejidad del caso. Ofrecemos una primera consulta de evaluación gratuita para brindarle un presupuesto transparente.",
+            "question_abroad": "¿Si vivo fuera del país puedo demandar?",
+            "answer_abroad": "Sí, es posible iniciar y llevar procesos legales en México mediante un poder notarial o representación legal adecuada sin necesidad de que usted viaje.",
             "cta": "Contactar"
         },
         "services": {
@@ -97,14 +111,51 @@
                 "default_service": "este tema legal",
                 "description": "Agende una consulta confidencial en nuestras oficinas en Oaxaca de Juárez para analizar su caso y diseñar una estrategia legal efectiva.",
                 "button": "Solicitar Consulta"
-            }
-        },
-        "blog": {
-            "hero": {
-                "title": "Editorial Legal",
-                "description": "Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca."
             },
-            "read_article": "Leer Artículo"
+            "list": [
+                {
+                    "slug": "derecho-mercantil-oaxaca",
+                    "title": "Derecho Mercantil",
+                    "excerpt": "Juicios orales mercantiles, Juicio Ejecutivo Mercantil, recuperación de cartera, pagarés, facturas, cargos no reconocidos y defensa en procedimientos de amparo.",
+                    "image": "/img/layer-accounting.jpg"
+                },
+                {
+                    "slug": "derecho-civil-oaxaca",
+                    "title": "Derecho Civil",
+                    "excerpt": "Regularización de propiedades (Usucapión), Juicio Sumario Hipotecario, juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor.",
+                    "image": "/img/two.jpeg"
+                },
+                {
+                    "slug": "derecho-familiar-oaxaca",
+                    "title": "Derecho Familiar",
+                    "excerpt": "Resolución estratégica de divorcios incausados, pensiones alimenticias y guarda y custodia ante los Juzgados Familiares del Centro.",
+                    "image": "/img/tres.jpeg"
+                },
+                {
+                    "slug": "derecho-administrativo-oaxaca",
+                    "title": "Derecho Administrativo",
+                    "excerpt": "Defensa contra clausuras de negocios, multas de tránsito y actos arbitrarios de autoridades municipales y estatales.",
+                    "image": "/img/layer-services-1.jpg"
+                },
+                {
+                    "slug": "derecho-municipal-oaxaca",
+                    "title": "Derecho Municipal",
+                    "excerpt": "Defensa contra cobros excesivos de impuesto predial en Oaxaca de Juárez y municipios conurbados mediante juicios de nulidad.",
+                    "image": "/img/one.jpeg"
+                },
+                {
+                    "slug": "tramites-municipales-oaxaca",
+                    "title": "Trámites Municipales",
+                    "excerpt": "Obtención de número oficial, alineamiento, ajuste de pago predial y traslado de dominio en cualquier municipio de Oaxaca.",
+                    "image": "/img/layer-office-building.jpg"
+                },
+                {
+                    "slug": "gestoria-notarial-oaxaca",
+                    "title": "Gestoría Notarial",
+                    "excerpt": "Asesoría y gestión en trámites notariales, testamentos, contratos y regularización de documentos ante el Registro Civil.",
+                    "image": "/img/layer-meeting.jpg"
+                }
+            ]
         },
         "testimonials": {
             "title": "Lo que dicen",
@@ -113,7 +164,7 @@
             "testimonial1": {
                 "quote": "El municipio de Oaxaca me quería cobrar una cantidad absurda de predial por una supuesta actualización. La Licenciada Karina promovió un juicio de nulidad y logramos reducir el pago en un 60%. Excelente.abogada, muy profesional.",
                 "author": "Roberto M.",
-                "case": "Caso: Reducción de Predial"
+                "case": "Caso: Derecho Municipal"
             },
             "testimonial2": {
                 "quote": "Llevábamos años intentando arreglar las escrituras de la casa de mis abuelos. Gracias a su asesoría en el juicio sucesorio intestamentario, por fin tenemos certeza jurídica sobre nuestro patrimonio familiar en Jalatlaco.",
@@ -126,6 +177,14 @@
                 "case": "Caso: Divorcio Incausado"
             }
         }
+    },
+    "blog": {
+        "hero": {
+            "title": "Editorial Legal",
+            "highlight": "Karina Orocio Cruz",
+            "description": "Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca."
+        },
+        "read_article": "Leer Artículo"
     },
     "nav": {
         "home": "Inicio",
@@ -176,7 +235,7 @@
         "form_phone": "Teléfono / WhatsApp",
         "form_interest": "Área de Interés",
         "form_select": "Seleccione un área...",
-        "form_predial": "Reducción de Predial",
+        "form_predial": "Derecho Municipal",
         "form_civil": "Derecho Civil (Usucapión, Contratos)",
         "form_familiar": "Derecho Familiar (Divorcio, Pensión)",
         "form_admin": "Derecho Administrativo (Amparos, Multas)",
@@ -210,6 +269,10 @@
         "need_consultation": "¿Necesita asesoría sobre este tema?",
         "consultation_subtitle": "Agende una consulta para analizar su caso específico en Oaxaca de Juárez con absoluta confidencialidad.",
         "page_not_found": "Página no encontrada",
-        "page_not_found_subtitle": "La página que buscas no existe."
+        "page_not_found_subtitle": "La página que buscas no existe.",
+        "practice_areas_title": "Áreas de",
+        "practice_areas_highlight": "Práctica",
+        "practice_areas_description": "Representación legal de alto nivel enfocada en la protección de su patrimonio y sus derechos fundamentales en el Estado de Oaxaca.",
+        "view_details": "Ver Detalles del Servicio"
     }
 }

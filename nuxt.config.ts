@@ -101,11 +101,11 @@ export default defineNuxtConfig({
   schemaOrg: {
     identity: {
       type: 'LegalService',
-      name: 'Karina Orocio - Abogada Postulante',
-      alternateName: ['Karina Orocio Abogada', 'Despacho Legal Oaxaca', 'Abogada Karina Orocio'],
+      name: 'Karina Orocio Cruz - Private Law Attorney',
+      alternateName: ['Karina Orocio Cruz', 'Karina Orocio Cruz Law Firm', 'Abogada Karina Orocio Cruz'],
       logo: '/img/logo.png',
       image: '/img/karina-hero.png',
-      description: 'Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Especialistas en reducción de predial, derecho civil, familiar y administrativo.',
+      description: 'Senior Attorney specializing in Private Law (Family, Civil, Commercial and Administrative) in Oaxaca. Professional legal defense for property and assets.',
       telephone: '+52-951-615-30-10',
       email: 'karina@abogada-karina-oaxaca.com',
       url: 'https://abogada-karina-oaxaca.com',

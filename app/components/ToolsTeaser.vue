@@ -3,7 +3,7 @@
  *
  * Component Description: Teaser section promoting legal services.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
+ * @author Karina Orocio Cruz Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component
@@ -17,10 +17,10 @@
         <div class="max-w-7xl mx-auto px-4 md:px-8 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
                 <h2 class="text-3xl md:text-5xl font-display font-bold text-navy-900 dark:text-white mb-6">
-                    ¿Problemas con tu Predial?
+                    ¿Problemas con el municipio?
                 </h2>
                 <p class="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                    Pagas demasiado en tu predial? Te ayudamos a revisar, corregir y reducir el monto de manera legal.
+                    ¿Pagas demasiado en tu predial o enfrentas multas unjustly? Te ayudamos a resolver tus asuntos de Derecho Municipal de manera estratégica.
                     Primera asesoría totalmente gratis.
                 </p>
                 <div class="flex gap-4">

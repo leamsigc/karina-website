@@ -1,27 +1,27 @@
 ---
 layout: service-detail
-title: "Notarial Services | Karina Orocio"
-description: "Notarial services in Oaxaca: wills, contracts, record regularization and procedures before the Civil Registry."
+title: "Notarial Management in Oaxaca | Karina Orocio Cruz"
+description: "Professional management of wills, contracts, certificates, and notary formalization services in Oaxaca de Juárez."
 tags:
   - notarial services oaxaca
   - wills oaxaca
-  - contracts oaxaca
-  - birth certificates oaxaca
-  - divorce oaxaca
+  - notary management oaxaca
+  - contract formalization oaxaca
+  - certificates oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-meeting.jpg'
+  src: '/img/karina-hero.png'
   alt: 'Notarial Services Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Notarial Services Oaxaca'
-    description: 'Notarial services and procedures before the Civil Registry in Oaxaca.'
-    image: '/img/layer-meeting.jpg'
+    description: 'Expert notary management and contract formalization in Oaxaca.'
+    image: '/img/karina-hero.png'
     headline: 'Notarial'
 publishedAt: '2024-01-01'
 head:
@@ -29,33 +29,28 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'notarial services oaxaca, wills, contracts, certificates, Karina Orocio'
+      content: 'notarial services oaxaca, wills oaxaca, contract formalization, certificates, notary lawyer oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Notarial services in Oaxaca.'
+      content: 'Expert notary management and contract formalization services in Oaxaca.'
 ---
 
 ::ServiceDetailHero
 ---
-title: "Notarial Services"
-subtitle: "Notarial procedures and Civil Registry in Oaxaca"
-image: "/img/layer-meeting.jpg"
+title: "Notarial Management & Formalization"
+subtitle: "Ensuring legal certainty for your most important documents in Oaxaca"
+image: "/img/karina-hero.png"
 ---
 ::
 
 ::ServiceDetailContent
 ---
-title: "Notarial Services"
-description: "We offer complete notarial services and procedures before the Civil Registry. We manage the preparation and protocolization of wills, purchase and lease contracts and other public instruments. We handle birth certificate clarifications, administrative divorce, data correction in documents and any procedures before the Civil Registry. Our team accompanies you throughout the process so your procedures are resolved efficiently and without complications."
+title: "Strategic Notarial Support"
+description: "In Mexico, certain legal acts must be formalized before a Notary Public to have full legal validity against third parties. At the law firm of Karina Orocio Cruz, we act as a bridge between your legal needs and the Notary Public's office. We provide expert drafting and management of wills, property purchase deeds, power of attorney, and commercial certificates, ensuring that your notarial processes are streamlined, accurate, and cost-effective."
 benefits:
-  - "Wills preparation and protocolization."
-  - "Purchase, lease and loan contracts."
-  - "Birth certificate clarification."
-  - "Administrative divorce procedures."
-  - "Data correction in documents."
   - "Procedures before the Civil Registry."
 ---
 

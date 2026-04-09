@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Tuxtepec | Lic. Karina Orocio"
+title: "Abogado en Tuxtepec | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico y servicios legales en San Juan Bautista Tuxtepec, Oaxaca. Especialistas en juicios civiles, mercantiles y regularización de predios."
-keywords: "abogado tuxtepec, servicios legales papaloapan, regularizacion predios oaxaca, Karina Orocio"
+keywords: "abogado tuxtepec, servicios legales papaloapan, regularizacion predios oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-accounting.jpg'
   alt: 'Abogado en Tuxtepec'

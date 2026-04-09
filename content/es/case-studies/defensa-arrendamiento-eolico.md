@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Defensa de Propietarios en Contratos de Arrendamiento Eólico | Karina Orocio"
+title: "Defensa de Propietarios en Contratos de Arrendamiento Eólico | Karina Orocio Cruz"
 description: "Caso de éxito: Negociamos un incremento del 40% en regalías para propietarios de tierras en contratos de arrendamiento eólico en el Istmo de Tehuantepec."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - arrendamiento tierras oaxaca
   - derecho civil oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, energia eolica, arrendamiento tierras, Karina Orocio'
+      content: 'caso de exito oaxaca, energia eolica, arrendamiento tierras, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Caso de éxito: Negociamos un incremento del 40% en regalías para propietarios de tierras.'
 ---

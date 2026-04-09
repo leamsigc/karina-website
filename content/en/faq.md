@@ -1,18 +1,18 @@
 ---
-title: 'Preguntas Frecuentes - Karina Orocia Abogada Postulante Oaxaca'
+title: 'Preguntas Frecuentes - Karina Orocio Cruz Abogada Postulante Oaxaca'
 description: 'Preguntas frecuentes sobre asesoría legal patrimonial en Oaxaca. Información sobre reducción de predial, avalúos catastrales y más.'
 image:
   src: '/img/MendozaRoofingShallotte.png'
-  alt: 'FAQ - Karina Orocia Abogada Oaxaca'
+  alt: 'FAQ - Karina Orocio Cruz Abogada Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
   meta:
     - name: 'keywords'
-      content: 'faq oaxaca, preguntas frecuentes predial, avaluo catastral preguntas, asesoría legal patrimonial faq, Karina Orocia preguntas'
+      content: 'faq oaxaca, preguntas frecuentes predial, avaluo catastral preguntas, asesoría legal patrimonial faq, Karina Orocio Cruz preguntas'
 category: 'Support'
 author:
-  name: 'Karina Orocia'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
 ogImage:
@@ -67,7 +67,7 @@ subtitle: Asesoría Legal Patrimonial en Oaxaca - Respondemos tus Dudas
 <div class="prose prose-xl   mx-auto max-w-4xl my-16 font-serif font-light text-xl prose:haighlight:text-gold" >
 
 
-## Preguntas Frecuentes — Karina Orocia Abogada Postulante
+## Preguntas Frecuentes — Karina Orocio Cruz Abogada Postulante
 
 ### General
 
@@ -95,7 +95,7 @@ Sí, puedes solicitar al municipio una revisión del avalúo si consideras que n
 
 ---
 
-### Reducción de Predial
+### Derecho Municipal
 
 **7. ¿Puedo reducir el monto de mi predial?**
 Sí, es posible. Si tu propiedad está sobrevaluada catastralmente, puedes solicitar una corrección del avalúo. Te ayudo a gestionar este proceso de manera legal.

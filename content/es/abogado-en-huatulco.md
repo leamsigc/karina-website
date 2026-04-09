@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Huatulco | Lic. Karina Orocio"
+title: "Abogado en Huatulco | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico y servicios legales en Huatulco, Oaxaca. Especialistas en derecho civil, administrativo y cumplimiento normativo para desarrolladores turísticos."
-keywords: "abogado en huatulco, servicios legales huatulco, derecho turistico oaxaca, Karina Orocio"
+keywords: "abogado en huatulco, servicios legales huatulco, derecho turistico oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-beach-resort.jpg'
   alt: 'Abogado en Huatulco'
@@ -19,7 +19,7 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'abogado huatulco, servicios legales, Karina Orocio'
+      content: 'abogado huatulco, servicios legales, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
 ---

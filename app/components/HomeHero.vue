@@ -69,7 +69,7 @@ withDefaults(defineProps<Props>(), {
             </div>
             <div>
               <p class="text-xs tracking-widest uppercase font-medium text-gold mb-1">{{ t('home.hero.specialist') }}</p>
-              <p class="font-serif text-xl">{{ t('home.expertise.services.predial.title') }}</p>
+              <p class="font-serif text-xl">{{ t('home.expertise.services.mercantil.title') }}</p>
             </div>
           </div>
         </div>

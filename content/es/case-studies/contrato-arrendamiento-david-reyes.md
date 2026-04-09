@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Elaboración de Contrato de Arrendamiento para David Reyes | Karina Orocio"
+title: "Elaboración de Contrato de Arrendamiento para David Reyes | Karina Orocio Cruz"
 description: "Caso de éxito: Tengo varios departamentos, pero cada vez más me pedían que querían un contrato de arrendamiento no sabía qué hacer pero después de exponer mis dudas, la Lic Elisa realizó un contrato conforme a las necesidades que tenía."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - david reyes oaxaca
   - derecho civil
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, contrato de arrendamiento, David Reyes, Karina Orocio'
+      content: 'caso de exito oaxaca, contrato de arrendamiento, David Reyes, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Caso de éxito: Elaboración de contrato de arrendamiento personalizado.'
 ---
@@ -59,8 +59,7 @@ image: "/img/layer-office-building.jpg"
 ---
 challenge: "Nuestro cliente David Reyes es propietario de varios departamentos en Oaxaca que destina al arrendamiento. Sin embargo, cada vez más inquilinos le solicitaban un contrato de arrendamiento formal, y David no sabía cómo elaborar un contrato que protegiera sus intereses y se adaptara a las particularidades de su situación patrimonial, ya que tenía diferentes tipos de propiedades con distintas necesidades."
 
-strategy: "После консультации с Давидом мы поняли, что ему нужны индивидуальные контракты, адаптированные к каждому типу недвижимости. Мы разработали комплексный подход, который включал подготовку различных моделей договоров аренды с учетом специфики каждого объекта — от краткосрочной аренды до долгосрочной, с разными условиями оплаты и обслуживания."
-
-outcome: "Благодаря нашему подходу Давид получил персонализированные договоры аренды, которые полностью соответствуют его потребностям и защищают его интересы как собственника. Каждый договор был адаптирован к конкретной ситуации: некоторые включают условия для арендаторов с домашними животными, другие — особые положения о порядке оплаты коммунальных услуг. Сегодня Давид уверенно сдает свои квартиры, зная, что его юридические интересы надежно защищены."
+strategy: "Tras una consulta detallada con David, comprendimos que necesitaba contratos personalizados adaptados a cada tipo de propiedad. Desarrollamos un enfoque integral que incluyó la preparación de diversos modelos de contratos de arrendamiento, considerando las particularidades de cada inmueble: desde rentas a corto plazo hasta contratos de largo plazo, con diferentes términos de pago y mantenimiento."
+outcome: "Gracias a nuestro enfoque, David recibió contratos de arrendamiento personalizados que satisfacen plenamente sus necesidades y protegen sus intereses como propietario. Cada contrato fue adaptado a la situación específica: algunos incluyen condiciones para inquilinos con mascotas, mientras que otros cuentan con disposiciones especiales sobre el pago de servicios. Hoy, David renta sus departamentos con total seguridad, sabiendo que sus intereses legales están protegidos."
 ---
 ::

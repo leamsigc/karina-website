@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Oaxaca de Juárez | Lic. Karina Orocio"
+title: "Abogado en Oaxaca de Juárez | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico y servicios legales en Oaxaca de Juárez, Oaxaca. Especialistas en reducción de predial, derecho civil, familiar y administrativo en los Valles Centrales."
 keywords: "abogado en oaxaca de juarez, abogada oaxaca de juarez, despacho juridico oaxaca, servicios legales oaxaca, reduccion predial oaxaca, divorcio oaxaca"
 image:
@@ -19,11 +19,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'abogado oaxaca de juarez, servicios legales oaxaca, Karina Orocio'
+      content: 'abogado oaxaca de juarez, servicios legales oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Despacho jurídico en Oaxaca de Juárez.'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Defense of Landowners in Wind Farm Lease Contracts | Karina Orocio"
+title: "Defense of Landowners in Wind Farm Lease Contracts | Karina Orocio Cruz"
 description: "Success case: We negotiated a 40% increase in royalties for landowners in wind farm lease contracts in the Isthmus of Tehuantepec."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - land lease oaxaca
   - civil law oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, wind energy, land lease, Karina Orocio'
+      content: 'success case oaxaca, wind energy, land lease, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: We negotiated a 40% increase in royalties for landowners.'
 ---

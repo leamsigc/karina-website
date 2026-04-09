@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Nulidad de Cobros Prediales Excesivos | Karina Orocio"
+title: "Nulidad de Cobros Prediales Excesivos | Karina Orocio Cruz"
 description: "Caso de éxito: Logramos una reducción del 75% en el impuesto predial de una plaza comercial en Ocotlán de Morelos mediante juicio de nulidad."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - juicio nulidad oaxaca
   - derecho administrativo
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, reduccion predial, juicio nulidad, Karina Orocio'
+      content: 'caso de exito oaxaca, reduccion predial, juicio nulidad, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Caso de éxito: Reducción del 75% en el impuesto predial de plaza comercial.'
 ---

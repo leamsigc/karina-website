@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Lease Contract Preparation for David Reyes | Karina Orocio"
+title: "Lease Contract Preparation for David Reyes | Karina Orocio Cruz"
 description: "Success case: I have several apartments, but more and more they asked me for a lease contract, I didn't know what to do, but after expressing my doubts, Lic Elisa prepared a contract according to my needs."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - david reyes oaxaca
   - civil law
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, lease contract, David Reyes, Karina Orocio'
+      content: 'success case oaxaca, lease contract, David Reyes, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: Custom-made lease contract preparation.'
 ---

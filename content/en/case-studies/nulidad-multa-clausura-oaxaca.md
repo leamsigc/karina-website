@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Nullification of Administrative Fine and Municipal Closure | Karina Orocio"
+title: "Nullification of Administrative Fine and Municipal Closure | Karina Orocio Cruz"
 description: "Success case: We achieved the nullification of a $1.2M MXN fine and immediate reopening of a business in Oaxaca. Defense against arbitrary municipal acts."
 type: case
 caseOverview:
@@ -16,7 +16,7 @@ tags:
   - amparo lawsuit oaxaca
   - administrative law
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -36,11 +36,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, nullification administrative fine, municipal closure oaxaca, Karina Orocio'
+      content: 'success case oaxaca, nullification administrative fine, municipal closure oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Success case: We achieved the nullification of a $1.2M MXN fine and immediate reopening.'
 ---
@@ -60,7 +60,7 @@ image: "/img/layer-office-building.jpg"
 ---
 challenge: "Our client, a construction company based in Oaxaca de Juárez, faced an irregular municipal inspection that resulted in the total closure of a major project and the imposition of a fine exceeding one million pesos, paralyzing their operations and putting contracts with third parties at risk."
 
-strategy: "The Karina Orocio team filed an Indirect Ampareo Lawsuit requesting provisional and definitive suspension of the claimed acts. We argued the lack of foundation and motivation in the inspection order, as well as violations to the right of prior hearing."
+strategy: "The Karina Orocio Cruz team filed an Indirect Ampareo Lawsuit requesting provisional and definitive suspension of the claimed acts. We argued the lack of foundation and motivation in the inspection order, as well as violations to the right of prior hearing."
 
 outcome: "In less than 48 hours, the District Judge granted the suspension, ordering the immediate removal of the closure seals. Subsequently, in the main trial, the full nullification of the fine was declared, saving the company 1.2 million pesos and setting a precedent against arbitrary acts by municipal authorities."
 ---

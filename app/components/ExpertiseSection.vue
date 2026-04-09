@@ -11,10 +11,11 @@ withDefaults(defineProps<Props>(), {
 })
 
 const services = computed(() => [
-  { key: 'predial', link: '/services/reduccion-predial-oaxaca' },
+  { key: 'mercantil', link: '/services/derecho-mercantil-oaxaca' },
   { key: 'civil', link: '/services/derecho-civil-oaxaca' },
   { key: 'familiar', link: '/services/derecho-familiar-oaxaca' },
-  { key: 'administrativo', link: '/services/derecho-administrativo-oaxaca' }
+  { key: 'administrativo', link: '/services/derecho-administrativo-oaxaca' },
+  { key: 'municipal', link: '/services/derecho-municipal-oaxaca' }
 ])
 </script>
 

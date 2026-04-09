@@ -32,6 +32,25 @@ withDefaults(defineProps<Props>(), {
             {{ t('home.authority.description2') }}
           </p>
 
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 mb-12 bg-charcoal/5 p-8 rounded-sm border border-gold/10">
+            <div>
+              <h3 class="font-serif text-2xl text-charcoal mb-4 flex items-center gap-2">
+                <span class="text-gold text-sm">✦</span> {{ t('home.authority.mission_title') }}
+              </h3>
+              <p class="text-sm font-light text-charcoal-light leading-relaxed">
+                {{ t('home.authority.mission_text') }}
+              </p>
+            </div>
+            <div>
+              <h3 class="font-serif text-2xl text-charcoal mb-4 flex items-center gap-2">
+                <span class="text-gold text-sm">✦</span> {{ t('home.authority.vision_title') }}
+              </h3>
+              <p class="text-sm font-light text-charcoal-light leading-relaxed">
+                {{ t('home.authority.vision_text') }}
+              </p>
+            </div>
+          </div>
+
           <div class="grid grid-cols-2 gap-6 mb-10">
             <div class="flex items-start space-x-3">
               <div class="h-6 w-6 text-gold shrink-0 text-xl">🛡</div>

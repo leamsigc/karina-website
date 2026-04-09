@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 'Karina Orocia | Abogada Postulante en Oaxaca de Juárez'
-description: 'Karina Orocia - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Primera asesoría gratis. Tel: 951-615-30-10'
+title: 'Karina Orocio Cruz | Abogada Postulante en Oaxaca de Juárez'
+description: 'Karina Orocio Cruz - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Primera asesoría gratis. Tel: 951-615-30-10'
 image:
   src: '/img/MendozaRoofingShallotte.png'
-  alt: 'Karina Orocia - Abogada Postulante Oaxaca'
+  alt: 'Karina Orocio Cruz - Abogada Postulante Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
@@ -12,21 +12,21 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'Karina Orocia abogadas oaxaca, about Karina Orocia, abogadas property tax oaxaca, asesoria legal patrimonial oaxaca, abogado predial oaxaca'
+      content: 'Karina Orocio Cruz abogadas oaxaca, about Karina Orocio Cruz, abogadas property tax oaxaca, asesoria legal patrimonial oaxaca, abogado predial oaxaca'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Karina Orocia - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca.'
+      content: 'Karina Orocio Cruz - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca.'
 author:
-  name: 'Karina Orocia'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Karina Orocia | Abogada Postulante Oaxaca'
+    title: 'Karina Orocio Cruz | Abogada Postulante Oaxaca'
     description: 'Abogada especializada en asesoría legal patrimonial en Oaxaca de Juárez.'
     image: '/img/MendozaRoofingShallotte.png'
     headline: 'Sobre Mí'
@@ -34,7 +34,7 @@ ogImage:
 
 ::PageHero
 ---
-title: Karina Orocia
+title: Karina Orocio Cruz
 subtitle: Abogada Postulante en Oaxaca de Juárez — Especialista en Asesoría Legal Patrimonial
 ---
 ::
@@ -43,7 +43,7 @@ subtitle: Abogada Postulante en Oaxaca de Juárez — Especialista en Asesoría 
 
 <div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16 font-serif font-light text-xl">
   <p class="lead font-bold text-2xl mb-8  ">
-    Soy Karina Orocia, Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca de Juárez.
+    Soy Karina Orocio Cruz, Abogada Postulante especialista en derecho privado, que busca proteger tu patrimonio, en la reducción de pagos prediales, contra cargos no reconocidos y defensa contra autoridades administrativas en Oaxaca de Juárez.
   </p>
 
   <p class="mb-6 ">
@@ -60,7 +60,7 @@ subtitle: Abogada Postulante en Oaxaca de Juárez — Especialista en Asesoría 
 
   <ul class="mb-8 ">
     <li><strong>Revisión de Avalúos Catastrales</strong> — Evaluamos si tu propiedad está valuada correctamente</li>
-    <li><strong>Gestión para Reducción de Predial</strong> — Te ayudamos a reducir tus pagos de manera legal</li>
+    <li><strong>Gestión para Derecho Municipal</strong> — Te ayudamos a reducir tus pagos de manera legal</li>
     <li><strong>Asesoría en Regularización de Propiedades</strong> — Trámites para legalizar tu propiedad</li>
     <li><strong>Defensa Legal ante Cobros Excesivos</strong> — Representación en disputas con autoridades</li>
     <li><strong>Trámites Municipales</strong> — Gestiones ante el municipio de Oaxaca de Juárez</li>

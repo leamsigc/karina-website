@@ -2,15 +2,20 @@
     "home": {
         "hero": {
             "title": "Strategic Legal Defense in Oaxaca",
-            "subtitle": "Specialists in property, civil, family, and administrative law. We protect your assets with strategy and results.",
+            "subtitle": "PRIVATE LAW (FAMILY, CIVIL, COMMERCIAL AND ADMINISTRATIVE). We protect your assets with strategy and results.",
             "cta_consultation": "Schedule Consultation",
-            "cta_services": "View Services"
+            "cta_services": "View Services",
+            "specialist": "Specialist in"
         },
         "authority": {
             "title": "Legal Authority in",
             "location": "Oaxaca de Juárez",
             "description1": "We deeply understand the legal and administrative environment of the State of Oaxaca. Our firm distinguishes itself for meticulous analysis and impeccable execution in every case we handle before local and federal courts.",
             "description2": "Whether you face a disproportionate property tax charge from the municipality of Oaxaca de Juárez, Santa Lucía del Camino or Xoxocotlán, or need to secure your family assets through an inheritance proceeding, we provide absolute legal certainty.",
+            "mission_title": "Mission",
+            "mission_text": "To provide specialized legal services in private law with excellence, ethics, and commitment, offering comprehensive and personalized legal solutions that protect our clients' interests in the state of Oaxaca. We focus on building trust through close, transparent, and effective legal support in every matter.",
+            "vision_title": "Vision",
+            "vision_text": "To consolidate as a leading legal firm in Oaxaca in the field of private law, recognized for its professionalism, innovation, and results, contributing to the legal and social development of the region, and positioning ourselves as a benchmark for quality and trust at the state and national levels.",
             "feature1_title": "Strategic Defense",
             "feature1_desc": "In-depth analysis of each case file.",
             "feature2_title": "Professional Ethics",
@@ -23,13 +28,13 @@
             "description": "Our practice focuses on critical areas of law in Oaxaca, where precision and strategy determine case success.",
             "cta": "View all services",
             "services": {
-                "predial": {
-                    "title": "Property Tax Reduction",
+                "municipal": {
+                    "title": "Municipal Law",
                     "description": "Defense against excessive property tax charges in Oaxaca de Juárez and surrounding municipalities through nullity lawsuits."
                 },
                 "civil": {
                     "title": "Civil Law",
-                    "description": "Property regularization (Usucapion), inheritance proceedings (intestate and testamentary) and high-rigor contract drafting."
+                    "description": "Property regularization (Usucaption), Summary Mortgage Trial, inheritance proceedings (intestate and testamentary) and high-rigor contract drafting."
                 },
                 "familiar": {
                     "title": "Family Law",
@@ -38,27 +43,11 @@
                 "administrativo": {
                     "title": "Administrative Law",
                     "description": "Defense against business closures, traffic fines, and arbitrary acts by municipal and state authorities."
+                },
+                "mercantil": {
+                    "title": "Commercial Law",
+                    "description": "Commercial oral trials, Executive Commercial Trial, debt recovery, promissory notes, invoices, unrecognized charges, and amparo proceedings."
                 }
-            }
-        },
-        "testimonials": {
-            "title": "What our",
-            "subtitle": "clients say",
-            "cta": "View case studies",
-            "testimonial1": {
-                "quote": "The Oaxaca municipality wanted to charge me an absurd amount of property tax for a supposed update. Attorney Karina filed a nullity lawsuit and we managed to reduce the payment by 60%. Excellent lawyer, very professional.",
-                "author": "Roberto M.",
-                "case": "Case: Property Tax Reduction"
-            },
-            "testimonial2": {
-                "quote": "We had been trying for years to fix the deeds to my grandparents' house. Thanks to their advice on the intestate succession proceeding, we finally have legal certainty about our family assets in Jalatlaco.",
-                "author": "García Family",
-                "case": "Case: Inheritance Proceeding"
-            },
-            "testimonial3": {
-                "quote": "My divorce process was quick and uncomplicated thanks to their intervention. They achieved a fair agreement for child support for my children. I highly recommend their law firm.",
-                "author": "Ana Lilia S.",
-                "case": "Case: No-Fault Divorce"
             }
         },
         "caseStudies": {
@@ -68,20 +57,20 @@
                 "subtitle": "Our best reference are the results. Learn how we have protected the assets, freedom and rights of our clients in Oaxaca."
             },
             "case1": {
-                "title": "Nullification of Administrative Fine and Municipal Closure",
-                "client": "Local Construction Company",
+                "title": "Loan II Promissory Note",
+                "client": "Edenia López",
                 "location": "Oaxaca de Juárez",
-                "result": "Savings of $1.2M MXN",
-                "category": "Administrative Law",
-                "summary": "We achieved full nullification of a fine imposed arbitrarily by the municipality on a local construction company."
+                "result": "Capital and Interest Recovery",
+                "category": "Commercial Law",
+                "summary": "Thanks to a proper legal strategy, Ms. Edenia managed to recover the money she had lent to acquaintances who had signed a promissory note but refused to fulfill their payment obligation. Through the corresponding lawsuit, both the principal amount and interest were successfully recovered, ensuring her rights were protected."
             },
             "case2": {
-                "title": "Regularization of High-Value Coastal Property",
-                "client": "Group of Investors",
-                "location": "Puerto Escondido",
-                "result": "Legal Certainty",
-                "category": "Civil Law",
-                "summary": "We advised a group of investors on the safe transition from communal possession rights to private property."
+                "title": "No-Fault Divorce and Child Support",
+                "client": "Leticia Cabrera",
+                "location": "Oaxaca de Juárez",
+                "result": "Agile and Favorable Resolution",
+                "category": "Family Law",
+                "summary": "Ms. Leticia successfully formalized her divorce efficiently through a strategic legal approach. By drafting a comprehensive prior agreement, we established clear rights and obligations for both parties, including fair child support. This process prioritized the children's well-being and achieved a swift, favorable resolution for all involved."
             },
             "case3": {
                 "title": "Defense of Landowners in Wind Farm Lease Contracts",
@@ -96,7 +85,7 @@
                 "client": "Commercial Plaza",
                 "location": "Ocotlán de Morelos",
                 "result": "75% Reduction",
-                "category": "Administrative Law",
+                "category": "Municipal Law",
                 "summary": "We successfully challenged an arbitrary cadastral update that multiplied the property tax of several commercial properties."
             },
             "read_more": "Read Full Case"
@@ -104,6 +93,12 @@
         "faq": {
             "title": "Frequently",
             "subtitle": "Asked Questions",
+            "question_location": "Where are you located?",
+            "answer_location": "Our main offices are located in Oaxaca de Juárez, attending by appointment only to guarantee your privacy.",
+            "question_costs": "What are the costs?",
+            "answer_costs": "Fees vary according to the complexity of the case. We offer a first free evaluation consultation to provide you with a transparent budget.",
+            "question_abroad": "If I live abroad, can I sue?",
+            "answer_abroad": "Yes, it is possible to initiate and carry out legal processes in Mexico through a power of attorney or appropriate legal representation without the need for you to travel.",
             "cta": "Contact"
         },
         "services": {
@@ -112,33 +107,98 @@
                 "default_service": "this legal matter",
                 "description": "Schedule a confidential consultation at our offices in Oaxaca de Juárez to analyze your case and design an effective legal strategy.",
                 "button": "Request Consultation"
-            }
-        },
-        "blog": {
-            "hero": {
-                "title": "Legal Blog",
-                "description": "In-depth legal analysis on the most relevant legal challenges in the State of Oaxaca."
             },
-            "read_article": "Read Article"
+            "list": [
+                {
+                    "slug": "derecho-mercantil-oaxaca",
+                    "title": "Commercial Law",
+                    "excerpt": "Commercial oral trials, Executive Commercial Trial, debt recovery, promissory notes, invoices, unrecognized charges, and amparo proceedings.",
+                    "image": "/img/layer-accounting.jpg"
+                },
+                {
+                    "slug": "derecho-civil-oaxaca",
+                    "title": "Civil Law",
+                    "excerpt": "Property regularization (Usucaption), Summary Mortgage Trial, inheritance proceedings (intestate and testamentary) and high-rigor contract drafting.",
+                    "image": "/img/two.jpeg"
+                },
+                {
+                    "slug": "derecho-familiar-oaxaca",
+                    "title": "Family Law",
+                    "excerpt": "Strategic resolution of no-fault divorces, child support, and custody before the Family Courts of Centro Oaxaca.",
+                    "image": "/img/tres.jpeg"
+                },
+                {
+                    "slug": "derecho-administrativo-oaxaca",
+                    "title": "Administrative Law",
+                    "excerpt": "Defense against business closures, traffic fines, and arbitrary acts by municipal and state authorities.",
+                    "image": "/img/layer-services-1.jpg"
+                },
+                {
+                    "slug": "municipal-law-oaxaca",
+                    "title": "Municipal Law",
+                    "excerpt": "Defense against excessive property tax (Predial), arbitrary municipal fines, and building closures in Oaxaca de Juárez.",
+                    "image": "/img/one.jpeg"
+                },
+                {
+                    "slug": "tramites-municipales-oaxaca",
+                    "title": "Municipal Procedures",
+                    "excerpt": "Official numbers, alignment, title transfers (Traslado de Dominio), and building license management in Oaxaca.",
+                    "image": "/img/layer-office-building.jpg"
+                },
+                {
+                    "slug": "gestoria-notarial-oaxaca",
+                    "title": "Notarial Services",
+                    "excerpt": "Notary management, wills (Testamentos), powers of attorney, and contract formalization in Oaxaca.",
+                    "image": "/img/layer-meeting.jpg"
+                }
+            ]
+        },
+        "testimonials": {
+            "title": "What",
+            "subtitle": "our clients say",
+            "cta": "View case studies",
+            "testimonial1": {
+                "quote": "The municipality of Oaxaca wanted to charge me an absurd amount of property tax for a supposed update. Counselor Karina filed a nullity lawsuit and we managed to reduce the payment by 60%. Excellent lawyer, very professional.",
+                "author": "Roberto M.",
+                "case": "Case: Municipal Law"
+            },
+            "testimonial2": {
+                "quote": "We had been trying for years to fix the deeds of my grandparents' house. Thanks to their advice on the intestate succession proceeding, we finally have legal certainty about our family heritage in Jalatlaco.",
+                "author": "García Family",
+                "case": "Case: Probate Law"
+            },
+            "testimonial3": {
+                "quote": "My divorce process was fast and without complications thanks to their intervention. They achieved a fair agreement for my children's child support. I highly recommend their law firm.",
+                "author": "Ana Lilia S.",
+                "case": "Case: No-Fault Divorce"
+            }
         }
+    },
+    "blog": {
+        "hero": {
+            "title": "Legal Editorial",
+            "highlight": "Karina Orocio Cruz",
+            "description": "In-depth legal analysis on the most relevant legal challenges in the State of Oaxaca."
+        },
+        "read_article": "Read Article"
     },
     "nav": {
         "home": "Home",
         "about": "About Us",
         "services": "Services",
         "tools": "Tools",
+        "insights": "Editorial",
         "blog": "Editorial",
-        "insights": "Insights",
         "contact": "Contact",
         "associates": "Our Team",
         "faq": "FAQ",
-        "caseStudies": "Case Studies",
-        "back_to_case_studies": "View all cases",
+        "caseStudies": "Success Cases",
+        "back_to_case_studies": "Back to Case Studies",
         "cta": "Schedule Consultation",
         "navigation": "Navigation",
-        "back_to_blog": "Back to Blog",
+        "back_to_blog": "Back to Editorial",
         "back_to_home": "Back to Home",
-        "location_oaxaca": "Oaxaca de Juárez, Oaxaca",
+        "location_oaxaca": "Oaxaca de Juárez, Oax.",
         "location_puerto": "Puerto Escondido",
         "location_huatulco": "Huatulco",
         "location_salina": "Salina Cruz",
@@ -159,11 +219,11 @@
         "description": "We handle each case with maximum confidentiality and legal rigor. Contact us to evaluate your legal situation in Oaxaca de Juárez and surrounding municipalities.",
         "phone_label": "Direct Line",
         "phone": "951-615-30-10",
-        "phone_note": "Phone and WhatsApp attention",
+        "phone_note": "Phone and WhatsApp",
         "location_label": "Location",
-        "location": "Oaxaca de Juárez, Oaxaca",
+        "location": "Oaxaca de Juárez, Oax.",
         "location_note": "Exclusive attention by appointment to guarantee the privacy of your case.",
-        "hours_label": "Business Hours",
+        "hours_label": "Hours of Attention",
         "hours_weekday": "Monday to Friday: 9:00 AM - 6:00 PM",
         "hours_saturday": "Saturdays: By appointment",
         "form_title": "Contact Request",
@@ -171,9 +231,9 @@
         "form_phone": "Phone / WhatsApp",
         "form_interest": "Area of Interest",
         "form_select": "Select an area...",
-        "form_predial": "Property Tax Reduction",
+        "form_predial": "Municipal Law",
         "form_civil": "Civil Law (Usucaption, Contracts)",
-        "form_family": "Family Law (Divorce, Alimony)",
+        "form_familiar": "Family Law (Divorce, Alimony)",
         "form_admin": "Administrative Law (Amparos, Fines)",
         "form_mercantil": "Commercial Law (Lawsuits, Collection)",
         "form_municipal": "Municipal Procedures (Official Number, Alignment)",
@@ -183,28 +243,32 @@
         "form_submit": "Send Confidential Request",
         "form_sending": "Sending...",
         "success_title": "Message Sent!",
-        "success_message": "Your message has been sent successfully. We'll get back to you within 24 hours.",
+        "success_message": "Your message has been sent successfully. We will contact you within the next 24 hours.",
         "success_button": "Send another message",
-        "success_home": "Return Home",
-        "form_privacy": "Your data is protected by professional secrecy and will only be used to contact you."
+        "success_home": "Back to Home",
+        "form_privacy": "Your data is protected by professional secrecy and will be used only to contact you."
     },
     "common": {
-        "cta_quote": "Get Quote",
+        "cta_quote": "Quote",
         "read_more": "Read more",
         "cta_call": "Call Now",
-        "licensed_insured": "Licensed & Fully Insured",
+        "licensed_insured": "Licensed & Insured",
         "language": "Language",
         "theme": "Theme",
-        "title": "Attorney at Law",
+        "title": "Abogada Postulante",
         "footer_description": "Boutique law firm in Oaxaca de Juárez. Specialized in strategic litigation, asset protection, and administrative law with a focus on excellence and results.",
         "testimonials_subtitle": "The trust of our clients in Oaxaca is our greatest endorsement. Proven results in strategic litigation.",
-        "appointment": "By appointment only",
+        "appointment": "Attention by appointment",
         "coverage": "Legal Coverage in the State of Oaxaca",
         "rights": "ALL RIGHTS RESERVED.",
         "practice_area": "Practice Area",
         "need_consultation": "Do you need advice on this topic?",
         "consultation_subtitle": "Schedule a consultation to analyze your specific case in Oaxaca de Juárez with absolute confidentiality.",
         "page_not_found": "Page not found",
-        "page_not_found_subtitle": "The page you're looking for doesn't exist."
+        "page_not_found_subtitle": "The page you are looking for does not exist.",
+        "practice_areas_title": "Practice",
+        "practice_areas_highlight": "Areas",
+        "practice_areas_description": "High-level legal representation focused on the protection of your heritage and fundamental rights in the State of Oaxaca.",
+        "view_details": "View Service Details"
     }
 }

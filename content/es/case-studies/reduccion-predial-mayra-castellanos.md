@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Reducción de Predial para Mayra Castellanos | Karina Orocio"
+title: "Reducción de Predial para Mayra Castellanos | Karina Orocio Cruz"
 description: "Caso de éxito: Logramos que nuestra clienta Mayra Castellanos pagara menos impuesto predial derivado de una compraventa realizada."
 type: case
 caseOverview:
@@ -15,7 +15,7 @@ tags:
   - mayra castellanos oaxaca
   - derecho administrativo
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -35,11 +35,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, reduccion predial, Mayra Castellanos, Karina Orocio'
+      content: 'caso de exito oaxaca, reduccion predial, Mayra Castellanos, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Caso de éxito: Reducción del impuesto predial para Mayra Castellanos.'
 ---

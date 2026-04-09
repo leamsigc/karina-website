@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Salina Cruz | Lic. Karina Orocio"
+title: "Abogado en Salina Cruz | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico y servicios legales en Salina Cruz, Oaxaca. Especialistas en derecho corporativo, administrativo y litigios complejos."
-keywords: "abogado salina cruz, servicios legales istmo, litigio comercial oaxaca, Karina Orocio"
+keywords: "abogado salina cruz, servicios legales istmo, litigio comercial oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-services-2.jpg'
   alt: 'Abogado en Salina Cruz'

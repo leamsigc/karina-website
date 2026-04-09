@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Pochutla | Lic. Karina Orocio"
+title: "Abogado en Pochutla | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico en San Pedro Pochutla, Oaxaca. Especialistas en derecho civil, familiar y defensa contra actos arbitrarios."
-keywords: "abogado pochutla, servicios legales costa, defensa administrativa oaxaca, Karina Orocio"
+keywords: "abogado pochutla, servicios legales costa, defensa administrativa oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-services-2.jpg'
   alt: 'Abogado en Pochutla'

@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Gestoría Notarial | Karina Orocio"
+title: "Gestoría Notarial | Karina Orocio Cruz"
 description: "Servicios de gestoría notarial en Oaxaca: testamentos, contratos, regularización de actas y trámites ante el Registro Civil."
 tags:
   - gestoría notarial oaxaca
@@ -9,7 +9,7 @@ tags:
   - actas de nacimiento oaxaca
   - divorcio oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
@@ -29,11 +29,11 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'gestoría notarial oaxaca, testamentos, contratos, actas, Karina Orocio'
+      content: 'gestoría notarial oaxaca, testamentos, contratos, actas, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Servicios de gestoría notarial en Oaxaca.'
 ---

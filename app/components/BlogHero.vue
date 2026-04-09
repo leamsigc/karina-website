@@ -17,8 +17,8 @@ withDefaults(defineProps<Props>(), {
   date: ''
 })
 
-const displayTitle = computed(() => t('home.blog.hero.title'))
-const displayHighlight = computed(() => t('home.blog.hero.highlight'))
+const displayTitle = computed(() => t('blog.hero.title'))
+const displayHighlight = computed(() => t('blog.hero.highlight'))
 </script>
 
 <template>

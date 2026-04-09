@@ -28,7 +28,7 @@ useHead(page.value?.head || {})
 useSeoMeta(page.value?.seo || {})
 
 defineOgImageComponent('BlogOgImage', {
-  title: page.value?.ogImage?.props?.title || 'Karina Orocia - Abogada Postulante',
+  title: page.value?.ogImage?.props?.title || 'Karina Orocio Cruz - Abogada Postulante',
   description: page.value?.ogImage?.props?.description || 'Especialista en asesoría legal patrimonial en Oaxaca',
   imageUrl: page.value?.ogImage?.props?.image || '/img/HomeHeroBg.png',
   headline: page.value?.ogImage?.props?.headline || 'Abogada',

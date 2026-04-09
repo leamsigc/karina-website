@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Juchitán | Lic. Karina Orocio"
+title: "Abogado en Juchitán | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico y servicios legales en Juchitán de Zaragoza, Oaxaca. Especialistas en disputas comerciales, derecho familiar y arrendamiento eólico."
-keywords: "abogado juchitan, servicios legales istmo, energia eolica oaxaca, Karina Orocio"
+keywords: "abogado juchitan, servicios legales istmo, energia eolica oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Abogado en Juchitán'

@@ -1,6 +1,6 @@
 ---
 layout: blog-layout
-title: "Editorial Legal | Karina Orocio - Artículos de Derecho en Oaxaca"
+title: "Editorial Legal | Karina Orocio Cruz - Artículos de Derecho en Oaxaca"
 description: "Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca. Análisis jurídico profundo sobre los retos legales más relevantes."
 tags:
   - derecho civil oaxaca
@@ -9,13 +9,13 @@ tags:
   - reduccion predial
   - juicios oaxaca
 author:
-  name: 'Karina Orocio'
+  name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/layer-services-2.jpg'
-  alt: 'Editorial Legal Karina Orocio Oaxaca'
+  alt: 'Editorial Legal Karina Orocio Cruz Oaxaca'
 ogImage:
   component: BlogOgImage
   props:
@@ -29,18 +29,18 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'blog legal oaxaca, articulos derecho oaxaca, analisis juridico oaxaca, abogados oaxaca, Karina Orocio'
+      content: 'blog legal oaxaca, articulos derecho oaxaca, analisis juridico oaxaca, abogados oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'Karina Orocio'
+      content: 'Karina Orocio Cruz'
     - name: 'description'
       content: 'Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca.'
 ---
 
 ::BlogHero
 ---
-highlight: Legal
+highlight: Karina Orocio Cruz
 description: Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca.
 ---
 ::

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Abogado en Tlaxiaco | Lic. Karina Orocio"
+title: "Abogado en Tlaxiaco | Lic. Karina Orocio Cruz"
 description: "Despacho jurídico en Heroica Ciudad de Tlaxiaco, Oaxaca. Especialistas en juicios de usucapión, rectificación de actas y divorcios."
-keywords: "abogado tlaxiaco, servicios legales mixteca, usucapion oaxaca, Karina Orocio"
+keywords: "abogado tlaxiaco, servicios legales mixteca, usucapion oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Abogado en Tlaxiaco'

@@ -3,7 +3,7 @@
  *
  * Component Description: Contact form with validation and success state.
  *
- * @author Karina Orocia Abogada Postulante <karina@abogada-karina-oaxaca.com>
+ * @author Karina Orocio Cruz Abogada Postulante <karina@abogada-karina-oaxaca.com>
  * @version 0.0.1
  *
  * @todo [ ] Test the component
@@ -23,7 +23,7 @@ const interestOptions = computed(() => {
     if (locale.value === 'es') {
         return [
             { value: '', label: 'Selecciona un área de interés' },
-            { value: 'reduccion-predial', label: 'Reducción de Predial' },
+            { value: 'reduccion-predial', label: 'Derecho Municipal' },
             { value: 'derecho-civil', label: 'Derecho Civil' },
             { value: 'derecho-familiar', label: 'Derecho Familiar' },
             { value: 'derecho-mercantil', label: 'Derecho Mercantil' },
