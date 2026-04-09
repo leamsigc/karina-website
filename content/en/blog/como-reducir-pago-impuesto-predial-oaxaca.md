@@ -2,7 +2,7 @@
 layout: blog
 title: "Excessive Increase in Your Property Tax? How to Defend Yourself in Oaxaca"
 description: "Guide on the nullity of arbitrary cadastral updates and how to protect your assets against disproportionate municipal charges."
-featured: false
+featured: true
 tags:
   - property tax
   - oaxaca de juarez
@@ -69,7 +69,6 @@ If, when receiving your property tax bill, you notice an increase you consider e
 
 Your assets are the result of years of effort. Do not allow arbitrary municipal charges to put them at risk. Administrative law offers powerful tools to balance the scales between the citizen and the authority. In Oaxaca de Juárez, we are experts in protecting owners against unjustified fiscal greed.
 
----
 
 **Did your property tax increase unjustifiably this year?**
 We analyze your bill at no cost to determine if a nullity trial is viable. Protect your property with a professional legal strategy.

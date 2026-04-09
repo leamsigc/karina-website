@@ -15,14 +15,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-justice.jpg'
+  src: '/img/layer-meeting.jpg'
   alt: 'Human Rights Mexico'
 ogImage:
   component: BlogOgImage
   props:
     title: 'UN and Human Rights in Mexico'
     description: 'Analysis of international criteria in the Mexican justice system.'
-    image: '/img/layer-justice.jpg'
+    image: '/img/layer-meeting.jpg'
     headline: 'SCJN Criteria'
 publishedAt: '2024-03-15'
 ---
@@ -65,7 +65,6 @@ If you feel that your human rights have been violated, whether in a criminal, ci
 
 Justice in Mexico is no longer limited to what our local or federal laws say. Today, the dialogue with international law is a powerful tool to protect heritage and freedom. In our firm in Oaxaca de Juárez, we specialize in integrating these cutting-edge criteria to ensure that no authority overlooks your fundamental rights.
 
----
 
 **Do you need advice on defenses based on human rights?**
 At **Karina Orocio Cruz**, we analyze your case through the lens of the latest Supreme Court criteria to design the best legal protection strategy.

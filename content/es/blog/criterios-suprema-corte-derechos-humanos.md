@@ -15,14 +15,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/layer-justice.jpg'
+  src: '/img/layer-meeting.jpg'
   alt: 'Derechos Humanos México'
 ogImage:
   component: BlogOgImage
   props:
     title: 'ONU y Derechos Humanos en México'
     description: 'Análisis de criterios internacionales en el sistema de justicia mexicano.'
-    image: '/img/layer-justice.jpg'
+    image: '/img/layer-meeting.jpg'
     headline: 'Criterios SCJN'
 publishedAt: '2024-03-15'
 ---

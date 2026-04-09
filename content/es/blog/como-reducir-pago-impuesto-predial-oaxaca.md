@@ -69,7 +69,6 @@ Si al recibir tu boleta predial notas un incremento que consideras desmedido, re
 
 Tu patrimonio es fruto de años de esfuerzo. No permitas que cobros municipales arbitrarios lo pongan en riesgo. El derecho administrativo ofrece herramientas poderosas para equilibrar la balanza entre el ciudadano y la autoridad. En Oaxaca de Juárez, somos expertos en proteger a los propietarios contra la voracidad fiscal injustificada.
 
----
 
 **¿Tu predial subió de forma injustificada este año?**
 Analizamos tu boleta sin costo para determinar si es viable un juicio de nulidad. Protege tu propiedad con una estrategia legal profesional.

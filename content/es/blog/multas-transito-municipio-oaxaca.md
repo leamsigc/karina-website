@@ -14,14 +14,14 @@ author:
   avatar: '/img/logo.png'
   social: 'https://wa.me/529516153010'
 image:
-  src: '/img/one.jpeg'
+  src: '/img/layer-accounting.jpg'
   alt: 'Transito Oaxaca de Juarez'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Impugnación de Multas en Oaxaca'
     description: 'Guía legal para defenderte de multas de tránsito injustas.'
-    image: '/img/one.jpeg'
+    image: '/img/layer-accounting.jpg'
     headline: 'Guía Ciudadana'
 publishedAt: '2024-04-10'
 ---
@@ -65,7 +65,6 @@ Mucha gente opta por pagar la multa con descuento para "evitar problemas". Lo qu
 
 Luchar contra una multa de tránsito no es solo una cuestión de dinero, es una cuestión de legalidad. Las autoridades municipales deben ser las primeras en respetar el reglamento que juraron defender. En nuestro despacho en Oaxaca, tenemos una amplia trayectoria anulando multas de tránsito mediante estrategias sólidas ante el tribunal administrativo.
 
----
 
 **¿Te aplicaron una multa injusta en Oaxaca de Juárez?**
 No dejes que el plazo de 15 días expire. Contáctanos hoy para analizar la legalidad de tu infracción y defender tu patrimonio.

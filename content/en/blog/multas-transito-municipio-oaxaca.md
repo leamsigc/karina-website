@@ -2,7 +2,7 @@
 layout: blog
 title: "Traffic Fines in Oaxaca? Learn How to Legally Challenge Them"
 description: "Practical guide on your rights regarding traffic violations in the Municipality of Oaxaca de Juárez and the legal grounds for their annulment."
-featured: false
+featured: true
 tags:
   - traffic
   - oaxaca de juarez
@@ -65,7 +65,6 @@ Many people choose to pay the fine with a discount to "avoid problems." What few
 
 Fighting a traffic fine is not just a matter of money; it is a matter of legality. Municipal authorities must be the first to respect the regulations they swore to defend. At our firm in Oaxaca, we have an extensive track record of annulling traffic fines through solid strategies before the administrative court.
 
----
 
 **Were you unfairly fined in Oaxaca de Juárez?**
 Do not let the 15-day deadline expire. Contact us today to analyze the legality of your violation and defend your assets.
