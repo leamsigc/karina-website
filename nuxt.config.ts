@@ -26,8 +26,13 @@ export default defineNuxtConfig({
     prerender: {
       crawlLinks: true,
       autoSubfolderIndex: false,
+      failOnError: false,
     }
   },
+  ogImage: {
+    prerender: false,
+  },
+
   modules: [
     '@nuxt/ui',
     '@nuxt/eslint',
