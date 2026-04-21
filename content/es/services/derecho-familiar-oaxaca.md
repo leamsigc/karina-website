@@ -1,13 +1,15 @@
 ---
 layout: service-detail
-title: "Derecho Familiar | Karina Orocio Cruz"
-description: "Resolución estratégica de divorcios incausados, pensiones alimenticias y guarda y custodia ante los Juzgados Familiares del Centro en Oaxaca."
+title: "Abogado de Familia en Oaxaca | Divorcio, Custodia y Pensión"
+description: "Abogado de familia en Oaxaca. Especialistas en divorcio incausado, pensión alimenticia y guarda y custodia. Consulta gratuita. Karina Orocio Cruz."
 tags:
   - derecho familiar oaxaca
   - divorcio incausado oaxaca
   - pension alimenticia oaxaca
   - guarda y custodia oaxaca
   - divorcio express oaxaca
+  - abogado de familia oaxaca
+  - abogados de lo familiar en oaxaca
 author:
   name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
@@ -19,8 +21,8 @@ image:
 ogImage:
   component: BlogOgImage
   props:
-    title: 'Derecho Familiar Oaxaca'
-    description: 'Divorcios, pensiones alimenticias y custodia en Oaxaca.'
+    title: 'Abogado de Familia en Oaxaca | Divorcio y Pensión'
+    description: 'Especialistas en divorcio, pensión alimenticia y custodia en Oaxaca.'
     image: '/img/layer-family-law.jpg'
     headline: 'Familiar'
 publishedAt: '2024-01-01'
@@ -29,13 +31,38 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'derecho familiar oaxaca, divorcio incausado oaxaca, pension alimenticia oaxaca, guarda y custodia oaxaca, Karina Orocio Cruz'
+      content: 'abogado de familia oaxaca, derecho familiar oaxaca, divorcio incausado oaxaca, pension alimenticia oaxaca, guarda y custodia oaxaca, Karina Orocio Cruz, abogados de lo familiar en oaxaca'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Divorcios, pensiones alimenticias y custodia en Oaxaca.'
+      content: 'Abogado de familia en Oaxaca. Especialistas en divorcio, pensión alimenticia y custodia. Consulta gratuita.'
+seo:
+  title: "Abogado de Familia en Oaxaca | Divorcio, Custodia y Pensión - Karina Orocio"
+  description: "Abogado de familia en Oaxaca. Especialistas en divorcio incausado, pensión alimenticia y guarda y custodia. Consulta gratuita. Karina Orocio Cruz."
+  canonical: "https://abogada-karina-oaxaca.com/services/derecho-familiar-oaxaca"
+schemaOrg:
+  - "@type": "LegalService"
+    name: "Abogado de Familia en Oaxaca"
+    description: "Especialistas en divorcio, pensión alimenticia y custodia en Oaxaca."
+  - "@type": "FAQPage"
+    mainEntity:
+      - "@type": "Question"
+        name: "¿Cuánto tarda un divorcio en Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Un divorcio por mutuo consentimiento con convenio puede resolverse en 1 a 3 meses. Un proceso unilateral puede tomar entre 6 y 18 meses."
+      - "@type": "Question"
+        name: "¿Cuánto cuesta un abogado de familia en Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Los honorarios varían según la complejidad del caso. Ofrecemos una primera consulta de evaluación gratuita."
+      - "@type": "Question"
+        name: "¿Qué es el divorcio incausado en Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "El divorcio incausado permite disolver el matrimonio de forma unilateral sin tener que probar causas ni culpa del otro cónyuge."
 ---
 
 ::ServiceDetailHero
