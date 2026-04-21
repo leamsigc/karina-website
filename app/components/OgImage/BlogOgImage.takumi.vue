@@ -1,26 +1,26 @@
 <script lang="ts" setup>
-import { computed } from 'vue'
+/**
+ *
+ * Component Description:Desc
+ *
+ * @author Leamsigc <leamsigc@gmail.com>
+ * @version 0.0.1
+ *
+ * @todo [ ] Test the component
+ * @todo [ ] Integration test.
+ * @todo [✔] Update the typescript.
+ */
 
-const props = withDefaults(defineProps<{
-  title?: string
-  description?: string
-  headline?: string
-  imageUrl?: string
-  image?: string
-}>(), {
-  title: 'Title',
-  description: 'Description',
-  imageUrl: '/img/HomeHeroBg.png',
-  headline: ''
-})
+const { title = 'title', description = 'description', imageUrl = "/img/HomeHeroBg.png", headline = 'headline' } = defineProps<{ title?: string, description?: string, headline?: string, imageUrl?: string }>();
 
-const resolvedImageUrl = computed(() => props.image || props.imageUrl)
-const titleTrim = computed(() => (props.title || '').slice(0, 60))
+const titleTrim = computed(() => title.slice(0, 60))
 </script>
 
 <template>
     <div class="w-full h-full flex flex-col justify-center bg-[#212121]">
-        <div class="absolute inset-0 bg-gray-950" :style="{ width: '1200px', height: '600px' }" />
+        <div class="absolute inset-0 bg-gray-950" :style="{ width: '1200px', height: '600px', }">
+        </div>
+        <NoiseEffect />
         <div class="w-[600px] pl-[100px]">
             <p v-if="headline" class="uppercase text-[24px] text-[#FEC476] mb-4 font-semibold">
                 {{ headline }}
@@ -35,9 +35,10 @@ const titleTrim = computed(() => (props.title || '').slice(0, 60))
             </p>
         </div>
         <div class="w-[600px] absolute top-40 -right-8 -bottom-2 rounded-4xl ">
-            <img :src="resolvedImageUrl" :alt="title" height="500" width="900"
-                :style="{ aspectRatio: '900/500', borderRadius: '10px' }"
+            <img :src="imageUrl" :alt="title" height="500" width="900"
+                :style="{ aspectRatio: '900/500', borderRadius: '10px', }"
                 class="rounded-4xl mt-auto object-cover w-[550px] h-[900px]">
         </div>
+
     </div>
 </template>

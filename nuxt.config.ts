@@ -29,9 +29,6 @@ export default defineNuxtConfig({
       failOnError: false,
     }
   },
-  ogImage: {
-    prerender: false,
-  },
 
   modules: [
     '@nuxt/ui',
