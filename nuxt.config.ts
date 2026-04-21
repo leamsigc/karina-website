@@ -127,8 +127,12 @@ export default defineNuxtConfig({
       priceRange: '$$',
       sameAs: [
         'https://wa.me/529516153010'
-      ]
-    }
+      ],
+      workTranslation: {
+        inLanguage: 'en',
+        url: 'https://abogada-karina-oaxaca.com/en'
+      }
+    },
   },
 
   // nuxt-vitalizer: eliminate render-blocking entry CSS and excess preload hints

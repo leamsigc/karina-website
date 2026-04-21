@@ -1,7 +1,46 @@
 ---
 layout: service-detail
-title: "Derecho Municipal en Oaxaca | Karina Orocio Cruz"
-description: "Defensa contra cobros excesivos de impuesto predial y actos administrativos en Oaxaca de Juárez y municipios conurbados. Pague lo justo."
+title: "Reducción de Predial en Oaxaca | Karina Orocio Cruz - Abogada Especialista"
+description: "Defensa contra cobros excesivos de impuesto predial en Oaxaca. Juicios de nulidad con resultados comprobados. Pague lo justo - no permita un robo disfrazado."
+tags:
+  - derecho municipal oaxaca
+  - reduccion predial oaxaca
+  - juicio nulidad predial oaxaca
+  - amparo predial oaxaca
+  - impuesto predial excesivo oaxaca
+  - abogado fiscalista oaxaca
+schemaOrg:
+  - "@type": "LegalService"
+    name: "Karina Orocio Cruz - Derecho Municipal Oaxaca"
+    provider:
+      "@type": "LegalService"
+      name: "Karina Orocio Cruz"
+    areaServed:
+      - "@type": "State"
+        name: "Oaxaca"
+    priceRange: "$$"
+  - "@type": "FaqPage"
+    mainEntity:
+      - "@type": "Question"
+        name: "¿Qué pasa si ya pagué el predial excesivo para no tener problemas este año?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Aún hay solución legal. Si pagó en los últimos días y dentro del límite establecido por la ley, podemos promover el juicio y amparo, demandando al municipio no solo la nulidad del cálculo, sino la DEVOLUCIÓN de las cantidades pagadas indebidamente junto con sus intereses."
+      - "@type": "Question"
+        name: "El municipio dice que vale más mi casa porque hice una cochera nueva, y subió mi predial exponencialmente. ¿Es legal?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Si bien todo aumento de construcción genera incremento en el predial, el cálculo debe ceñirse a las tablas de la ley de ingresos, y la tasa no debe perder su proporcionalidad. Si construir una pequeña adición le duplicó el predial de toda la propiedad de base, está mal calculado y es impugnable."
+      - "@type": "Question"
+        name: "¿El Juicio de Nulidad mancha mi nombre en el municipio?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Falso. El municipio como tal emite miles de cuentas. Promote su defensa de derecho constitucional es un trámite judicial. No existe una lista negra; por el contrario, frente a los amparoistas los ayuntamientos tienden a regular sus cobros en años subsecuentes."
+      - "@type": "Question"
+        name: "¿Cuánto tiempo tarda el juicio de nulidad predial en Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "El procedimiento ante los Magistrados del TJAEO actualmente demora entre 6 y 10 meses. Sin embargo, no debe preocuparse por los recargos durante este tiempo, porque desde las primeras semanas solicitaremos la suspensión que congela los intereses en su favor."
 tags:
   - derecho municipal oaxaca
   - reduccion predial oaxaca
