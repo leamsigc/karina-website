@@ -1,15 +1,21 @@
 <script setup lang="ts">
 const { tm, rt, t } = useI18n()
-const localePath = useLocalePath()
 
-const services = computed(() => {
-  const list = tm('home.services.list') || []
-  return (list as any[]).map((item: any) => ({
-    slug: rt(item.slug),
-    title: rt(item.title),
-    excerpt: rt(item.excerpt),
-    image: rt(item.image) || "/img/karina-hero.png"
-  }))
+interface ServiceItem {
+  slug: string
+  title: string
+  excerpt: string
+  image: string
+}
+
+const services = computed((): ServiceItem[] => {
+  const list = tm('home.services.list') as Array<{ slug?: unknown; title?: unknown; excerpt?: unknown; image?: unknown }>
+  return list?.map((item) => ({
+    slug: rt(item.slug as string) ?? '',
+    title: rt(item.title as string) ?? '',
+    excerpt: rt(item.excerpt as string) ?? '',
+    image: rt(item.image as string) ?? '/img/karina-hero.png'
+  })) ?? []
 })
 </script>
 
@@ -28,7 +34,7 @@ const services = computed(() => {
             service.title }}</span>
           <h2 class="font-serif text-4xl text-charcoal mb-6">
             <NuxtLinkLocale :to="`/services/${service.slug}`" class="hover:text-gold transition-colors">{{ service.title
-            }}</NuxtLinkLocale>
+              }}</NuxtLinkLocale>
           </h2>
           <p class="text-charcoal-light font-light text-lg mb-8 leading-relaxed">
             {{ service.excerpt }}

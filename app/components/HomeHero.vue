@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { t } = useI18n()
-const localePath = useLocalePath()
 const { phone } = COMPANY_INFO
 
 interface Props {
@@ -29,12 +28,14 @@ withDefaults(defineProps<Props>(), {
           {{ t('home.hero.subtitle') }}
         </p>
         <div class="flex flex-col sm:flex-row gap-4">
-          <NuxtLinkLocale to="/contact"
+          <NuxtLinkLocale
+to="/contact"
             class="inline-flex items-center justify-center space-x-3 bg-charcoal text-cream px-8 py-4 text-sm tracking-widest uppercase font-medium hover:bg-gold transition-colors duration-300">
             <span>{{ t('home.hero.cta_consultation') }}</span>
             <span>→</span>
           </NuxtLinkLocale>
-          <a :href="`tel:${phone.replace(/[^0-9]/g, '')}`"
+          <a
+:href="`tel:${phone.replace(/[^0-9]/g, '')}`"
             class="inline-flex items-center justify-center space-x-3 border border-charcoal text-charcoal px-8 py-4 text-sm tracking-widest uppercase font-medium hover:bg-charcoal hover:text-cream transition-colors duration-300">
             <span>{{ t('common.cta_call') }}: {{ phone }}</span>
           </a>
@@ -45,7 +46,7 @@ withDefaults(defineProps<Props>(), {
             <p class="font-serif text-3xl text-charcoal mb-1">10+</p>
             <p class="text-xs tracking-widest uppercase font-medium text-charcoal-light">{{ t('home.stats.experience') }}</p>
           </div>
-          <div class="w-px h-12 bg-gold/30"></div>
+          <div class="w-px h-12 bg-gold/30"/>
           <div>
             <p class="font-serif text-3xl text-charcoal mb-1">98%</p>
             <p class="text-xs tracking-widest uppercase font-medium text-charcoal-light">{{ t('home.stats.success') }}</p>
@@ -56,7 +57,8 @@ withDefaults(defineProps<Props>(), {
         <div
           class="relative w-full max-w-md aspect-3/4 rounded-t-full overflow-hidden border border-gold/30 p-3 bg-cream">
           <div class="w-full h-full rounded-t-full overflow-hidden bg-cream-dark relative">
-            <NuxtImg :src="image" :alt="t('common.title')"
+            <NuxtImg
+:src="image" :alt="t('common.title')"
               class="w-full h-full object-cover object-top mix-blend-multiply" />
           </div>
         </div>

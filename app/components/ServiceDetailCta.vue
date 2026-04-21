@@ -25,7 +25,8 @@ const displayTitle = computed(() => t('home.services.cta.title', { service: prop
           {{ t('home.services.cta.description') }}
         </slot>
       </p>
-      <NuxtLinkLocale to="/contact"
+      <NuxtLinkLocale
+to="/contact"
         class="inline-flex items-center justify-center px-8 py-4 border border-gold text-gold hover:bg-gold hover:text-charcoal transition-all duration-300 uppercase tracking-widest text-sm font-medium">
         {{ t('home.services.cta.button') }} <span class="ml-2">→</span>
       </NuxtLinkLocale>

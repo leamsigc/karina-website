@@ -1,9 +1,5 @@
-import { dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
-import { join } from 'node:path'
 import type { NuxtPage } from 'nuxt/schema'
 
-const currentDir = dirname(fileURLToPath(import.meta.url))
 export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
 
@@ -29,10 +25,11 @@ export default defineNuxtConfig({
     },
     prerender: {
       crawlLinks: true,
-      autoSubfolderIndex: false
+      autoSubfolderIndex: false,
     }
   },
   modules: [
+    '@nuxt/ui',
     '@nuxt/eslint',
     '@nuxt/hints',
     '@nuxtjs/seo',
@@ -40,7 +37,6 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/test-utils',
-    '@nuxt/ui',
     '@pinia/nuxt',
     'nuxt-vitalizer',
     'nuxt-umami',
@@ -82,11 +78,6 @@ export default defineNuxtConfig({
     name: 'Karina Orocio - Abogada Postulante en Oaxaca',
     defaultLocale: 'es',
     trailingSlash: false
-  },
-  content: {
-    build: {
-
-    }
   },
   robots: {
     allow: ['*'],
@@ -142,10 +133,10 @@ export default defineNuxtConfig({
   // that the SEO audit flagged across all 40 pages.
   // disableStylesheets:'entry' removes the blocking /_nuxt/entry.[hash].css link.
   // disablePreloadLinks prevents excessive <link rel="preload"> tags.
-  vitalizer: {
-    disableStylesheets: 'entry',
-    disablePreloadLinks: true,
-  },
+  // vitalizer: {
+  //   disableStylesheets: 'entry',
+  //   disablePreloadLinks: true,
+  // },
 
   i18n: {
     baseUrl: process.env.NUXT_PUBLIC_BASE_URL,
@@ -184,9 +175,4 @@ export default defineNuxtConfig({
       })
     },
   },
-  vite: {
-    optimizeDeps: {
-      include: []
-    }
-  }
 })

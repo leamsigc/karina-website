@@ -41,7 +41,7 @@ const handleSubmit = async () => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
         <div>
-          <h1 class="font-serif text-5xl md:text-6xl mb-6 text-charcoal">{{ t('contact.title') }}<br /><span
+          <h1 class="font-serif text-5xl md:text-6xl mb-6 text-charcoal">{{ t('contact.title') }}<br ><span
               class="italic text-gold">{{ t('contact.highlight') }}</span></h1>
           <p class="font-light text-charcoal-light text-lg mb-12 leading-relaxed max-w-md">
             {{ t('contact.description') }}
@@ -53,7 +53,8 @@ const handleSubmit = async () => {
               <div>
                 <h3 class="text-gold tracking-widest uppercase text-xs font-bold mb-2">{{ t('contact.phone_label') }}
                 </h3>
-                <a href="tel:9516153010"
+                <a
+href="tel:9516153010"
                   class="font-serif text-3xl text-charcoal hover:text-gold transition-colors">951-615-30-10</a>
                 <p class="text-sm font-light text-charcoal-light mt-1">{{ t('contact.phone_note') }}</p>
               </div>
@@ -82,46 +83,53 @@ const handleSubmit = async () => {
         </div>
 
         <div class="bg-charcoal p-10 rounded-sm text-cream shadow-2xl">
-          <div v-if="status === 'SUCCESS'"
+          <div
+v-if="status === 'SUCCESS'"
             class="h-full flex flex-col items-center justify-center text-center py-10 animate-fade-in">
             <div class="w-20 h-20 bg-gold rounded-full flex items-center justify-center mx-auto mb-6">
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-charcoal" fill="none" viewBox="0 0 24 24"
+              <svg
+xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-charcoal" fill="none" viewBox="0 0 24 24"
                 stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
               </svg>
             </div>
             <h3 class="font-serif text-3xl mb-4">{{ t('contact.success_title') }}</h3>
             <p class="text-cream-dark mb-8">{{ t('contact.success_message') }}</p>
-            <button type="button" @click="status = 'IDLE'"
-              class="text-gold font-medium hover:underline uppercase tracking-wide text-sm">
+            <button
+type="button" class="text-gold font-medium hover:underline uppercase tracking-wide text-sm"
+              @click="status = 'IDLE'">
               {{ t('contact.success_button') }}
             </button>
           </div>
 
-          <form v-else @submit.prevent="handleSubmit" class="space-y-6" data-netlify="true" netlify
-            data-netlify-honeypot="bot-field" name="contact" action="/success/">
-            <input type="hidden" name="form-name" value="contact" />
+          <form
+v-else class="space-y-6" data-netlify="true" netlify data-netlify-honeypot="bot-field"
+            name="contact" action="/success/" @submit.prevent="handleSubmit">
+            <input type="hidden" name="form-name" value="contact" >
             <div style="display: none;">
-              <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+              <label>Don't fill this out if you're human: <input name="bot-field" ></label>
             </div>
             <h3 class="font-serif text-3xl mb-8">{{ t('contact.form_title') }}</h3>
             <div>
               <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_name') }}</label>
-              <input v-model="form.name" name="name" type="text"
+              <input
+v-model="form.name" name="name" type="text"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors"
-                required />
+                required >
             </div>
             <div>
               <label class="block text-xs tracking-widest uppercase text-gold mb-2">
                 {{ t('contact.form_phone') }}</label>
-              <input v-model="form.phone" name="phone" type="tel"
+              <input
+v-model="form.phone" name="phone" type="tel"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors"
-                required />
+                required >
             </div>
             <div>
               <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_interest')
               }}</label>
-              <select v-model="form.interest" name="interest"
+              <select
+v-model="form.interest" name="interest"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors appearance-none"
                 required>
                 <option value="" class="text-charcoal">{{ t('contact.form_select') }}</option>
@@ -138,11 +146,13 @@ const handleSubmit = async () => {
             <div>
               <label class="block text-xs tracking-widest uppercase text-gold mb-2">{{ t('contact.form_message')
               }}</label>
-              <textarea v-model="form.message" name="message" rows="3"
+              <textarea
+v-model="form.message" name="message" rows="3"
                 class="w-full bg-transparent border-b border-cream/20 py-2 text-cream focus:outline-none focus:border-gold transition-colors resize-none"
-                required></textarea>
+                required/>
             </div>
-            <button type="submit" :disabled="status === 'SENDING'"
+            <button
+type="submit" :disabled="status === 'SENDING'"
               class="w-full bg-gold text-charcoal py-4 text-sm tracking-widest uppercase font-medium hover:bg-cream transition-colors mt-4 disabled:opacity-50 disabled:cursor-not-allowed">
               {{ status === 'SENDING' ? t('contact.form_sending') : t('contact.form_submit') }}
             </button>

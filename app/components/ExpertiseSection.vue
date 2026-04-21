@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { t } = useI18n()
-const localePath = useLocalePath()
 
 interface Props {
   showAll?: boolean;
@@ -24,12 +23,13 @@ const services = computed(() => [
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-16">
         <div class="md:col-span-1">
-          <h2 class="font-serif text-4xl mb-6">{{ t('home.expertise.title') }} <br /><span class="italic text-gold">{{
+          <h2 class="font-serif text-4xl mb-6">{{ t('home.expertise.title') }} <br ><span class="italic text-gold">{{
             t('home.expertise.subtitle') }}</span></h2>
           <p class="font-light text-cream-dark mb-8 leading-relaxed">
             {{ t('home.expertise.description') }}
           </p>
-          <NuxtLinkLocale to="/services"
+          <NuxtLinkLocale
+to="/services"
             class="text-gold text-sm tracking-widest uppercase font-medium hover:text-cream transition-colors flex items-center space-x-2">
             <span>{{ t('home.expertise.cta') }}</span>
             <span>→</span>
@@ -46,7 +46,8 @@ const services = computed(() => [
             <p class="font-light text-cream-dark text-sm leading-relaxed mb-4">
               {{ t(`home.expertise.services.${service.key}.description`) }}
             </p>
-            <NuxtLinkLocale :to="service.link"
+            <NuxtLinkLocale
+:to="service.link"
               class="text-xs tracking-widest uppercase font-medium text-gold opacity-50 group-hover:opacity-100 transition-opacity">
               {{ t('common.read_more') }} →
             </NuxtLinkLocale>

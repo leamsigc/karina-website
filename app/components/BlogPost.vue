@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { t } = useI18n()
-const localePath = useLocalePath()
 
 interface Props {
   title?: string
@@ -13,7 +12,7 @@ interface Props {
   }
 }
 
-const props = withDefaults(defineProps<Props>(), {
+withDefaults(defineProps<Props>(), {
   title: '',
   description: '',
   date: '',
@@ -35,7 +34,8 @@ const formatDate = (dateStr: string) => {
 <template>
   <article class="bg-cream min-h-screen py-24">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-      <NuxtLinkLocale to="/blog"
+      <NuxtLinkLocale
+to="/blog"
         class="inline-flex items-center space-x-2 text-gold hover:text-charcoal transition-colors mb-12 text-xs font-medium tracking-widest uppercase">
         <span>←</span>
         <span>{{ t('nav.back_to_blog') }}</span>
@@ -64,7 +64,8 @@ const formatDate = (dateStr: string) => {
         <div class=" text-cream p-12 rounded-sm text-center">
           <h3 class="text-3xl font-serif mb-6">{{ t('common.need_consultation') }}</h3>
           <p class="font-light text-cream-dark mb-8 max-w-lg mx-auto">{{ t('common.consultation_subtitle') }}</p>
-          <NuxtLinkLocale to="/contact"
+          <NuxtLinkLocale
+to="/contact"
             class="inline-block bg-gold text-charcoal px-8 py-4 text-sm tracking-widest uppercase font-medium hover:bg-cream transition-colors">
             {{ t('nav.cta') }}
           </NuxtLinkLocale>

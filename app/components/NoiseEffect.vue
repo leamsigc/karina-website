@@ -19,7 +19,8 @@ const { noise = 0.5 } = defineProps<Props>();
 </script>
 
 <template>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice"
+    <svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice"
         class="absolute top-0 left-0" width="1200" height="675" :style="{
             opacity: noise,
             imageRendering: 'pixelated',

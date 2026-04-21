@@ -1,7 +1,9 @@
-import { defineCollection, defineContentConfig, z } from '@nuxt/content'
-import { asSeoCollection } from '@nuxtjs/seo/content'
-
-
+import { defineCollection, defineContentConfig } from '@nuxt/content'
+import { defineRobotsSchema } from '@nuxtjs/robots/content'
+import { defineSitemapSchema } from '@nuxtjs/sitemap/content'
+import { defineOgImageSchema } from 'nuxt-og-image/content'
+import { defineSchemaOrgSchema } from 'nuxt-schema-org/content'
+import { z } from 'zod'
 
 const blogSchema = z.object({
   layout: z.enum(['default', 'blog-layout']).default('blog-layout'),
@@ -51,14 +53,19 @@ const blogSchema = z.object({
       image: z.string(),
       headline: z.string()
     })
-  })
+  }),
+  robots: defineRobotsSchema(),
+  sitemap: defineSitemapSchema(),
+  ogImage: defineOgImageSchema(),
+  schemaOrg: defineSchemaOrgSchema(),
+
 });
 
 
 export default defineContentConfig({
   collections: {
     content_en: defineCollection(
-      asSeoCollection({
+      {
         type: 'page',
         source: {
           include: 'en/**',
@@ -66,16 +73,16 @@ export default defineContentConfig({
         },
         schema: blogSchema
       })
-    ),
+    ,
     content_es: defineCollection(
-      asSeoCollection({
+      {
         type: 'page',
         source: {
           include: 'es/**',
           prefix: '',
         },
         schema: blogSchema,
-      })
+      }
     ),
   },
 })

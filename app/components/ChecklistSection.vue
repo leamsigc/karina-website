@@ -19,7 +19,7 @@ interface Props {
     list?: ChecklistItem[];
 }
 
-const props = withDefaults(defineProps<Props>(), {
+withDefaults(defineProps<Props>(), {
     list: () => [
         { title: "Primera Asesoría Gratis", desc: "Sin compromiso. Evaluamos tu caso sin costo." },
         { title: "Especialista en Predial", desc: "Conocimiento profundo del sistema catastral de Oaxaca." },
@@ -40,7 +40,7 @@ const props = withDefaults(defineProps<Props>(), {
                     <h2
                         class="text-4xl md:text-6xl font-display font-bold mb-8 text-gray-600 dark:text-white uppercase leading-none">
                         <slot name="title" mdc-unwrap="p">
-                            Nuestro <br />
+                            Nuestro <br >
                             <span class="text-gold-500">Compromiso</span>
                         </slot>
                     </h2>
@@ -52,7 +52,7 @@ const props = withDefaults(defineProps<Props>(), {
                     </p>
 
                     <div class="p-8 bg-navy-900 border border-navy-800 rounded-sm relative shadow-hard-sm">
-                        <div class="absolute -left-1 top-8 h-12 w-1 bg-gold-500"></div>
+                        <div class="absolute -left-1 top-8 h-12 w-1 bg-gold-500"/>
                         <blockquote class="text-2xl font-display italic text-gray-200">
                             <slot name="quote" mdc-unwrap="p">
                                 "La primera asesoría es totalmente gratis. Te ayudo a reducir tu predial de manera
@@ -71,7 +71,7 @@ const props = withDefaults(defineProps<Props>(), {
                                 class="w-12 h-12 bg-navy-800 border border-navy-700 text-teal-500 rounded-sm flex items-center justify-center font-bold text-xl group-hover:bg-gold-500 group-hover:text-navy-900 group-hover:border-gold-500 transition-all shadow-hard">
                                 {{ idx + 1 }}
                             </div>
-                            <div v-if="idx !== 5" class="w-px h-full bg-navy-800 my-2 group-hover:bg-navy-700"></div>
+                            <div v-if="idx !== 5" class="w-px h-full bg-navy-800 my-2 group-hover:bg-navy-700"/>
                         </div>
                         <div class="pb-8">
                             <h3

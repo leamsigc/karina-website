@@ -12,19 +12,25 @@ interface Props {
 
 withDefaults(defineProps<Props>(), {
   image: '/img/karina-hero.png',
-  isPartner: false
+  isPartner: false,
+  specialties: () => [],
+  email: '',
+  phone: ''
 })
 </script>
 
 <template>
-  <div class="bg-cream-dark border border-charcoal/10 hover:border-gold transition-all duration-500 group"
+  <div
+class="bg-cream-dark border border-charcoal/10 hover:border-gold transition-all duration-500 group"
     :class="{ 'border-gold': isPartner }">
     <div class="relative overflow-hidden">
       <div class="aspect-square overflow-hidden">
-        <NuxtImg :src="image" :alt="name"
+        <NuxtImg
+:src="image" :alt="name"
           class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-105 mix-blend-multiply opacity-90" />
       </div>
-      <div v-if="isPartner"
+      <div
+v-if="isPartner"
         class="absolute top-0 right-0 bg-gold text-charcoal px-4 py-2 text-xs font-bold uppercase tracking-wider">
         Socio Principal
       </div>
@@ -44,7 +50,8 @@ withDefaults(defineProps<Props>(), {
       <div v-if="specialties && specialties.length" class="mb-6">
         <h4 class="text-xs tracking-widest uppercase font-bold text-charcoal/50 mb-3">Especialidades</h4>
         <div class="flex flex-wrap gap-2">
-          <span v-for="specialty in specialties" :key="specialty"
+          <span
+v-for="specialty in specialties" :key="specialty"
             class="px-3 py-1 bg-cream text-charcoal text-xs font-medium border border-charcoal/10">
             {{ specialty }}
           </span>

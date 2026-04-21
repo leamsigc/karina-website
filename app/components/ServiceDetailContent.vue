@@ -24,8 +24,7 @@ defineProps<{
         </div>
       </div>
       <div class="prose prose-lg prose-charcoal max-w-none mt-10">
-        <slot>
-        </slot>
+        <slot/>
       </div>
     </div>
   </section>

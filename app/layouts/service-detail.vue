@@ -1,15 +1,13 @@
 <script setup lang="ts">
 import type { Collections } from '@nuxt/content'
-import { withLeadingSlash, withoutTrailingSlash } from 'ufo'
+import { withoutTrailingSlash } from 'ufo'
 
 const route = useRoute()
 const { locale } = useI18n()
 
-const slug = computed(() => withLeadingSlash(String(route.params.slug)))
-
-const collection = (`content_${locale.value}`) as keyof Collections
-const { data } = await useAsyncData(`hero-${locale.value}-${route.path}-service-hero`, async () => {
+await useAsyncData(`hero-${locale.value}-${route.path}-service-hero`, async () => {
     const path = route.path.includes('services') ? route.path : `${withoutTrailingSlash(route.path)}`
+    const collection = (`content_${locale.value}`) as keyof Collections
     let content = await queryCollection(collection).path(`${path}`).select('title', 'description', 'image', 'subtitle').first()
     if (!content && locale.value !== 'es') {
         const defaultCollection = (`content_es`) as keyof Collections

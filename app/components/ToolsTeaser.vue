@@ -20,7 +20,8 @@
                     ¿Problemas con el municipio?
                 </h2>
                 <p class="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                    ¿Pagas demasiado en tu predial o enfrentas multas unjustly? Te ayudamos a resolver tus asuntos de Derecho Municipal de manera estratégica.
+                    ¿Pagas demasiado en tu predial o enfrentas multas unjustly? Te ayudamos a resolver tus asuntos de
+                    Derecho Municipal de manera estratégica.
                     Primera asesoría totalmente gratis.
                 </p>
                 <div class="flex gap-4">

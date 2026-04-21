@@ -19,8 +19,7 @@ const titleTrim = computed(() => title.slice(0, 60))
 
 <template>
     <div class="w-full h-full flex flex-col justify-center bg-[#212121]">
-        <div class="absolute inset-0 bg-gray-950" :style="{ width: '1200px', height: '600px', }">
-        </div>
+        <div class="absolute inset-0 bg-gray-950" :style="{ width: '1200px', height: '600px', }" />
         <NoiseEffect />
         <div class="w-[600px] pl-[100px]">
             <p v-if="headline" class="uppercase text-[24px] text-[#FEC476] mb-4 font-semibold">

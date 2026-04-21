@@ -29,7 +29,7 @@ const displayedServices = computed(() => props.services || SERVICES)
 
 </script>
 <template>
-    <section class="py-24 bg-concrete-50 dark:bg-navy-900" id="services">
+    <section id="services" class="py-24 bg-concrete-50 dark:bg-navy-900">
         <div class="max-w-7xl mx-auto px-4 md:px-8">
             <div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
                 <div>
@@ -59,8 +59,7 @@ const displayedServices = computed(() => props.services || SERVICES)
                 <div
                     class="md:col-span-2 md:row-span-2 bg-navy-900 rounded-sm p-10 relative overflow-hidden group border border-navy-800">
                     <div
-                        class="absolute top-0 right-0 w-64 h-64 bg-teal-500 rounded-full blur-[100px] opacity-20 group-hover:opacity-30 transition-opacity">
-                    </div>
+                        class="absolute top-0 right-0 w-64 h-64 bg-teal-500 rounded-full blur-[100px] opacity-20 group-hover:opacity-30 transition-opacity" />
                     <div class="relative z-10 flex flex-col h-full justify-between">
                         <div
                             class="w-16 h-16 bg-teal-600 rounded-sm flex items-center justify-center text-white mb-6 shadow-hard">

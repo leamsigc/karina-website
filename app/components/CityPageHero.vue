@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { t } = useI18n()
-const localePath = useLocalePath()
 
 interface Props {
   cityName?: string
@@ -25,7 +24,7 @@ withDefaults(defineProps<Props>(), {
         :alt="`Servicios legales en ${cityName}, Oaxaca`"
         class="w-full h-full object-cover"
       />
-      <div class="absolute inset-0 bg-charcoal/85 mix-blend-multiply"></div>
+      <div class="absolute inset-0 bg-charcoal/85 mix-blend-multiply"/>
     </div>
     
     <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full pt-20 pb-20 text-center">
@@ -34,7 +33,7 @@ withDefaults(defineProps<Props>(), {
         <span>{{ cityName }}, Oaxaca</span>
       </div>
       <h1 class="font-serif text-5xl md:text-6xl lg:text-7xl leading-[1.1] mb-8 text-cream">
-        Abogada Especialista en <br/><span class="italic text-gold">{{ cityName }}</span>
+        Abogada Especialista en <br><span class="italic text-gold">{{ cityName }}</span>
       </h1>
       <p class="text-cream-dark text-lg font-light max-w-3xl mx-auto mb-10 leading-relaxed">
         {{ context }}

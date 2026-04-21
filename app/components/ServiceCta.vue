@@ -1,6 +1,5 @@
 <script setup lang="ts">
-const { t } = useI18n()
-const localePath = useLocalePath()
+useI18n()
 </script>
 
 <template>
@@ -11,7 +10,8 @@ const localePath = useLocalePath()
         Agende una consulta confidencial en nuestras oficinas en Oaxaca de Juárez para analizar su caso y diseñar una
         estrategia legal efectiva.
       </p>
-      <NuxtLinkLocale to="/contact"
+      <NuxtLinkLocale
+to="/contact"
         class="inline-flex items-center justify-center px-8 py-4 border border-gold text-gold hover:bg-gold hover:text-charcoal transition-all duration-300 uppercase tracking-widest text-sm font-medium">
         Solicitar Consulta <span class="ml-2">→</span>
       </NuxtLinkLocale>

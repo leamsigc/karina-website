@@ -16,16 +16,14 @@ interface TrustItem {
     desc: string;
 }
 interface Props {
-    trustItems: TrustItem[];
+    trustItems?: TrustItem[];
 }
-const {
-    trustItems = [
-        { icon: 'i-heroicons-trophy', title: 'Credibility', desc: 'Respected members of the local community and business groups.' },
-        { icon: 'i-heroicons-users', title: 'Local Crews', desc: 'We are a local company with local crews. We don\'t outsource.' },
-        { icon: 'i-heroicons-shield-check', title: 'Fully Insured', desc: 'Required Liability and Workman’s Comp Insurance on all employees.' },
-        { icon: 'i-heroicons-check-circle', title: 'Dependable', desc: 'We keep our word. Contract terms are clear with no hidden costs.' }
-    ]
-} = defineProps<Props>();
+const { trustItems = [
+    { icon: 'i-heroicons-trophy', title: 'Credibility', desc: 'Respected members of the local community and business groups.' },
+    { icon: 'i-heroicons-users', title: 'Local Crews', desc: 'We are a local company with local crews. We don\'t outsource.' },
+    { icon: 'i-heroicons-shield-check', title: 'Fully Insured', desc: 'Required Liability and Workman\'s Comp Insurance on all employees.' },
+    { icon: 'i-heroicons-check-circle', title: 'Dependable', desc: 'We keep our word. Contract terms are clear with no hidden costs.' }
+] } = defineProps<Props>();
 </script>
 
 <template>

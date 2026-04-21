@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { t } = useI18n()
-const localePath = useLocalePath()
 
 const locations = [
     { name: 'nav.location_oaxaca', to: '/abogado-en-oaxaca-de-juarez' },
@@ -82,7 +81,8 @@ const locations = [
                     <li>{{ t('nav.location_oaxaca') }}</li>
                     <li>{{ t('common.appointment') }}</li>
                     <li class="pt-4">
-                        <a href="tel:9516153010"
+                        <a
+href="tel:9516153010"
                             class="text-lg font-serif hover:text-gold transition-colors">951-615-30-10</a>
                     </li>
                 </ul>
@@ -91,7 +91,8 @@ const locations = [
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16 pt-12 border-t border-cream/10">
             <h3 class="text-gold font-serif text-lg mb-6">{{ t('common.coverage') }}</h3>
             <div class="flex flex-wrap gap-x-6 gap-y-3 text-xs font-light text-cream-dark/80">
-                <NuxtLinkLocale v-for="loc in locations" :key="loc.to" :to="loc.to"
+                <NuxtLinkLocale
+v-for="loc in locations" :key="loc.to" :to="loc.to"
                     class="hover:text-gold transition-colors">
                     {{ t(loc.name) }}
                 </NuxtLinkLocale>

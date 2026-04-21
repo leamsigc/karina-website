@@ -11,8 +11,12 @@ const collection = (`content_${locale.value}`) as keyof Collections
 
 const { data: page } = await useAsyncData(`page-${collection}-${slug.value}`, async () => {
   const collectionName = ('content_' + locale.value) as keyof Collections
-  const finalPath = slug.value
+  const finalPath = locale.value === 'es' ? slug.value : '/' + locale.value + slug.value
+  console.log("Collection:", collectionName, finalPath);
+
   const content = await queryCollection(collectionName).path(finalPath).first()
+  console.log(content);
+
 
   if (!content && locale.value !== 'es') {
     return await queryCollection('content_es').path(slug.value).first()

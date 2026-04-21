@@ -10,7 +10,7 @@ defineProps<{
   <section class="relative h-[60vh] min-h-125 flex items-center justify-center">
     <div class="absolute inset-0">
       <NuxtImg v-if="image" :src="image" :alt="title" class="w-full h-full object-cover" />
-      <div class="absolute inset-0 bg-charcoal/80 mix-blend-multiply"></div>
+      <div class="absolute inset-0 bg-charcoal/80 mix-blend-multiply"/>
     </div>
 
     <div class="relative z-10 text-center px-4 max-w-4xl mx-auto mt-20">

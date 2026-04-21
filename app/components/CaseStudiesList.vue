@@ -2,7 +2,6 @@
 import type { Collections } from '@nuxt/content'
 
 const { locale, t } = useI18n()
-const localePath = useLocalePath()
 
 const { data: caseStudies } = await useAsyncData('case-studies', async () => {
   const collection = (`content_${locale.value}`) as keyof Collections
@@ -32,10 +31,12 @@ const { data: caseStudies } = await useAsyncData('case-studies', async () => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
 
-        <div v-for="study in caseStudies" :key="study.path"
+        <div
+v-for="study in caseStudies" :key="study.path"
           class="group bg-white border border-gold/20 flex flex-col h-full hover:shadow-lg transition-all duration-300">
           <NuxtLinkLocale :to="study.path" class="block relative h-64 overflow-hidden">
-            <NuxtImg :src="study.image?.src" :alt="study.title"
+            <NuxtImg
+:src="study.image?.src" :alt="study.title"
               class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
             <div
               class="absolute top-4 left-4 bg-charcoal text-cream px-3 py-1 text-xs tracking-widest uppercase font-medium">
@@ -63,7 +64,8 @@ const { data: caseStudies } = await useAsyncData('case-studies', async () => {
               {{ study.caseOverview?.summary || study.description }}
             </p>
 
-            <NuxtLinkLocale :to="study.path"
+            <NuxtLinkLocale
+:to="study.path"
               class="inline-flex items-center text-gold text-sm tracking-widest uppercase font-medium hover:text-charcoal transition-colors mt-auto">
               {{ t('home.caseStudies.read_more') }} <span class="ml-2">→</span>
             </NuxtLinkLocale>

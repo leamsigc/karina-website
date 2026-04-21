@@ -1,5 +1,4 @@
 <script setup lang="ts">
-const localePath = useLocalePath()
 const { t, locale, setLocale } = useI18n()
 
 const links = computed(() => [
@@ -30,25 +29,29 @@ const toggleLanguage = (lang: 'en' | 'es') => {
                 </NuxtLinkLocale>
                 
                 <nav class="hidden md:flex space-x-10 items-center">
-                    <NuxtLinkLocale v-for="link in links" :key="link.to" :to="link.to"
+                    <NuxtLinkLocale
+v-for="link in links" :key="link.to" :to="link.to"
                         class="text-xs tracking-widest uppercase font-medium hover:text-gold transition-colors"
                         active-class="text-gold">
                         {{ link.label }}
                     </NuxtLinkLocale>
-                    <NuxtLinkLocale to="/contact"
+                    <NuxtLinkLocale
+to="/contact"
                         class="bg-charcoal text-cream px-6 py-3 text-xs tracking-widest uppercase font-medium hover:bg-gold hover:text-charcoal transition-colors duration-300">
                         {{ t('nav.cta') }}
                     </NuxtLinkLocale>
                 </nav>
 
                 <div class="flex items-center gap-2">
-                    <SwitchLocalePathLink locale="es" 
+                    <SwitchLocalePathLink
+locale="es" 
                         :class="['text-xs tracking-widest uppercase font-medium transition-colors', locale === 'es' ? 'text-gold' : 'text-charcoal hover:text-gold']"
                         @click="toggleLanguage('es')">
                         ES
                     </SwitchLocalePathLink>
                     <span class="text-gold">|</span>
-                    <SwitchLocalePathLink locale="en" 
+                    <SwitchLocalePathLink
+locale="en" 
                         :class="['text-xs tracking-widest uppercase font-medium transition-colors', locale === 'en' ? 'text-gold' : 'text-charcoal hover:text-gold']"
                         @click="toggleLanguage('en')">
                         EN

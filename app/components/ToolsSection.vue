@@ -67,8 +67,8 @@ const checklistResult = computed(() => {
                                 <label class="block font-bold text-navy-900 dark:text-white mb-2">Home Size (Square
                                     Feet)</label>
                                 <div class="flex items-center gap-4">
-                                    <input type="range" min="100" max="5000" step="100" v-model.number="sqFt"
-                                        class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-teal-600" />
+                                    <input v-model.number="sqFt" type="range" min="100" max="5000" step="100"
+                                        class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-teal-600">
                                     <span class="font-mono font-bold w-20 text-right text-navy-900 dark:text-white">
                                         {{ sqFt }} sqft</span>
                                 </div>
