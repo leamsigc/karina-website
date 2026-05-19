@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Implementation Notes — Karina Orocio Cruz Website</title>
+  <style>
+    :root {
+      --gold: #c9a84c;
+      --navy: #1a2540;
+      --navy-light: #2a3a5c;
+      --bg: #f9f7f4;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --border: #e2d9c8;
+      --note-bg: #fff8e1;
+      --warn-bg: #fff3cd;
+      --tip-bg: #e8f5e9;
+      --dev-bg: #e3f2fd;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      padding: 2rem 1rem;
+    }
+    .container { max-width: 860px; margin: 0 auto; }
+    header {
+      border-bottom: 3px solid var(--gold);
+      padding-bottom: 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+    header h1 { font-size: 1.9rem; color: var(--navy); }
+    header .meta { color: var(--muted); font-size: 0.9rem; margin-top: 0.4rem; }
+    header .meta strong { color: var(--gold); }
+    section { margin-bottom: 2.5rem; }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--navy);
+      background: var(--navy);
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    h2 .icon { font-size: 1rem; }
+    .card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 0.85rem;
+    }
+    .card h3 {
+      font-size: 1rem;
+      color: var(--navy-light);
+      margin-bottom: 0.4rem;
+    }
+    .card p, .card ul { font-size: 0.93rem; color: #333; }
+    .card ul { padding-left: 1.4rem; margin-top: 0.3rem; }
+    .card ul li { margin-bottom: 0.25rem; }
+    .badge {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 0.15rem 0.55rem;
+      border-radius: 99px;
+      margin-right: 0.4rem;
+      vertical-align: middle;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .badge-note  { background: var(--note-bg); color: #7a5c00; border: 1px solid #f0d070; }
+    .badge-warn  { background: var(--warn-bg); color: #7a4f00; border: 1px solid #f0c040; }
+    .badge-tip   { background: var(--tip-bg);  color: #1b5e20; border: 1px solid #a5d6a7; }
+    .badge-open  { background: var(--dev-bg);  color: #0d47a1; border: 1px solid #90caf9; }
+    .badge-done  { background: #e8f5e9; color: #1b5e20; border: 1px solid #a5d6a7; }
+    .tag { font-family: monospace; background: #f0f0f0; border-radius: 3px; padding: 0.1rem 0.4rem; font-size: 0.85em; }
+    code { font-family: monospace; background: #f0f0f0; border-radius: 3px; padding: 0.1rem 0.4rem; font-size: 0.85em; }
+    footer {
+      margin-top: 3rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+      text-align: center;
+    }
+    .log-entry { border-left: 3px solid var(--gold); padding-left: 1rem; margin-bottom: 0.7rem; }
+    .log-date { font-size: 0.8rem; color: var(--muted); }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>⚖️ Implementation Notes</h1>
+    <p class="meta">
+      Project: <strong>Karina Orocio Cruz — Abogada Postulante en Oaxaca</strong><br>
+      URL: <strong>abogada-karina-oaxaca.com</strong><br>
+      Last updated: <strong id="ts">2026-05-19</strong>
+    </p>
+  </header>
+
+  <!-- ── DESIGN DECISIONS ────────────────────────────────────────────── -->
+  <section id="design-decisions">
+    <h2><span class="icon">🎨</span> Design Decisions</h2>
+
+    <div class="card">
+      <h3><span class="badge badge-note">Decision</span> Gold + Navy color palette</h3>
+      <p>
+        <code>app.config.ts</code> defines <code>primary: 'gold'</code> and <code>gray: 'navy'</code>.
+        The spec did not mandate colors, but gold/navy are conventional for high-authority legal brands —
+        they signal prestige, trustworthiness, and formality without being cold.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-note">Decision</span> Catch-all routing (<code>[...slug].vue</code>)</h3>
+      <p>
+        Rather than creating individual <code>.vue</code> page files for every service/city/blog route,
+        a single <code>pages/[...slug].vue</code> catches all content-driven URLs and delegates rendering
+        to Nuxt Content. This keeps the page surface minimal and ensures new Markdown files are
+        automatically routable without code changes.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-note">Decision</span> Spanish as default locale (no <code>/es/</code> prefix)</h3>
+      <p>
+        <code>strategy: 'prefix_except_default'</code> means Spanish URLs are clean (<code>/contacto</code>)
+        while English adds <code>/en/</code>. The target audience is primarily Spanish-speaking; clean URLs
+        also carry minor SEO weight. The English version is present for bilingual SEO coverage.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-note">Decision</span> Inter + Cormorant Garamond type pairing</h3>
+      <p>
+        Inter (sans-serif) handles UI text for readability; Cormorant Garamond (serif) provides a
+        refined, authoritative editorial voice for headings and hero copy — standard in premium legal
+        and consulting websites.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-note">Decision</span> Nuxt 4 with <code>compatibilityVersion: 5</code></h3>
+      <p>
+        The project targets the Nuxt 4 app directory convention while enabling the v5 compatibility
+        flag to opt into upcoming breaking changes early. This means the project uses <code>app/</code>
+        rather than the root-level <code>pages/</code>, <code>components/</code>, etc.
+      </p>
+    </div>
+  </section>
+
+  <!-- ── DEVIATIONS ─────────────────────────────────────────────────── -->
+  <section id="deviations">
+    <h2><span class="icon">↪️</span> Deviations from Spec</h2>
+
+    <div class="card">
+      <h3><span class="badge badge-warn">Deviation</span> README was describing a different project</h3>
+      <p>
+        The original <code>README.md</code> contained content from a <em>Mendoza Roofing</em> project —
+        a different client entirely. It was completely rewritten to accurately describe the Karina
+        Orocio Cruz law firm website, its tech stack, services, and project structure.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-warn">Deviation</span> <code>nuxt-vitalizer</code> config commented out</h3>
+      <p>
+        <code>nuxt.config.ts</code> has the <code>vitalizer</code> block commented out
+        (<code>disableStylesheets: 'entry'</code>). It was added to fix render-blocking CSS flagged by
+        a Lighthouse audit but was later disabled — likely because it caused hydration or visual issues
+        on the entry stylesheet. Needs re-evaluation before final production deploy.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-warn">Deviation</span> <code>routeRules</code> for OG type are commented out</h3>
+      <p>
+        Per-route <code>ogType</code> overrides for <code>/blog/**</code> and <code>/tools/**</code>
+        are commented out in <code>nuxt.config.ts</code>. These were intended but not activated,
+        meaning all routes share the default OG type. Should be re-enabled if blog article sharing is a priority.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-warn">Deviation</span> <code>workTranslation</code> on SchemaOrg identity</h3>
+      <p>
+        The <code>schemaOrg.identity</code> block uses a custom <code>workTranslation</code> field which
+        is not standard Schema.org vocabulary. It was probably intended as <code>workExample</code> or a
+        custom extension. This may not be indexed by search engines and should be validated against
+        Google's Rich Results Test.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-warn">Deviation</span> Contact phone numbers mismatch</h3>
+      <p>
+        <code>nuxt.config.ts</code> lists only one phone (<code>+52-951-615-30-10</code>), while
+        <code>plan/Company-info.md</code> lists three numbers (9516153010 · 9516117710 · 9516130039).
+        The schema and contact components may not expose all numbers.
+      </p>
+    </div>
+  </section>
+
+  <!-- ── TRADEOFFS ───────────────────────────────────────────────────── -->
+  <section id="tradeoffs">
+    <h2><span class="icon">⚖️</span> Tradeoffs</h2>
+
+    <div class="card">
+      <h3><span class="badge badge-tip">Tradeoff</span> Static generation vs. SSR</h3>
+      <p>
+        The build script is <code>nuxt generate</code> (full static). This means:
+      </p>
+      <ul>
+        <li>✅ Zero cold-start latency, free Netlify hosting tier, easy CDN caching</li>
+        <li>⚠️ Contact form submissions require an external service (Netlify Forms or third-party API)</li>
+        <li>⚠️ Content edits require a rebuild + deploy cycle</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-tip">Tradeoff</span> Catch-all page vs. typed page components</h3>
+      <p>
+        Single <code>[...slug].vue</code> keeps the codebase lean and routes all content without
+        maintenance overhead. The downside is reduced per-route control: custom layouts, breadcrumbs,
+        or component injection per content type must be handled via Markdown frontmatter and conditional
+        component selection inside the catch-all.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-tip">Tradeoff</span> pnpm over npm/yarn</h3>
+      <p>
+        pnpm provides faster installs and strict dependency isolation, but requires the
+        <code>ignoredBuiltDependencies</code> workaround for native modules
+        (<code>sharp</code>, <code>esbuild</code>, <code>better-sqlite3</code>).
+        The <code>pnpm-lock.yaml</code> (594 KB) must be committed.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-tip">Tradeoff</span> Nuxt Content v3 Markdown files vs. CMS</h3>
+      <p>
+        Content is managed as <code>.md</code> files in the repo. This is ideal for a developer
+        workflow and zero additional cost, but requires Git access to update content. A headless
+        CMS (Storyblok, Sanity) was not introduced to keep the stack simple and avoid ongoing costs
+        for a single-attorney practice.
+      </p>
+    </div>
+  </section>
+
+  <!-- ── OPEN QUESTIONS ─────────────────────────────────────────────── -->
+  <section id="open-questions">
+    <h2><span class="icon">❓</span> Open Questions</h2>
+
+    <div class="card">
+      <h3><span class="badge badge-open">Open</span> Should all three phone numbers appear in Schema.org?</h3>
+      <p>
+        Currently <code>nuxt.config.ts</code> only lists the primary number. Confirm whether
+        951 611 77 10 and 951 613 00 39 should be added as <code>telephone</code> entries or secondary
+        contact points in the schema.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-open">Open</span> Re-enable <code>nuxt-vitalizer</code>?</h3>
+      <p>
+        The entry stylesheet disabling was commented out. Was this due to a visual bug or a module
+        conflict? Should it be re-tested with the current Nuxt 4 + Tailwind v4 setup?
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-open">Open</span> Contact form backend</h3>
+      <p>
+        <code>ContactForm.vue</code> exists but the form submission endpoint is unclear.
+        Is Netlify Forms active? Is there a server route handling submissions? Confirm so the
+        <code>success.vue</code> redirect can be validated end-to-end.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-open">Open</span> English content parity</h3>
+      <p>
+        The <code>content/en/</code> directory likely mirrors the Spanish one. Confirm whether
+        all service, city, and blog pages have English equivalents, or if some are Spanish-only.
+        Missing English content pages will cause 404s on <code>/en/*</code> routes after static generation.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-open">Open</span> OG Image generation</h3>
+      <p>
+        An <code>OgImage/</code> component directory exists. Is <code>nuxt-og-image</code> actively
+        generating images per page, or are static fallback images used? This affects social sharing
+        appearance across blog and service pages.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="badge badge-open">Open</span> "DERECHO MERCANTIL" form option missing</h3>
+      <p>
+        <code>plan/Company-info.md</code> flags this as missing from the contact/interest form.
+        Confirm whether it has since been added to the form component or is still absent.
+      </p>
+    </div>
+  </section>
+
+  <!-- ── CHANGELOG ──────────────────────────────────────────────────── -->
+  <section id="changelog">
+    <h2><span class="icon">📋</span> Change Log</h2>
+
+    <div class="log-entry">
+      <div class="log-date">2026-05-19</div>
+      <p>
+        <span class="badge badge-done">Done</span>
+        Rewrote <code>README.md</code> — replaced Mendoza Roofing content with accurate
+        Karina Orocio Cruz project documentation (business info, services, tech stack,
+        project structure, env vars, content page reference table).
+      </p>
+    </div>
+
+    <div class="log-entry">
+      <div class="log-date">2026-05-19</div>
+      <p>
+        <span class="badge badge-done">Done</span>
+        Created <code>implementation-notes.html</code> — running notes file capturing design decisions,
+        deviations, tradeoffs, and open questions discovered during codebase exploration.
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    implementation-notes.html · Karina Orocio Cruz Website · Updated 2026-05-19
+  </footer>
+</div>
+</body>
+</html>

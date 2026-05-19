@@ -1,135 +1,196 @@
-# Mendoza Roofing Website
+# Karina Orocio Cruz — Abogada Postulante en Oaxaca
 
-A modern, bilingual website for Mendoza Roofing, a business serving Wilmington, Bolivia, and Brunswick County with over 50 years of roofing experience.
+Sitio web bilingüe (español / inglés) para el despacho jurídico de **Karina Orocio Cruz**, abogada postulante en Oaxaca de Juárez, Oaxaca, México. Especialista en Derecho Privado (Familiar, Civil, Mercantil y Administrativo).
 
-## Business Overview
+---
 
-**Company Name:** Mendoza Roofing (also listed as M. Mendoza-Roofing LLC)  
-**Tagline:** "Your Trusted Experts—Locally owned, expertly crafted"  
-**Philosophy:** Focuses on using high-quality products to ensure integrity, craftsmanship, and results that exceed expectations.
+## Información del Negocio
 
-## Services Offered
+| Campo | Detalle |
+|---|---|
+| **Nombre** | Karina Orocio Cruz |
+| **Razón social** | Orocio y Asociados |
+| **Especialidad** | Derecho Privado (Familiar, Civil, Mercantil y Administrativo) |
+| **Sitio web** | [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com/) |
+| **Teléfonos** | 951 615 30 10 · 951 611 77 10 · 951 613 00 39 |
+| **WhatsApp** | [wa.me/529516153010](https://wa.me/529516153010) |
+| **Correo** | karina@abogada-karina-oaxaca.com |
+| **Dirección** | Calle Puebla 107, Fracc. Elsa, Agencia Municipal Santa Rosa Panzacola, Oaxaca de Juárez, Oax. |
+| **Horario** | Lunes a Sábado, 9:00 – 18:00 |
+| **Experiencia** | 5+ años |
 
-- **Key Roofing Services:** New roof installation, complete re-roofing, and professional repairs
-- **Maintenance & Specialized Care:** Leak repairs, professional roof cleaning, preventive maintenance, and expert roof evaluations
-- **Commercial Roofing:** Specialized solutions for flat roofs and large-scale commercial buildings
-- **Materials Handled:** Asphalt shingles, metal roofing, tile, slate, lead roofing, and energy-efficient options
-- **Additional Exterior Services:** Seamless gutter installations and downspout services
+---
 
-## Why Choose Mendoza Roofing
+## Servicios
 
-- **Certified & Insured:** Fully licensed, certified, and insured; all employees are covered by Workers' Compensation and Liability Insurance
-- **Free Estimates:** Offers free consultations and storm insurance inspections
-- **Emergency Availability:** Fast, reliable repairs for emergencies like leaks and storm damage
-- **Local Expertise:** Deeply rooted in serving the Wilmington, Shallotte, and Bolivia communities
+### Materia Mercantil
+- Juicios orales y tradicionales
+- Pagarés, Facturas, Cargos no reconocidos
+- Amparo
+- Gestoría notarial
+- Trámite de Registro de Marca & Declaración de uso marcario
 
-## Contact Information
+### Materia Civil
+- Juicio sucesorio intestamentario y testamentario
+- Juicio de Divorcio (incausado, voluntario, administrativo)
+- Juicio de Nulidad de matrimonio
+- Juicio de rectificación de actas de nacimiento
+- Firma de escrituras y elevación de minutas
 
-- **Phone:** (910) 367-7628
-- **Email:** contact@roofingmendoza.com
-- **Address:** 2244 Harbor Ridge Drive Southeast, Bolivia, NC 28422
-- **Website:** roofingmendoza.com
-- **Operating Hours:** Monday–Friday: 8:00 AM – 6:00 PM
+### Materia Familiar
+- Juicio de reconocimiento de hijo/a
+- Separación de cónyuges como acto prejudicial
 
-## Customer Testimonials
+### Jurisdicción Voluntaria
+- Testimonial para acreditar identidad de persona
+- Testimonial para acreditar existencia de concubinato
+- Notificación de rescisión de contrato de arrendamiento
 
-- "Julio was very polite, professional and a pleasure to deal with. He is very customer oriented."
-- "They came out the next day and did my roof in one day. Very professional and they did an outstanding job."
-- "Attention to detail was terrific! Great team to work with... confronted technical issues and solved all of them quickly."
-- "They made sure everything was cleaned up and picked up before they left. I would definitely recommend Mendoza's roofing."
-- "He beat [another quote] and provided 80mil [TPO]! ... the quality and value is incomparable."
+### Trámites Municipales
+- Número oficial, Alineamiento
+- Ajuste de pago predial, Traslado de dominio
 
-## Website
+### Gestiones Administrativas
+- Actas de divorcio
+- Aclaración de actas de nacimiento
+- Registro de Marca y Declaración de uso marcario
 
-Live site: https://roofingmendoza.com/
+### Actos Prejudiciales
+- Declaraciones bajo protesta
+- Exhibición de cosas muebles y testamentos
+- Examen de testigos en situaciones urgentes
 
-## Tech Stack
+---
 
-- **Framework:** Nuxt 3
-- **Frontend:** Vue 3, TypeScript
-- **Content Management:** Nuxt Content
-- **Internationalization:** @nuxtjs/i18n
-- **Styling:** Custom CSS (main.css)
-- **Build Tool:** Vite
-- **Deployment:** Static site generation for production
-- **Additional Implementations:** React version available in `react-implementation/` folder
+## Zonas de Cobertura
 
-## Project Features
+- Oaxaca de Juárez *(sede principal)*
+- Santa Lucía del Camino
+- Xoxocotlán
+- San Bartolo Coyotepec
+- Huatulco · Puerto Escondido · Pochutla · Salina Cruz · Tehuantepec · Juchitán · Tlaxiaco · Tuxtepec
 
-- Bilingual support (English and Spanish)
-- Built with Nuxt 3 and Nuxt Content for content management
-- Responsive design with Vue.js components
-- SEO optimized with meta tags and Open Graph images
-- Modular architecture with reusable components
+---
 
-## Setup
+## Stack Tecnológico
 
-Make sure to install dependencies:
+| Capa | Tecnología |
+|---|---|
+| **Framework** | [Nuxt 4](https://nuxt.com/) con compatibilidad v5 habilitada |
+| **Frontend** | Vue 3, TypeScript |
+| **UI** | [@nuxt/ui](https://ui.nuxt.com/) v4 + Tailwind CSS v4 |
+| **Contenido** | [@nuxt/content](https://content.nuxt.com/) v3 (Markdown) |
+| **i18n** | [@nuxtjs/i18n](https://i18n.nuxtjs.org/) — `es` (default) + `en` |
+| **Imágenes** | @nuxt/image |
+| **Fuentes** | @nuxt/fonts — Inter + Cormorant Garamond (Google Fonts) |
+| **SEO** | @nuxtjs/seo · nuxt-seo-utils · schema.org (LegalService) |
+| **Analytics** | nuxt-umami |
+| **Rendimiento** | nuxt-vitalizer |
+| **Gestor de paquetes** | pnpm |
+| **Despliegue** | Generación estática (`nuxt generate`) → Netlify |
+
+---
+
+## Características del Proyecto
+
+- **Bilingüe** — Español como idioma predeterminado; inglés en prefijo `/en/`
+- **Contenido en Markdown** — Todas las páginas de servicios, blog y ciudades se gestionan como archivos `.md` bajo `/content/{es,en}/`
+- **SEO avanzado** — Sitemap automático con i18n, robots.txt, Schema.org `LegalService`, Open Graph images
+- **Arquitectura catch-all** — Una sola ruta `[...slug].vue` sirve toda la navegación de contenido
+- **Diseño basado en tokens** — Paleta gold/navy definida en `app.config.ts`
+
+---
+
+## Estructura del Proyecto
+
+```
+karina-website/
+├── app/
+│   ├── assets/css/       # main.css y estilos globales
+│   ├── components/       # Componentes Vue reutilizables
+│   ├── layouts/          # Layouts de Nuxt
+│   ├── pages/
+│   │   ├── [...slug].vue # Ruta catch-all para el contenido
+│   │   └── success.vue   # Página de confirmación de formulario
+│   └── utils/
+├── content/
+│   ├── es/               # Contenido en español (Markdown)
+│   │   ├── services/     # Páginas de servicio individuales
+│   │   ├── blog/         # Artículos del blog
+│   │   └── case-studies/ # Casos de éxito
+│   └── en/               # Contenido en inglés
+├── i18n/                 # Traducciones JSON (es.json, en.json)
+├── plan/
+│   └── Company-info.md   # Información fuente del negocio
+├── public/               # Activos estáticos (imágenes, favicon)
+├── nuxt.config.ts        # Configuración principal de Nuxt
+├── app.config.ts         # Configuración de UI (colores, tokens)
+└── content.config.ts     # Esquemas de colecciones de contenido
+```
+
+---
+
+## Instalación
+
+Asegúrate de tener **pnpm** instalado, luego:
 
 ```bash
-# npm
-npm install
-
-# pnpm
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Servidor de Desarrollo
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
 pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+# → http://localhost:3000
 ```
 
-## Production
-
-Build the application for production:
+## Producción
 
 ```bash
-# npm
-npm run build
+# Generar sitio estático
+pnpm build   # equivale a: nuxt generate
 
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
+# Previsualizar build local
 pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+---
+
+## Despliegue
+
+El sitio usa `nuxt generate` para producir un sitio completamente estático y se despliega en **Netlify** mediante la configuración `netlify.toml`. La raíz de publicación apunta a `.output/public`.
+
+---
+
+## Variables de Entorno
+
+| Variable | Descripción |
+|---|---|
+| `NUXT_PUBLIC_BASE_URL` | URL base del sitio (usada por @nuxtjs/i18n) |
+
+---
+
+## Referencia rápida de páginas de contenido (español)
+
+| Ruta | Archivo Markdown |
+|---|---|
+| `/` | `content/es/index.md` |
+| `/about` | `content/es/about.md` |
+| `/services` | `content/es/services-index.md` |
+| `/contact` | `content/es/contact.md` |
+| `/faq` | `content/es/faq.md` |
+| `/case-studies` | `content/es/case-studies.md` |
+| `/associates` | `content/es/associates.md` |
+| `/abogado-en-oaxaca-de-juarez` | `content/es/abogado-en-oaxaca-de-juarez.md` |
+| `/blog/*` | `content/es/blog/*.md` |
+
+---
+
+## Recursos
+
+- [Documentación de Nuxt](https://nuxt.com/docs)
+- [Nuxt Content](https://content.nuxt.com/)
+- [Nuxt UI](https://ui.nuxt.com/)
+- [Nuxt SEO](https://nuxtseo.com/)
+- [Sitio en producción](https://abogada-karina-oaxaca.com/)

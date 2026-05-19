@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Our Team | Karina Orocio Cruz Law Firm Oaxaca"
-description: "Meet our legal team at Karina Orocio Cruz Law Firm. Partners Karina Orocio Cruz and Hernández Castellanos Gustavo Antonio, dedicated to protecting your rights in Oaxaca."
-keywords: "law firm team, lawyers oaxaca, Karina Orocio Cruz, Hernández Castellanos Gustavo Antonio, legal team oaxaca"
-image: "/img/one.jpeg"
+description: "Meet the principal partners at Orocio y Asociados: Karina Orocio Cruz, Noé Sánchez López, and Miranda Inés López Verdugo. Attorneys dedicated to protecting your rights in Oaxaca."
+keywords: "law firm team, lawyers oaxaca, Karina Orocio Cruz, Noé Sánchez López, Miranda Inés López Verdugo, legal team oaxaca"
+image: "/img/karina-orocio-cruz.png"
 author:
   name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
@@ -12,8 +12,8 @@ ogImage:
   component: BlogOgImage
   props:
     title: 'Our Legal Team Oaxaca'
-    description: 'Meet our legal team at Karina Orocio Cruz Law Firm.'
-    image: '/img/karina-hero.png'
+    description: 'Meet the principal partners at Orocio y Asociados in Oaxaca.'
+    image: '/img/karina-orocio-cruz.png'
     headline: 'Our Team'
 publishedAt: '2024-01-01'
 head:
@@ -21,13 +21,13 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'law firm team, lawyers oaxaca, Karina Orocio Cruz, Hernández Castellanos Gustavo Antonio, legal team oaxaca'
+      content: 'law firm team, lawyers oaxaca, Karina Orocio Cruz, Noé Sánchez López, Miranda Inés López Verdugo, legal team oaxaca'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Meet our legal team at Karina Orocio Cruz Law Firm in Oaxaca.'
+      content: 'Meet the principal partners at Orocio y Asociados in Oaxaca.'
 ---
 
 ::PageHero
@@ -38,24 +38,25 @@ title: Our Team
 
 ::AssociatesSection
 ---
-title: Partners
+title: Principal Partners
 subtitle: Meet the leaders of our law firm
 ---
 ::
+
 <div class="grid md:grid-cols-3 gap-8 max-w-7xl mx-auto">
 
 ::PartnerCard
 ---
 name: "Karina Orocio Cruz"
 role: "Founding Partner"
-description: "Abogada Postulante with extensive experience in Mexican property law. Specialized in municipal law, property regularization, and administrative law. Committed to protecting clients' property rights throughout Oaxaca."
-image: "/img/karina-hero.png"
+description: "Abogada Postulante with extensive experience in Mexican private law. Specialized in civil, family, commercial, and administrative law. Committed to protecting the rights of our clients across Oaxaca and its municipalities."
+image: "/img/karina-orocio-cruz.png"
 is-partner: true
 specialties:
-  - "Municipal Law"
-  - "Property Regularization"
+  - "Civil Law"
+  - "Family Law"
+  - "Commercial Law"
   - "Administrative Law"
-  - "Civil Litigation"
 phone: "951-615-30-10"
 email: "karina@abogada-karina-oaxaca.com"
 ---
@@ -63,35 +64,35 @@ email: "karina@abogada-karina-oaxaca.com"
 
 ::PartnerCard
 ---
-name: "Hernández Castellanos Gustavo Antonio"
+name: "Noé Sánchez López"
 role: "Managing Partner"
-description: "Senior attorney specializing in complex civil litigation, commercial law, and dispute resolution. With over 15 years of experience representing clients in Oaxaca's courts and administrative proceedings."
-image: "/img/karina-hero.png"
+description: "Attorney specializing in civil and commercial litigation, with extensive experience representing individuals and companies before the courts of Oaxaca. Focused on efficient legal solutions and concrete results."
+image: "/img/noe-sanchez-lopez.png"
 is-partner: true
 specialties:
   - "Civil Litigation"
   - "Commercial Law"
+  - "Oral Proceedings"
   - "Dispute Resolution"
-  - "Contract Law"
-phone: "951-615-30-10"
-email: "gustavo@abogada-karina-oaxaca.com"
+phone: "951-611-77-10"
+email: "noe@abogada-karina-oaxaca.com"
 ---
 ::
 
 ::PartnerCard
 ---
-name: "Mitzeli Jazmin Martinez"
-role: "Associate Attorney"
-description: "Specialist in Civil Law with a human and meticulous approach. Expert in succession trials, lease contracts, and regularizing private property in the State of Oaxaca."
-image: "/img/mitzeli-martinez.png"
+name: "Miranda Inés López Verdugo"
+role: "Associate Partner"
+description: "Attorney with a human and meticulous approach to civil and family law. Expert in succession proceedings, divorce, lease contracts, and voluntary jurisdiction procedures in the State of Oaxaca."
+image: "/img/miranda-ines-lopez-verdugo.png"
 is-partner: true
 specialties:
-  - "Civil Law"
-  - "Succession Trials"
+  - "Family Law"
+  - "Succession Proceedings"
+  - "Voluntary Jurisdiction"
   - "Contract Law"
-  - "Property Regularization"
-phone: "951-615-30-10"
-email: "mitzeli@abogada-karina-oaxaca.com"
+phone: "951-613-00-39"
+email: "miranda@abogada-karina-oaxaca.com"
 ---
 ::
 
