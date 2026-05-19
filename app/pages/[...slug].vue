@@ -5,7 +5,10 @@ import { withLeadingSlash } from 'ufo'
 const route = useRoute()
 const { locale } = useI18n()
 
-const slug = computed(() => Array.isArray(route.params.slug) ? withLeadingSlash(String(route.params.slug.join('/'))) : withLeadingSlash(String(route.params.slug)))
+const slug = computed(() => {
+  const raw = Array.isArray(route.params.slug) ? route.params.slug.join('/') : route.params.slug
+  return withLeadingSlash(raw || '/')
+})
 
 const collection = (`content_${locale.value}`) as keyof Collections
 
