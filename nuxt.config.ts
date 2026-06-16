@@ -76,7 +76,7 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://abogada-karina-oaxaca.com/',
+    url: 'https://abogada-karina-oaxaca.com',
     name: 'Karina Orocio - Abogada Postulante en Oaxaca',
     defaultLocale: 'es',
     trailingSlash: false
@@ -128,10 +128,6 @@ export default defineNuxtConfig({
       sameAs: [
         'https://wa.me/529516153010'
       ],
-      workTranslation: {
-        inLanguage: 'en',
-        url: 'https://abogada-karina-oaxaca.com/en'
-      }
     },
   },
 

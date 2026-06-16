@@ -90,6 +90,10 @@
             },
             "read_more": "Read Full Case"
         },
+        "stats": {
+            "experience": "Years of Experience",
+            "success": "Success Rate"
+        },
         "faq": {
             "title": "Frequently",
             "subtitle": "Asked Questions",

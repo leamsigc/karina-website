@@ -1,9 +1,9 @@
 ---
 layout: service-detail
-title: "Family Law in Oaxaca | Karina Orocio Cruz"
-description: "Strategic legal resolution for no-fault divorce, child support, guarding and custody in the family courts of Oaxaca."
+title: "Divorce Lawyer in Oaxaca | No-Fault Divorce & Child Support"
+description: "Expert divorce lawyer in Oaxaca. No-fault divorce, child support and custody. Free consultation. Karina Orocio Cruz — Private Law Attorney."
 tags:
-  - family law oaxaca
+  - divorce lawyer oaxaca
   - no fault divorce oaxaca
   - child support oaxaca
   - child custody oaxaca
@@ -19,23 +19,44 @@ image:
 ogImage:
   component: BlogOgImage
   props:
-    title: 'Family Law Oaxaca'
-    description: 'Divorce, child support and custody in Oaxaca.'
+    title: 'Divorce Lawyer Oaxaca'
+    description: 'No-fault divorce, child support and custody in Oaxaca.'
     image: '/img/karina-hero.png'
-    headline: 'Family'
+    headline: 'Divorce Lawyer'
+schemaOrg:
+  - "@type": "LegalService"
+    name: "Divorce Lawyer in Oaxaca"
+    description: "No-fault divorce, child support and custody in Oaxaca."
+  - "@type": "FAQPage"
+    mainEntity:
+      - "@type": "Question"
+        name: "How long does a divorce take in Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "A mutual consent divorce with an agreement can be resolved in 1 to 3 months. A contested divorce can take 6 to 18 months depending on complexity."
+      - "@type": "Question"
+        name: "How much does a divorce lawyer cost in Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "Fees vary by case complexity. We offer a free initial consultation to provide a transparent budget."
+      - "@type": "Question"
+        name: "What is a no-fault divorce in Oaxaca?"
+        acceptedAnswer:
+          "@type": "Answer"
+          text: "No-fault divorce allows either spouse to dissolve the marriage without proving fault or grounds. It is faster and less adversarial."
 publishedAt: '2024-01-01'
 head:
   bodyAttrs:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'family law oaxaca, no fault divorce oaxaca, child support oaxaca, child custody oaxaca, Karina Orocio Cruz'
+      content: 'divorce lawyer oaxaca, no fault divorce oaxaca, child support oaxaca, child custody oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Divorce, child support and custody in Oaxaca.'
+      content: 'Expert divorce lawyer in Oaxaca. No-fault divorce, child support and custody. Free consultation. Karina Orocio Cruz.'
 ---
 
 ::ServiceDetailHero

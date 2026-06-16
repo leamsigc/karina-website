@@ -39,7 +39,7 @@ head:
     - name: 'description'
       content: 'Abogado de familia en Oaxaca. Especialistas en divorcio, pensión alimenticia y custodia. Consulta gratuita.'
 seo:
-  title: "Abogado de Familia en Oaxaca | Divorcio, Custodia y Pensión - Karina Orocio"
+  title: "Abogado de Familia en Oaxaca | Divorcio Incausado y Pensión"
   description: "Abogado de familia en Oaxaca. Especialistas en divorcio incausado, pensión alimenticia y guarda y custodia. Consulta gratuita. Karina Orocio Cruz."
   canonical: "https://abogada-karina-oaxaca.com/services/derecho-familiar-oaxaca"
 schemaOrg:
