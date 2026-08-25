@@ -23,10 +23,12 @@ logs
 .env.*
 !.env.example
 .unlighthouse
-pnpm-lock.yaml
 # Test coverage
 coverage/
 
 # Playwright
 playwright-report/
 test-results/
+
+# Local Netlify folder
+.netlify
