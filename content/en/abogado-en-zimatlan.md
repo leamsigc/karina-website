@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Zimatlan | Karina Orocio - Valles Centrales Legal Services"
-description: "Law firm in Zimatlan de Alvarez, Oaxaca. Specialists in agricultural and textile land regularization, family law, succession matters, and legal counsel for producers and artisans in the Valles Centrales."
+title: "Lawyer in Zimatlán: Divorce, Custody & Property Tax | Karina Orocio"
+description: "Lawyer in Zimatlán: divorce, custody and property tax. Valles. Free consult 951 615 3010."
 keywords: "lawyer in zimatlan, valles centrales legal services, agricultural land regularization, textile producer attorney, law firm zimatlan, family law oaxaca"
 image:
   src: '/img/one.jpeg'
@@ -57,7 +57,7 @@ context: "Zimatlan is an important agricultural and textile hub in the Valles Ce
 
 ::CityPageCaseStudy
 ---
-title: "Family Textile Workshop Regularization"
+title: "Lawyer in Zimatlán: Divorce, Custody & Property Tax | Karina Orocio"
 result: "Legal Certainty and Access to Expansion Credit"
 description: "We represented a family of textile artisans in Zimatlan who had operated their workshop on a plot without deeds for three generations. Through an adverse possession proceeding followed by asset division among heirs, we secured the property title, enabling them to access an $800,000 MXN credit to purchase equipment and expand their artisanal rug production."
 ---
@@ -138,7 +138,7 @@ Free initial consultation. We are here to serve you.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Zimatlan?"
+title: "Lawyer in Zimatlán: Divorce, Custody & Property Tax | Karina Orocio"
 subtitle: "Regularize your family assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

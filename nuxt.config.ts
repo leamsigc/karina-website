@@ -27,6 +27,14 @@ export default defineNuxtConfig({
       crawlLinks: true,
       autoSubfolderIndex: false,
       failOnError: false,
+      routes: [
+        '/en/blog/adverse-possession-usucapion-oaxaca-requirements',
+        '/en/blog/child-custody-oaxaca-father-mother-joint',
+        '/en/blog/child-support-alimony-oaxaca-calculation-increase',
+        '/en/blog/divorce-incausado-oaxaca-requirements-cost-time',
+        '/en/blog/family-lawyer-oaxaca-divorce-custody-expats',
+        '/en/blog/probate-succession-oaxaca-intestate-testate-cost',
+      ]
     }
   },
 
@@ -141,7 +149,7 @@ export default defineNuxtConfig({
   // },
 
   i18n: {
-    baseUrl: process.env.NUXT_PUBLIC_BASE_URL,
+    baseUrl: process.env.NUXT_PUBLIC_BASE_URL || 'https://abogada-karina-oaxaca.com',
     locales: [
       { code: 'en', language: 'en-US', name: 'English', file: 'en.json' },
       { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' },

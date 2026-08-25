@@ -1,7 +1,7 @@
 ---
 layout: service-detail
-title: "Abogado de Familia en Oaxaca | Divorcio, Custodia y Pensión"
-description: "Abogado de familia en Oaxaca. Especialistas en divorcio incausado, pensión alimenticia y guarda y custodia. Consulta gratuita. Karina Orocio Cruz."
+title: "Abogado Familiar Oaxaca: Divorcio en 1-3 Meses | Consulta Gratis"
+description: "Divorcio incausado en 1-3 meses, pensión justa y custodia. Abogada familiar en Oaxaca con 98% casos de éxito. Primera consulta gratis — 951 615 3010."
 tags:
   - derecho familiar oaxaca
   - divorcio incausado oaxaca
@@ -37,10 +37,10 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Abogado de familia en Oaxaca. Especialistas en divorcio, pensión alimenticia y custodia. Consulta gratuita.'
-seo:
-  title: "Abogado de Familia en Oaxaca | Divorcio Incausado y Pensión"
-  description: "Abogado de familia en Oaxaca. Especialistas en divorcio incausado, pensión alimenticia y guarda y custodia. Consulta gratuita. Karina Orocio Cruz."
+      content: 'Divorcio incausado en 1-3 meses, pensión justa y custodia. Abogada familiar en Oaxaca con 98% casos de éxito. Consulta gratis — 951 615 3010.'
+  seo:
+  title: "Abogado Familiar Oaxaca: Divorcio en 1-3 Meses | Consulta Gratis"
+  description: "Divorcio incausado en 1-3 meses, pensión justa y custodia. Abogada familiar en Oaxaca con 98% casos de éxito. Primera consulta gratis — 951 615 3010."
   canonical: "https://abogada-karina-oaxaca.com/services/derecho-familiar-oaxaca"
 schemaOrg:
   - "@type": "LegalService"

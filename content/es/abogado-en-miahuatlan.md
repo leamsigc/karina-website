@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Miahuatlan | Karina Orocio - Servicios Legales Sierra Sur"
-description: "Despacho juridico en Miahuatlan de Porfirio Diaz, Oaxaca. Especialistas en regularizacion de predios para productores de mezcal y cafe, derecho familiar, sucesiones y asesoria legal rural en la Sierra Sur."
+title: "Abogado en Miahuatlán: Divorcio, Custodia y Escrituras | Karina Orocio"
+description: "Abogado en Miahuatlán: divorcio, custodia y regularización de predios. Sierra Sur. Consulta gratis 951 615 3010."
 keywords: "abogado en miahuatlan, servicios legales sierra sur, regularizacion predios mezcaleros, abogado productores cafe, despacho juridico miahuatlan, derecho rural oaxaca"
 image:
   src: '/img/two.jpeg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Miahuatlan para regularizacion de predios y asesoria a productores.'
+      content: 'Abogado en Miahuatlán: divorcio, custodia y regularización de predios. Sierra Sur. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
     - property: 'og:image:alt'
@@ -57,7 +57,7 @@ context: "Miahuatlan es el corazon economico de la Sierra Sur y un punto estrate
 
 ::CityPageCaseStudy
 ---
-title: "Regularizacion de Parcela Mezcalera con Denominacion de Origen"
+title: "Abogado en Miahuatlán: Divorcio, Custodia y Escrituras | Karina Orocio"
 result: "Titulo de Propiedad y Acceso a Mercado Premium"
 description: "Asesoramos a una familia productora de mezcal artesanal en Miahuatlan que operaba su palenque en un predio sin escrituras desde hace mas de 30 anos. Mediante usucapion y rectificacion de medidas, logramos la titulacion de la parcela, lo que les permitio obtener el certificado de Denominacion de Origen del Mezcal y comercializar su producto en mercados internacionales a un precio 3x superior."
 ---
@@ -137,7 +137,7 @@ Primera consulta gratuita. Evaluamos su caso con atencion personalizada.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Miahuatlan?"
+title: "Abogado en Miahuatlán: Divorcio, Custodia y Escrituras | Karina Orocio"
 subtitle: "Regularice su patrimonio y proteja su produccion"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

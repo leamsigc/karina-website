@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 'Karina Orocio Cruz | Abogada Postulante en Oaxaca - Servicios Legales'
-description: 'Firma legal de prestigio en Oaxaca. Especialistas en Derecho Municipal, civil, familiar y mercantil. Agende su asesoría legal con la Lic. Karina Orocio Cruz.'
+title: 'Karina Orocio Cruz | Abogada en Oaxaca - Divorcio y Predial'
+description: 'Abogada en Oaxaca: divorcio incausado 1-3 meses, pensión alimenticia, usucapión y reducción de predial 60%. Primera consulta gratis 951-615-3010. Karina Orocio Cruz.'
 image:
   src: '/img/karina-hero.png'
   alt: 'Karina Orocio Cruz - Abogada Postulante Oaxaca'
@@ -18,7 +18,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Firma legal de prestigio en Oaxaca. Especialistas en Derecho Municipal, civil, familiar y mercantil.'
+      content: 'Abogada en Oaxaca: divorcio incausado 1-3 meses, pensión, usucapión y reducción de predial 60%. Consulta gratis 951-615-3010.'
 ogImage:
   component: 'BlogOgImage'
   props:

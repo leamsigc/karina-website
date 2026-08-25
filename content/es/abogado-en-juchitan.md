@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Juchitán | Lic. Karina Orocio Cruz"
-description: "Despacho jurídico y servicios legales en Juchitán de Zaragoza, Oaxaca. Especialistas en disputas comerciales, derecho familiar y arrendamiento eólico."
+title: "Abogado en Juchitán: Divorcio, Predial y Eólico | Karina Orocio"
+description: "Abogado en Juchitán: divorcio, predial, defensa arrendamiento eólico. Istmo y Tehuantepec. Consulta gratis 951 615 3010."
 keywords: "abogado juchitan, servicios legales istmo, energia eolica oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-office-building.jpg'
@@ -30,7 +30,7 @@ context: "Como el corazón comercial del Istmo y centro de desarrollo de energí
 
 ::CityPageCaseStudy
 ---
-title: "Defensa de Propietarios en Contratos de Arrendamiento Eólico"
+title: "Abogado en Juchitán: Divorcio, Predial y Eólico | Karina Orocio"
 result: "Renegociación Exitosa y Aumento de Regalías"
 description: "Asesoramos a un grupo de propietarios de tierras en la revisión y renegociación de contratos de usufructo con empresas de energía eólica, corrigiendo cláusulas abusivas y logrando un incremento del 40% en las contraprestaciones económicas."
 ---
@@ -90,7 +90,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Juchitán?"
+title: "Abogado en Juchitán: Divorcio, Predial y Eólico | Karina Orocio"
 subtitle: "Le ayudaremos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

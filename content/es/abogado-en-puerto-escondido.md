@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Puerto Escondido | Karina Orocio - Servicios Legales Costa de Oaxaca"
-description: "Despacho juridico especialista en Puerto Escondido. Regularizacion de propiedades costeras, fideicomisos para extranjeros, defensa legal y proteccion de inversiones turisticas en la Costa oaxaquena."
+title: "Abogado en Puerto Escondido: Divorcio, Escrituras y Fideicomisos | Karina Orocio"
+description: "Abogado en Puerto Escondido: usucapión, fideicomisos para extranjeros y divorcio. Costa oaxaqueña. Consulta gratis 951 615 3010."
 keywords: "abogado en puerto escondido, regularizacion propiedades puerto escondido, fideicomiso Mexico, escritorio juridico costa oaxaca, abogado propiedades costa"
 image:
   src: '/img/layer-beach-property.jpg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Puerto Escondido para regularizacion de propiedades.'
+      content: 'Abogado en Puerto Escondido: usucapión, fideicomisos para extranjeros y divorcio. Costa oaxaqueña. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
     - property: 'og:image:alt'
@@ -57,7 +57,7 @@ context: "Puerto Escondido es el destino turistico mas codiciado de Oaxaca. El a
 
 ::CityPageCaseStudy
 ---
-title: "Regularizacion de Propiedad Costera de Alto Valor"
+title: "Abogado en Puerto Escondido: Divorcio, Escrituras y Fideicomisos | Karina Orocio"
 result: "Certeza Juridica y Escrituracion Definitiva"
 description: "Asesoramos a un grupo de inversionistas en la transicion segura de derechos de posesion (actas de posesion comunal) a propiedad privada mediante juicios de usucapcion estrategicos, asegurando una inversion inmobiliaria de mas de $50M MXN frente a la playa."
 ---
@@ -124,7 +124,7 @@ Primera consulta gratuita.
 
 ::ServiceCta
 ---
-title: "¿Tiene propiedad en Puerto Escondido?"
+title: "Abogado en Puerto Escondido: Divorcio, Escrituras y Fideicomisos | Karina Orocio"
 subtitle: "Le ayudarlemos a regularizar su inversion"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

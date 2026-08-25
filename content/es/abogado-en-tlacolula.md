@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Tlacolula | Karina Orocio - Servicios Legales Valles Centrales"
-description: "Despacho juridico en Tlacolula de Matamoros, Oaxaca. Especialistas en regularizacion de propiedades comerciales, derecho turistico, proteccion de marcas artesanales, asesoria a comerciantes del mercado y derecho familiar."
+title: "Abogado en Tlacolula: Divorcio, Predial y Comercio | Karina Orocio"
+description: "Abogado en Tlacolula: divorcio, reducción predial y regularización comercial. Valles. Consulta gratis 951 615 3010."
 keywords: "abogado en tlacolula, servicios legales valles centrales, regularizacion propiedades comerciales, abogado mercado tlacolula, proteccion marcas artesanales, derecho turistico oaxaca"
 image:
   src: '/img/tres.jpeg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Tlacolula para comerciantes, artesanos y propietarios.'
+      content: 'Abogado en Tlacolula: divorcio, reducción predial y regularización comercial. Valles. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
     - property: 'og:image:alt'
@@ -57,7 +57,7 @@ context: "Tlacolula es uno de los municipios mas importantes de los Valles Centr
 
 ::CityPageCaseStudy
 ---
-title: "Regularizacion de Local en el Mercado de Tlacolula"
+title: "Abogado en Tlacolula: Divorcio, Predial y Comercio | Karina Orocio"
 result: "Titulo de Propiedad y Permiso Comercial Definitivo"
 description: "Asesoramos a una familia que por mas de 25 anos operaba un puesto de barbacoa y mole en el mercado de Tlacolula sin titulo de propiedad ni permiso municipal regularizado. Llevamos a cabo el juicio de prescripcion adquisitiva y gestionamos ante el municipio la regularizacion del permiso de funcionamiento, garantizando la continuidad del negocio y su transmision a las siguientes generaciones."
 ---
@@ -139,7 +139,7 @@ Primera consulta gratuita. Le esperamos.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Tlacolula?"
+title: "Abogado en Tlacolula: Divorcio, Predial y Comercio | Karina Orocio"
 subtitle: "Asegure su patrimonio y su negocio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

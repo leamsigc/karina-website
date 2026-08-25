@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Tuxtepec | Lic. Karina Orocio Cruz"
-description: "Law firm and legal services in San Juan Bautista Tuxtepec, Oaxaca. Specialists in civil litigation, commercial law, and property regularization."
+title: "Lawyer in Tuxtepec: Divorce, Property Tax & Civil | Karina Orocio"
+description: "Lawyer in Tuxtepec: divorce, property tax and land. Papaloapan. Free consult 951 615 3010."
 keywords: "lawyer tuxtepec, legal services papaloapan, property regularization oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-accounting.jpg'
@@ -30,7 +30,7 @@ context: "The agricultural and commercial powerhouse of the Papaloapan Basin req
 
 ::CityPageCaseStudy
 ---
-title: "Agricultural Commercial Dispute Resolution"
+title: "Lawyer in Tuxtepec: Divorce, Property Tax & Civil | Karina Orocio"
 result: "Compulsory Contract Enforcement"
 description: "We obtained a favorable judgment for a local producer cooperative against a national packing company that breached purchase terms, securing payment for the harvest and compensation for damages."
 ---
@@ -90,7 +90,7 @@ Free first consultation. We respond within 24 hours.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Tuxtepec?"
+title: "Lawyer in Tuxtepec: Divorce, Property Tax & Civil | Karina Orocio"
 subtitle: "We will help protect your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

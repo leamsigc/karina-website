@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Juchitán | Lic. Karina Orocio Cruz"
-description: "Law firm and legal services in Juchitán de Zaragoza, Oaxaca. Specialists in commercial disputes, family law, and wind energy lease agreements."
+title: "Lawyer in Juchitán: Divorce, Property Tax & Wind Energy | Karina Orocio"
+description: "Lawyer in Juchitán: divorce, property tax, wind lease defense. Istmo. Free consult 951 615 3010."
 keywords: "lawyer juchitan, legal services istmo, wind energy oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-office-building.jpg'
@@ -30,7 +30,7 @@ context: "As the commercial heart of the Istmo and a hub for renewable energy de
 
 ::CityPageCaseStudy
 ---
-title: "Landowner Defense in Wind Energy Lease Contracts"
+title: "Lawyer in Juchitán: Divorce, Property Tax & Wind Energy | Karina Orocio"
 result: "Successful Renegotiation and Royalty Increase"
 description: "We advised a group of landowners in the review and renegotiation of usufruct contracts with wind energy companies, correcting abusive clauses and achieving a 40% increase in economic compensation."
 ---
@@ -90,7 +90,7 @@ Free first consultation. We respond within 24 hours.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Juchitán?"
+title: "Lawyer in Juchitán: Divorce, Property Tax & Wind Energy | Karina Orocio"
 subtitle: "We will help protect your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

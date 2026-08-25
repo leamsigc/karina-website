@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Miahuatlan | Karina Orocio - Sierra Sur Legal Services"
-description: "Law firm in Miahuatlan de Porfirio Diaz, Oaxaca. Specialists in land regularization for mezcal and coffee producers, family law, succession matters, and rural legal counsel in the Sierra Sur region."
+title: "Lawyer in Miahuatlán: Divorce, Custody & Land Title | Karina Orocio"
+description: "Lawyer in Miahuatlán: divorce, custody and land regularization. Sierra Sur. Free consult 951 615 3010."
 keywords: "lawyer in miahuatlan, sierra sur legal services, mezcal land regularization, coffee producer attorney, law firm miahuatlan, rural law oaxaca"
 image:
   src: '/img/two.jpeg'
@@ -57,7 +57,7 @@ context: "Miahuatlan is the economic heart of the Sierra Sur and a strategic hub
 
 ::CityPageCaseStudy
 ---
-title: "Mezcal Parcel Regularization with Denomination of Origin"
+title: "Lawyer in Miahuatlán: Divorce, Custody & Land Title | Karina Orocio"
 result: "Property Title and Access to Premium Market"
 description: "We advised a family of artisanal mezcal producers in Miahuatlan who had operated their distillery on a plot without deeds for over 30 years. Through adverse possession and boundary rectification, we secured the parcel's title, enabling them to obtain the Mezcal Denomination of Origin certificate and market their product internationally at a 3x price premium."
 ---
@@ -138,7 +138,7 @@ Free initial consultation. We evaluate your case with personalized attention.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Miahuatlan?"
+title: "Lawyer in Miahuatlán: Divorce, Custody & Land Title | Karina Orocio"
 subtitle: "Regularize your assets and protect your production"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

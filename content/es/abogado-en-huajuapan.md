@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Huajuapan | Karina Orocio - Servicios Legales Mixteca"
-description: "Despacho juridico en Huajuapan de Leon, Oaxaca. Especialistas en derecho mercantil para comercio transfronterizo, regularizacion de predios agricolas, litigio civil y asesoria a productores de la Mixteca."
+title: "Abogado en Huajuapan: Divorcio, Predial y Sucesiones | Karina Orocio"
+description: "Abogado en Huajuapan: divorcio, pensión alimenticia y regularización de predios. Mixteca y Tlaxiaco. Consulta gratis 951 615 3010."
 keywords: "abogado en huajuapan, servicios legales mixteca, derecho mercantil huajuapan, regularizacion predios agricolas, abogado comercio transfronterizo, despacho juridico huajuapan"
 image:
   src: '/img/layer-accounting.jpg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Huajuapan para asuntos mercantiles, civiles y regularizacion de predios.'
+      content: 'Abogado en Huajuapan: divorcio, pensión alimenticia y regularización de predios. Mixteca y Tlaxiaco. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
     - property: 'og:image:alt'
@@ -57,7 +57,7 @@ context: "Huajuapan es el centro economico de la Mixteca oaxaquena, con un inten
 
 ::CityPageCaseStudy
 ---
-title: "Regularizacion de Predio Agricola Familiar"
+title: "Abogado en Huajuapan: Divorcio, Predial y Sucesiones | Karina Orocio"
 result: "Escrituracion y Titulo de Propiedad"
 description: "Representamos a tres generaciones de una familia productora de maiz en Huajuapan que ocupaban una parcela de 12 hectareas desde 1975 sin titulo de propiedad. Mediante un juicio de usucapion agrario, logramos la sentencia favorable que les otorgo certeza juridica, permitiendoles acceder a creditos de FIRA y programas de apoyo al campo."
 ---
@@ -137,7 +137,7 @@ Primera consulta gratuita. Evaluamos su caso sin compromiso.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Huajuapan?"
+title: "Abogado en Huajuapan: Divorcio, Predial y Sucesiones | Karina Orocio"
 subtitle: "Proteja su patrimonio y su negocio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

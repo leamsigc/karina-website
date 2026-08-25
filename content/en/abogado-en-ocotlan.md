@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Ocotlan | Karina Orocio - Valles Centrales Legal Services"
-description: "Law firm in Ocotlan de Morelos, Oaxaca. Specialists in commercial law for business owners, mezcal land regularization, agricultural producer advisory, and family law in the Valles Centrales."
+title: "Lawyer in Ocotlán: Divorce, Property Tax & Mezcal | Karina Orocio"
+description: "Lawyer in Ocotlán: divorce, property tax and mezcal land. Valles Centrales. Free consult 951 615 3010."
 keywords: "lawyer in ocotlan, valles centrales legal services, mezcal land regularization, commercial law ocotlan, business attorney oaxaca, law firm ocotlan"
 image:
   src: '/img/layer-services-1.jpg'
@@ -57,7 +57,7 @@ context: "Ocotlan de Morelos is a commercial and agricultural hub in the Valles 
 
 ::CityPageCaseStudy
 ---
-title: "Debt Recovery for Local Business Owner"
+title: "Lawyer in Ocotlán: Divorce, Property Tax & Mezcal | Karina Orocio"
 result: "Full Payment of $350,000 MXN in 45 Days"
 description: "We represented a wholesale grocery merchant in Ocotlan carrying an overdue portfolio of over $350,000 MXN from 5 delinquent clients. Through strategic commercial enforcement proceedings and precautionary asset attachments, we achieved full debt recovery in just 45 days, saving their business from bankruptcy and setting a precedent for the remaining debtors."
 ---
@@ -145,7 +145,7 @@ Free initial consultation. We attend to you personally.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Ocotlan?"
+title: "Lawyer in Ocotlán: Divorce, Property Tax & Mezcal | Karina Orocio"
 subtitle: "Protect your business and your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

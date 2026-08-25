@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Pochutla | Lic. Karina Orocio Cruz"
-description: "Law firm in San Pedro Pochutla, Oaxaca. Specialists in civil law, family law, and defense against arbitrary government actions."
+title: "Lawyer in Pochutla: Divorce, Property Tax & Coast | Karina Orocio"
+description: "Lawyer in Pochutla: divorce, property tax and coastal regularization. Huatulco. Free consult 951 615 3010."
 keywords: "lawyer pochutla, legal services costa, administrative defense oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-services-2.jpg'
@@ -30,7 +30,7 @@ context: "As the supply and commerce hub of the Costa region, Pochutla requires 
 
 ::CityPageCaseStudy
 ---
-title: "Administrative Defense Against Business Closure Orders"
+title: "Lawyer in Pochutla: Divorce, Property Tax & Coast | Karina Orocio"
 result: "Nullification of Government Action"
 description: "We defended a group of local merchants against attempted closures and unlawful municipal tax collections, obtaining the nullification of the actions through the State Administrative Justice Court."
 ---
@@ -90,7 +90,7 @@ Free first consultation. We respond within 24 hours.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Pochutla?"
+title: "Lawyer in Pochutla: Divorce, Property Tax & Coast | Karina Orocio"
 subtitle: "We will help protect your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

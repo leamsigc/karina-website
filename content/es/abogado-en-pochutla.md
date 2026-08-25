@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Pochutla | Lic. Karina Orocio Cruz"
-description: "Despacho jurídico en San Pedro Pochutla, Oaxaca. Especialistas en derecho civil, familiar y defensa contra actos arbitrarios."
+title: "Abogado en Pochutla: Divorcio, Predial y Costa | Karina Orocio"
+description: "Abogado en Pochutla: divorcio, reducción predial y regularización costera. Huatulco y Puerto Escondido. Consulta gratis 951 615 3010."
 keywords: "abogado pochutla, servicios legales costa, defensa administrativa oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-services-2.jpg'
@@ -30,7 +30,7 @@ context: "Como centro de abasto y comercio de la Costa, Pochutla requiere defens
 
 ::CityPageCaseStudy
 ---
-title: "Defensa Administrativa contra Clausura Comercial"
+title: "Abogado en Pochutla: Divorcio, Predial y Costa | Karina Orocio"
 result: "Nulidad de Acto de Autoridad"
 description: "Defendimos a un grupo de comerciantes locales ante intentos de clausura y cobros de impuestos municipales fuera de la ley, obteniendo la nulidad de los actos a través del Tribunal de Justicia Administrativa del Estado."
 ---
@@ -90,7 +90,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Pochutla?"
+title: "Abogado en Pochutla: Divorcio, Predial y Costa | Karina Orocio"
 subtitle: "Le ayudaremos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

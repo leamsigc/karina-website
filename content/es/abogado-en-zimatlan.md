@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Zimatlan | Karina Orocio - Servicios Legales Valles Centrales"
-description: "Despacho juridico en Zimatlan de Alvarez, Oaxaca. Especialistas en regularizacion de tierras agricolas y textiles, derecho familiar, sucesiones y asesoria legal para productores y artesanos de los Valles Centrales."
+title: "Abogado en Zimatlán: Divorcio, Custodia y Predial | Karina Orocio"
+description: "Abogado en Zimatlán: divorcio, custodia y reducción de predial. Valles Centrales. Consulta gratis 951 615 3010."
 keywords: "abogado en zimatlan, servicios legales valles centrales, regularizacion tierras agricolas, abogado productores textiles, despacho juridico zimatlan, derecho familiar oaxaca"
 image:
   src: '/img/one.jpeg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Zimatlan para regularizacion de predios y asesoria a productores y artesanos.'
+      content: 'Abogado en Zimatlán: divorcio, custodia y reducción de predial. Valles Centrales. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
     - property: 'og:image:alt'
@@ -57,7 +57,7 @@ context: "Zimatlan es un importante centro agricola y textil en los Valles Centr
 
 ::CityPageCaseStudy
 ---
-title: "Regularizacion de Taller Textil Familiar"
+title: "Abogado en Zimatlán: Divorcio, Custodia y Predial | Karina Orocio"
 result: "Certeza Juridica y Acceso a Creditos para Expansion"
 description: "Representamos a una familia de artesanos textiles de Zimatlan que por tres generaciones habia operado su taller en un predio sin escrituras. Mediante un juicio de usucapion y la posterior division de bienes entre los herederos, logramos titular la propiedad, lo que les permitio acceder a un credito de $800,000 MXN para adquirir equipo y expandir su produccion de tapetes artesanales."
 ---
@@ -137,7 +137,7 @@ Primera consulta gratuita. Estamos para servirle.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Zimatlan?"
+title: "Abogado en Zimatlán: Divorcio, Custodia y Predial | Karina Orocio"
 subtitle: "Regularice su patrimonio familiar"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

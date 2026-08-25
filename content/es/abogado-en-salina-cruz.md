@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Salina Cruz | Lic. Karina Orocio Cruz"
-description: "Despacho jurídico y servicios legales en Salina Cruz, Oaxaca. Especialistas en derecho corporativo, administrativo y litigios complejos."
+title: "Abogado en Salina Cruz: Divorcio, Predial y Corporativo | Karina Orocio"
+description: "Abogado en Salina Cruz: divorcio, predial y derecho corporativo. Istmo. Consulta gratis 951 615 3010."
 keywords: "abogado salina cruz, servicios legales istmo, litigio comercial oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-services-2.jpg'
@@ -30,7 +30,7 @@ context: "El desarrollo portuario, petrolero e industrial de Salina Cruz exige u
 
 ::CityPageCaseStudy
 ---
-title: "Litigio Comercial Portuario y Recuperación de Activos"
+title: "Abogado en Salina Cruz: Divorcio, Predial y Corporativo | Karina Orocio"
 result: "Recuperación del 100% de la Cartera Vencida"
 description: "Representamos exitosamente a una empresa proveedora de servicios marítimos en el cobro judicial de facturas millonarias a contratistas de la región, logrando el embargo precauctorio de cuentas y el pago total de la deuda más intereses legales."
 ---
@@ -90,7 +90,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Salina Cruz?"
+title: "Abogado en Salina Cruz: Divorcio, Predial y Corporativo | Karina Orocio"
 subtitle: "Le ayudaremos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

@@ -23,7 +23,7 @@ const toggleLanguage = (lang: 'en' | 'es') => {
                         <span class="text-charcoal font-serif text-xl group-hover:text-cream transition-colors duration-300">KO</span>
                     </div>
                     <div>
-                        <h1 class="text-xl font-serif tracking-widest uppercase text-charcoal">Karina Orocio</h1>
+                        <p class="text-xl font-serif tracking-widest uppercase text-charcoal">Karina Orocio</p>
                         <p class="text-[10px] text-gold tracking-[0.2em] uppercase">{{ t('common.title') }}</p>
                     </div>
                 </NuxtLinkLocale>

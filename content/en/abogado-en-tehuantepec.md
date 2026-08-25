@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Tehuantepec | Lic. Karina Orocio Cruz"
-description: "Law firm in Santo Domingo Tehuantepec, Oaxaca. Specialists in probate proceedings, boundary disputes, and family asset protection."
+title: "Lawyer in Tehuantepec: Probate, Property Tax & Boundaries | Karina Orocio"
+description: "Lawyer in Tehuantepec: probate, property tax and boundary disputes. Istmo. Free consult 951 615 3010."
 keywords: "lawyer tehuantepec, legal services istmo, probate proceedings oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-family-law.jpg'
@@ -30,7 +30,7 @@ context: "In Tehuantepec, we combine respect for local traditions with modern le
 
 ::CityPageCaseStudy
 ---
-title: "Complex Intestate Probate Proceeding"
+title: "Lawyer in Tehuantepec: Probate, Property Tax & Boundaries | Karina Orocio"
 result: "Peaceful Asset Adjudication"
 description: "We resolved a family dispute spanning more than 10 years over an intestate estate involving multiple commercial properties. Through strategic mediation and civil litigation, we achieved a fair partition and titling in favor of our clients."
 ---
@@ -90,7 +90,7 @@ Free first consultation. We respond within 24 hours.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Tehuantepec?"
+title: "Lawyer in Tehuantepec: Probate, Property Tax & Boundaries | Karina Orocio"
 subtitle: "We will help protect your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

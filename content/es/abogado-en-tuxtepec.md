@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Tuxtepec | Lic. Karina Orocio Cruz"
-description: "Despacho jurídico y servicios legales en San Juan Bautista Tuxtepec, Oaxaca. Especialistas en juicios civiles, mercantiles y regularización de predios."
+title: "Abogado en Tuxtepec: Divorcio, Predial y Civil | Karina Orocio"
+description: "Abogado en Tuxtepec: divorcio, predial y regularización de propiedades. Papaloapan. Consulta gratis 951 615 3010."
 keywords: "abogado tuxtepec, servicios legales papaloapan, regularizacion predios oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-accounting.jpg'
@@ -30,7 +30,7 @@ context: "La potencia agrícola y comercial de la Cuenca del Papaloapan requiere
 
 ::CityPageCaseStudy
 ---
-title: "Resolución de Conflicto Comercial Agrícola"
+title: "Abogado en Tuxtepec: Divorcio, Predial y Civil | Karina Orocio"
 result: "Cumplimiento Forzoso de Contrato"
 description: "Logramos sentencia favorable para una cooperativa de productores locales contra una empacadora nacional que incumplió los términos de compra, asegurando el pago de la cosecha y el resarcimiento por daños y perjuicios."
 ---
@@ -90,7 +90,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Tuxtepec?"
+title: "Abogado en Tuxtepec: Divorcio, Predial y Civil | Karina Orocio"
 subtitle: "Le ayudaremos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Tehuantepec | Lic. Karina Orocio Cruz"
-description: "Despacho jurídico en Santo Domingo Tehuantepec, Oaxaca. Especialistas en juicios sucesorios, conflictos de linderos y patrimonio familiar."
+title: "Abogado en Tehuantepec: Sucesiones, Predial y Linderos | Karina Orocio"
+description: "Abogado en Tehuantepec: juicios sucesorios, predial y conflictos de linderos. Istmo. Consulta gratis 951 615 3010."
 keywords: "abogado tehuantepec, servicios legales istmo, juicios sucesorios oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-family-law.jpg'
@@ -30,7 +30,7 @@ context: "En Tehuantepec, combinamos el respeto por las tradiciones locales con 
 
 ::CityPageCaseStudy
 ---
-title: "Juicio Sucesorio Intestamentario Complejo"
+title: "Abogado en Tehuantepec: Sucesiones, Predial y Linderos | Karina Orocio"
 result: "Adjudicación Pacífica de Bienes"
 description: "Resolvimos un litigio familiar de más de 10 años sobre una herencia intestada con múltiples propiedades comerciales. Mediante mediación estratégica y litigio civil, logramos la partición justa y la escrituración a favor de nuestros clientes."
 ---
@@ -90,7 +90,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Tehuantepec?"
+title: "Abogado en Tehuantepec: Sucesiones, Predial y Linderos | Karina Orocio"
 subtitle: "Le ayudaremos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

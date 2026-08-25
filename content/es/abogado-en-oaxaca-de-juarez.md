@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Oaxaca de Juárez | Karina Orocio - Derecho Privado Oaxaca"
-description: "Despacho jurídico líder en Oaxaca de Juárez. Reducción de predial, derecho civil, familiar y administrativo. +10 años de experiencia. Primera consulta gratuita."
+title: "Abogado en Oaxaca de Juárez: Divorcio, Predial y Sucesorio | Karina Orocio"
+description: "Abogado en Oaxaca de Juárez: divorcio incausado 1-3 meses, reducción predial 60% y juicios sucesorios. Centro Histórico y Valles. Consulta gratis 951 615 3010."
 keywords: "abogado en oaxaca de juarez, abiertada oaxaca de juarez, escritorio juridico oaxaca, servicios legales oaxaca, reduccion predial oaxaca, divorcio oaxaca, juicio sucesorio oaxaca"
 image:
   src: '/img/layer-meeting.jpg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Oaxaca de Juárez - reduccion de predial, derecho civil, familiar.'
+      content: 'Abogado en Oaxaca de Juárez: divorcio incausado 1-3 meses, reducción predial 60% y juicios sucesorios. Centro Histórico y Valles. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
 schemaOrg:
@@ -55,7 +55,7 @@ context: "Como capital del estado, Oaxaca de Juárez concentra la mayor activida
 
 ::CityPageCaseStudy
 ---
-title: "Nulidad de Multa Administrativa y Clausura Municipal"
+title: "Abogado en Oaxaca de Juárez: Divorcio, Predial y Sucesorio | Karina Orocio"
 result: "Ahorro de $1.2M MXN y Reapertura Inmediata"
 description: "Logramos la nulidad lisa y llana de una multa impuesta arbitrariamente por el municipio a una empresa constructora local, demostrando violaciones graves al debido proceso y logrando el levantamiento de los sellos de clausura en menos de 48 horas mediante un juicio de amparo."
 ---
@@ -155,7 +155,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Oaxaca de Juárez?"
+title: "Abogado en Oaxaca de Juárez: Divorcio, Predial y Sucesorio | Karina Orocio"
 subtitle: "Le ayudarlemos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

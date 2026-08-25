@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Tlaxiaco | Lic. Karina Orocio Cruz"
-description: "Law firm in Heroica Ciudad de Tlaxiaco, Oaxaca. Specialists in adverse possession proceedings, civil registry corrections, and divorce."
+title: "Lawyer in Tlaxiaco: Divorce, Probate & Property Tax | Karina Orocio"
+description: "Lawyer in Tlaxiaco: divorce, probate and property tax. Mixteca. Free consult 951 615 3010."
 keywords: "lawyer tlaxiaco, legal services mixteca, adverse possession oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-office-building.jpg'
@@ -30,7 +30,7 @@ context: "In the heart of the Mixteca, we provide legal counsel focused on prote
 
 ::CityPageCaseStudy
 ---
-title: "Urban Property Regularization"
+title: "Lawyer in Tlaxiaco: Divorce, Probate & Property Tax | Karina Orocio"
 result: "Obtaining Property Titles"
 description: "We successfully carried out a series of adverse possession (usucapión) proceedings for families who had lived on their properties for decades without titles, finally granting them legal certainty and commercial value for their homes."
 ---
@@ -90,7 +90,7 @@ Free first consultation. We respond within 24 hours.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Tlaxiaco?"
+title: "Lawyer in Tlaxiaco: Divorce, Probate & Property Tax | Karina Orocio"
 subtitle: "We will help protect your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

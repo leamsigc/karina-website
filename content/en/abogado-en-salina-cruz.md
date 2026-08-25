@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Salina Cruz | Lic. Karina Orocio Cruz"
-description: "Law firm and legal services in Salina Cruz, Oaxaca. Specialists in corporate law, administrative law, and complex litigation."
+title: "Lawyer in Salina Cruz: Divorce, Property Tax & Corporate | Karina Orocio"
+description: "Lawyer in Salina Cruz: divorce, property tax and corporate. Istmo. Free consult 951 615 3010."
 keywords: "lawyer salina cruz, legal services istmo, commercial litigation oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-services-2.jpg'
@@ -30,7 +30,7 @@ context: "The port, oil, and industrial development of Salina Cruz demands a leg
 
 ::CityPageCaseStudy
 ---
-title: "Port Commercial Litigation and Asset Recovery"
+title: "Lawyer in Salina Cruz: Divorce, Property Tax & Corporate | Karina Orocio"
 result: "100% Recovery of Past-Due Portfolio"
 description: "We successfully represented a maritime services provider in the judicial collection of multi-million peso invoices from contractors in the region, achieving the precautionary seizure of bank accounts and full payment of the debt plus legal interest."
 ---
@@ -90,7 +90,7 @@ Free first consultation. We respond within 24 hours.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Salina Cruz?"
+title: "Lawyer in Salina Cruz: Divorce, Property Tax & Corporate | Karina Orocio"
 subtitle: "We will help protect your assets"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

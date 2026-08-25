@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Tlacolula | Karina Orocio - Valles Centrales Legal Services"
-description: "Law firm in Tlacolula de Matamoros, Oaxaca. Specialists in commercial property regularization, tourism law, artisan trademark protection, market vendor advisory, and family law."
+title: "Lawyer in Tlacolula: Divorce, Property Tax & Commerce | Karina Orocio"
+description: "Lawyer in Tlacolula: divorce, property tax and commercial. Valles. Free consult 951 615 3010."
 keywords: "lawyer in tlacolula, valles centrales legal services, commercial property regularization, tlacolula market attorney, artisan trademark protection, tourism law oaxaca"
 image:
   src: '/img/tres.jpeg'
@@ -57,7 +57,7 @@ context: "Tlacolula is one of the most important municipalities in the Valles Ce
 
 ::CityPageCaseStudy
 ---
-title: "Market Stall Regularization in Tlacolula Market"
+title: "Lawyer in Tlacolula: Divorce, Property Tax & Commerce | Karina Orocio"
 result: "Property Title and Permanent Commercial Permit"
 description: "We advised a family that had operated a barbacoa and mole stall at the Tlacolula market for over 25 years without a property title or regularized municipal permit. We carried out the adverse possession proceeding and managed the regularization of the operating permit with the municipality, ensuring business continuity and its transfer to future generations."
 ---
@@ -140,7 +140,7 @@ Free initial consultation. We look forward to helping you.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Tlacolula?"
+title: "Lawyer in Tlacolula: Divorce, Property Tax & Commerce | Karina Orocio"
 subtitle: "Secure your assets and your business"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

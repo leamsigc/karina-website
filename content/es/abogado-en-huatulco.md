@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Huatulco | Karina Orocio - Servicios Legales Bahía"
-description: "Despacho juridico especialista en Huatulco. Regularizacion de propiedades, defensa ante FONATUR, PROFEPA y autoridades. Proteccion de inversiones turisticas en las Bahias."
+title: "Abogado en Huatulco: Divorcio, Predial y Escrituras | Karina Orocio"
+description: "Abogado en Huatulco: divorcio incausado 1-3 meses, reducción de predial y usucapión. Atención en Santa Cruz Huatulco y Pochutla. Consulta gratis 951 615 3010."
 keywords: "abogado en huatulco, servicios legales huatulco, derecho turistico oaxaca, regularizacion propiedades bahias huatulco, defensa hotel huatulco, Karina Orocio Cruz"
 image:
   src: '/img/layer-beach-resort.jpg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico especializado en Huatulco para regularizacion de propiedades y defensa ante autoridades.'
+      content: 'Abogado en Huatulco: divorcio incausado 1-3 meses, reducción de predial y usucapión. Atención en Santa Cruz Huatulco y Pochutla. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
 schemaOrg:
@@ -55,7 +55,7 @@ context: "En Bahias de Huatulco, brindamos certeza juridica a desarrolladores tu
 
 ::CityPageCaseStudy
 ---
-title: "Defensa contra Clausura de FONATUR y PROFEPA"
+title: "Abogado en Huatulco: Divorcio, Predial y Escrituras | Karina Orocio"
 result: "Suspension Definitiva y Operacion Continua"
 description: "Obtuvimos el amparo y proteccion de la justicia federal para un hotel boutique local, revirtiendo una orden de clausura irregular por supuestas faltas administrativas ambientales, permitiendo que el negocio operara sin interrupciones durante la temporada alta."
 ---
@@ -125,7 +125,7 @@ Primera consulta gratuita.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Huatulco?"
+title: "Abogado en Huatulco: Divorcio, Predial y Escrituras | Karina Orocio"
 subtitle: "Le ayudarlemos a proteger su inversion turistica"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

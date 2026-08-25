@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lawyer in Huajuapan | Karina Orocio - Mixteca Legal Services"
-description: "Law firm in Huajuapan de Leon, Oaxaca. Specialists in commercial law for cross-border trade, agricultural land regularization, civil litigation, and legal counsel for producers in the Mixteca region."
+title: "Lawyer in Huajuapan: Divorce, Property Tax & Probate | Karina Orocio"
+description: "Lawyer in Huajuapan: divorce, child support and land regularization. Mixteca and Tlaxiaco. Free consult 951 615 3010."
 keywords: "lawyer in huajuapan, mixteca legal services, commercial law huajuapan, agricultural land regularization, cross-border trade attorney, law firm huajuapan"
 image:
   src: '/img/layer-accounting.jpg'
@@ -57,7 +57,7 @@ context: "Huajuapan is the economic hub of the Mixteca region in Oaxaca, with in
 
 ::CityPageCaseStudy
 ---
-title: "Family Farmland Regularization"
+title: "Lawyer in Huajuapan: Divorce, Property Tax & Probate | Karina Orocio"
 result: "Deed and Property Title"
 description: "We represented three generations of a corn-farming family in Huajuapan who had occupied a 12-hectare plot since 1975 without a property title. Through an agrarian adverse possession proceeding, we obtained a favorable judgment granting them legal certainty, enabling them to access FIRA credits and agricultural support programs."
 ---
@@ -138,7 +138,7 @@ Free initial consultation. We evaluate your case with no obligation.
 
 ::ServiceCta
 ---
-title: "Need a lawyer in Huajuapan?"
+title: "Lawyer in Huajuapan: Divorce, Property Tax & Probate | Karina Orocio"
 subtitle: "Protect your assets and your business"
 ctaText: "Schedule a Consultation"
 ctaLink: "/contact"

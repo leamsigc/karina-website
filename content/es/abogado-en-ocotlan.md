@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Ocotlan | Karina Orocio - Servicios Legales Valles Centrales"
-description: "Despacho juridico en Ocotlan de Morelos, Oaxaca. Especialistas en derecho mercantil para comerciantes, regularizacion de predios mezcaleros, asesoria a productores agricolas y derecho familiar en los Valles Centrales."
+title: "Abogado en Ocotlán: Divorcio, Predial y Mezcal | Karina Orocio"
+description: "Abogado en Ocotlán: divorcio, predial y regularización de predios. Valles Centrales. Consulta gratis 951 615 3010."
 keywords: "abogado en ocotlan, servicios legales valles centrales, regularizacion predios mezcaleros, derecho mercantil ocotlan, abogado comerciantes oaxaca, despacho juridico ocotlan"
 image:
   src: '/img/layer-services-1.jpg'
@@ -25,7 +25,7 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Despacho juridico en Ocotlan para comerciantes, productores de mezcal y familias.'
+      content: 'Abogado en Ocotlán: divorcio, predial y regularización de predios. Valles Centrales. Consulta gratis 951 615 3010.'
     - property: 'og:locale'
       content: 'es_MX'
     - property: 'og:image:alt'
@@ -57,7 +57,7 @@ context: "Ocotlan de Morelos es un polo comercial y agricola en los Valles Centr
 
 ::CityPageCaseStudy
 ---
-title: "Recuperacion de Cartera para Comerciante Local"
+title: "Abogado en Ocotlán: Divorcio, Predial y Mezcal | Karina Orocio"
 result: "Pago Integro de $350,000 MXN en 45 Dias"
 description: "Representamos a un comerciante de abarrotes al mayoreo en Ocotlan que arrastraba una cartera vencida de mas de $350,000 MXN con 5 clientes morosos. Mediante juicios ejecutivos mercantiles estratégicos y embargos precautorios, logramos la recuperacion total del adeudo en solo 45 dias, salvando su negocio de la quiebra y estableciendo un precedente para el resto de sus deudores."
 ---
@@ -144,7 +144,7 @@ Primera consulta gratuita. Le atendemos personalmente.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Ocotlan?"
+title: "Abogado en Ocotlán: Divorcio, Predial y Mezcal | Karina Orocio"
 subtitle: "Proteja su negocio y su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"

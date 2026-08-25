@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Abogado en Tlaxiaco | Lic. Karina Orocio Cruz"
-description: "Despacho jurídico en Heroica Ciudad de Tlaxiaco, Oaxaca. Especialistas en juicios de usucapión, rectificación de actas y divorcios."
+title: "Abogado en Tlaxiaco: Divorcio, Sucesiones y Predial | Karina Orocio"
+description: "Abogado en Tlaxiaco: divorcio, juicios sucesorios y predial. Mixteca. Consulta gratis 951 615 3010."
 keywords: "abogado tlaxiaco, servicios legales mixteca, usucapion oaxaca, Karina Orocio Cruz"
 image:
   src: '/img/layer-office-building.jpg'
@@ -30,7 +30,7 @@ context: "En el corazón de la Mixteca, brindamos asesoría legal enfocada en la
 
 ::CityPageCaseStudy
 ---
-title: "Regularización de Predios Urbanos"
+title: "Abogado en Tlaxiaco: Divorcio, Sucesiones y Predial | Karina Orocio"
 result: "Obtención de Títulos de Propiedad"
 description: "Llevamos a cabo con éxito una serie de juicios de prescripción adquisitiva (usucapión) para familias que habitaban sus propiedades por décadas sin escrituras, otorgándoles finalmente certeza jurídica y valor comercial a sus hogares."
 ---
@@ -90,7 +90,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 
 ::ServiceCta
 ---
-title: "¿Necesita un abogado en Tlaxiaco?"
+title: "Abogado en Tlaxiaco: Divorcio, Sucesiones y Predial | Karina Orocio"
 subtitle: "Le ayudaremos a proteger su patrimonio"
 ctaText: "Agendar Consulta"
 ctaLink: "/contact"
