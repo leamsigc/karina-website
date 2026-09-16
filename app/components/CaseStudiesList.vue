@@ -3,18 +3,18 @@ import type { Collections } from '@nuxt/content'
 
 const { locale, t } = useI18n()
 
-const { data: caseStudies } = await useAsyncData('case-studies', async () => {
+const { data: caseStudies } = await useAsyncData(`case-studies-${locale.value}`, async () => {
   const collection = (`content_${locale.value}`) as keyof Collections
-  const content = await queryCollection(collection)
-    .where("type", "=", 'case')
+  let content = await queryCollection(collection)
+    .where("type", "in", ['case', 'case-study'])
     .select('path', 'title', 'description', 'tags', 'publishedAt', 'image', 'caseOverview')
     .order('publishedAt', 'DESC')
     .all()
 
-  if (!content && locale.value !== 'es') {
+  if ((!content || !content.length) && locale.value !== 'es') {
     const defaultCollection = (`content_es`) as keyof Collections
-    return await queryCollection(defaultCollection)
-      .where("type", "=", 'case')
+    content = await queryCollection(defaultCollection)
+      .where("type", "in", ['case', 'case-study'])
       .select('path', 'title', 'description', 'tags', 'publishedAt', 'image', 'caseOverview')
       .order('publishedAt', 'DESC')
       .all()

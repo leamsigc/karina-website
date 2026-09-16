@@ -31,7 +31,7 @@ const blogSchema = z.object({
   }),
   category: z.string(),
   featured: z.boolean().default(false),
-  type: z.enum(['blog', 'case-study', 'service']).default("blog"),
+  type: z.enum(['blog', 'case-study', 'service', 'case']).default("blog"),
   author: z.object({
     name: z.string(),
     role: z.string(),

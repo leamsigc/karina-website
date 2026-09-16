@@ -7,14 +7,22 @@ const { locale, t } = useI18n()
 const route = useRoute()
 const slug = computed(() => withLeadingSlash(String(route.params.slug)))
 
-const { data: posts } = await useAsyncData(`blog-${slug.value}`, async () => {
+const { data: posts } = await useAsyncData(`blog-${locale.value}-${slug.value}`, async () => {
   const collection = (`content_${locale.value}`) as keyof Collections
-  let content = await queryCollection(collection).where('featured', '=', 1).select('path', 'title', 'tags', 'publishedAt', 'image', 'author', 'description').all()
+  let content = await queryCollection(collection)
+    .where('featured', '=', true)
+    .select('path', 'title', 'tags', 'publishedAt', 'image', 'author', 'description')
+    .order('publishedAt', 'DESC')
+    .all()
 
-  // Fallback to default locale if content is missing
-  if (!content && locale.value !== 'es') {
+  // Fallback to default locale if content is empty array
+  if ((!content || !content.length) && locale.value !== 'es') {
     const defaultCollection = (`content_es`) as keyof Collections
-    content = await queryCollection(defaultCollection).where('featured', '=', 1).select('path', 'title', 'tags', 'publishedAt', 'image', 'author', 'description').order('publishedAt', 'DESC').all()
+    content = await queryCollection(defaultCollection)
+      .where('featured', '=', true)
+      .select('path', 'title', 'tags', 'publishedAt', 'image', 'author', 'description')
+      .order('publishedAt', 'DESC')
+      .all()
   }
 
   return content
