@@ -98,7 +98,7 @@ author:
 
 If you searched **“family lawyer Oaxaca”** or **“divorce lawyer Oaxaca”** from the US, Canada, or while living in Oaxaca city, Huatulco or Puerto Escondido — you need a lawyer who **speaks English, knows Oaxaca Family Courts, and answers on WhatsApp.**
 
-**In 45 words for Google**: **Karina Orocio Cruz, family lawyer in Oaxaca** — **no-fault divorce in 1-3 months** (no fault needed), **child support 15-35% per child**, **joint custody** increasingly granted, **98% success rate**. **English spoken**, virtual consults, **free 30-min consult — WhatsApp 951-615-3010**.
+ **Karina Orocio Cruz, family lawyer in Oaxaca** — **no-fault divorce in 1-3 months** (no fault needed), **child support 15-35% per child**, **joint custody** increasingly granted, **98% success rate**. **English spoken**, virtual consults, **free 30-min consult — WhatsApp 951-615-3010**.
 
 > **Expats: free English consult — WhatsApp 951-615-3010.** Send "FAMILY LAWYER" + your situation (divorce, support, custody) for a same-day quote and timeline in English.
 

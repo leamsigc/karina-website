@@ -78,7 +78,7 @@ author:
 
 Without **probate in Oaxaca**, house and accounts don't pass to children — even if "everyone knows it was Dad's". Without will: 10-year claim window but fights start in 10 days.
 
-**In 45 words for Google**: **Intestate** (no will) identifies heirs, appoints executor, inventories, awards. **6-12 months uncontested, 12-18 contested**. Costs **$18k-$45k**. Testate faster (4-8 months). Filed at Civil-Family Courts.
+ **Intestate** (no will) identifies heirs, appoints executor, inventories, awards. **6-12 months uncontested, 12-18 contested**. Costs **$18k-$45k**. Testate faster (4-8 months). Filed at Civil-Family Courts.
 
 > **Free consult — WhatsApp 951-615-3010.** Send "PROBATE + death certificate + will status".
 

@@ -40,6 +40,7 @@ head:
     - name: "description"
       content: "Abogada especialista en divorcio en Oaxaca. Divorcio incausado rápido (1-3 meses), pensión alimenticia justa y reparto de bienes. Primera consulta gratis — 951 615 3010."
 ---
+<div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16 font-serif font-light text-xl">
 
 # Abogado de Divorcio en Oaxaca: Trámite Rápido y Legalmente Seguro
 
@@ -69,12 +70,10 @@ En el estado de Oaxaca, **ya no es necesario comprobar causas de divorcio ni con
 
 ## Proceso del Divorcio Incausado en Oaxaca
 
-```
 1. Consulta Inicial (Presencial u Online) → Revisión de actas e historial.
 2. Redacción de Demanda y Convenio → Custodia, pensión y bienes.
 3. Radicación en Juzgado de lo Familiar → Emplazamiento legal.
 4. Audiencia de Desavenencia y Sentencia → Registro oficial en el Registro Civil.
-```
 
 ---
 
@@ -117,4 +116,6 @@ No dejes pasar el tiempo. Toma el control de tu tranquilidad y tu futuro patrimo
   <a href="https://wa.me/529516153010" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg transition-colors">
     📲 Enviar WhatsApp a la Abogada
   </a>
+</div>
+
 </div>

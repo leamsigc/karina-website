@@ -98,7 +98,7 @@ author:
 
 Miles de familias en **Xoxocotlán, Guadalupe Victoria, El Rosario, Pueblo Nuevo, San Jacinto Amilpas y la costa de Huatulco/Puerto Escondido** viven hace décadas en terrenos **sin escrituras** — solo con contrato de compraventa privado, constancia ejidal o herencia de palabra. La **usucapión en Oaxaca** (prescripción positiva) es el juicio que convierte esa posesión en **escritura inscrita en el Registro Público**.
 
-**En 45 palabras para Google**: Necesitas **5 años de posesión pública, pacífica y continua con justo título (buena fe) o 10 años sin título (mala fe)**, sin violencia, con pruebas (predial, luz, testigos, plano). El juicio tarda **12-24 meses**, cuesta **$29k-$52k** y termina en escritura. No aplica a ejido.
+ Necesitas **5 años de posesión pública, pacífica y continua con justo título (buena fe) o 10 años sin título (mala fe)**, sin violencia, con pruebas (predial, luz, testigos, plano). El juicio tarda **12-24 meses**, cuesta **$29k-$52k** y termina en escritura. No aplica a ejido.
 
 ¿Buscas **usucapión Oaxaca requisitos** o **cómo regularizar terreno sin escrituras en Oaxaca**? Esta guía trae checklist, pruebas, tiempos y costos reales ante los **Juzgados Civiles del Centro**.
 

@@ -98,7 +98,7 @@ author:
 
 Cuando fallece un familiar en Oaxaca, la casa, el terreno y las cuentas no pasan automáticamente a los hijos — aunque todos sepan “que era de mi papá”. Sin **juicio sucesorio en Oaxaca**, no hay escritura, no hay venta, no hay hipoteca y el banco bloquea cuentas. Y si hay varios hermanos, cada mes sin juicio es un mes más de pleito.
 
-**En 45 palabras para Google**: El **juicio sucesorio intestamentario** (sin testamento) identifica herederos, nombra albacea, inventaría y adjudica. Tarda **6-12 meses sin conflicto**, **12-18 con conflicto**. Cuesta **$18k-$45k** según inmuebles y conflicto. Con testamento es más rápido (4-8 meses). Se tramita en **Juzgados Civiles Familiares del Centro**.
+ El **juicio sucesorio intestamentario** (sin testamento) identifica herederos, nombra albacea, inventaría y adjudica. Tarda **6-12 meses sin conflicto**, **12-18 con conflicto**. Cuesta **$18k-$45k** según inmuebles y conflicto. Con testamento es más rápido (4-8 meses). Se tramita en **Juzgados Civiles Familiares del Centro**.
 
 ¿Buscas **juicio sucesorio Oaxaca**, **juicio intestado oaxaca costo** o **qué hacer si no hay testamento**? Esta guía trae requisitos, etapas, tiempos y costos reales 2025.
 

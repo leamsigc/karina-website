@@ -40,6 +40,7 @@ head:
     - name: "description"
       content: "English-speaking divorce & family lawyer in Oaxaca. No-fault divorce in 1–3 months, child custody, alimony & asset protection. Free consultation: +52 951 615 3010."
 ---
+<div class="prose prose-xl prose-slate dark:prose-invert  mx-auto max-w-4xl my-16 font-serif font-light text-xl">
 
 # Divorce Lawyer & Family Attorney in Oaxaca, Mexico
 
@@ -85,15 +86,16 @@ If you purchased real estate, vehicles, or business assets during marriage under
 
 ## The 4-Step Divorce Process in Oaxaca
 
-```
 Step 1: Free Consultation & Case Review (In-Person or via Video Call)
-        ↓
+
+
 Step 2: Drafting the Divorce Proposal & Power of Attorney Filing
-        ↓
+
+
 Step 3: Judicial Hearings in Family Court (Juzgado de lo Familiar)
-        ↓
+
 Step 4: Issuance of Final Divorce Decree & Civil Registry Registration
-```
+
 
 ---
 
@@ -125,4 +127,6 @@ Do not navigate Mexican family court alone. Get immediate, expert legal advice f
   <a href="https://wa.me/529516153010" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg transition-colors">
     📲 Contact on WhatsApp
   </a>
+</div>
+
 </div>

@@ -40,6 +40,7 @@ head:
     - name: "description"
       content: "Abogados de lo familiar en Oaxaca. Defensa legal en pensión alimenticia, guarda y custodia, patria potestad y rectificación de actas. Tel: 951 615 3010."
 ---
+<div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16 font-serif font-light text-xl">
 
 # Abogados de lo Familiar en Oaxaca: Asesoría Legal Integral para tu Familia
 
@@ -106,4 +107,6 @@ Recibe asesoría jurídica profesional hoy mismo.
   <a href="https://wa.me/529516153010" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg transition-colors">
     📲 Agendar Consulta por WhatsApp
   </a>
+</div>
+
 </div>

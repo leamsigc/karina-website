@@ -83,7 +83,7 @@ author:
 
 Thousands of families in **Xoxocotlán, Valles Centrales and the coast (Huatulco/Puerto Escondido)** live for decades without deeds — only private contracts or inheritance by word. **Usucapión (adverse possession)** converts that possession into **registered title**.
 
-**In 45 words for Google**: Need **5 years public, peaceful, continuous possession with title (good faith) or 10 years without (bad faith)**. Trial takes **12-24 months**, costs **$29k-$52k**, ends in title. Not for ejido.
+ Need **5 years public, peaceful, continuous possession with title (good faith) or 10 years without (bad faith)**. Trial takes **12-24 months**, costs **$29k-$52k**, ends in title. Not for ejido.
 
 > **Free diagnosis — WhatsApp 951-615-3010.** Send "USUCAPION + photos of tax/CFE/plan".
 
