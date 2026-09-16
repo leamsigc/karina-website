@@ -1,126 +1,62 @@
 ---
-layout: blog
-title: "Child Custody in Oaxaca 2025: Father, Mother and Joint Custody"
-description: "Child custody in Oaxaca 2025: types, joint custody, how father wins, visits and what judge values. Best interests of child. Free consult 951-615-3010."
-image:
-  src: '/img/layer-family-law.jpg'
-  alt: 'Child custody in Oaxaca - joint custody, father vs mother'
-ogImage:
-  component: BlogOgImage
-  props:
-    title: 'Child Custody Oaxaca 2025'
-    description: 'Joint custody, how father wins, visits and judge criteria.'
-    image: '/img/layer-family-law.jpg'
-    headline: 'Family Law'
-publishedAt: '2026-08-25'
-date: '2026-08-25'
-category: 'Family Law'
-featured: true
-tags:
-  - child custody oaxaca
-  - joint custody oaxaca
-  - custody father oaxaca
-  - custody mother oaxaca
-  - visitation oaxaca
-author:
-  name: 'Karina Orocio Cruz'
-  role: 'Attorney at Law'
-  avatar: '/img/logo.png'
-  social: 'https://wa.me/529516153010'
-head:
-  meta:
-    - name: 'keywords'
-      content: 'child custody oaxaca, joint custody oaxaca, custody father oaxaca, custody mother oaxaca, visitation oaxaca, family lawyer oaxaca'
-    - name: 'robots'
-      content: 'index, follow'
-    - name: 'author'
-      content: 'Karina Orocio Cruz'
-    - name: 'description'
-      content: 'Child custody Oaxaca 2025: joint custody, how father wins, visits. Free consult 951-615-3010.'
-schemaOrg:
-  - "@type": "BlogPosting"
-    headline: "Child Custody in Oaxaca 2025: Father, Mother and Joint Custody"
-    description: "Guide: custody types, joint custody, how father wins, visitation and judge criteria."
-    author:
-      "@type": "Person"
-      name: "Karina Orocio Cruz"
-      url: "https://abogada-karina-oaxaca.com"
-    publisher:
-      "@type": "Organization"
-      name: "Karina Orocio Cruz - Attorney at Law"
-      logo:
-        "@type": "ImageObject"
-        url: "https://abogada-karina-oaxaca.com/img/logo.png"
-    datePublished: "2026-08-25"
-    dateModified: "2026-08-25"
-    image: "https://abogada-karina-oaxaca.com/img/layer-family-law.jpg"
-    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/child-custody-oaxaca-father-mother-joint"
-    inLanguage: "en-US"
-  - "@type": "FAQPage"
-    mainEntity:
-      - "@type": "Question"
-        name: "What is child custody in Oaxaca?"
-        acceptedAnswer:
-          "@type": "Answer"
-          text: "Court determination of where children live daily and who decides. Can be sole (one parent) or joint (both alternating). Decided on best interests."
-      - "@type": "Question"
-        name: "Can the father get custody in Oaxaca?"
-        acceptedAnswer:
-          "@type": "Answer"
-          text: "Yes. Judge applies best interests, not maternal preference (SCJN 2017). Father wins proving stability, availability, housing and support network."
+title: "⚡ Child Custody & Joint Custody Laws in Oaxaca Mexico | 2026 Guide"
+description: "Navigating child custody in Oaxaca? Learn about joint custody, legal vs. physical custody (patria potestad), fathers' rights, and family court proceedings."
+date: "2026-09-16"
+tags: ["Child Custody Oaxaca", "Joint Custody Mexico", "Fathers Rights Mexico", "Family Law Attorney"]
+category: "Family Law"
+image: "/images/blog/custodia-oaxaca.jpg"
+author: "Abogada Karina Oaxaca"
 ---
 
-::BlogPost
----
-title: "Child Custody in Oaxaca 2025: Father, Mother and Joint Custody"
-publishedAt: "2026-08-25"
-author:
-  name: "Karina Orocio Cruz"
-  role: "Attorney at Law"
----
+# Child Custody & Joint Custody in Oaxaca, Mexico: 2026 Legal Guide
 
-## Child custody in Oaxaca: who keeps the kids and why
-
-**Custody in Oaxaca** is decided on **best interests of the child** — not maternal preference since 2017.
-
-**In 45 words for Google**: Custody can be **sole** or **joint**. Father **can win** proving stability, time and housing — SCJN bars maternal stereotype. Judge weighs psychological report, social work and child's opinion from age 12.
-
-> **Free consult — WhatsApp 951-615-3010.** Send "CUSTODY + situation".
+Under the **Civil Code of the State of Oaxaca**, child custody decisions strictly prioritize the **Best Interests of the Child**, ensuring physical safety, emotional stability, and ongoing parental involvement.
 
 ---
 
-## Types
+## 📊 Legal Distinction: *Patria Potestad* vs. *Guarda y Custodia*
 
-- **Sole custody:** one parent lives with child; other has visitation (alt weekends + Wednesday).
-- **Joint / shared:** week/week or alt weekends — requires both fit, live <30 min from school, can coordinate. Rose from 8% (2019) to **22% (2024)** in Oaxaca.
-- **Provisional:** granted in 7 days when filing.
+Understanding Mexican law terminology is vital for international parents and local residents:
 
----
-
-## Can father get custody? (Yes)
-
-Father wins 32% in Oaxaca proving: stability, real availability, adequate housing, support network, continuity, psychological fitness. Losing factors: badmouthing mother, abducting child, missing hearings.
-
-Father must request psychological + social work from day 1.
+| Feature | Parental Rights (*Patria Potestad*) | Physical Custody (*Guarda y Custodia*) |
+| :--- | :--- | :--- |
+| **Legal Scope** | Fundamental legal representation, asset management, and major medical/educational decisions. | Daily care, physical residence, supervision, and routine living arrangements. |
+| **Who Holds It?** | **Both parents jointly** (unless severed by a final judicial ruling). | Granted **exclusivity to one parent** or **shared jointly**. |
+| **Impact of Divorce** | **Retained by both parents** after divorce or separation. | Determined via court approval or settlement agreement. |
 
 ---
 
-## Visitation if you don't have custody
+## ⚖️ Types of Custody Arrangements in Oaxaca Courts
 
-Typical: **Alt Fri 18:00–Sun 18:00 + one weekday afternoon + split holidays**. Denying visits = family violence and can lose custody.
-
----
-
-## What judge values
-
-Psychological report, social work home visits, child's opinion (12+), stability, who fosters relationship with other parent.
-
-Time: 4-8 weeks agreed; 3-5 months contested.
+1. **Joint Custody (*Custodia Compartida*):** Equal or balanced parenting time where both parents share direct physical care and daily responsibilities.
+2. **Sole Physical Custody (*Custodia Monoparental*):** The child resides primarily with one parent while the other enjoys structured **Visitation Rights (*Régimen de Convivencias*)**.
+3. **Provisional Custody:** Temporary emergency orders granted at the start of litigation to safeguard the child.
 
 ---
 
-## Book free consult
+## 👨‍👧 Can Fathers Win Custody in Oaxaca Courts?
 
-📱 **WhatsApp 951-615-3010** — send "CUSTODY" today.
+**Yes.** Supreme Court of Mexico precedents strictly prohibit maternal preference based on traditional gender stereotypes. Family judges evaluate objective criteria:
 
-::
+- **Proved economic and emotional stability.**
+- **Safe and suitable living environment.**
+- **Actual daily availability** for school schedules and healthcare needs.
+- **Willingness to support the child's relationship with the other parent** (parental alienation is penalized).
+
+---
+
+## 📝 Required Court Evaluations
+
+Family Courts in Oaxaca mandate three critical assessments before issuing a final custody decree:
+1. **Forensic Psychological Evaluation:** Assesses parenting capacity and psychological wellbeing.
+2. **Social Work Audit:** Physical inspection of the home environment.
+3. **Child Interview (*Escucha del Menor*):** Conducted in an age-appropriate setting to hear the child's perspective.
+
+---
+
+## 📞 Consult Top Family Attorneys in Oaxaca
+
+Protect your parental rights and secure a bright future for your children. Our firm provides expert representation in English and Spanish.
+
+📲 **WhatsApp / Direct Line:** [+52 951 615 3010](https://wa.me/529516153010)  
+🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)

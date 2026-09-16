@@ -1,7 +1,7 @@
 ---
 layout: service-detail
-title: "Divorce Lawyer in Oaxaca | No-Fault Divorce & Child Support"
-description: "Expert divorce lawyer in Oaxaca. No-fault divorce, child support and custody. Free consultation. Karina Orocio Cruz — Private Law Attorney."
+title: "Divorce Lawyer in Oaxaca, Mexico | No-Fault Divorce"
+description: "Expert divorce lawyer in Oaxaca, Mexico. Specializing in expats and locals. No-fault divorce, child support and custody. Free consultation."
 tags:
   - divorce lawyer oaxaca
   - no fault divorce oaxaca
@@ -19,14 +19,14 @@ image:
 ogImage:
   component: BlogOgImage
   props:
-    title: 'Divorce Lawyer Oaxaca'
-    description: 'No-fault divorce, child support and custody in Oaxaca.'
+    title: 'Divorce Lawyer in Oaxaca, Mexico'
+    description: 'No-fault divorce, child support and custody in Oaxaca, Mexico.'
     image: '/img/karina-hero.png'
     headline: 'Divorce Lawyer'
 schemaOrg:
   - "@type": "LegalService"
-    name: "Divorce Lawyer in Oaxaca"
-    description: "No-fault divorce, child support and custody in Oaxaca."
+    name: "Divorce Lawyer in Oaxaca, Mexico"
+    description: "No-fault divorce, child support and custody in Oaxaca, Mexico."
   - "@type": "FAQPage"
     mainEntity:
       - "@type": "Question"
@@ -50,13 +50,13 @@ head:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'divorce lawyer oaxaca, no fault divorce oaxaca, child support oaxaca, child custody oaxaca, Karina Orocio Cruz'
+      content: 'divorce lawyer oaxaca mexico, no fault divorce oaxaca mexico, child support oaxaca mexico, child custody oaxaca mexico, expats lawyer oaxaca, Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Expert divorce lawyer in Oaxaca. No-fault divorce, child support and custody. Free consultation. Karina Orocio Cruz.'
+      content: 'Expert divorce lawyer in Oaxaca, Mexico. Specializing in expats and locals. No-fault divorce, child support and custody. Free consultation.'
 ---
 
 ::ServiceDetailHero
