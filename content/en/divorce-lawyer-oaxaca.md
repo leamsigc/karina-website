@@ -1,5 +1,5 @@
 ---
-layout: blog-layout
+layout: service-detail
 title: "Divorce Lawyer in Oaxaca | English-Speaking Family Attorney"
 subtitle: "Expert Legal Defense for Expats, Dual Citizens & Foreign Residents in Oaxaca"
 description: "English-speaking divorce & family lawyer in Oaxaca. No-fault divorce in 1–3 months, child custody, alimony & asset protection. Free consultation: +52 951 615 3010."

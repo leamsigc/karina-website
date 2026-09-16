@@ -1,5 +1,5 @@
 ---
-layout: blog-layout
+layout: default
 title: "Editorial Legal | Karina Orocio Cruz - Artículos de Derecho en Oaxaca"
 description: "Artículos de autoridad sobre derecho civil, familiar y administrativo en Oaxaca. Análisis jurídico profundo sobre los retos legales más relevantes."
 tags:

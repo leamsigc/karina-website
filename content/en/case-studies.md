@@ -1,5 +1,5 @@
 ---
-layout: blog-layout
+layout: default
 title: "Case Studies | Karina Orocio Cruz - Strategic Litigation Oaxaca"
 description: "Learn about our successful cases in strategic litigation, civil, administrative and family law in the State of Oaxaca. Proven results."
 tags:

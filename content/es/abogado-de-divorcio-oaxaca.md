@@ -1,5 +1,5 @@
 ---
-layout: blog-layout
+layout: service-detail
 title: "Abogado de Divorcio en Oaxaca | Divorcio Exprés en 1-3 Meses"
 subtitle: "Especialista en Divorcio Incausado, Pensión Alimenticia y Custodia de Hijos"
 description: "Abogada especialista en divorcio en Oaxaca. Divorcio incausado rápido (1-3 meses), pensión alimenticia justa y reparto de bienes. Primera consulta gratis — 951 615 3010."
