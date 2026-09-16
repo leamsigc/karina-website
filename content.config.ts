@@ -6,7 +6,7 @@ import { defineSchemaOrgSchema } from 'nuxt-schema-org/content'
 import { z } from 'zod'
 
 const blogSchema = z.object({
-  layout: z.enum(['default', 'blog-layout']).default('blog-layout'),
+  layout: z.enum(['default', 'blog-layout', 'blog', 'case-studies', 'service-detail']).default('blog'),
   title: z.string(),
   subtitle: z.string(),
   description: z.string(),
