@@ -17,6 +17,13 @@ const locations = [
     { name: 'nav.location_ocotlan', to: '/abogado-en-ocotlan' },
     { name: 'nav.location_tlacolula', to: '/abogado-en-tlacolula' },
 ]
+
+const specializedPages = [
+    { label: 'Abogado de Divorcio en Oaxaca', to: '/abogado-de-divorcio-oaxaca' },
+    { label: 'Abogados de lo Familiar en Oaxaca', to: '/abogados-de-lo-familiar-oaxaca' },
+    { label: 'Divorce Lawyer in Oaxaca (English)', to: '/en/divorce-lawyer-oaxaca' },
+]
+
 </script>
 
 <template>
@@ -86,6 +93,16 @@ href="tel:9516153010"
                             class="text-lg font-serif hover:text-gold transition-colors">951-615-30-10</a>
                     </li>
                 </ul>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-8 border-t border-cream/10">
+            <h3 class="text-gold font-serif text-lg mb-4">Servicios Especializados / High-Intent Services</h3>
+            <div class="flex flex-wrap gap-x-6 gap-y-3 text-xs font-light text-cream-dark/90">
+                <NuxtLink
+                    v-for="page in specializedPages" :key="page.to" :to="page.to"
+                    class="hover:text-gold transition-colors underline underline-offset-4 decoration-gold/40">
+                    {{ page.label }}
+                </NuxtLink>
             </div>
         </div>
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16 pt-12 border-t border-cream/10">

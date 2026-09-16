@@ -32,3 +32,6 @@ test-results/
 
 # Local Netlify folder
 .netlify
+.claude
+.agents
+.seo

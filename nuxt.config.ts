@@ -28,6 +28,12 @@ export default defineNuxtConfig({
       autoSubfolderIndex: false,
       failOnError: false,
       routes: [
+        '/en/divorce-lawyer-oaxaca',
+        '/abogado-de-divorcio-oaxaca',
+        '/abogados-de-lo-familiar-oaxaca',
+        '/en/services/derecho-municipal-oaxaca',
+        '/services/abogado-de-pension-alimenticia-oaxaca',
+        '/en/services/child-support-alimony-lawyer-oaxaca',
         '/en/blog/adverse-possession-usucapion-oaxaca-requirements',
         '/en/blog/child-custody-oaxaca-father-mother-joint',
         '/en/blog/child-support-alimony-oaxaca-calculation-increase',
@@ -91,7 +97,7 @@ export default defineNuxtConfig({
   },
   robots: {
     allow: ['*'],
-    disallow: []
+    disallow: ['/success', '/en/success']
   },
   sitemap: {
     autoI18n: true,
@@ -99,6 +105,10 @@ export default defineNuxtConfig({
     discoverImages: true,
     discoverVideos: true,
     chunks: false,
+    exclude: [
+      '/success',
+      '/en/success'
+    ]
   },
 
   schemaOrg: {
