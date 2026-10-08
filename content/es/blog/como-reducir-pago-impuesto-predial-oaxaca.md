@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "¿Aumento excesivo en tu Pago Predial? Cómo defenderte en Oaxaca"
+title: "¿Pago Predial excesivo? Defiéndete en Oaxaca"
 description: "Guía sobre la nulidad de actualizaciones catastrales arbitrarias y cómo proteger tu patrimonio ante cobros municipales desproporcionados."
 featured: true
 tags:

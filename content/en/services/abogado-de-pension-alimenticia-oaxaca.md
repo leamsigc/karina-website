@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Child Support Lawyer in Oaxaca | Calculation & Increase"
+title: "Child Support Lawyer Oaxaca"
 description: "Specialist in filing, calculating, increasing, and garnishing child support and alimony in Oaxaca. Legal defense for dependents. Call 951 615 3010."
 tags:
   - child support oaxaca
@@ -31,7 +31,6 @@ head:
     - name: 'robots'
       content: 'index, follow, max-image-preview:large'
 ---
-
 # Specialized Child Support Lawyer in Oaxaca
 
 Child support (*pensión alimenticia*) is a non-waivable priority legal right designed to guarantee food, housing, clothing, medical care, and education for children and financial dependents in the State of Oaxaca.

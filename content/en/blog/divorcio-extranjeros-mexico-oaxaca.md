@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Divorce for Foreigners & Expats in Mexico & Oaxaca (2026 Consular Power of Attorney Guide)"
+title: "Expat Divorce Mexico/Oaxaca (2026 Guide)"
 description: "Married in Oaxaca or residing abroad? 2026 guide to divorcing without traveling to Mexico using a Consular Power of Attorney, binational assets, and custody."
 image:
   src: '/img/layer-family-law.jpg'

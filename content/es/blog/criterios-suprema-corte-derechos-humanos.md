@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "¿Qué pasa cuando la ONU señala una violación a derechos humanos en México?"
+title: "ONU y Derechos Humanos: ¿Qué pasa en México?"
 description: "Análisis de los últimos criterios de la SCJN sobre la obligatoriedad de las recomendaciones de la ONU y su impacto en el sistema de justicia mexicano."
 featured: true
 tags:

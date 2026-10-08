@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Juchitán: Divorce, Property Tax & Wind Energy | Karina Orocio"
+title: "Lawyer in Juchitán: Divorce & Property Tax"
 description: "Lawyer in Juchitán: divorce, property tax, wind lease defense. Istmo. Free consult 951 615 3010."
 keywords: "lawyer juchitan, legal services istmo, wind energy oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ Yes. If the construction or operation of the wind farm has caused damage to your
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

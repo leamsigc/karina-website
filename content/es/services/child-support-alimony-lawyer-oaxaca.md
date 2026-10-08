@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Abogado de Pensión Alimenticia en Oaxaca | Cálculo y Reclamaciones"
+title: "Pensión Alimenticia Oaxaca | Reclamaciones"
 description: "Abogada especialista en pensión alimenticia en Oaxaca. Órdenes de pensión provisional urgente, embargo de sueldo e incremento. Consulta: +52 951 615 3010."
 tags:
   - pension alimenticia oaxaca

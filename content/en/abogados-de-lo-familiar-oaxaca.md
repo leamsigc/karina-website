@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Family Law Lawyers in Oaxaca | Free Legal Consultation"
+title: "Family Law Lawyers in Oaxaca"
 subtitle: "Specialists in Child Support, Custody, Alimony Lawsuits, and Civil Status Records"
 description: "Family law attorneys in Oaxaca. Legal defense in child support, custody, parental rights (patria potestad), and vital record corrections. Call: 951 615 3010."
 tags:

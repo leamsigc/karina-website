@@ -1,8 +1,8 @@
 ---
 layout: service-detail
-title: "Divorce Lawyer in Oaxaca | Express Divorce in 1-3 Months"
+title: "Divorce Lawyer in Oaxaca"
 subtitle: "Specialist in No-Fault Divorce, Child Support, Alimony, and Child Custody"
-description: "Specialized divorce attorney in Oaxaca. Fast no-fault divorce (1-3 months), fair child support, alimony, and asset division. Free initial consultation — 951 615 3010."
+description: "Specialized divorce attorney in Oaxaca. Fast no-fault divorce (1-3 months), fair child support and asset division. Free consult: 951 615 3010."
 tags:
   - divorce lawyer oaxaca
   - no fault divorce oaxaca

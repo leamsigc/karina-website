@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Notarial Management in Oaxaca | Karina Orocio Cruz"
+title: "Notarial Management Oaxaca"
 description: "Professional management of wills, contracts, certificates, and notary formalization services in Oaxaca de Juárez."
 tags:
   - notarial services oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Expert notary management and contract formalization services in Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Notarial Management & Formalization"

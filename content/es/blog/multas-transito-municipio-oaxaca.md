@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "¿Multas de tránsito en Oaxaca? Aprende cómo impugnarlas legalmente"
+title: "Impugnar Multas de Tránsito"
 description: "Guía práctica sobre tus derechos ante infracciones de vialidad en el Municipio de Oaxaca de Juárez y los motivos legales para su anulación."
 featured: true
 tags:
@@ -25,7 +25,6 @@ ogImage:
     headline: 'Guía Ciudadana'
 publishedAt: '2024-04-10'
 ---
-
 ::BlogPost
 ---
 title: "¿Multas de tránsito en Oaxaca? Aprende cómo impugnarlas legalmente"

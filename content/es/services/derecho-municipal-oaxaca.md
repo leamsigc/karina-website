@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Reducción de Predial en Oaxaca | Karina Orocio Cruz - Abogada Especialista"
+title: "Reducción de Predial en Oaxaca"
 description: "Defensa contra cobros excesivos de impuesto predial en Oaxaca. Juicios de nulidad con resultados comprobados. Pague lo justo - no permita un robo disfrazado."
 tags:
   - derecho municipal oaxaca
@@ -77,7 +77,6 @@ head:
     - name: 'description'
       content: 'Defensa contra cobros excesivos de impuesto predial en Oaxaca de Juárez.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Derecho Municipal en Oaxaca"

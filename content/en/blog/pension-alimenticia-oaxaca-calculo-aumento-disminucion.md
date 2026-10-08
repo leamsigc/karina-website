@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "⚡ Child Support in Oaxaca | Calculation, Percentages & Lawsuits 2026"
+title: "Child Support Oaxaca | Calculation 2026"
 description: "Questions about child support calculations in Oaxaca? Learn real percentage guidelines (15% to 50%), unverified income audits, increases, and reductions."
 date: "2026-09-16"
 publishedAt: "2026-09-16"

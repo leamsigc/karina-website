@@ -1,8 +1,8 @@
 ---
 layout: service-detail
-title: "Abogado de Divorcio en Oaxaca | Divorcio Exprés en 1-3 Meses"
+title: "Abogado de Divorcio en Oaxaca"
 subtitle: "Especialista en Divorcio Incausado, Pensión Alimenticia y Custodia de Hijos"
-description: "Abogada especialista en divorcio en Oaxaca. Divorcio incausado rápido (1-3 meses), pensión alimenticia justa y reparto de bienes. Primera consulta gratis — 951 615 3010."
+description: "Abogada de divorcio en Oaxaca. Divorcio incausado en 1-3 meses, pensión alimenticia justa y reparto de bienes. Primera consulta gratis: 951 615 3010."
 tags:
   - abogado de divorcio oaxaca
   - divorcio incausado oaxaca
@@ -28,7 +28,13 @@ ogImage:
     title: "Abogado de Divorcio en Oaxaca | Trámite Rápido y Garantizado"
     description: "Divorcio incausado en Oaxaca en 1 a 3 meses. Asesoría legal experta en pensión y custodia."
     image: "/img/layer-family-law.jpg"
-    headline: "Divorcio y Familia"
+faqs:
+  - question: "¿Cuánto tiempo tarda un divorcio incausado en Oaxaca?"
+    answer: "Un divorcio incausado (expres) en el Estado de Oaxaca tarda en promedio de 1 a 3 meses desde la presentación de la demanda hasta la resolución firme."
+  - question: "¿Qué requisitos se necesitan para iniciar el divorcio en Oaxaca?"
+    answer: "Se requiere el acta de matrimonio original, actas de nacimiento de los hijos (si los hay) y la propuesta de convenio regulador de pensión y custodia."
+  - question: "¿Puedo divorciarme en Oaxaca si mi cónyuge no está de acuerdo?"
+    answer: "Sí. Bajo la figura del divorcio incausado en Oaxaca, no se requiere el consentimiento del cónyuge ni demostrar causa alguna para disolver el vínculo matrimonial."
 head:
   meta:
     - name: "keywords"

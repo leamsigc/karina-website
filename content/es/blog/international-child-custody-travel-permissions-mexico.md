@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Custodia Internacional y Permiso de Viaje de Menores en México (Guía 2026)"
-description: "¿Planeas viajar o mudarte al extranjero con tus hijos desde Oaxaca, México? Conoce sobre el Formato SAM del INAMI, Convenio de La Haya y autorización judicial de viaje."
+title: "Custodia Internacional en México (Guía 2026)"
+description: "¿Viajas al extranjero con tus hijos desde Oaxaca, México? Conoce sobre el Formato SAM del INAMI, Convenio de La Haya y permisos de viaje."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Custodia internacional y permiso de viaje para menores en México guía legal'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Es el documento oficial obligatorio exigido por el INAMI en aeropuertos y fronteras mexicanas cuando un menor viaja al extranjero sin ambos padres."
 ---
-
 ::BlogPost
 ---
 title: "Custodia Internacional y Permiso de Viaje de Menores en México (Guía 2026)"

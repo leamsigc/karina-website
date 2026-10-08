@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Tuxtepec: Divorcio, Predial y Civil | Karina Orocio"
+title: "Abogado en Tuxtepec: Divorcio y Predial"
 description: "Abogado en Tuxtepec: divorcio, predial y regularización de propiedades. Papaloapan. Consulta gratis 951 615 3010."
 keywords: "abogado tuxtepec, servicios legales papaloapan, regularizacion predios oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ Sí. Mediante un juicio de rescisión de contrato de arrendamiento más pago de 
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

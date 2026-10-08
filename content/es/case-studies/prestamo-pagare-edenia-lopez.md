@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Préstamo II Pagaré para Edenia López | Karina Orocio Cruz"
+title: "Préstamo y Pagaré: Edenia López"
 description: "Caso de éxito: Recuperación de capital e intereses derivados de un pagaré en Oaxaca de Juárez mediante una demanda ejecutiva mercantil exitosa."
 type: case
 caseOverview:

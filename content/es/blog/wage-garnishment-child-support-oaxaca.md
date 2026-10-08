@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Embargo de Sueldo por Pensión Alimenticia en Oaxaca (Guía Legal 2026)"
+title: "Embargo Pensión Alimenticia Oaxaca 2026"
 description: "¿Necesitas ejecutar la pensión alimenticia mediante embargo de sueldo en Oaxaca? Conoce sobre retenciones en nómina, embargos de AFORE y sanciones a patrones."
 image:
   src: '/img/layer-family-law.jpg'

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Salina Cruz: Divorce, Property Tax & Corporate | Karina Orocio"
+title: "Lawyer in Salina Cruz: Divorce & Property"
 description: "Lawyer in Salina Cruz: divorce, property tax and corporate. Istmo. Free consult 951 615 3010."
 keywords: "lawyer salina cruz, legal services istmo, commercial litigation oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ You require authorization from API Salina Cruz, plus municipal permits, Civil Pr
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

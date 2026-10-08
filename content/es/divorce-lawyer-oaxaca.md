@@ -1,8 +1,8 @@
 ---
 layout: service-detail
-title: "Abogado de Divorcio en Oaxaca | Atención a Extranjeros y Residentes"
+title: "Abogado de Divorcio en Oaxaca | Extranjeros"
 subtitle: "Defensa Legal Especializada para Extranjeros, Doble Nacionalidad y Residentes en Oaxaca"
-description: "Abogada de divorcio y derecho familiar en Oaxaca. Divorcio incausado en 1-3 meses, custodia de hijos, pensión alimenticia y protección de bienes. Consulta: +52 951 615 3010."
+description: "Abogada de divorcio y derecho familiar en Oaxaca. Divorcio incausado en 1-3 meses, custodia de hijos y reparto de bienes. Tel: +52 951 615 3010."
 tags:
   - abogado de divorcio oaxaca
   - abogado familiar oaxaca

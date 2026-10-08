@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Testamentos en México y Oaxaca (Guía Notarial 2026 para Residentes y Extranjeros)"
+title: "Testamentos en México y Oaxaca"
 description: "¿Tienes bienes inmuebles en Oaxaca? Descubre cómo otorgar un Testamento Público Abierto, evitar juicios sucesorios y proteger tu patrimonio ante Notario."
 image:
   src: '/img/layer-office-building.jpg'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Sí. Cualquier extranjero propietario de inmuebles, cuentas o fideicomisos en México puede otorgar testamento presentando pasaporte o documento migratorio."
 ---
-
 ::BlogPost
 ---
 title: "Testamentos en México y Oaxaca (Guía Notarial 2026 para Residentes y Extranjeros)"

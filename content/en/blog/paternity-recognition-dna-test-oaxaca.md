@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Paternity Recognition & DNA Testing in Oaxaca Mexico (2026 Guide)"
+title: "Paternity & DNA Testing Oaxaca Mexico 2026"
 description: "Need to establish legal paternity or demand retroactive child support in Oaxaca? Learn about court-ordered DNA tests, legal refusal presumptions, and filings."
 image:
   src: '/img/layer-family-law.jpg'

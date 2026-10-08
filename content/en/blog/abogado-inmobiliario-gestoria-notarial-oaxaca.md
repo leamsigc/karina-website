@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Real Estate Lawyer & Notary Closing Services in Oaxaca (2026 Guide)"
+title: "Real Estate Lawyer & Notary Oaxaca (2026)"
 description: "Buying real estate in Oaxaca City, Puerto Escondido, or Huatulco? 2026 Guide: Due Diligence, Notary Closings, Bank Trusts (Fideicomisos), and Title Search."
 image:
   src: '/img/layer-office-building.jpg'

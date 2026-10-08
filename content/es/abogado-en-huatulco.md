@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Huatulco: Divorcio, Predial y Escrituras | Karina Orocio"
+title: "Abogado en Huatulco: Divorcio y Predial"
 description: "Abogado en Huatulco: divorcio incausado 1-3 meses, reducción de predial y usucapión. Atención en Santa Cruz Huatulco y Pochutla. Consulta gratis 951 615 3010."
 keywords: "abogado en huatulco, servicios legales huatulco, derecho turistico oaxaca, regularizacion propiedades bahias huatulco, defensa hotel huatulco, Karina Orocio Cruz"
 image:
@@ -122,6 +122,11 @@ Primera consulta gratuita.
 
 
 ::
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

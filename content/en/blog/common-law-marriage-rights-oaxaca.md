@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Common-Law Marriage Rights in Oaxaca Mexico (2026 Legal Guide)"
+title: "Common-Law Marriage Rights Oaxaca 2026"
 description: "Living in a common-law partnership (concubinato) in Oaxaca? Learn about legal requirements, palimony, inheritance, official certificates, and property rights."
 image:
   src: '/img/layer-family-law.jpg'

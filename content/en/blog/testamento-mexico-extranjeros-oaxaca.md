@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Wills in Mexico & Oaxaca (2026 Notary Guide for Expats & Foreigners)"
+title: "Wills in Mexico & Oaxaca (2026 Guide)"
 description: "Own real estate or assets in Oaxaca? 2026 Guide to Open Public Wills (Testamento Público Abierto), legacies, executors, foreign will validity, and notary steps."
 image:
   src: '/img/layer-office-building.jpg'

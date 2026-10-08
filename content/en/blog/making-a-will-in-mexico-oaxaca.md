@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Making a Will in Mexico (Oaxaca 2026 Guide for Expats)"
+title: "Wills in Mexico & Oaxaca Guide"
 description: "Own real estate or assets in Oaxaca, Mexico? Learn why foreign wills stall, how Public Open Wills work, notary fees, executor duties, and estate planning."
 image:
   src: '/img/layer-office-building.jpg'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "It is a centralized national database where Mexican Notaries register every executed Will to ensure the testator's final disposition is respected nationwide."
 ---
-
 ::BlogPost
 ---
 title: "Making a Will in Mexico (Oaxaca 2026 Guide for Expats)"

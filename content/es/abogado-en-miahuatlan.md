@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Miahuatlán: Divorcio, Custodia y Escrituras | Karina Orocio"
+title: "Abogado en Miahuatlán: Divorcio y Custodia"
 description: "Abogado en Miahuatlán: divorcio, custodia y regularización de predios. Sierra Sur. Consulta gratis 951 615 3010."
 keywords: "abogado en miahuatlan, servicios legales sierra sur, regularizacion predios mezcaleros, abogado productores cafe, despacho juridico miahuatlan, derecho rural oaxaca"
 image:
@@ -134,6 +134,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Primera consulta gratuita. Evaluamos su caso con atencion personalizada.
 
 ::
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

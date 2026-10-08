@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Salina Cruz: Divorcio, Predial y Corporativo | Karina Orocio"
+title: "Abogado en Salina Cruz: Divorcio y Predial"
 description: "Abogado en Salina Cruz: divorcio, predial y derecho corporativo. Istmo. Consulta gratis 951 615 3010."
 keywords: "abogado salina cruz, servicios legales istmo, litigio comercial oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ Requiere autorización de la API Salina Cruz, además de permisos municipales, d
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

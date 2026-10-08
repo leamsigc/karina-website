@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "High-Value Beachfront Property Regularization | Karina Orocio Cruz"
+title: "Beachfront Property Regularization"
 description: "Success case: Beachfront property regularization in Puerto Escondido. Legal certainty and successful deed transfer for investors."
 type: case
 caseOverview:

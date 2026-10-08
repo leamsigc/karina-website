@@ -1,5 +1,5 @@
 ---
-title: "⚡ Child Custody & Joint Custody Laws in Oaxaca Mexico | 2026 Guide"
+title: "Child Custody Laws in Oaxaca Mexico 2026"
 description: "Navigating child custody in Oaxaca? Learn about joint custody, legal vs. physical custody (patria potestad), fathers' rights, and family court proceedings."
 date: "2026-09-16"
 tags: ["Child Custody Oaxaca", "Joint Custody Mexico", "Fathers Rights Mexico", "Family Law Attorney"]

@@ -178,14 +178,6 @@
             }
         }
     },
-    "blog": {
-        "hero": {
-            "title": "Editorial Legal",
-            "highlight": "Karina Orocio Cruz",
-            "description": "Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca."
-        },
-        "read_article": "Leer Artículo"
-    },
     "nav": {
         "home": "Inicio",
         "about": "Nosotros",
@@ -273,6 +265,28 @@
         "practice_areas_title": "Áreas de",
         "practice_areas_highlight": "Práctica",
         "practice_areas_description": "Representación legal de alto nivel enfocada en la protección de su patrimonio y sus derechos fundamentales en el Estado de Oaxaca.",
-        "view_details": "Ver Detalles del Servicio"
+        "view_details": "Ver Detalles del Servicio",
+        "need_help": "¿Necesita asesoría legal?",
+        "how_can_we_help": "¿Cómo podemos ayudarle?",
+        "cta_default_description": "No sigas pagando de más. Contáctanos hoy para tu primera asesoría gratis.",
+        "legal_disclaimer": "La información de esta página es general y no constituye asesoría legal. Cada caso requiere un análisis individual: agende una consulta para una evaluación de su situación."
+    },
+    "blog": {
+        "hero": {
+            "title": "Editorial Legal",
+            "highlight": "Karina Orocio Cruz",
+            "description": "Análisis jurídico profundo sobre los retos legales más relevantes en el Estado de Oaxaca."
+        },
+        "read_article": "Leer Artículo",
+        "sidebar": {
+            "practice_areas": "Áreas de Práctica",
+            "family_law": "Derecho Familiar",
+            "civil_law": "Derecho Civil y Sucesorio",
+            "real_estate": "Derecho Inmobiliario",
+            "litigation": "Litigio Estratégico",
+            "cta_title": "¿Necesitas Asesoría Legal?",
+            "cta_description": "Consulta confidencial para evaluar tu caso en Oaxaca.",
+            "cta_button": "Contactar Ahora"
+        }
     }
 }

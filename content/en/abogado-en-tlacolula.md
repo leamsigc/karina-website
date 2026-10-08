@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Tlacolula: Divorce, Property Tax & Commerce | Karina Orocio"
+title: "Lawyer in Tlacolula: Divorce & Commerce"
 description: "Lawyer in Tlacolula: divorce, property tax and commercial. Valles. Free consult 951 615 3010."
 keywords: "lawyer in tlacolula, valles centrales legal services, commercial property regularization, tlacolula market attorney, artisan trademark protection, tourism law oaxaca"
 image:
@@ -137,6 +137,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Free initial consultation. We look forward to helping you.
 
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Reducción de Predial para Mayra Castellanos | Karina Orocio Cruz"
+title: "Reducción de Predial: Mayra Castellanos"
 description: "Caso de éxito: Logramos que nuestra clienta Mayra Castellanos pagara menos impuesto predial derivado de una compraventa realizada."
 type: case
 caseOverview:

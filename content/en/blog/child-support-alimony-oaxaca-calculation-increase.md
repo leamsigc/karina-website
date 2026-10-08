@@ -1,5 +1,5 @@
 ---
-title: "⚡ Child Support & Alimony Calculation in Oaxaca Mexico | 2026 Guide"
+title: "Child Support Calculation in Oaxaca 2026"
 description: "How is child support calculated in Oaxaca, Mexico? Learn about court percentages (15%-50%), non-waged obligors, modifications, and legal enforcement."
 date: "2026-09-16"
 tags: ["Child Support Oaxaca", "Alimony Mexico", "Family Law Oaxaca", "Child Support Calculation"]

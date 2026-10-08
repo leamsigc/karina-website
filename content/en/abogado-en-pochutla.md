@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Pochutla: Divorce, Property Tax & Coast | Karina Orocio"
+title: "Lawyer in Pochutla: Divorce & Property"
 description: "Lawyer in Pochutla: divorce, property tax and coastal regularization. Huatulco. Free consult 951 615 3010."
 keywords: "lawyer pochutla, legal services costa, administrative defense oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ You only need your marriage certificate, official ID, and a declaration of your 
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "⚡ Joint & Sole Child Custody in Oaxaca 2026: Parental Rights & Court Trials"
+title: "Joint & Sole Child Custody in Oaxaca 2026"
 description: "Seeking child custody in Oaxaca? 2026 legal guide: Joint custody requirements, patria potestad differences, and fathers' rights. Consult today!"
 date: "2026-09-16"
 publishedAt: "2026-09-16"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Tehuantepec: Sucesiones, Predial y Linderos | Karina Orocio"
+title: "Abogado en Tehuantepec: Sucesiones y Predial"
 description: "Abogado en Tehuantepec: juicios sucesorios, predial y conflictos de linderos. Istmo. Consulta gratis 951 615 3010."
 keywords: "abogado tehuantepec, servicios legales istmo, juicios sucesorios oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ El testamento es un acto voluntario en vida donde usted designa herederos. La su
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

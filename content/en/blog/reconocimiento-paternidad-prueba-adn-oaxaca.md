@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Paternity Recognition & DNA Testing in Oaxaca (2026 Legal Guide)"
+title: "Paternity & DNA Testing Oaxaca (2026 Guide)"
 description: "Absent father or filiation doubt in Oaxaca? 2026 guide on paternity lawsuits, expert DNA testing, legal presumption of paternity, and retroactive support."
 image:
   src: '/img/layer-family-law.jpg'

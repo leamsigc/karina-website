@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Abogado de Divorcio para Extranjeros en Oaxaca México (Guía 2026)"
-description: "¿Buscas divorciarte en Oaxaca desde el extranjero? Conoce cómo divorciarte a distancia mediante Poder Consular Mexicano sin viajar, división de bienes y custodia."
+title: "Divorcio para Extranjeros Oaxaca (Guía 2026)"
+description: "¿Buscas divorciarte en Oaxaca desde el extranjero? Conoce cómo divorciarte a distancia mediante Poder Consular sin viajar."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Abogado de divorcio para extranjeros en Oaxaca México - guía legal a distancia'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Sí, siempre que el acta de matrimonio extranjera esté apostillada y traducida por perito oficial en México."
 ---
-
 ::BlogPost
 ---
 title: "Abogado de Divorcio para Extranjeros en Oaxaca México (Guía 2026)"

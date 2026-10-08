@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Civil and Property Law in Oaxaca | Karina Orocio Cruz"
+title: "Civil & Property Law Oaxaca"
 description: "Property regularization (Usucaption), Summary Mortgage Trial, inheritance proceedings (intestate and testamentary), and high-rigor contract drafting in Oaxaca."
 tags:
   - civil law oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Property regularization and succession proceedings in Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Civil and Property Law"

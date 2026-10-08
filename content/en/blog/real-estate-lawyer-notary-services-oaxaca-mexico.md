@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Real Estate Lawyer & Notary Services in Oaxaca Mexico (2026 Buyers Guide)"
-description: "Buying real estate in Oaxaca, Puerto Escondido, or Huatulco? Learn about Legal Due Diligence, Public Notary deeds, bank fideicomisos for expats, and title checks."
+title: "Real Estate & Notary Oaxaca (2026 Guide)"
+description: "Buying real estate in Oaxaca, Puerto Escondido, or Huatulco? Learn about Legal Due Diligence, Public Notary deeds, and bank fideicomisos for expats."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Real estate lawyer and notary services in Oaxaca Mexico buyers guide'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "A complete search at the Public Registry (IFREO) for lien releases, seller title verification, property tax clearing, and municipal zoning compliance."
 ---
-
 ::BlogPost
 ---
 title: "Real Estate Lawyer & Notary Services in Oaxaca Mexico (2026 Buyers Guide)"

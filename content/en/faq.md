@@ -1,139 +1,128 @@
 ---
-title: 'Preguntas Frecuentes - Karina Orocio Cruz Abogada Postulante Oaxaca'
-description: 'Preguntas frecuentes sobre asesoría legal patrimonial en Oaxaca. Información sobre reducción de predial, avalúos catastrales y más.'
+title: "FAQ - Attorney in Oaxaca | Karina Orocio Cruz"
+description: 'Frequently asked questions about legal counsel in Oaxaca: no-fault divorce, child support, property tax reduction, adverse possession and more.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
-  alt: 'FAQ - Karina Orocio Cruz Abogada Oaxaca'
+  src: '/img/karina-hero.png'
+  alt: 'FAQ - Karina Orocio Cruz Attorney Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
 head:
   meta:
     - name: 'keywords'
-      content: 'faq oaxaca, preguntas frecuentes predial, avaluo catastral preguntas, asesoría legal patrimonial faq, Karina Orocio Cruz preguntas'
+      content: 'faq oaxaca, divorce oaxaca questions, child support oaxaca faq, property tax reduction oaxaca, adverse possession oaxaca, Karina Orocio Cruz questions'
 category: 'Support'
 author:
   name: 'Karina Orocio Cruz'
-  role: 'Abogada Postulante'
+  role: 'Attorney at Law'
   avatar: '/img/logo.png'
 ogImage:
   component: 'BlogOgImage'
   props:
-    title: 'Preguntas Frecuentes'
-    description: 'Preguntas frecuentes sobre asesoría legal patrimonial en Oaxaca.'
-    image: '/img/MendozaRoofingShallotte.png'
+    title: 'Frequently Asked Questions'
+    description: 'Clear answers about divorce, child support, property tax and more in Oaxaca.'
+    image: '/img/karina-hero.png'
     headline: 'FAQ'
 schemaOrg:
   - "@type": "FAQPage"
     mainEntity:
       - "@type": "Question"
-        name: "¿Cuánto cuesta la primera asesoría?"
+        name: "How much does the first consultation cost?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "La primera asesoría es totalmente gratis. Sin compromiso. Puedes contactarme para discutir tu caso sin costo alguno."
+          text: "The first consultation is completely free, with no commitment. You can contact me to discuss your case at no cost."
       - "@type": "Question"
-        name: "¿Qué es el avalúo catastral?"
+        name: "What is the cadastral appraisal (avalúo catastral)?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "El avalúo catastral es el valor que el municipio asigna a tu propiedad para calcular el monto de tu predial. Si este valor es mayor al valor real de tu propiedad, podrías estar pagando de más."
+          text: "The cadastral appraisal is the value the municipality assigns to your property to calculate your property tax (predial). If this value is higher than the real value of your property, you could be overpaying."
       - "@type": "Question"
-        name: "¿Puedo reducir el monto de mi predial?"
+        name: "Can I reduce the amount of my property tax (predial)?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "Sí, es posible. Si tu propiedad está sobrevaluada catastralmente, puedes solicitar una corrección del avalúo. Te ayudo a gestionar este proceso."
+          text: "Yes, it is possible. If your property is cadastrally overvalued, you can request a correction of the appraisal or file a nullity lawsuit. I help you manage this process."
       - "@type": "Question"
-        name: "¿Qué es la regularización de propiedades?"
+        name: "How long does a no-fault divorce take in Oaxaca?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "La regularización es el proceso de poner tu propiedad en orden legal: trámites municipales, documentos, permisos, etc. Esto te permite tener todos los documentos en regla."
+          text: "A mutual-consent divorce with an agreement can be resolved in 1 to 3 months. A unilateral process without prior agreement can take between 6 and 18 months."
       - "@type": "Question"
-        name: "¿En qué zona ofrecen servicios?"
+        name: "What areas do you serve?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "Brindo servicios en Oaxaca de Juárez, alrededores de Oaxaca y todo el estado de Oaxaca."
+          text: "I serve clients in Oaxaca de Juárez, the surrounding areas and the entire state of Oaxaca, with in-person and virtual consultations."
       - "@type": "Question"
-        name: "¿Cuánto tiempo toma el proceso de reducción de predial?"
+        name: "How long does the property tax reduction process take?"
         acceptedAnswer:
           "@type": "Answer"
-          text: "El tiempo varía según el caso y la complejidad. Algunos casos se resuelven en semanas, otros pueden tomar meses. Te mantendré informado durante todo el proceso."
+          text: "Timing varies by case and complexity. Some cases resolve in weeks, others can take months. I keep you informed throughout the process."
 ---
 
 ::PageHero
 ---
-title: Preguntas Frecuentes
-subtitle: Asesoría Legal Patrimonial en Oaxaca - Respondemos tus Dudas
+title: Frequently Asked Questions
+subtitle: Legal Counsel in Oaxaca - We Answer Your Questions
 ---
 ::
 
 <div class="prose prose-xl   mx-auto max-w-4xl my-16 font-serif font-light text-xl prose:haighlight:text-gold" >
 
-
-## Preguntas Frecuentes — Karina Orocio Cruz Abogada Postulante
+## Frequently Asked Questions — Karina Orocio Cruz Attorney at Law
 
 ### General
 
-**1. ¿Cuánto cuesta la primera asesoría?**
-La primera asesoría es **totalmente gratis**. Sin compromiso. Puedes contactarme para discutir tu caso sin costo alguno.
+**1. How much does the first consultation cost?**
+The first consultation is **completely free**. No commitment. You can contact me to discuss your case at no cost.
 
-**2. ¿En qué zona ofrecen servicios?**
-Brindo servicios en Oaxaca de Juárez, alrededores de Oaxaca y todo el estado de Oaxaca.
+**2. What areas do you serve?**
+I serve clients in Oaxaca de Juárez, the surrounding areas and the entire state of Oaxaca.
 
-**3. ¿Cómo puedo contactarte?**
-Puedes llamarme o escribirme al **951-615-30-10** (WhatsApp disponible).
-
----
-
-### Avalúos Catastrales
-
-**4. ¿Qué es el avalúo catastral?**
-El avalúo catastral es el valor que el municipio asigna a tu propiedad para calcular el monto de tu predial. Si este valor es mayor al valor real de tu propiedad, podrías estar pagando de más.
-
-**5. ¿Cómo sé si mi propiedad está sobrevaluada?**
-Puedo revisar tu avalúo catastral y compararlo con propiedades similares en tu zona para determinar si estás pagando de más.
-
-**6. ¿Puedo solicitar una corrección del avalúo?**
-Sí, puedes solicitar al municipio una revisión del avalúo si consideras que no corresponde al valor real de tu propiedad.
+**3. How can I contact you?**
+You can call me or message me at **951-615-30-10** (WhatsApp available).
 
 ---
 
-### Derecho Municipal
+### Cadastral Appraisals
 
-**7. ¿Puedo reducir el monto de mi predial?**
-Sí, es posible. Si tu propiedad está sobrevaluada catastralmente, puedes solicitar una corrección del avalúo. Te ayudo a gestionar este proceso de manera legal.
+**4. What is the cadastral appraisal?**
+The cadastral appraisal is the value the municipality assigns to your property to calculate your property tax. If this value is higher than the real value of your property, you could be overpaying.
 
-**8. ¿Cuánto tiempo toma el proceso de reducción de predial?**
-El tiempo varía según el caso y la complejidad. Algunos casos se resuelven en semanas, otros pueden tomar meses. Te mantendré informado durante todo el proceso.
+**5. How do I know if my property is overvalued?**
+I can review your cadastral appraisal and compare it with similar properties in your area to determine whether you are overpaying.
 
-**9. ¿Qué documentos necesito para gestionar la reducción?**
-Generalmente necesitas: identificación oficial, comprobante de propiedad, recibo actual del predial, y otros documentos que varían según tu caso.
-
----
-
-### Regularización de Propiedades
-
-**10. ¿Qué es la regularización de propiedades?**
-La regularización es el proceso de poner tu propiedad en orden legal: trámites municipales, documentos, permisos, etc. Esto te permite tener todos los documentos en regla.
-
-**11. ¿Por qué es importante regularizar mi propiedad?**
-La regularización te protege legalmente, te permite vender o hipotecar tu propiedad, y te da tranquilidad sabiendo que todo está en orden.
+**6. Can I request a correction of the appraisal?**
+Yes, you can ask the municipality to review the appraisal if you believe it does not reflect the real value of your property.
 
 ---
 
-### Defensa Legal
+### Municipal Law
 
-**12. ¿Qué hago si considero que mi predial es excesivo?**
-Contactame. Puedo revisar tu caso, evaluar si hay fundamentos para una disputa, y representarte ante las autoridades.
+**7. Can I reduce the amount of my property tax?**
+Yes, it is possible. If your property is cadastrally overvalued, you can request a correction of the appraisal. I help you manage this process legally.
 
-**13. ¿Pueden multarme por no pagar el predial?**
-Sí, el incumplimiento en el pago del predial puede generar multas, recargos y en casos extremos, procedimientos legales. Es importante resolver estos temas a tiempo.
+**8. How long does the property tax reduction process take?**
+Timing varies by case and complexity. Some cases resolve in weeks, others can take months. I keep you informed throughout the process.
+
+**9. What documents do I need to pursue a reduction?**
+You generally need: official ID, proof of ownership, your current property tax bill, and other documents that vary by case.
 
 ---
 
-### Contacto
+### Family Law
 
-**¿Tienes más preguntas?**
+**10. How long does a no-fault divorce take in Oaxaca?**
+A mutual-consent divorce with an agreement can be resolved in **1 to 3 months**. A unilateral process without prior agreement can take between 6 and 18 months.
 
-- **Teléfono / WhatsApp:** [951-615-30-10](tel:9516153010)
-- **Ubicación:** Oaxaca de Juárez, Oaxaca, México
-- **Primera asesoría:** Totalmente gratis
+**11. Can the father request joint custody in Oaxaca?**
+Absolutely. Oaxacan judges apply the best interest of the child principle, and joint custody is a viable, increasingly common option when both parents are fit.
+
+---
+
+### Contact
+
+**Do you have more questions?**
+
+- **Phone / WhatsApp:** [951-615-30-10](tel:9516153010)
+- **Location:** Oaxaca de Juárez, Oaxaca, Mexico
+- **First consultation:** Completely free
 
 </div>

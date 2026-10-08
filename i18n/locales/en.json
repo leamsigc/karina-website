@@ -178,14 +178,6 @@
             }
         }
     },
-    "blog": {
-        "hero": {
-            "title": "Legal Editorial",
-            "highlight": "Karina Orocio Cruz",
-            "description": "In-depth legal analysis on the most relevant legal challenges in the State of Oaxaca."
-        },
-        "read_article": "Read Article"
-    },
     "nav": {
         "home": "Home",
         "about": "About Us",
@@ -259,7 +251,7 @@
         "licensed_insured": "Licensed & Insured",
         "language": "Language",
         "theme": "Theme",
-        "title": "Abogada Postulante",
+        "title": "Attorney at Law",
         "footer_description": "Boutique law firm in Oaxaca de Juárez. Specialized in strategic litigation, asset protection, and administrative law with a focus on excellence and results.",
         "testimonials_subtitle": "The trust of our clients in Oaxaca is our greatest endorsement. Proven results in strategic litigation.",
         "appointment": "Attention by appointment",
@@ -273,6 +265,28 @@
         "practice_areas_title": "Practice",
         "practice_areas_highlight": "Areas",
         "practice_areas_description": "High-level legal representation focused on the protection of your heritage and fundamental rights in the State of Oaxaca.",
-        "view_details": "View Service Details"
+        "view_details": "View Service Details",
+        "need_help": "Do you need legal counsel?",
+        "how_can_we_help": "How can we help you?",
+        "cta_default_description": "Stop overpaying. Contact us today for your free first consultation.",
+        "legal_disclaimer": "The information on this page is general and does not constitute legal advice. Every case requires individual analysis — schedule a consultation for an evaluation of your situation."
+    },
+    "blog": {
+        "hero": {
+            "title": "Legal Editorial",
+            "highlight": "Karina Orocio Cruz",
+            "description": "In-depth legal analysis on the most relevant legal challenges in the State of Oaxaca."
+        },
+        "read_article": "Read Article",
+        "sidebar": {
+            "practice_areas": "Practice Areas",
+            "family_law": "Family Law",
+            "civil_law": "Civil & Probate Law",
+            "real_estate": "Real Estate Law",
+            "litigation": "Strategic Litigation",
+            "cta_title": "Need Legal Advice?",
+            "cta_description": "Confidential consultation to evaluate your case in Oaxaca.",
+            "cta_button": "Contact Now"
+        }
     }
 }

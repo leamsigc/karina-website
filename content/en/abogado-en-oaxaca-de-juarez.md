@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Oaxaca de Juárez: Divorce, Property Tax & Probate | Karina Orocio"
+title: "Lawyer in Oaxaca de Juárez: Divorce"
 description: "Lawyer in Oaxaca de Juárez: no-fault divorce 1-3 months, property tax reduction 60% and probate. Historic Center and Valles. Free consult 951 615 3010."
 keywords: "lawyer oaxaca de juarez, lawyer oaxaca, legal services oaxaca, property tax reduction oaxaca, divorce oaxaca, probate oaxaca"
 image:
@@ -152,6 +152,11 @@ Business operated uninterrupted.
 
 Free first consultation. We respond within 24 hours.
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

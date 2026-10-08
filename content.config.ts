@@ -5,39 +5,50 @@ import { defineOgImageSchema } from 'nuxt-og-image/content'
 import { defineSchemaOrgSchema } from 'nuxt-schema-org/content'
 import { z } from 'zod'
 
-const blogSchema = z.object({
-  layout: z.enum(['default', 'blog-layout', 'blog', 'case-studies', 'service-detail']).default('blog'),
-  title: z.string(),
-  subtitle: z.string(),
-  description: z.string(),
-  image: z.object({
+const imageSchema = z.union([
+  z.string(),
+  z.object({
     src: z.string(),
-    alt: z.string()
-  }),
+    alt: z.string().optional()
+  })
+])
+
+const authorSchema = z.object({
+  name: z.string(),
+  role: z.string().optional(),
+  avatar: z.string().optional(),
+  social: z.string().optional()
+}).optional()
+
+const headSchema = z.object({
+  meta: z.array(z.object({
+    name: z.string().optional(),
+    property: z.string().optional(),
+    content: z.string()
+  })).optional(),
+  htmlAttrs: z.object({
+    lang: z.string()
+  }).optional(),
+  bodyAttrs: z.object({
+    class: z.string()
+  }).optional()
+}).optional()
+
+const blogSchema = z.object({
+  layout: z.enum(['default', 'blog-layout', 'BlogLayout', 'blog', 'blog-detail', 'case-studies', 'service-detail', 'services-layout', 'services', 'contact']).default('default'),
+  title: z.string(),
+  subtitle: z.string().optional(),
+  description: z.string().optional(),
+  image: imageSchema.optional(),
+  keywords: z.string().optional(),
   tags: z.array(z.string()).optional(),
-  date: z.string(),
-  publishedAt: z.string(),
-  head: z.object({
-    meta: z.array(z.object({
-      name: z.string(),
-      content: z.string()
-    })),
-    htmlAttrs: z.object({
-      lang: z.string()
-    }).optional(),
-    bodyAttrs: z.object({
-      class: z.string()
-    }).optional(),
-  }),
-  category: z.string(),
+  date: z.string().optional(),
+  publishedAt: z.string().optional(),
+  head: headSchema,
+  category: z.string().optional(),
   featured: z.boolean().default(false),
-  type: z.enum(['blog', 'case-study', 'service', 'case']).default("blog"),
-  author: z.object({
-    name: z.string(),
-    role: z.string(),
-    avatar: z.string(),
-    social: z.string()
-  }),
+  type: z.enum(['blog', 'case-study', 'service', 'case']).default('blog'),
+  author: authorSchema,
   caseOverview: z.object({
     client: z.string(),
     location: z.string(),
@@ -45,21 +56,15 @@ const blogSchema = z.object({
     category: z.string(),
     summary: z.string()
   }).optional(),
-  ogImage: z.object({
-    component: z.enum(['BlogOgImage', 'Video']).default('BlogOgImage'),
-    props: z.object({
-      title: z.string(),
-      description: z.string(),
-      image: z.string(),
-      headline: z.string()
-    })
-  }),
+  faqs: z.array(z.object({
+    question: z.string(),
+    answer: z.string()
+  })).optional(),
   robots: defineRobotsSchema(),
   sitemap: defineSitemapSchema(),
   ogImage: defineOgImageSchema(),
-  schemaOrg: defineSchemaOrgSchema(),
-
-});
+  schemaOrg: defineSchemaOrgSchema()
+})
 
 
 export default defineContentConfig({

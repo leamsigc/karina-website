@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Divorce Lawyer in Oaxaca, Mexico | No-Fault Divorce"
+title: "Family Law & Divorce Oaxaca"
 description: "Expert divorce lawyer in Oaxaca, Mexico. Specializing in expats and locals. No-fault divorce, child support and custody. Free consultation."
 tags:
   - divorce lawyer oaxaca
@@ -58,7 +58,6 @@ head:
     - name: 'description'
       content: 'Expert divorce lawyer in Oaxaca, Mexico. Specializing in expats and locals. No-fault divorce, child support and custody. Free consultation.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Family Law"
@@ -137,6 +136,18 @@ Absolutely. Oaxacan judges apply the principle of the **best interest of the chi
 
 **How do I ensure payment if the father refuses to pay child support?**
 We can request the seizure of salary directly with the employer, the blocking of bank accounts, or the seizure of property. In extreme cases, repeated non-payment is a criminal offense in Oaxaca.
+
+---
+
+## Areas Served in the State of Oaxaca
+
+- **[Oaxaca de Juárez](/en/abogado-en-oaxaca-de-juarez)** and surrounding municipalities.
+- **Central Valleys**: [Zimatlán](/en/abogado-en-zimatlan), [Ocotlán](/en/abogado-en-ocotlan), [Tlacolula](/en/abogado-en-tlacolula).
+- **Isthmus of Tehuantepec**: [Salina Cruz](/en/abogado-en-salina-cruz), [Juchitán](/en/abogado-en-juchitan).
+- **Coast**: [Puerto Escondido](/en/abogado-en-puerto-escondido), [Huatulco](/en/abogado-en-huatulco), [Pochutla](/en/abogado-en-pochutla).
+- **Mixteca**: [Huajuapan de León](/en/abogado-en-huajuapan), [Tlaxiaco](/en/abogado-en-tlaxiaco).
+- **Sierra and the rest of the state**: [Miahuatlán](/en/abogado-en-miahuatlan), [Tuxtepec](/en/abogado-en-tuxtepec), [Tehuantepec](/en/abogado-en-tehuantepec).
+- The entire State of Oaxaca with virtual consultations available.
 
 ---
 

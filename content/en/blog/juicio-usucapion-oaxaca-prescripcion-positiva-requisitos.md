@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Adverse Possession in Oaxaca 2026: Title Regularization & Usucapión Requirements"
-description: "Adverse possession lawsuit in Oaxaca 2026: usucapión requirements, timeline (12-24 months), cost, and evidence. Deed un-deeded land in Oaxaca. Free consult 951-615-3010."
+title: "Adverse Possession Oaxaca 2026: Usucapión"
+description: "Adverse possession lawsuit in Oaxaca: usucapión requirements, timeline (12-24 months), cost, and evidence to title un-deeded land."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Adverse possession lawsuit in Oaxaca positive prescription requirements for land title deed'
@@ -79,7 +79,6 @@ schemaOrg:
           "@type": "Answer"
           text: "No. Ejidal or communal land requires agrarian proceedings before the Federal Agrarian Court (TUA), not civil usucapión. Private smallholdings are eligible for civil adverse possession."
 ---
-
 ::BlogPost
 ---
 title: "Adverse Possession in Oaxaca 2026: Title Regularization & Usucapión Requirements"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Tlaxiaco: Divorcio, Sucesiones y Predial | Karina Orocio"
+title: "Abogado en Tlaxiaco: Sucesiones y Predial"
 description: "Abogado en Tlaxiaco: divorcio, juicios sucesorios y predial. Mixteca. Consulta gratis 951 615 3010."
 keywords: "abogado tlaxiaco, servicios legales mixteca, usucapion oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ Necesita el acta original con el error, su identificación oficial, actas de nac
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

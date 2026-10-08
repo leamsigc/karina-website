@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'Karina Orocio Cruz | Abogada Postulante en Oaxaca de Juárez'
+title: "Karina Orocio Cruz | Abogada en Oaxaca"
 description: 'Karina Orocio Cruz - Abogada Postulante especializada en asesoría legal patrimonial en Oaxaca. Primera asesoría gratis. Tel: 951-615-30-10'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/karina-orocio-cruz.png'
   alt: 'Karina Orocio Cruz - Abogada Postulante Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -28,7 +28,7 @@ ogImage:
   props:
     title: 'Karina Orocio Cruz | Abogada Postulante Oaxaca'
     description: 'Abogada especializada en asesoría legal patrimonial en Oaxaca de Juárez.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/karina-orocio-cruz.png'
     headline: 'Sobre Mí'
 ---
 

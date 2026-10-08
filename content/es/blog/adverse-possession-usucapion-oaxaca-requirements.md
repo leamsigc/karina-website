@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Usucapión en Oaxaca 2025: Cómo Escriturar tu Terreno sin Título Legal"
-description: "Juicio de usucapión en Oaxaca 2025: requisitos, tiempo (12-24 meses), costo y pruebas para prescripción positiva. Regulariza tu terreno sin escrituras. Consulta 951-615-3010."
+title: "Usucapión en Oaxaca 2025: Escriturar Terreno"
+description: "Juicio de usucapión en Oaxaca: requisitos, tiempo (12-24 meses) y costo para prescripción positiva. Regulariza tu terreno sin escrituras."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Juicio de usucapión en Oaxaca requisitos para obtener escrituras'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Entre 12 y 24 meses en Juzgados Civiles del Centro de Oaxaca. 12-15 meses sin oposición; hasta 24 meses si existe litigio."
 ---
-
 ::BlogPost
 ---
 title: "Usucapión en Oaxaca 2025: Cómo Escriturar tu Terreno sin Título Legal"

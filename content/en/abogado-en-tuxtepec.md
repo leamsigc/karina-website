@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Tuxtepec: Divorce, Property Tax & Civil | Karina Orocio"
+title: "Lawyer in Tuxtepec: Divorce & Property"
 description: "Lawyer in Tuxtepec: divorce, property tax and land. Papaloapan. Free consult 951 615 3010."
 keywords: "lawyer tuxtepec, legal services papaloapan, property regularization oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ Yes. Through a lease contract rescission proceeding plus payment of overdue rent
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

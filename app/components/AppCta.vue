@@ -20,10 +20,11 @@ interface Props {
 
 const props = withDefaults(defineProps<Props>(), {
     title: '',
-    description: "No sigas pagando de más. Contáctanos hoy para tu primera asesoría gratis."
+    description: ''
 });
 
 const displayTitle = computed(() => props.title || t('common.need_help'))
+const displayDescription = computed(() => props.description || t('common.cta_default_description'))
 </script>
 
 <template>
@@ -37,14 +38,14 @@ const displayTitle = computed(() => props.title || t('common.need_help'))
             </h2>
             <p class="text-2xl font-light mb-12 opacity-90 max-w-2xl mx-auto">
                 <slot name="description" mdc-unwrap="p">
-                    {{ description }}
+                    {{ displayDescription }}
                 </slot>
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-6">
                 <a
 :href="`tel:${COMPANY_INFO.phone.replace(/[^0-9]/g, '')}`"
                     class="bg-navy-900 text-white px-10 py-5 rounded-sm font-display font-bold text-2xl hover:bg-navy-800 transition-colors shadow-hard border-2 border-navy-900 uppercase flex items-center justify-center gap-2">
-                    Llama {{ COMPANY_INFO.phone }}
+                    {{ t('common.cta_call') }} {{ COMPANY_INFO.phone }}
                 </a>
                 <NuxtLinkLocale
 to="/contact"

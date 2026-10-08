@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Juicio Sucesorio Oaxaca 2025: Intestamentario vs Testamentario - Costo y Tiempo"
-description: "Juicio sucesorio en Oaxaca 2025: intestado vs testamento, costo $18k-$45k, tiempo 6-12 meses. Requisitos, etapas y cómo evitar que se peleen los herederos. Consulta gratis 951-615-3010."
+title: "Juicio Sucesorio en Oaxaca"
+description: "Juicio sucesorio en Oaxaca: intestado vs testamento, costo, tiempo (6-12 meses) y requisitos. Evita disputas entre herederos."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Juicio sucesorio en Oaxaca - intestamentario y testamentario, requisitos y proceso'
@@ -84,7 +84,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Sí, pero la sucesión recae sobre derechos posesorios, no propiedad plena. Luego regularizas vía usucapión. Mejor combinar sucesorio + usucapión si el autor poseía sin escrituras (ver guía usucapión)."
 ---
-
 ::BlogPost
 ---
 title: "Juicio Sucesorio Oaxaca 2025: Intestamentario vs Testamentario - Costo y Tiempo"

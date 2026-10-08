@@ -1,8 +1,8 @@
 ---
 layout: service-detail
-title: "Divorce Lawyer in Oaxaca | English-Speaking Family Attorney"
+title: "Divorce Lawyer Oaxaca | English-Speaking"
 subtitle: "Expert Legal Defense for Expats, Dual Citizens & Foreign Residents in Oaxaca"
-description: "English-speaking divorce & family lawyer in Oaxaca. No-fault divorce in 1–3 months, child custody, alimony & asset protection. Free consultation: +52 951 615 3010."
+description: "English-speaking divorce & family lawyer in Oaxaca. No-fault divorce in 1–3 months, child custody, alimony & asset protection. Call +52 951 615 3010."
 tags:
   - divorce lawyer oaxaca
   - family lawyer oaxaca
@@ -28,7 +28,13 @@ ogImage:
     title: "Divorce Lawyer in Oaxaca | English-Speaking Legal Services"
     description: "Navigating divorce, child custody, and property division in Oaxaca for expats and international couples."
     image: "/img/layer-family-law.jpg"
-    headline: "Family & Divorce Law"
+faqs:
+  - question: "How long does an uncontested divorce take in Oaxaca?"
+    answer: "A no-fault divorce (divorcio incausado) in Oaxaca typically takes between 1 and 3 months to complete from initial filing to final decree."
+  - question: "Can I get a divorce in Oaxaca remotely if I live abroad?"
+    answer: "Yes, dual citizens and foreign nationals can issue a Mexican Consular Power of Attorney, enabling Lic. Karina Orocio Cruz to represent you in court without requiring travel."
+  - question: "How is child support calculated in Oaxaca family court?"
+    answer: "Child support in Oaxaca ranges from 15% to 35% of the non-custodial parent's net income per child, directly enforceable via judicial payroll garnishment."
 head:
   meta:
     - name: "keywords"

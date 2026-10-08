@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Administrative Law & Amparo in Oaxaca | Karina Orocio Cruz"
+title: "Administrative & Amparo Law"
 description: "Legal defense against business closures, traffic fines, and arbitrary acts of municipal and state authorities in Oaxaca."
 tags:
   - administrative law oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Defense against arbitrary acts of authorities in Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Administrative Law & Amparo"

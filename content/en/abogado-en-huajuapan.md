@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Huajuapan: Divorce, Property Tax & Probate | Karina Orocio"
+title: "Lawyer in Huajuapan: Divorce & Probate"
 description: "Lawyer in Huajuapan: divorce, child support and land regularization. Mixteca and Tlaxiaco. Free consult 951 615 3010."
 keywords: "lawyer in huajuapan, mixteca legal services, commercial law huajuapan, agricultural land regularization, cross-border trade attorney, law firm huajuapan"
 image:
@@ -135,6 +135,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Free initial consultation. We evaluate your case with no obligation.
 
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

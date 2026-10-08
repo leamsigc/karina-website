@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Wage Garnishment for Child Support in Oaxaca Mexico (2026 Legal Guide)"
-description: "Need to enforce child support via wage garnishment in Oaxaca? Learn about payroll withholding orders, AFORE asset seizures, employer liability, and legal defense."
+title: "Wage Garnishment: Child Support Oaxaca 2026"
+description: "Need to enforce child support via wage garnishment in Oaxaca? Learn about payroll withholding orders, AFORE asset seizures, and legal defense."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Wage garnishment for child support in Oaxaca, Mexico - legal guide'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Under Supreme Court of Mexico precedents, courts can order the seizure of retirement funds (AFORE subaccounts) or garnish bank accounts and real estate assets."
 ---
-
 ::BlogPost
 ---
 title: "Wage Garnishment for Child Support in Oaxaca Mexico (2026 Legal Guide)"

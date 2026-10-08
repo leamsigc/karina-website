@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "No-Fault Divorce & Child Support for Leticia Cabrera | Karina Orocio Cruz"
+title: "Divorce & Child Support: Leticia Cabrera"
 description: "Success Case: Efficient resolution of a divorce with minor children in Oaxaca de Juárez, securing fair child support and protecting minors' well-being."
 type: case
 caseOverview:

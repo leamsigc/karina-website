@@ -20,7 +20,7 @@
                     ¿Problemas con el municipio?
                 </h2>
                 <p class="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                    ¿Pagas demasiado en tu predial o enfrentas multas unjustly? Te ayudamos a resolver tus asuntos de
+                    ¿Pagas demasiado en tu predial o enfrentas multas injustas? Te ayudamos a resolver tus asuntos de
                     Derecho Municipal de manera estratégica.
                     Primera asesoría totalmente gratis.
                 </p>
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="relative h-64 md:h-80 bg-navy-900 rounded-sm overflow-hidden shadow-hard">
-                <NuxtImg src="/img/roofingMendozaSolarPanels.png" alt="Legal Office Oaxaca"
+                <NuxtImg src="/img/layer-office-building.jpg" alt="Legal Office Oaxaca"
                     class="w-full h-full object-cover opacity-80" />
                 <div class="absolute bottom-0 left-0 w-full p-4 bg-linear-to-t from-black/80 to-transparent">
                     <p class="text-white font-bold flex items-center gap-2">

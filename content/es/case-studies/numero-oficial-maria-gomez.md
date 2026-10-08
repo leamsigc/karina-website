@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Trámite de Número Oficial para María Gómez | Karina Orocio Cruz"
+title: "Número Oficial: Caso María Gómez"
 description: "Caso de éxito: Gestionamos en menos de un mes el trámite de número oficial en cualquier municipio del estado para nuestra clienta María Gómez."
 type: case
 caseOverview:

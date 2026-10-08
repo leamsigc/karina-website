@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Legal Blog | Karina Orocio Cruz - Law Articles in Oaxaca"
+title: "Legal Blog | Law Articles in Oaxaca"
 description: "Legal articles on civil, family, and administrative law in Oaxaca. In-depth legal analysis on the most relevant legal issues."
 featured: true
 tags:

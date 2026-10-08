@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Probate in Oaxaca 2025: Intestate vs Testate - Cost and Timeline"
+title: "Probate Oaxaca 2025: Intestate vs Testate"
 description: "Probate in Oaxaca 2025: intestate vs testate, cost $18k-$45k, time 6-12 months. Requirements, stages and how to avoid family fights. Free consult 951-615-3010."
 image:
   src: '/img/layer-office-building.jpg'

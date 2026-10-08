@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Adverse Possession (Usucapión) in Oaxaca 2025: How to Get Title Without Deed"
-description: "Usucapión in Oaxaca 2025: requirements, time (12-24 months), cost and evidence for adverse possession. Regularize land without deed in Xoxocotlán, Valles and coast. Free consult 951-615-3010."
+title: "Adverse Possession Oaxaca 2025: Get Title"
+description: "Usucapión in Oaxaca: requirements, timeline (12-24 months), cost and evidence for adverse possession. Regularize land without deeds."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Adverse possession usucapion in Oaxaca - requirements to get title'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "12-24 months in Civil Courts. 12-15 without opposition; up to 24 with opposition."
 ---
-
 ::BlogPost
 ---
 title: "Adverse Possession (Usucapión) in Oaxaca 2025: How to Get Title Without Deed"

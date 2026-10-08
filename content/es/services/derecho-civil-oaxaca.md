@@ -1,7 +1,7 @@
 ---
 layout: service-detail
-title: "Derecho Civil y Patrimonial | Karina Orocio Cruz"
-description: "Regularización de propiedades (Usucapión), Juicio Sumario Hipotecario, juicios sucesorios (intestados y testamentarios) y elaboración de contratos de alto rigor en Oaxaca."
+title: "Derecho Civil en Oaxaca"
+description: "Usucapión, Juicio Sumario Hipotecario, juicios sucesorios y elaboración de contratos de alto rigor en Oaxaca. Lic. Karina Orocio."
 tags:
   - derecho civil oaxaca
   - usucapion oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Regularización de propiedades y juicios sucesorios en Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Derecho Civil y Patrimonial"

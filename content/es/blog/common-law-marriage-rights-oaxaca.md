@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Derechos del Concubinato en Oaxaca (Unión Libre 2026): Guía Legal y Pensión"
+title: "Concubinato en Oaxaca (2026): Guía Legal"
 description: "¿Vives en unión libre en Oaxaca? Conoce los requisitos legales del concubinato: pensión alimenticia, herencia, bienes compartidos y constancia oficial."
 image:
   src: '/img/layer-family-law.jpg'

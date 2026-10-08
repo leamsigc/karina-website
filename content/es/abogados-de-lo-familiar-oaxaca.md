@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Abogados de lo Familiar en Oaxaca | Consulta Gratis"
+title: "Abogados de lo Familiar Oaxaca"
 subtitle: "Especialistas en Pensión Alimenticia, Custodia, Juicios de Alimentos y Adopciones"
 description: "Abogados de lo familiar en Oaxaca. Defensa legal en pensión alimenticia, guarda y custodia, patria potestad y rectificación de actas. Tel: 951 615 3010."
 tags:

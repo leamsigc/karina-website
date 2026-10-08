@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Divorcio Incausado en Oaxaca: Requisitos, Costo y Tiempo 2026"
+title: "Divorcio Incausado Oaxaca: Requisitos 2026"
 description: "¿Te urge divorciarte? El divorcio incausado (express) en Oaxaca toma de 1 a 3 meses. Conoce requisitos, costos reales 2026 y tramítalo hoy. Consulta gratis."
 image:
   src: '/img/layer-family-law.jpg'

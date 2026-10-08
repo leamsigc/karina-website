@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Wage Garnishment for Child Support in Oaxaca (2026 Legal & Payroll Guide)"
-description: "Facing unpaid child support or excessive wage garnishment in Oaxaca? Learn about payroll withholding court orders, Christmas bonuses, AFORE, penalties, and defense."
+title: "Wage Garnishment Child Support Oaxaca 2026"
+description: "Facing unpaid child support or wage garnishment in Oaxaca? Learn about payroll withholding court orders, AFORE asset seizures, and legal defense."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Wage garnishment for child support in Oaxaca payroll deductions and obligors'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Under recent Mexican Supreme Court precedent, in the absence of other assets, judges can authorize attachment of retirement or voluntary savings subaccounts within AFORE funds."
 ---
-
 ::BlogPost
 ---
 title: "Wage Garnishment for Child Support in Oaxaca (2026 Legal & Payroll Guide)"

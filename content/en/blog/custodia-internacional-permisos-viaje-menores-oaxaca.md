@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "International Child Custody & Travel Permits in Oaxaca (2026 Hague Convention Guide)"
+title: "International Custody Oaxaca 2026: Hague"
 description: "Traveling or relocating abroad with your children from Oaxaca? 2026 Guide: INAMI SAM forms, court-ordered travel permits, and child abduction prevention."
 image:
   src: '/img/layer-family-law.jpg'

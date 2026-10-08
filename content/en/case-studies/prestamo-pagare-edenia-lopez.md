@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Loan Recovery via Promissory Note for Edenia López | Karina Orocio Cruz"
+title: "Loan Recovery via Promissory: Edenia López"
 description: "Success Case: Recovery of principal capital and interest derived from a promissory note in Oaxaca de Juárez through a successful executive commercial lawsuit."
 type: case
 caseOverview:

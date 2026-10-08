@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Probate & Succession Proceedings in Oaxaca 2026: Intestate vs. Testate - Cost & Timeline"
-description: "Probate trial in Oaxaca 2026: Intestate vs testate wills, costs, timeline 6-12 months. Requirements, steps, and heir dispute resolution. Free consult 951-615-3010."
+title: "Probate & Succession Oaxaca 2026: Guide"
+description: "Probate trial in Oaxaca: Intestate vs testate wills, costs, timeline 6-12 months. Requirements, steps, and heir dispute resolution."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Probate succession proceedings in Oaxaca intestate and testate wills process'
@@ -84,7 +84,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Yes, but the succession applies to possessory rights rather than full registered title. Possession is subsequently formalized via adverse possession (Usucapión)."
 ---
-
 ::BlogPost
 ---
 title: "Probate & Succession Proceedings in Oaxaca 2026: Intestate vs. Testate - Cost & Timeline"

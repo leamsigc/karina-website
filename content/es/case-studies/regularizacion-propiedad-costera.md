@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Regularización de Propiedad Costera de Alto Valor | Karina Orocio Cruz"
+title: "Regularización de Propiedad Costera"
 description: "Caso de éxito: Regularización de propiedad frente a la playa en Puerto Escondido. Certe jurídica y escrituración exitosa para inversionistas."
 type: case
 caseOverview:

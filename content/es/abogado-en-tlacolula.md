@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Tlacolula: Divorcio, Predial y Comercio | Karina Orocio"
+title: "Abogado en Tlacolula: Divorcio y Comercio"
 description: "Abogado en Tlacolula: divorcio, reducción predial y regularización comercial. Valles. Consulta gratis 951 615 3010."
 keywords: "abogado en tlacolula, servicios legales valles centrales, regularizacion propiedades comerciales, abogado mercado tlacolula, proteccion marcas artesanales, derecho turistico oaxaca"
 image:
@@ -136,6 +136,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Primera consulta gratuita. Le esperamos.
 
 ::
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

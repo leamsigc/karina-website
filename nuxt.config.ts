@@ -49,7 +49,6 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/hints',
     '@nuxtjs/seo',
-    'nuxt-seo-utils',
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/test-utils',
@@ -91,7 +90,8 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://abogada-karina-oaxaca.com',
-    name: 'Karina Orocio - Abogada Postulante en Oaxaca',
+    name: 'Karina Orocio',
+    titleTemplate: '%s | Karina Orocio',
     defaultLocale: 'es',
     trailingSlash: false
   },
@@ -116,17 +116,23 @@ export default defineNuxtConfig({
       type: 'LegalService',
       name: 'Karina Orocio Cruz - Private Law Attorney',
       alternateName: ['Karina Orocio Cruz', 'Karina Orocio Cruz Law Firm', 'Abogada Karina Orocio Cruz'],
-      logo: '/img/logo.png',
-      image: '/img/karina-hero.png',
+      logo: 'https://abogada-karina-oaxaca.com/img/logo.png',
+      image: 'https://abogada-karina-oaxaca.com/img/karina-hero.png',
       description: 'Senior Attorney specializing in Private Law (Family, Civil, Commercial and Administrative) in Oaxaca. Professional legal defense for property and assets.',
-      telephone: '+52-951-615-30-10',
+      telephone: '+529516153010',
       email: 'karina@abogada-karina-oaxaca.com',
       url: 'https://abogada-karina-oaxaca.com',
       address: {
         streetAddress: 'Oaxaca de Juárez',
         addressLocality: 'Oaxaca de Juárez',
         addressRegion: 'Oaxaca',
+        postalCode: '68000',
         addressCountry: 'MX'
+      },
+      geo: {
+        type: 'GeoCoordinates',
+        latitude: 17.0654,
+        longitude: -96.7236
       },
       openingHoursSpecification: [
         {
@@ -136,11 +142,11 @@ export default defineNuxtConfig({
         }
       ],
       areaServed: [
-        { type: 'State', name: 'Oaxaca' },
-        { type: 'City', name: 'Oaxaca de Juárez' },
-        { type: 'City', name: 'Santa Lucía del Camino' },
-        { type: 'City', name: 'Xoxocotlán' },
-        { type: 'City', name: 'San Bartolo Coyotepec' }
+        { '@type': 'AdministrativeArea', name: 'Oaxaca' },
+        { '@type': 'City', name: 'Oaxaca de Juárez' },
+        { '@type': 'City', name: 'Santa Lucía del Camino' },
+        { '@type': 'City', name: 'Xoxocotlán' },
+        { '@type': 'City', name: 'San Bartolo Coyotepec' }
       ],
       priceRange: '$$',
       sameAs: [
@@ -160,17 +166,17 @@ export default defineNuxtConfig({
 
   i18n: {
     baseUrl: process.env.NUXT_PUBLIC_BASE_URL || 'https://abogada-karina-oaxaca.com',
+    langDir: 'locales',
     locales: [
       { code: 'en', language: 'en-US', name: 'English', file: 'en.json' },
-      { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' },
+      { code: 'es', language: 'es-ES', name: 'Español', file: 'es.json' }
     ],
     strategy: 'prefix_except_default',
     defaultLocale: 'es',
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root'
-    }
+    // SEO: never auto-redirect by browser language. `/` always serves Spanish
+    // so Googlebot (mostly US-based) discovers and indexes the ES canonical.
+    // Users switch languages explicitly via the ES|EN switcher.
+    detectBrowserLanguage: false
   },
 
   umami: {

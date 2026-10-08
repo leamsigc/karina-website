@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "No-Fault Divorce in Oaxaca 2026: Fast, Easy & Secure Guide"
+title: "No-Fault Divorce Oaxaca 2026: Full Guide"
 description: "Need a fast divorce in Oaxaca? Learn the 2026 requirements, exact costs, and timeline for a No-Fault Divorce (Divorcio Incausado). Free consultation today!"
 image:
   src: '/img/layer-family-law.jpg'

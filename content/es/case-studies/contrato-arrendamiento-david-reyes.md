@@ -1,7 +1,7 @@
 ---
 layout: case-studies
-title: "Elaboración de Contrato de Arrendamiento para David Reyes | Karina Orocio Cruz"
-description: "Caso de éxito: Tengo varios departamentos, pero cada vez más me pedían que querían un contrato de arrendamiento no sabía qué hacer pero después de exponer mis dudas, la Lic Elisa realizó un contrato conforme a las necesidades que tenía."
+title: "Contrato de Arrendamiento: David Reyes"
+description: "Caso de éxito: Elaboración de contrato de arrendamiento residencial a la medida para propietario en Oaxaca por la Lic. Karina Orocio."
 type: case
 caseOverview:
   client: "David Reyes"
@@ -43,7 +43,6 @@ head:
     - name: 'description'
       content: 'Caso de éxito: Elaboración de contrato de arrendamiento personalizado.'
 ---
-
 ::CaseStudyDetailHero
 ---
 title: "Elaboración de Contrato de Arrendamiento"

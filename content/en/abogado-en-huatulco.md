@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Huatulco: Divorce, Property Tax & Title | Karina Orocio"
+title: "Lawyer in Huatulco: Divorce & Property"
 description: "Lawyer in Huatulco: no-fault divorce 1-3 months, property tax reduction and usucapión. Santa Cruz Huatulco and Pochutla. Free consult 951 615 3010."
 keywords: "lawyer huatulco, legal services huatulco, divorce huatulco, property tax huatulco, usucapion huatulco, Karina Orocio Cruz"
 image:
@@ -121,6 +121,11 @@ Depends on type: some 3-6 months, others up to a year. We give a clear timeline 
 Free first consultation.
 
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

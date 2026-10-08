@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Our Team | Karina Orocio Cruz Law Firm Oaxaca"
-description: "Meet the principal partners at Orocio y Asociados: Karina Orocio Cruz, Noé Sánchez López, and Miranda Inés López Verdugo. Attorneys dedicated to protecting your rights in Oaxaca."
+title: "Our Team | Law Firm Oaxaca"
+description: "Meet the attorneys at Orocio y Asociados: Karina Orocio Cruz, Noé Sánchez López, and Miranda Inés López Verdugo. Protecting your rights in Oaxaca."
 keywords: "law firm team, lawyers oaxaca, Karina Orocio Cruz, Noé Sánchez López, Miranda Inés López Verdugo, legal team oaxaca"
 image: "/img/karina-orocio-cruz.png"
 author:
@@ -29,7 +29,6 @@ head:
     - name: 'description'
       content: 'Meet the principal partners at Orocio y Asociados in Oaxaca.'
 ---
-
 ::PageHero
 ---
 title: Our Team

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Casos de Éxito | Karina Orocio Cruz - Litigio Estratégico Oaxaca"
+title: "Casos de Éxito | Litigio Estratégico Oaxaca"
 description: "Conozca nuestros casos de éxito en litigio estratégico, derecho civil, administrativo y familiar en el Estado de Oaxaca. Resultados comprobables."
 tags:
   - casos de exito oaxaca

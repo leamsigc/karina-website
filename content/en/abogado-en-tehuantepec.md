@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Tehuantepec: Probate, Property Tax & Boundaries | Karina Orocio"
+title: "Lawyer in Tehuantepec: Probate & Property"
 description: "Lawyer in Tehuantepec: probate, property tax and boundary disputes. Istmo. Free consult 951 615 3010."
 keywords: "lawyer tehuantepec, legal services istmo, probate proceedings oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ A will is a voluntary act during life where you designate heirs. Intestate succe
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

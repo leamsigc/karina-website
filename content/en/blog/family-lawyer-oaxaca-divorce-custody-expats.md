@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Family Lawyer in Oaxaca 2025: Divorce, Child Support & Custody for Expats and Locals"
-description: "Family lawyer in Oaxaca for expats, tourists and locals: no-fault divorce in 1-3 months, child support 15-35% and custody. English spoken. Free consult 951-615-3010."
+title: "Family Lawyer Oaxaca 2025: Expats & Locals"
+description: "Family lawyer in Oaxaca for expats & locals: no-fault divorce in 1-3 months, child support and custody. English spoken. Call 951-615-3010."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Family lawyer in Oaxaca - divorce, child custody and support for expats'
@@ -84,7 +84,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Divorce $16.5k-$54k MXN in 3 payments; child support filing $8k-$15k; custody contested $25k-$45k. Fixed fee, first consult free."
 ---
-
 ::BlogPost
 ---
 title: "Family Lawyer in Oaxaca 2025: Divorce, Child Support & Custody for Expats and Locals"

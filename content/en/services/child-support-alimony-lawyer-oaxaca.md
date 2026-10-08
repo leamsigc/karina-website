@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Child Support & Alimony Lawyer in Oaxaca | Calculation & Claims"
+title: "Child Support Lawyer Oaxaca | Calculation"
 description: "Expert child support and alimony attorney in Oaxaca. Emergency temporary support orders, garnishment, and expansion claims. Call +52 951 615 3010."
 tags:
   - child support oaxaca

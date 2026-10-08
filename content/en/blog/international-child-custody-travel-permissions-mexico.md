@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "International Child Custody & Travel Permission in Mexico (2026 Guide)"
-description: "Planning to travel or relocate abroad with children from Oaxaca, Mexico? Learn about INAMI SAM travel permits, Hague Abduction Convention, and court authorization."
+title: "International Child Custody Mexico (2026)"
+description: "Planning to travel or relocate abroad with children from Oaxaca, Mexico? Learn about INAMI SAM travel permits and Hague Convention requirements."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'International child custody and travel permission for minors in Mexico legal guide'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "It establishes an expedited international mechanism through the Ministry of Foreign Affairs (SRE) and local Family Courts to order the prompt return of wrongfully removed minors."
 ---
-
 ::BlogPost
 ---
 title: "International Child Custody & Travel Permission in Mexico (2026 Guide)"

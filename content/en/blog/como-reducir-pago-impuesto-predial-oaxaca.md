@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Excessive Increase in Your Property Tax? How to Defend Yourself in Oaxaca"
+title: "Reduce Property Tax Oaxaca"
 description: "Guide on the nullity of arbitrary cadastral updates and how to protect your assets against disproportionate municipal charges."
 featured: true
 tags:
@@ -25,7 +25,6 @@ ogImage:
     headline: 'Secure Assets'
 publishedAt: '2024-02-20'
 ---
-
 ::BlogPost
 ---
 title: "Excessive Increase in Your Property Tax? How to Defend Yourself in Oaxaca"

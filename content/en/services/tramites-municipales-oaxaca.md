@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Municipal Procedures in Oaxaca | Karina Orocio Cruz"
+title: "Municipal Procedures Oaxaca"
 description: "Professional assistance with official numbers, alignment, title transfers, and other municipal procedures in Oaxaca de Juárez."
 tags:
   - municipal procedures oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Professional assistance with municipal procedures in Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Municipal Procedures"

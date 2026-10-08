@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Derecho Municipal en Oaxaca | Defensoría de Predial y Clausuras"
+title: "Derecho Municipal Oaxaca"
 description: "Defensa legal contra cobros excesivos de impuesto predial, multas municipales arbitrarias y clausuras en Oaxaca de Juárez y municipios conurbados."
 tags:
   - derecho municipal oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Defensa legal contra cobros excesivos de impuesto predial y actos municipales en Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Derecho Municipal"

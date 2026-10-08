@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Testamentos en México y Oaxaca (2026): Guía Notarial para Extranjeros"
+title: "Testamentos México y Oaxaca (2026): Guía"
 description: "¿Tienes inmuebles o bienes en Oaxaca? Guía 2026 sobre el Testamento Público Abierto, legados, albacea, validez frente a testamentos extranjeros y trámites."
 image:
   src: '/img/layer-office-building.jpg'

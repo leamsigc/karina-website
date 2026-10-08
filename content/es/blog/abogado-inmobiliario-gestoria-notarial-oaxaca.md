@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Abogado Inmobiliario y Gestoría Notarial en Oaxaca (2026): Guía de Compra"
+title: "Abogado Inmobiliario en Oaxaca"
 description: "¿Compras propiedad en Oaxaca, Puerto Escondido o Huatulco? Guía 2026: Auditoría legal (Due Diligence), escrituración, fideicomiso para extranjeros y notaría."
 image:
   src: '/img/layer-office-building.jpg'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Al encontrarse en la Zona Restringida (a menos de 50 km de la costa), los extranjeros adquieren derechos de uso y dominio mediante un Fideicomiso Bancario (*Fideicomiso*)."
 ---
-
 ::BlogPost
 ---
 title: "Abogado Inmobiliario y Gestoría Notarial en Oaxaca (2026): Guía de Compra"

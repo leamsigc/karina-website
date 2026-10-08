@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Karina Orocio Cruz | Attorney at Law in Oaxaca - Legal Services'
+title: "Divorce & Family Attorney in Oaxaca"
 description: 'Prestigious law firm in Oaxaca. Specialists in Municipal Law, civil, family and commercial law. Schedule your legal consultation with Lic. Karina Orocio Cruz.'
 image:
   src: '/img/karina-hero.png'
@@ -40,5 +40,5 @@ ogImage:
 ::TestimonialsSection
 ::
 
-::HomeFaq
+::HomeFaqEn
 ::

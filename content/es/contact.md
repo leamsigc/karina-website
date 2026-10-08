@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: "Contacto | Karina Orocio Cruz | Abogada en Oaxaca"
+title: "Contacto Abogada Oaxaca"
 description: "Agende una asesoría legal confidencial en Oaxaca de Juárez. Especialistas en derecho civil, familiar, administrativo y reducción de predial."
 keywords: "contacto abogado oaxaca, despacho juridico oaxaca, telefono abogado oaxaca, asesoria legal oaxaca, karina orocio contacto"
 image: "/img/layer-services-2.jpg"
@@ -17,6 +17,5 @@ head:
     - name: 'description'
       content: 'Agende una asesoría legal confidencial en Oaxaca de Juárez.'
 ---
-
 ::ContactSection
 ::

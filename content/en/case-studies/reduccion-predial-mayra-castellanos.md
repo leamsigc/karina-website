@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Property Tax Reduction for Mayra Castellanos | Karina Orocio Cruz"
+title: "Property Tax Reduction: Mayra Castellanos"
 description: "Success case: We achieved that our client Mayra Castellanos paid less property tax derived from a sale transaction."
 type: case
 caseOverview:

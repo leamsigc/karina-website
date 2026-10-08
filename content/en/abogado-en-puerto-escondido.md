@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Puerto Escondido: Divorce, Title & Fideicomiso | Karina Orocio"
+title: "Lawyer in Puerto Escondido: Divorce & Title"
 description: "Lawyer in Puerto Escondido: usucapión, fideicomisos for foreigners and divorce. Oaxacan coast. Free consult 951 615 3010."
 keywords: "lawyer puerto escondido, puerto escondido property regularization, fideicomiso Mexico, lawyer costa oaxaca"
 image:
@@ -115,6 +115,11 @@ Yes via usucapión if 5/10 years possession + proof (tax, CFE, witnesses). We ev
 Free first consultation.
 
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

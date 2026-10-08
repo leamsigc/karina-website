@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Pochutla: Divorcio, Predial y Costa | Karina Orocio"
+title: "Abogado en Pochutla: Divorcio y Predial"
 description: "Abogado en Pochutla: divorcio, reducción predial y regularización costera. Huatulco y Puerto Escondido. Consulta gratis 951 615 3010."
 keywords: "abogado pochutla, servicios legales costa, defensa administrativa oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ Solo requiere su acta de matrimonio, identificación oficial y la manifestación
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Puerto Escondido: Divorcio, Escrituras y Fideicomisos | Karina Orocio"
+title: "Abogado en Puerto Escondido: Escrituras"
 description: "Abogado en Puerto Escondido: usucapión, fideicomisos para extranjeros y divorcio. Costa oaxaqueña. Consulta gratis 951 615 3010."
 keywords: "abogado en puerto escondido, regularizacion propiedades puerto escondido, fideicomiso Mexico, escritorio juridico costa oaxaca, abogado propiedades costa"
 image:
@@ -121,6 +121,11 @@ Primera consulta gratuita.
 
 
 ::
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

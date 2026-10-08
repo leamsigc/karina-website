@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Abogado Inmobiliario y Servicios Notariales en Oaxaca México (Guía 2026)"
-description: "¿Compras inmuebles en Oaxaca, Puerto Escondido o Huatulco? Conoce sobre la auditoría legal (Due Diligence), escrituras públicas, fideicomisos y revisión de títulos."
+title: "Abogado Inmobiliario Oaxaca"
+description: "¿Compras inmuebles en Oaxaca, Puerto Escondido o Huatulco? Auditoría legal (Due Diligence), escrituras públicas y títulos."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Abogado inmobiliario y servicios notariales en Oaxaca México guía de compra'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Conforme al Artículo 27 Constitucional, las propiedades a menos de 50 km de la costa (Puerto Escondido, Huatulco) adquiridas por extranjeros requieren un Fideicomiso Bancario renovable por 50 años."
 ---
-
 ::BlogPost
 ---
 title: "Abogado Inmobiliario y Servicios Notariales en Oaxaca México (Guía 2026)"

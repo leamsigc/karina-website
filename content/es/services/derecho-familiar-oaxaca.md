@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Abogado Familiar en Oaxaca | Divorcio Exprés y Pensión Alimenticia"
+title: "Abogado Familiar Oaxaca | Divorcio y Pensión"
 description: "Abogada experta en derecho familiar en Oaxaca. Divorcios incausados en 1-3 meses, guarda, custodia y pensión alimenticia justa. ¡Consulta gratuita!"
 tags:
   - derecho familiar oaxaca
@@ -168,10 +168,12 @@ Si usted o sus hijos están en riesgo, gestionamos de forma urgente:
 
 ## Zonas de Atención en el Estado de Oaxaca
 
-- **Oaxaca de Juárez** y municipios conurbados (Xoxocotlán, San Agustín de las Juntas, Tlalixtac, Santa Cruz Xoxocotlán).
-- **Valles Centrales**: Etla, Zaachila, Zimatlán, Ocotlán, Tlacolula.
-- **Istmo de Tehuantepec**: Salina Cruz, Juchitán.
-- **Mixteca**: Huajuapan de León, Tlaxiaco.
+- **[Oaxaca de Juárez](/abogado-en-oaxaca-de-juarez)** y municipios conurbados (Xoxocotlán, San Agustín de las Juntas, Tlalixtac, Santa Cruz Xoxocotlán).
+- **Valles Centrales**: Etla, Zaachila, [Zimatlán](/abogado-en-zimatlan), [Ocotlán](/abogado-en-ocotlan), [Tlacolula](/abogado-en-tlacolula).
+- **Istmo de Tehuantepec**: [Salina Cruz](/abogado-en-salina-cruz), [Juchitán](/abogado-en-juchitan).
+- **Costa**: [Puerto Escondido](/abogado-en-puerto-escondido), [Huatulco](/abogado-en-huatulco), [Pochutla](/abogado-en-pochutla).
+- **Mixteca**: [Huajuapan de León](/abogado-en-huajuapan), [Tlaxiaco](/abogado-en-tlaxiaco).
+- **Sierra y resto del estado**: [Miahuatlán](/abogado-en-miahuatlan), [Tuxtepec](/abogado-en-tuxtepec), [Tehuantepec](/abogado-en-tehuantepec).
 - Todo el Estado de Oaxaca con consultas virtuales disponibles.
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "⚡ Pensión Alimenticia en Oaxaca | Cálculo, Porcentajes y Demandas 2026"
+title: "Pensión Alimenticia Oaxaca | Cálculo 2026"
 description: "¿Cómo se calcula la pensión alimenticia en Oaxaca? Conoce los porcentajes judiciales (15% al 50%), deudores sin nómina, aumentos y sanciones."
 date: "2026-09-16"
 publishedAt: "2026-09-16"

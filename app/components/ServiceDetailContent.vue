@@ -1,4 +1,6 @@
 <script setup lang="ts">
+const { t } = useI18n()
+
 defineProps<{
   title?: string
   subtitle?: string
@@ -15,7 +17,7 @@ defineProps<{
       </div>
 
       <div class="bg-white p-10 shadow-sm border border-cream-dark/20 rounded-sm">
-        <h3 class="font-serif text-3xl text-charcoal mb-8 text-center">¿Cómo podemos ayudarle?</h3>
+        <h3 class="font-serif text-3xl text-charcoal mb-8 text-center">{{ t('common.how_can_we_help') }}</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div v-for="(benefit, index) in benefits" :key="index" class="flex items-start space-x-4">
             <span class="text-gold text-xl">✓</span>
@@ -26,6 +28,9 @@ defineProps<{
       <div class="prose prose-lg prose-charcoal max-w-none mt-10">
         <slot/>
       </div>
+      <p class="mt-10 text-xs font-light text-charcoal-light/70 border-t border-cream-dark/20 pt-4">
+        {{ t('common.legal_disclaimer') }}
+      </p>
     </div>
   </section>
 </template>

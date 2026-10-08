@@ -1,7 +1,7 @@
 ---
 layout: service-detail
 title: "Derecho Mercantil | Karina Orocio Cruz"
-description: "Servicios legales mercantiles en Oaxaca: Juicio Ejecutivo Mercantil, juicios orales, recuperación de cartera, pagarés, facturas, cargos no reconocidos y defensa en amparo."
+description: "Servicios legales mercantiles en Oaxaca: Juicio Ejecutivo Mercantil, recuperación de cartera, pagarés, facturas y amparo."
 tags:
   - derecho mercantil oaxaca
   - juicios orales mercantiles
@@ -39,7 +39,6 @@ head:
     - name: 'description'
       content: 'Servicios legales mercantiles en Oaxaca.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Derecho Mercantil"

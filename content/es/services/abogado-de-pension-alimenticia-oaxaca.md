@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Abogado de Pensión Alimenticia en Oaxaca | Cálculo e Incremento"
+title: "Pensión Alimenticia Oaxaca | Cálculo"
 description: "Especialista en fijación, cálculo, incremento y embargo de pensión alimenticia en Oaxaca. Defensa de menores y cónyuges. Llama al 951 615 3010."
 tags:
   - pension alimenticia oaxaca

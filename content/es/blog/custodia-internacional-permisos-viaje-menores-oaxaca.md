@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Custodia Internacional y Permiso de Viaje en Oaxaca (2026): Guía La Haya"
+title: "Custodia Internacional Oaxaca"
 description: "¿Viajas o te mudas al extranjero con tus hijos desde Oaxaca? Guía 2026: Formato SAM (INAMI), autorización judicial de salida y prevención de sustracción."
 image:
   src: '/img/layer-family-law.jpg'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Permite iniciar un procedimiento de restitución internacional inmediata de menores ante la Secretaría de Relaciones Exteriores (SRE) y los juzgados de Oaxaca."
 ---
-
 ::BlogPost
 ---
 title: "Custodia Internacional y Permiso de Viaje en Oaxaca (2026): Guía La Haya"

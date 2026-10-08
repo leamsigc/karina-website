@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'Karina Orocio Cruz | Attorney at Law in Oaxaca de Juárez'
+title: "Karina Orocio Cruz | Attorney at Law Oaxaca"
 description: 'Karina Orocio Cruz - Attorney at Law specialized in property legal advice in Oaxaca. First consultation free. Phone: 951-615-30-10'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/karina-orocio-cruz.png'
   alt: 'Karina Orocio Cruz - Attorney at Law Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -28,7 +28,7 @@ ogImage:
   props:
     title: 'Karina Orocio Cruz | Attorney at Law Oaxaca'
     description: 'Attorney specialized in property legal advice in Oaxaca de Juárez.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/karina-orocio-cruz.png'
     headline: 'About Me'
 ---
 

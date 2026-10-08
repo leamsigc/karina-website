@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Reconocimiento de Paternidad y Prueba de ADN en Oaxaca (Guía Legal 2026)"
-description: "¿Necesitas exigir el reconocimiento de paternidad o pensión retroactiva en Oaxaca? Conoce el juicio de filiación, prueba pericial de ADN y presunción por negativa."
+title: "Paternidad y ADN en Oaxaca (Guía Legal 2026)"
+description: "¿Requieres reconocimiento de paternidad o pensión retroactiva en Oaxaca? Juicio de filiación, prueba pericial de ADN y presunción por negativa."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Reconocimiento de paternidad y prueba de ADN en Oaxaca guía legal'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Sí. Una vez declarada la paternidad mediante sentencia firme, la ley en Oaxaca permite reclamar alimentos no otorgados desde la fecha de nacimiento."
 ---
-
 ::BlogPost
 ---
 title: "Reconocimiento de Paternidad y Prueba de ADN en Oaxaca (Guía Legal 2026)"

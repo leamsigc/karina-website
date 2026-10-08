@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Official Number Procedure for María Gómez | Karina Orocio Cruz"
+title: "Official Number Procedure: María Gómez"
 description: "Success case: We managed to obtain the official number procedure in less than a month in any municipality of the state for our client María Gómez."
 type: case
 caseOverview:

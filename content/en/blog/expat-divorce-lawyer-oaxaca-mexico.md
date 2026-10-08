@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Expat Divorce Lawyer in Oaxaca Mexico (2026 Remote Guide)"
-description: "Need an expat divorce in Oaxaca, Mexico? Learn how to get divorced remotely via Mexican Consular Power of Attorney without traveling, asset division, and custody."
+title: "Expat Divorce Lawyer Oaxaca (2026 Guide)"
+description: "Need an expat divorce in Oaxaca, Mexico? Learn how to get divorced remotely via Mexican Consular Power of Attorney without traveling."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Expat divorce lawyer in Oaxaca Mexico remote legal guide'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Once the original Consular Power of Attorney arrives in Oaxaca, judicial proceedings take approximately 2 to 4 months."
 ---
-
 ::BlogPost
 ---
 title: "Expat Divorce Lawyer in Oaxaca Mexico (2026 Remote Guide)"

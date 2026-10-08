@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Abogada de Familia en Oaxaca 2025: Divorcio, Pensión Alimenticia y Custodia"
-description: "Abogada especialista en derecho familiar en Oaxaca: divorcio incausado en 1-3 meses, pensión alimenticia (15%-35%) y custodia de hijos. Atendemos residentes y extranjeros. Consulta gratis 951-615-3010."
+title: "Abogada de Familia Oaxaca 2025: Divorcio"
+description: "Abogada familiar en Oaxaca: divorcio incausado en 1-3 meses, pensión alimenticia y custodia de hijos. Atendemos a residentes y extranjeros."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Abogada de familia en Oaxaca divorcio custodia y pensión alimenticia'
@@ -69,7 +69,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Normalmente del 15% al 25% del sueldo neto por un hijo, 30% a 40% por dos hijos y hasta 50% por tres o más. En independientes se fija en salarios mínimos/UMA."
 ---
-
 ::BlogPost
 ---
 title: "Abogada de Familia en Oaxaca 2025: Divorcio, Pensión Alimenticia y Custodia"

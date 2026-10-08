@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Nullification of Excessive Property Tax Charges | Karina Orocio Cruz"
+title: "Nullification: Excessive Property Tax"
 description: "Success case: We achieved a 75% reduction in property tax for a commercial plaza in Ocotlán de Morelos through a nullification lawsuit."
 type: case
 caseOverview:

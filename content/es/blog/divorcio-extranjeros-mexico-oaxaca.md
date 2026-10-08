@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Divorcio para Extranjeros en México y Oaxaca (2026): Poder Consular y Trámites"
+title: "Divorcio Extranjeros en México/Oaxaca 2026"
 description: "¿Te casaste en Oaxaca o radicas en el extranjero? Guía 2026 para divorciarte sin viajar a México mediante Poder Consular, bienes binacionales y custodia."
 image:
   src: '/img/layer-family-law.jpg'

@@ -1,13 +1,12 @@
 ---
-title: "⚡ Guarda y Custodia Compartida en Oaxaca 2026: Patria Potestad y Juicios"
-description: "¿Buscas la custodia de tus hijos en Oaxaca? Guía legal 2026: Requisitos de custodia compartida, diferencia con patria potestad y cómo gana el padre. ¡Consulta hoy!"
+title: "Custodia Compartida en Oaxaca 2026"
+description: "¿Buscas la custodia de tus hijos en Oaxaca? Guía 2026: custodia compartida, patria potestad y representación legal familiar."
 date: "2026-09-16"
 tags: ["Guarda y Custodia Oaxaca", "Custodia Compartida", "Patria Potestad", "Derecho Familiar"]
 category: "Derecho Familiar"
 image: "/images/blog/custodia-oaxaca.jpg"
 author: "Abogada Karina Oaxaca"
 ---
-
 # Guarda y Custodia Compartida en Oaxaca: Guía Legal y Juicios de Convivencia (2026)
 
 En el **Código Civil para el Estado de Oaxaca**, la asignación de la **guarda y custodia** se determina atendiendo prioritariamente al **Interés Superior de la Niñez**, garantizando que el menor crezca en un ambiente seguro, estable y afectivo.

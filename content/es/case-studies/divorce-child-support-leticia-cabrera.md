@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Divorcio Incausado y Pensión Alimenticia para Leticia Cabrera | Karina Orocio Cruz"
+title: "Divorcio y Pensión: Caso Leticia Cabrera"
 description: "Caso de éxito: Resolución ágil de un divorcio con hijos menores en Oaxaca de Juárez, garantizando una pensión alimenticia justa y el bienestar de los menores."
 type: case
 caseOverview:

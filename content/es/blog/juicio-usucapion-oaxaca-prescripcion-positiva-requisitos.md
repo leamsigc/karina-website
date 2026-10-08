@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Usucapión Oaxaca 2025: Cómo Escriturar tu Terreno sin Título Legal"
-description: "Juicio de usucapión Oaxaca 2025: requisitos, tiempo (12-24 meses), costo y pruebas para prescripción positiva. Regulariza tu terreno sin escrituras en Xoxocotlán, Valles y costa. Consulta gratis 951-615-3010."
+title: "Usucapión Oaxaca 2025: Escriturar Terreno"
+description: "Juicio de usucapión Oaxaca 2026: requisitos, tiempo (12-24 meses), costo y pruebas para prescripción positiva. Regulariza tu propiedad."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Juicio de usucapión en Oaxaca - requisitos de prescripción positiva para obtener escrituras'
@@ -84,7 +84,6 @@ schemaOrg:
           "@type": "Answer"
           text: "No. Ejido/comunal requiere procedimiento agrario ante el Tribunal Unitario Agrario (TUA), no usucapión civil. Si tu terreno es ejidal con certificado parcelario, vemos regularización agraria; si es pequeña propiedad privada, sí es usucapión."
 ---
-
 ::BlogPost
 ---
 title: "Usucapión Oaxaca 2025: Cómo Escriturar tu Terreno sin Título Legal"

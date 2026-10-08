@@ -1,6 +1,6 @@
 ---
 layout: services-layout
-title: "Practice Areas | Karina Orocio Cruz - Legal Services Oaxaca"
+title: "Practice Areas | Legal Services Oaxaca"
 description: "Specialized legal services in Oaxaca: Property tax reduction, civil, family, and administrative law. Strategic litigation and results."
 tags:
   - legal services oaxaca

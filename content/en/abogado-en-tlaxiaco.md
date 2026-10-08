@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Tlaxiaco: Divorce, Probate & Property Tax | Karina Orocio"
+title: "Lawyer in Tlaxiaco: Divorce & Probate"
 description: "Lawyer in Tlaxiaco: divorce, probate and property tax. Mixteca. Free consult 951 615 3010."
 keywords: "lawyer tlaxiaco, legal services mixteca, adverse possession oaxaca, Karina Orocio Cruz"
 image:
@@ -87,6 +87,11 @@ You need the original certificate with the error, your official ID, your childre
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

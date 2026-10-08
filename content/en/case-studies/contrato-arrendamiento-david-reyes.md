@@ -1,7 +1,7 @@
 ---
 layout: case-studies
-title: "Lease Contract Preparation for David Reyes | Karina Orocio Cruz"
-description: "Success case: I have several apartments, but more and more they asked me for a lease contract, I didn't know what to do, but after expressing my doubts, Lic Elisa prepared a contract according to my needs."
+title: "Lease Contract: David Reyes"
+description: "Success case: Custom residential lease contract created for a landlord in Oaxaca by attorney Karina Orocio Cruz."
 type: case
 caseOverview:
   client: "David Reyes"
@@ -43,7 +43,6 @@ head:
     - name: 'description'
       content: 'Success case: Custom-made lease contract preparation.'
 ---
-
 ::CaseStudyDetailHero
 ---
 title: "Lease Contract Preparation"

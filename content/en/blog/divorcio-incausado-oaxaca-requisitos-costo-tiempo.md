@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "No-Fault Divorce in Oaxaca: Requirements, Cost & Timeline (2026 Guide)"
+title: "No-Fault Divorce Oaxaca: Costs & Timeline"
 description: "Need a fast divorce? No-fault express divorce in Oaxaca takes 1 to 3 months. Discover updated 2026 requirements, real costs, and timeline."
 image:
   src: '/img/layer-family-law.jpg'

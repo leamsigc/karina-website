@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Embargo de Sueldo por Pensión Alimenticia en Oaxaca (2026): Guía Legal y Retenciones"
-description: "¿No te pagan la pensión o sufres un embargo desproporcionado en Oaxaca? Aprende sobre la orden judicial por nómina, aguinaldo, AFORE, sanciones y defensa legal. Consulta gratis."
+title: "Embargo por Pensión en Oaxaca"
+description: "¿Sufres embargo desproporcionado o no pagan pensión en Oaxaca? Conoce sobre retención de sueldo por nómina y defensa legal."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Embargo de sueldo por pensión alimenticia en Oaxaca - retención por nómina y deudores'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Conforme a los criterios recientes de la SCJN, ante la falta de otros bienes o ingresos, el juez puede autorizar el embargo sobre los fondos de la subcuenta de retiro o ahorro de la AFORE."
 ---
-
 ::BlogPost
 ---
 title: "Embargo de Sueldo por Pensión Alimenticia en Oaxaca (2026): Guía Legal y Retenciones"

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'Preguntas Frecuentes - Karina Orocio Cruz Abogada Postulante Oaxaca'
+title: "FAQ - Abogada Oaxaca | Karina Orocio Cruz"
 description: 'Preguntas frecuentes sobre asesoría legal patrimonial en Oaxaca. Información sobre reducción de predial, avalúos catastrales y más.'
 image:
-  src: '/img/MendozaRoofingShallotte.png'
+  src: '/img/karina-hero.png'
   alt: 'FAQ - Karina Orocio Cruz Abogada Oaxaca'
 date: '2026-02-19'
 publishedAt: '2026-02-19'
@@ -21,7 +21,7 @@ ogImage:
   props:
     title: 'Preguntas Frecuentes'
     description: 'Preguntas frecuentes sobre asesoría legal patrimonial en Oaxaca.'
-    image: '/img/MendozaRoofingShallotte.png'
+    image: '/img/karina-hero.png'
     headline: 'FAQ'
 schemaOrg:
   - "@type": "FAQPage"

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Traffic Fines in Oaxaca? Learn How to Legally Challenge Them"
+title: "Traffic Fines in Oaxaca: How to Challenge"
 description: "Practical guide on your rights regarding traffic violations in the Municipality of Oaxaca de Juárez and the legal grounds for their annulment."
 featured: true
 tags:

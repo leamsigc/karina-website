@@ -1,6 +1,6 @@
 ---
 layout: case-studies
-title: "Nulidad de Cobros Prediales Excesivos | Karina Orocio Cruz"
+title: "Nulidad de Cobros Prediales Excesivos"
 description: "Caso de éxito: Logramos una reducción del 75% en el impuesto predial de una plaza comercial en Ocotlán de Morelos mediante juicio de nulidad."
 type: case
 caseOverview:

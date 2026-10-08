@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Oaxaca de Juárez: Divorcio, Predial y Sucesorio | Karina Orocio"
+title: "Abogado en Oaxaca de Juárez: Divorcio"
 description: "Abogado en Oaxaca de Juárez: divorcio incausado 1-3 meses, reducción predial 60% y juicios sucesorios. Centro Histórico y Valles. Consulta gratis 951 615 3010."
 keywords: "abogado en oaxaca de juarez, abiertada oaxaca de juarez, escritorio juridico oaxaca, servicios legales oaxaca, reduccion predial oaxaca, divorcio oaxaca, juicio sucesorio oaxaca"
 image:
@@ -152,6 +152,11 @@ El negocio operó sin interrupción durante todo el proceso y recuperó su reput
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
 ::
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

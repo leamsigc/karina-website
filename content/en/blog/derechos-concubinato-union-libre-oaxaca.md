@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Common-Law Marriage Rights in Oaxaca (2026 Concubinato & Alimony Guide)"
-description: "Living in a common-law relationship in Oaxaca? Understand concubinato legal rights: alimony, inheritance, shared assets, official certificates, and 2026 lawsuits."
+title: "Common-Law Marriage Oaxaca (2026 Guide)"
+description: "Living in a common-law relationship in Oaxaca? Understand concubinato rights: alimony, inheritance, shared assets, and official certificates."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Common law marriage rights and concubinato in Oaxaca Mexico alimony and certificate'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "It is petitioned via voluntary jurisdiction before a Family Court Judge or directly at the Oaxaca Civil Registry presenting witnesses and official documents."
 ---
-
 ::BlogPost
 ---
 title: "Common-Law Marriage Rights in Oaxaca (2026 Concubinato & Alimony Guide)"

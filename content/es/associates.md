@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Nuestro Equipo | Karina Orocio Cruz - Despacho Jurídico Oaxaca"
-description: "Conoce a los socios principales de Orocio y Asociados: Karina Orocio Cruz, Noé Sánchez López y Miranda Inés López Verdugo. Abogados comprometidos con la defensa de tus derechos en Oaxaca."
+title: "Nuestro Equipo | Despacho Jurídico Oaxaca"
+description: "Conoce a los abogados de Orocio y Asociados en Oaxaca: Karina Orocio, Noé Sánchez y Miranda López. Compromiso con tus derechos."
 keywords: "equipo de abogados, abogados oaxaca, Karina Orocio Cruz, Noé Sánchez López, Miranda Inés López Verdugo, despacho jurídico oaxaca"
 image: "/img/karina-orocio-cruz.png"
 author:
@@ -29,7 +29,6 @@ head:
     - name: 'description'
       content: 'Conoce a los socios principales de Orocio y Asociados en Oaxaca.'
 ---
-
 ::PageHero
 ---
 title: Nuestro Equipo

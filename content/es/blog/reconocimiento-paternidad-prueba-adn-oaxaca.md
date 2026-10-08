@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Reconocimiento de Paternidad y Prueba de ADN en Oaxaca (2026): Guía Legal"
-description: "¿Padre ausente o duda de filiación en Oaxaca? Guía 2026 sobre el juicio de paternidad, prueba de ADN pericial, presunción legal por negativa y pensión retroactiva."
+title: "Paternidad y ADN en Oaxaca (2026): Guía"
+description: "Guía sobre el juicio de paternidad en Oaxaca, prueba pericial de ADN, presunción legal por negativa y pensión alimenticia retroactiva."
 image:
   src: '/img/layer-family-law.jpg'
   alt: 'Reconocimiento de paternidad y prueba de ADN en Oaxaca - juicio y demanda retroactiva'
@@ -74,7 +74,6 @@ schemaOrg:
           "@type": "Answer"
           text: "Un juicio ordinario de filiación con peritaje genético oficial toma en promedio de 4 a 9 meses hasta la expedición de la nueva acta de nacimiento."
 ---
-
 ::BlogPost
 ---
 title: "Reconocimiento de Paternidad y Prueba de ADN en Oaxaca (2026): Guía Legal"

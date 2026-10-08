@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Commercial Law in Oaxaca | Karina Orocio Cruz"
+title: "Commercial & Business Law"
 description: "Specialized commercial legal services in Oaxaca: Executive Commercial Trial, debt recovery, promissory notes, and legal defense against banking abuses."
 tags:
   - commercial law oaxaca
@@ -37,7 +37,6 @@ head:
     - name: 'description'
       content: 'Specialized commercial legal services in Oaxaca: debt recovery and litigation.'
 ---
-
 ::ServiceDetailHero
 ---
 title: "Commercial Law"

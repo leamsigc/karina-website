@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Zimatlán: Divorce, Custody & Property Tax | Karina Orocio"
+title: "Lawyer in Zimatlán: Divorce & Property Tax"
 description: "Lawyer in Zimatlán: divorce, custody and property tax. Valles. Free consult 951 615 3010."
 keywords: "lawyer in zimatlan, valles centrales legal services, agricultural land regularization, textile producer attorney, law firm zimatlan, family law oaxaca"
 image:
@@ -135,6 +135,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Free initial consultation. We are here to serve you.
 
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

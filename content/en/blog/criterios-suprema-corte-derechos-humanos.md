@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "What happens when the UN identifies a Human Rights violation in Mexico?"
+title: "UN & Human Rights Violations in Mexico"
 description: "Analysis of the latest SCJN criteria on the mandatory nature of UN recommendations and its impact on the Mexican justice system."
 featured: true
 tags:

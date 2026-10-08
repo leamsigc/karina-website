@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Abogado en Zimatlán: Divorcio, Custodia y Predial | Karina Orocio"
+title: "Abogado en Zimatlán: Divorcio y Predial"
 description: "Abogado en Zimatlán: divorcio, custodia y reducción de predial. Valles Centrales. Consulta gratis 951 615 3010."
 keywords: "abogado en zimatlan, servicios legales valles centrales, regularizacion tierras agricolas, abogado productores textiles, despacho juridico zimatlan, derecho familiar oaxaca"
 image:
@@ -134,6 +134,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Primera consulta gratuita. Estamos para servirle.
 
 ::
+
+## Servicios legales relacionados
+- [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
+- [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
+- [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---

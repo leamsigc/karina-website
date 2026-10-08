@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Miahuatlán: Divorce, Custody & Land Title | Karina Orocio"
+title: "Lawyer in Miahuatlán: Divorce & Custody"
 description: "Lawyer in Miahuatlán: divorce, custody and land regularization. Sierra Sur. Free consult 951 615 3010."
 keywords: "lawyer in miahuatlan, sierra sur legal services, mezcal land regularization, coffee producer attorney, law firm miahuatlan, rural law oaxaca"
 image:
@@ -135,6 +135,11 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 Free initial consultation. We evaluate your case with personalized attention.
 
 ::
+
+## Related legal services
+- [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
+- [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
+- [Defense against excessive property tax](/en/services/derecho-municipal-oaxaca)
 
 ::ServiceCta
 ---
