@@ -128,3 +128,6 @@ Protect your capital and ensure seamless property transactions in Mexico. We pro
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

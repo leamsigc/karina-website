@@ -126,3 +126,6 @@ Asegura la protección jurídica y patrimonial de tu familia.
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*

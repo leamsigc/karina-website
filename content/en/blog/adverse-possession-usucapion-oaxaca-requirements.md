@@ -139,3 +139,6 @@ Oaxaca Centro, Valles, Coast (specialty), Mixteca, Istmo. US clients via apostil
 > WhatsApp 951-615-3010 — send "USUCAPION + location".
 
 ::
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

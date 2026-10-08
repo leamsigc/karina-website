@@ -76,6 +76,15 @@ subtitle: Abogada Postulante en Oaxaca de Juárez — Especialista en Asesoría 
     <li><strong>Ubicación en Oaxaca de Juárez</strong> — Atención local y conocimiento de la zona</li>
   </ul>
 
+  <h2 class="text-3xl font-display font-black text-dark   mt-16 mb-8">Credenciales Profesionales</h2>
+
+  <ul class="mb-8 ">
+    <li><strong>Abogada postulante en ejercicio</strong> — Litigio ante los Juzgados Civiles y Familiares del Distrito Judicial del Centro y el Tribunal Superior de Justicia del Estado de Oaxaca</li>
+    <li><strong>Más de 10 años de experiencia</strong> — Derecho familiar, civil, mercantil y administrativo</li>
+    <li><strong>Firma fundada en 2021</strong> — Despacho boutique en Oaxaca de Juárez, Oaxaca</li>
+    <li><strong>Atención bilingüe</strong> — Asesoría en español e inglés, incluyendo clientes extranjeros y connacionales en el exterior</li>
+  </ul>
+
   <h2 class="text-3xl font-display font-black text-dark   mt-16 mb-8">Zona de Atención</h2>
 
   <p class="mb-6 ">

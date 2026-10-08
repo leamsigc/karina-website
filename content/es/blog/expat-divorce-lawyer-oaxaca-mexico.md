@@ -121,3 +121,6 @@ Evita traslados innecesarios y costos excesivos. Brindamos asesoría bilingüe c
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*

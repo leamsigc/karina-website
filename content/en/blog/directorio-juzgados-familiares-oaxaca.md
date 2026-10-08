@@ -78,3 +78,6 @@ For individuals residing in Oaxaca City, Xoxocotlán, Santa Lucía, and surround
 
 📞 **Direct Contact**: [+52 951 615 3010](https://wa.me/529516153010)  
 💬 **WhatsApp Consultation Available**
+
+---
+*Related service: [Family law: divorce, support & custody](/en/services/derecho-familiar-oaxaca) · [Schedule a free consultation](/en/contact)*

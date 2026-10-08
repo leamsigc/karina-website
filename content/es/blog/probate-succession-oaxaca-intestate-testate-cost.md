@@ -105,3 +105,6 @@ El **juicio sucesorio intestamentario** (sin testamento) reconoce legalmente a l
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

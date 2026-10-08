@@ -60,3 +60,6 @@ Protect your parental rights and secure a bright future for your children. Our f
 
 📲 **WhatsApp / Direct Line:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
+
+---
+*Related service: [Family law: divorce, support & custody](/en/services/derecho-familiar-oaxaca) · [Schedule a free consultation](/en/contact)*

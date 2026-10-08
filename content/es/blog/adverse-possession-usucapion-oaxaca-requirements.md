@@ -124,3 +124,6 @@ Protege la plusvalía y certeza legal de tu propiedad en Oaxaca.
 📍 Atendemos casos en Oaxaca de Juárez, Valles Centrales, Istmo y la Costa.
 
 ::
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

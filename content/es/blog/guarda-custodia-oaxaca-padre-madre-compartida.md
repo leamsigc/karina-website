@@ -59,3 +59,6 @@ Protege la relación con tus hijos y asegura un entorno de desarrollo óptimo. N
 
 📲 **WhatsApp / Teléfono Directo:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
+
+---
+*Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*

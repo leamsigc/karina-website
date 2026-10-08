@@ -128,3 +128,6 @@ Secure peace of mind for your loved ones and safeguard your Mexican properties. 
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

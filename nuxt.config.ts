@@ -40,6 +40,8 @@ export default defineNuxtConfig({
         '/en/blog/divorce-incausado-oaxaca-requirements-cost-time',
         '/en/blog/family-lawyer-oaxaca-divorce-custody-expats',
         '/en/blog/probate-succession-oaxaca-intestate-testate-cost',
+        '/services/cuanto-cuesta-divorcio-oaxaca',
+        '/en/services/divorce-cost-oaxaca',
       ]
     }
   },

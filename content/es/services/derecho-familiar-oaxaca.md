@@ -88,7 +88,7 @@ benefits:
 
 Los conflictos familiares son de los más difíciles que enfrentará en su vida. Afectan sus emociones, su economía, su vivienda y —lo más importante— el bienestar de sus hijos. Contar con un **abogado de familia en Oaxaca** con experiencia real ante los Juzgados Familiares del Centro y el Tribunal Superior de Justicia del Estado de Oaxaca puede determinar si usted logra un acuerdo digno o si pierde derechos que le corresponden.
 
-En el despacho de **Karina Orocio Cruz**, abordamos cada caso familiar con la discreción, el tacto y la determinación que la situación exige. Entendemos la realidad oaxaqueña: familias extensas, bienes sin escrituras, parejas en unión libre de décadas, y la complejidad de las comunidades bilingües del estado.
+En el despacho de **Karina Orocio Cruz**, abordamos cada caso familiar con la discreción, el tacto y la determinación que la situación exige. Entendemos la realidad oaxaqueña: familias extensas, bienes sin escrituras, parejas en unión libre de décadas, y la complejidad de las comunidades bilingües del estado. Si busca una visión general de cada materia, consulte a nuestros [abogados de lo familiar en Oaxaca](/abogados-de-lo-familiar-oaxaca).
 
 ---
 

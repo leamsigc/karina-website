@@ -115,3 +115,6 @@ Un testamento evita que tus herederos enfrenten un costoso y largo **Juicio Suce
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

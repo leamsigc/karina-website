@@ -76,6 +76,15 @@ subtitle: Attorney at Law in Oaxaca de Juárez — Property Legal Advice Special
     <li><strong>Based in Oaxaca de Juárez</strong> — Local expertise and direct presence in regional courts.</li>
   </ul>
 
+  <h2 class="text-3xl font-display font-black  mt-16 mb-8">Professional Credentials</h2>
+
+  <ul class="mb-8 ">
+    <li><strong>Practicing attorney (Abogada Postulante)</strong> — Litigation before the Civil and Family Courts of the Judicial District of Centro and the Superior Court of Justice of the State of Oaxaca</li>
+    <li><strong>10+ years of experience</strong> — Family, civil, commercial and administrative law</li>
+    <li><strong>Firm founded in 2021</strong> — Boutique law practice in Oaxaca de Juárez, Oaxaca</li>
+    <li><strong>Bilingual counsel</strong> — Services in Spanish and English, including foreign nationals and Mexicans living abroad</li>
+  </ul>
+
   <h2 class="text-3xl font-display font-black  mt-16 mb-8">Service Areas</h2>
 
   <p class="mb-6 ">

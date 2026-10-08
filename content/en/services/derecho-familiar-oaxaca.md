@@ -82,7 +82,7 @@ benefits:
 
 Family conflicts are among the most difficult experiences you will face. They affect your emotions, your economy, your home, and —most importantly— the well-being of your children. Having a **Family Lawyer in Oaxaca** with real experience before the local Family Courts can determine whether you achieve a dignified agreement or lose rights that belong to you.
 
-At the law firm of **Karina Orocio Cruz**, we approach every family case with the discretion and determination required. We understand the specific reality of Oaxaca: binational families, properties without deeds in the marital estate, and the complexity of local regulations.
+At the law firm of **Karina Orocio Cruz**, we approach every family case with the discretion and determination required. We understand the specific reality of Oaxaca: binational families, properties without deeds in the marital estate, and the complexity of local regulations. For an overview of each practice area, see our [family lawyers in Oaxaca](/en/abogados-de-lo-familiar-oaxaca).
 
 ---
 

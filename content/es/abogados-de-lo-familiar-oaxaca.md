@@ -44,7 +44,7 @@ head:
 
 # Abogados de lo Familiar en Oaxaca: Asesoría Legal Integral para tu Familia
 
-Los conflictos del ámbito familiar requieren no solo firmeza jurídica ante los juzgados, sino también sensibilidad, ética y rapidez. Si buscas **abogados de lo familiar en Oaxaca**, la **Licenciada Karina Orocio Cruz** y su equipo de especialistas te brindan una representación legal rigurosa para defender los derechos de tus hijos, tu patrimonio y tu tranquilidad.
+Los conflictos del ámbito familiar requieren no solo firmeza jurídica ante los juzgados, sino también sensibilidad, ética y rapidez. Si buscas **abogados de lo familiar en Oaxaca**, la **Licenciada Karina Orocio Cruz** y su equipo de especialistas te brindan una representación legal rigurosa para defender los derechos de tus hijos, tu patrimonio y tu tranquilidad. Conozca en detalle nuestro [servicio de derecho familiar](/services/derecho-familiar-oaxaca), incluyendo [divorcio incausado](/abogado-de-divorcio-oaxaca).
 
 Atendemos litigios y trámites en materia familiar ante el **Tribunal Superior de Justicia del Estado de Oaxaca** y Juzgados de lo Familiar en Oaxaca de Juárez, Valles Centrales, Istmo, Costa y Mixteca.
 

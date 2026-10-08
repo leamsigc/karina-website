@@ -210,3 +210,6 @@ El plazo para reclamar herencia es 10 años, pero los pleitos, ventas irregulare
 🔗 Siguiente lectura: [Usucapión: escriturar sin título](/blog/juicio-usucapion-oaxaca-prescripcion-positiva-requisitos) · [Servicios Civil](/services/derecho-civil-oaxaca) · Caso: [Regularización costera](/case-studies/regularizacion-propiedad-costera)
 
 ::
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

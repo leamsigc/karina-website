@@ -117,3 +117,6 @@ Si la empresa ignora el oficio judicial o reporta ingresos falsos del trabajador
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Servicio relacionado: [Pensión alimenticia: cálculo y ejecución](/services/abogado-de-pension-alimenticia-oaxaca) · [Agendar consulta gratuita](/contact)*

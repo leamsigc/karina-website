@@ -136,3 +136,6 @@ Protect your family and financial rights. Our specialized family law team assist
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ::
+
+---
+*Related service: [Family law: divorce, support & custody](/en/services/derecho-familiar-oaxaca) · [Schedule a free consultation](/en/contact)*

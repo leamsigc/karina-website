@@ -78,3 +78,6 @@ La **Lic. Karina Orocio Cruz** litiga activamente ante los juzgados familiares y
 
 📞 **Contacto directo**: [+52 951 615 3010](https://wa.me/529516153010)  
 💬 **Atención inmediata por WhatsApp**
+
+---
+*Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*

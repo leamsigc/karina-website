@@ -145,3 +145,6 @@ If no deed: probate over possession, then usucapión.
 📱 **WhatsApp 951-615-3010** — send "PROBATE" today.
 
 ::
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

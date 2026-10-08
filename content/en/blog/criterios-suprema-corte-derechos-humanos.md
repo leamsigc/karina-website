@@ -70,3 +70,6 @@ Justice in Mexico is no longer limited to what our local or federal laws say. To
 At **Karina Orocio Cruz**, we analyze your case through the lens of the latest Supreme Court criteria to design the best legal protection strategy.
 
 ::
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

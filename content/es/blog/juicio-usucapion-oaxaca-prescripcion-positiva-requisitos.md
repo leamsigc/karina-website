@@ -224,3 +224,6 @@ Tu terreno no se escriturará solo. Cada año sin escritura es un año que otro 
 🔗 Siguiente lectura: [Regularización de propiedad costera (caso real)](/case-studies/regularizacion-propiedad-costera) · [Servicios Derecho Civil](/services/derecho-civil-oaxaca) · Próximamente: [Juicio sucesorio intestamentario](/blog/juicio-sucesorio-oaxaca-intestamentario-testamentario-costo)
 
 ::
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

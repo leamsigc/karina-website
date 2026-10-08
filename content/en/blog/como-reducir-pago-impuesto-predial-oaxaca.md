@@ -73,3 +73,6 @@ Your assets are the result of years of effort. Do not allow arbitrary municipal 
 We analyze your bill at no cost to determine if a nullity trial is viable. Protect your property with a professional legal strategy.
 
 ::
+
+---
+*Related service: [Defense against excessive fines & taxes](/en/services/derecho-municipal-oaxaca) · [Schedule a free consultation](/en/contact)*

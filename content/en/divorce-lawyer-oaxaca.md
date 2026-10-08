@@ -52,7 +52,7 @@ head:
 
 Navigating a divorce or family law dispute in a foreign country can be overwhelming, complex, and emotionally taxing. If you are an **expat, dual citizen, digital nomad, or international property owner in Oaxaca**, you need an **experienced, English-speaking divorce attorney** who thoroughly understands both the **Oaxaca Civil Code** and the unique legal realities facing international residents.
 
-At the Law Office of **Lic. Karina Orocio Cruz**, we specialize in representing clients in **no-fault divorce (*Divorcio Incausado*)**, child custody disputes, alimony/child support calculation, and international marital asset protection across Oaxaca City, Puerto Escondido, Huatulco, and surrounding municipalities.
+At the Law Office of **Lic. Karina Orocio Cruz**, we specialize in representing clients in **no-fault divorce (*Divorcio Incausado*)**, child custody disputes, alimony/child support calculation, and international marital asset protection across Oaxaca City, Puerto Escondido, Huatulco, and surrounding municipalities. Learn more about our [**family law services**](/en/services/derecho-familiar-oaxaca) and our [family lawyers in Oaxaca](/en/abogados-de-lo-familiar-oaxaca).
 
 ---
 

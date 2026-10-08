@@ -50,7 +50,7 @@ head:
 
 # Abogado de Divorcio en Oaxaca: Trámite Rápido y Legalmente Seguro
 
-Si estás buscando un **abogado de divorcio en Oaxaca**, necesitas asesoría clara, pronta y con empatía humana. En el despacho de la **Lic. Karina Orocio Cruz**, somos especialistas en **Derecho Familiar** y tramitamos tu **divorcio incausado (divorcio exprés)** ante los Juzgados de lo Familiar del Estado de Oaxaca de forma ágil, transparente y con el mínimo desgaste emocional.
+Si estás buscando un **abogado de divorcio en Oaxaca**, necesitas asesoría clara, pronta y con empatía humana. En el despacho de la **Lic. Karina Orocio Cruz**, somos especialistas en [**Derecho Familiar**](/services/derecho-familiar-oaxaca) y tramitamos tu **divorcio incausado (divorcio exprés)** ante los Juzgados de lo Familiar del Estado de Oaxaca de forma ágil, transparente y con el mínimo desgaste emocional. Ver también: [abogados de lo familiar en Oaxaca](/abogados-de-lo-familiar-oaxaca).
 
 En el estado de Oaxaca, **ya no es necesario comprobar causas de divorcio ni contar con la aprobación de tu cónyuge**. La ley garantiza tu derecho al libre desarrollo de la personalidad, por lo que basta la voluntad de una de las partes para disolver el vínculo matrimonial en un periodo de **1 a 3 meses**.
 

@@ -82,3 +82,6 @@ If you require legal representation or advice regarding Oaxaca family law for do
 
 📞 **Direct Phone / WhatsApp**: [+52 951 615 3010](https://wa.me/529516153010)  
 📍 **Serving Oaxaca City, Puerto Escondido, Huatulco, and statewide.**
+
+---
+*Related service: [Family law: divorce, support & custody](/en/services/derecho-familiar-oaxaca) · [Schedule a free consultation](/en/contact)*

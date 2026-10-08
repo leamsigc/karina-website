@@ -63,3 +63,6 @@ Protege el bienestar financiero de tus hijos. Ofrecemos representación legal ri
 
 📲 **WhatsApp / Teléfono Directo:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
+
+---
+*Servicio relacionado: [Pensión alimenticia: cálculo y ejecución](/services/abogado-de-pension-alimenticia-oaxaca) · [Agendar consulta gratuita](/contact)*

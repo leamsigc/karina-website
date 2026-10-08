@@ -80,3 +80,6 @@ La **Lic. Karina Orocio Cruz** ayuda a familias y propietarios extranjeros a est
 
 📞 **Teléfono / WhatsApp**: [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Atención bilingüe para residentes y extranjeros en Oaxaca.**
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

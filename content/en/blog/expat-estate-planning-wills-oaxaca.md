@@ -80,3 +80,6 @@ Before incorporating property into your estate plan, verifying clear title is es
 
 📞 **Direct Line / WhatsApp**: [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Bilingual legal representation across Oaxaca, Puerto Escondido, and Huatulco.**
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

@@ -82,3 +82,6 @@ Garantiza el sustento y derecho económico de tus hijos con abogadas expertas en
 
 📲 **WhatsApp Directo:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
+
+---
+*Servicio relacionado: [Pensión alimenticia: cálculo y ejecución](/services/abogado-de-pension-alimenticia-oaxaca) · [Agendar consulta gratuita](/contact)*

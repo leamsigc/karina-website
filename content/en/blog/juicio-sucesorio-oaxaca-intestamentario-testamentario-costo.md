@@ -187,3 +187,6 @@ Statutory limitation periods allow up to 10 years to claim an inheritance, but p
 📍 Office located in Oaxaca de Juárez, providing remote representation across Mexico, USA, and Canada.
 
 ::
+
+---
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

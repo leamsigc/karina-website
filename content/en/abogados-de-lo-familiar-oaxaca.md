@@ -44,7 +44,7 @@ head:
 
 # Family Law Lawyers in Oaxaca: Comprehensive Legal Protection for Your Family
 
-Family legal matters demand not only strict courtroom legal precision, but also sensitivity, ethics, and quick action. If you are seeking **family law lawyers in Oaxaca**, **Attorney Karina Orocio Cruz** and her specialized team deliver rigorous legal representation to protect your children's rights, your family assets, and your peace of mind.
+Family legal matters demand not only strict courtroom legal precision, but also sensitivity, ethics, and quick action. If you are seeking **family law lawyers in Oaxaca**, **Attorney Karina Orocio Cruz** and her specialized team deliver rigorous legal representation to protect your children's rights, your family assets, and your peace of mind. Explore our [family law services](/en/services/derecho-familiar-oaxaca) in detail, including [no-fault divorce](/en/divorce-lawyer-oaxaca).
 
 We handle family law litigation and administrative procedures before the **Superior Court of Justice of the State of Oaxaca** and Family Courts across Oaxaca de Juárez, Valles Centrales, Istmo, Coast, and Mixteca regions.
 

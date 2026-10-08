@@ -82,3 +82,6 @@ Si requieres representación en un juicio familiar o interpretación de la norma
 
 📞 **Teléfono / WhatsApp**: [+52 951 615 3010](https://wa.me/529516153010)  
 📍 **Atención presencial y virtual en todo el Estado de Oaxaca.**
+
+---
+*Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*

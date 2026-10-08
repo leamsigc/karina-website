@@ -165,6 +165,37 @@ if (page.value) {
       defineWebSite()
     ])
   }
+  // E-E-A-T: Attorney identity on the about pages (no credential number
+  // published until Karina provides her cédula — the field is simply omitted).
+  if (normalizedSlug.value === '/about') {
+    useHead({
+      script: [
+        {
+          type: 'application/ld+json',
+          children: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Attorney',
+            'name': 'Karina Orocio Cruz',
+            'url': 'https://abogada-karina-oaxaca.com/about',
+            'image': 'https://abogada-karina-oaxaca.com/img/karina-orocio-cruz.png',
+            'telephone': '+529516153010',
+            'email': 'karina@abogada-karina-oaxaca.com',
+            'jobTitle': locale.value === 'es' ? 'Abogada Postulante' : 'Attorney at Law',
+            'foundingDate': '2021',
+            'address': {
+              '@type': 'PostalAddress',
+              'addressLocality': 'Oaxaca de Juárez',
+              'addressRegion': 'Oaxaca',
+              'postalCode': '68000',
+              'addressCountry': 'MX'
+            },
+            'knowsAbout': ['Derecho familiar', 'Divorcio incausado', 'Pensión alimenticia', 'Derecho civil', 'Usucapión', 'Derecho administrativo', 'Juicio de nulidad'],
+            'areaServed': { '@type': 'State', 'name': 'Oaxaca' }
+          })
+        }
+      ]
+    })
+  }
   if (page.value.faqs && Array.isArray(page.value.faqs) && page.value.faqs.length > 0) {
     useHead({
       script: [

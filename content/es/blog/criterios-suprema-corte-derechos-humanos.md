@@ -70,3 +70,6 @@ La justicia en México ya no se limita a lo que dicen nuestras leyes locales o f
 En **Karina Orocio Cruz**, analizamos tu caso bajo la lupa de los últimos criterios de la Suprema Corte para diseñar la mejor estrategia de protección legal.
 
 ::
+
+---
+*Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*
