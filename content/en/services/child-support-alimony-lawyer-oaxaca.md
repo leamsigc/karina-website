@@ -75,6 +75,13 @@ Mexican Family Law provides inter-state and international enforcement mechanisms
 
 ---
 
+## Child support guides
+
+- [Child support percentage in Oaxaca](/en/blog/child-support-percentage-oaxaca): how the court sets it, what changes it and guideline ranges.
+- [How to file for child support in Oaxaca](/en/blog/how-to-file-child-support-oaxaca): documents, steps and provisional support.
+
+---
+
 ## Schedule a Legal Consultation in Oaxaca
 
 Secure fair child support terms with experienced attorney **Lic. Karina Orocio Cruz**.

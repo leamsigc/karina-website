@@ -186,6 +186,8 @@ En **3 pagos** (30/40/30). Incluye hasta adjudicación; escrituración notarial 
 
 **¿Y si la casa no tiene escrituras?** La sucesión es sobre **derechos posesorios**. Luego haces **usucapión** para escriturar (ver guía). Podemos llevar ambos en paquete sucesorio + usucapión con descuento.
 
+La **escrituración y los trámites ante el Registro Civil** se coordinan con nuestra área de [gestoría notarial en Oaxaca](/services/gestoria-notarial-oaxaca), para que la adjudicación quede inscrita y lista para vender o heredar.
+
 ---
 
 ## Preguntas frecuentes
@@ -208,7 +210,7 @@ El plazo para reclamar herencia es 10 años, pero los pleitos, ventas irregulare
 
 📱 **WhatsApp 951-615-3010** — envía “SUCESORIO + acta defunción” y te digo si es intestado/testamentario y pasos.
 📍 Oaxaca de Juárez, virtual a todo Oaxaca y EEUU.
-🔗 Siguiente lectura: [Usucapión: escriturar sin título](/blog/juicio-usucapion-oaxaca-prescripcion-positiva-requisitos) · [Servicios Civil](/services/derecho-civil-oaxaca) · Caso: [Regularización costera](/case-studies/regularizacion-propiedad-costera)
+🔗 Siguiente lectura: [Usucapión: escriturar sin título](/blog/juicio-usucapion-oaxaca-prescripcion-positiva-requisitos) · [Servicios Civil](/services/derecho-civil-oaxaca) · [Servicio de juicio sucesorio](/services/juicio-sucesorio-oaxaca) · Caso: [Regularización costera](/case-studies/regularizacion-propiedad-costera)
 
 ::
 

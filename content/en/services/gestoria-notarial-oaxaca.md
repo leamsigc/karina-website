@@ -1,6 +1,6 @@
 ---
 layout: service-detail
-title: "Notarial Management Oaxaca"
+title: "Notary Services in Oaxaca"
 description: "Professional management of wills, contracts, certificates, and notary formalization services in Oaxaca de Juárez."
 tags:
   - notarial services oaxaca
@@ -39,7 +39,7 @@ head:
 ---
 ::ServiceDetailHero
 ---
-title: "Notarial Management & Formalization"
+title: "Notary Services in Oaxaca"
 subtitle: "Ensuring legal certainty for your most important documents in Oaxaca"
 image: "/img/karina-hero.png"
 ---

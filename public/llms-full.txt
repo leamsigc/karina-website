@@ -43,3 +43,15 @@ Karina Orocio Cruz represents clients across all major Judicial Districts of Oax
 - San Juan Bautista Tuxtepec (Papaloapan)
 - Salina Cruz & Juchitán de Zaragoza (Istmo)
 - Huajuapan de León (Mixteca)
+
+---
+
+## Direct-answer pages (2026)
+
+- **FAQ (26 questions, ES/EN)**: https://abogada-karina-oaxaca.com/faq · https://abogada-karina-oaxaca.com/en/faq
+- **Child support percentage in Oaxaca**: https://abogada-karina-oaxaca.com/blog/porcentaje-pension-alimenticia-oaxaca · https://abogada-karina-oaxaca.com/en/blog/child-support-percentage-oaxaca — no fixed statutory percentage; proportionality and guideline ranges (15–25% for one child, caps near 50–60% of net income).
+- **How to file for child support**: https://abogada-karina-oaxaca.com/blog/como-demandar-pension-alimenticia-oaxaca · https://abogada-karina-oaxaca.com/en/blog/how-to-file-child-support-oaxaca — documents, provisional support, evidence and enforcement.
+- **Probate service**: https://abogada-karina-oaxaca.com/services/juicio-sucesorio-oaxaca · https://abogada-karina-oaxaca.com/en/services/probate-oaxaca — intestate and testate succession, stages, 6–12 months uncontested, guideline fees.
+- **Commercial debt collection**: https://abogada-karina-oaxaca.com/services/cobranza-mercantil-oaxaca · https://abogada-karina-oaxaca.com/en/services/debt-collection-oaxaca — promissory notes, invoices, demand letter, executive lawsuit, attachment.
+
+All pages are Spanish/English pairs with reciprocal hreflang. Legal sources: Código Familiar, Código Civil and Código de Procedimientos Civiles del Estado de Oaxaca (Congress of Oaxaca, Aug 2026 amendments).

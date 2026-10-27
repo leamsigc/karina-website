@@ -65,7 +65,7 @@ Ensure your children receive full legal financial protection. Contact our experi
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ---
-*Related service: [Child support: calculation & enforcement](/en/services/child-support-alimony-lawyer-oaxaca) · [Schedule a free consultation](/en/contact)*
+*Related service: [Child support: calculation & enforcement](/en/services/child-support-alimony-lawyer-oaxaca) · [Child support percentage](/en/blog/child-support-percentage-oaxaca) · [How to file](/en/blog/how-to-file-child-support-oaxaca) · [Schedule a free consultation](/en/contact)*
 
 
 ---

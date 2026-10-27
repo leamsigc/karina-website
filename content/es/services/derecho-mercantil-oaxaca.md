@@ -143,6 +143,12 @@ Prevenimos litigios mediante la estructuración legal de sus negocios:
 
 ---
 
+## Cobranza mercantil
+
+Si su caso es cobro de pagarés, facturas, cheques o cartera vencida, revise la página especializada de [cobranza mercantil en Oaxaca](/services/cobranza-mercantil-oaxaca): requerimiento, juicio ejecutivo y embargo precautorio.
+
+---
+
 ## Preguntas Frecuentes sobre Derecho Mercantil en Oaxaca
 
 **¿Cuánto tiempo tengo para cobrar un pagaré vencido en Oaxaca?**

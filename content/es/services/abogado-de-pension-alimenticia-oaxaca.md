@@ -79,6 +79,13 @@ Hasta la mayoría de edad (18 años), o hasta concluir estudios profesionales o 
 
 ---
 
+## Guías sobre pensión alimenticia
+
+- [Porcentaje de pensión alimenticia en Oaxaca](/blog/porcentaje-pension-alimenticia-oaxaca): cómo se fija, factores y tablas orientativas.
+- [Cómo demandar por pensión alimenticia en Oaxaca](/blog/como-demandar-pension-alimenticia-oaxaca): documentos, pasos y pensión provisional.
+
+---
+
 ## Agenda tu Consulta Legal en Oaxaca
 
 Protege los derechos económicos de tus hijos con la asesoría de la **Lic. Karina Orocio Cruz**.

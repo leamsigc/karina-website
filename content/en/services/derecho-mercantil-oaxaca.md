@@ -99,6 +99,12 @@ Banks often engage in abusive practices. We defend you in cases of:
 
 ---
 
+## Commercial debt collection
+
+If your matter is collecting promissory notes, invoices, cheques or overdue receivables, see our dedicated [commercial debt collection service in Oaxaca](/en/services/debt-collection-oaxaca): demand letter, executive lawsuit and precautionary attachment.
+
+---
+
 ## Frequently Asked Questions
 
 **How long do I have to collect a promissory note in Oaxaca?**

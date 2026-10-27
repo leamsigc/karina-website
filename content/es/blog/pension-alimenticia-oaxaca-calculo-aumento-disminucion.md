@@ -65,7 +65,7 @@ Protege el bienestar financiero de tus hijos. Ofrecemos representación legal ri
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
 ---
-*Servicio relacionado: [Pensión alimenticia: cálculo y ejecución](/services/abogado-de-pension-alimenticia-oaxaca) · [Agendar consulta gratuita](/contact)*
+*Servicio relacionado: [Pensión alimenticia: cálculo y ejecución](/services/abogado-de-pension-alimenticia-oaxaca) · [Porcentaje de pensión](/blog/porcentaje-pension-alimenticia-oaxaca) · [Cómo demandar pensión](/blog/como-demandar-pension-alimenticia-oaxaca) · [Agendar consulta gratuita](/contact)*
 
 
 ---

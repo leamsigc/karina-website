@@ -102,6 +102,16 @@ Since the reform of the Civil Code of Oaxaca, **no-fault divorce** allows for th
 - Increases or reductions in support based on changing circumstances.
 - Forced execution when the debtor fails to pay (seizure of salary/accounts).
 
+#### How to file for child support in Oaxaca
+
+1. **Evidence of need and relationship:** birth certificate (or proof of *concubinato*), the child's expenses, and documentation of the debtor's economic situation.
+2. **Filing before the Family Court:** the claim requests both the final support order and a **provisional support order** in the same filing.
+3. **Provisional support:** the judge can set it within the first working days, so the child is not left without resources while the case proceeds.
+4. **Hearing and evidence:** income, the debtor's ability to pay, and the claimant's needs are proven.
+5. **Judgment and enforcement:** if payment stops, we request wage withholding, attachment of assets, or registration in the child-support debtors registry.
+
+When the debtor works informally or hides income, the court can set support from the proven standard of living, school expenses and documentary evidence. The full calculation and enforcement guide is [child support calculation in Oaxaca](/en/blog/child-support-alimony-oaxaca-calculation-increase).
+
 ### Guarding, Custody, and Visitation
 **Custody in Oaxaca** defines who provides the day-to-day care of the minor.
 - **Sole Custody**: One parent has guarding; the other has visitation rights.

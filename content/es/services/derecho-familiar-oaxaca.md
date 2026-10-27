@@ -118,6 +118,16 @@ La **pensión alimenticia en Oaxaca** es el derecho de hijos, cónyuge o concubi
 - Reducción de pensión cuando el deudor acredita imposibilidad económica real.
 - Ejecución forzosa cuando el deudor no paga (embargo de salario, retención de cuentas).
 
+#### ¿Cómo demandar por pensión alimenticia en Oaxaca?
+
+1. **Prueba de la necesidad y del parentesco:** acta de nacimiento (o constancia de concubinato), comprobantes de gastos del menor y documentación de la situación económica del deudor.
+2. **Demanda ante el Juzgado de lo Familiar:** se solicita la fijación de la pensión y, desde el mismo escrito, una **pensión provisional**.
+3. **Pensión provisional:** el juez puede fijarla en los primeros días hábiles mientras se resuelve el fondo, para que el menor no quede sin recursos.
+4. **Audiencia y pruebas:** se acreditan ingresos, capacidad económica del deudor y necesidades del acreedor alimentario.
+5. **Sentencia y ejecución:** si no paga, se solicita el descuento vía nómina, el embargo de bienes o la inscripción en el registro de deudores alimentarios.
+
+Si el deudor es trabajador informal o no declara ingresos, el juzgado puede fijar la pensión con base en el nivel de vida acreditado, gastos escolares y pruebas documentales. La guía completa de cálculo, aumento y defensa está en [cómo se calcula la pensión alimenticia en Oaxaca](/blog/pension-alimenticia-oaxaca-calculo-aumento-disminucion).
+
 ### Guarda, Custodia y Régimen de Visitas en Oaxaca
 
 La **guarda y custodia en Oaxaca** define quién ejerce el cuidado diario del menor. Existen dos modalidades:

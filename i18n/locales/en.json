@@ -27,6 +27,9 @@
             "subtitle": "Specialty",
             "description": "Our practice focuses on critical areas of law in Oaxaca, where precision and strategy determine case success.",
             "cta": "View all services",
+            "guide": {
+                "successions": "Guide: probate in Oaxaca"
+            },
             "services": {
                 "municipal": {
                     "title": "Municipal Law",
@@ -154,6 +157,18 @@
                     "title": "Notarial Services",
                     "excerpt": "Notary management, wills (Testamentos), powers of attorney, and contract formalization in Oaxaca.",
                     "image": "/img/layer-meeting.jpg"
+                },
+                {
+                    "slug": "probate-oaxaca",
+                    "title": "Probate",
+                    "excerpt": "Estate settlement and heir awards: intestate and testate succession, appraisals and notarial recording.",
+                    "image": "/img/layer-office-building.jpg"
+                },
+                {
+                    "slug": "debt-collection-oaxaca",
+                    "title": "Debt Collection",
+                    "excerpt": "Promissory notes, invoices and cheques: demand letter, executive lawsuit and precautionary attachment.",
+                    "image": "/img/layer-accounting.jpg"
                 }
             ]
         },

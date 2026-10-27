@@ -25,11 +25,15 @@ export const ES_TO_EN_CONTENT_PATHS: Record<string, string> = {
   '/blog/testamento-mexico-extranjeros-oaxaca': '/en/blog/expat-estate-planning-wills-oaxaca',
   '/blog/abogado-inmobiliario-gestoria-notarial-oaxaca': '/en/blog/real-estate-lawyer-notary-services-oaxaca-mexico',
   '/blog/embargo-pension-alimenticia-oaxaca': '/en/blog/wage-garnishment-child-support-oaxaca',
+  '/blog/porcentaje-pension-alimenticia-oaxaca': '/en/blog/child-support-percentage-oaxaca',
+  '/blog/como-demandar-pension-alimenticia-oaxaca': '/en/blog/how-to-file-child-support-oaxaca',
 
   // Services
   '/services/abogado-de-pension-alimenticia-oaxaca': '/en/services/child-support-alimony-lawyer-oaxaca',
   '/services/derecho-municipal-oaxaca': '/en/services/municipal-law-oaxaca',
   '/services/cuanto-cuesta-divorcio-oaxaca': '/en/services/divorce-cost-oaxaca',
+  '/services/juicio-sucesorio-oaxaca': '/en/services/probate-oaxaca',
+  '/services/cobranza-mercantil-oaxaca': '/en/services/debt-collection-oaxaca',
 
   // Landing pages
   '/abogado-de-divorcio-oaxaca': '/en/divorce-lawyer-oaxaca',

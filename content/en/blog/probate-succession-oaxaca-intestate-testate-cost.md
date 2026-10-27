@@ -127,7 +127,7 @@ No unanimity needed — notified heirs in default, case continues.
 
 In 3 payments. Notary 1.5-3% separate.
 
-If no deed: probate over possession, then usucapión.
+**No deed for the property?** Probate covers **possessory rights**; usucapión (*adverse possession*) is then needed to register title, and both can run as a package. Deeding and Civil Registry filings are coordinated with our [notarial services in Oaxaca](/en/services/gestoria-notarial-oaxaca), so the award is recorded and ready to sell or inherit.
 
 ---
 
@@ -148,7 +148,7 @@ If no deed: probate over possession, then usucapión.
 ::
 
 ---
-*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*
+*Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Probate service in Oaxaca](/en/services/probate-oaxaca) · [Schedule a free consultation](/en/contact)*
 
 
 ---

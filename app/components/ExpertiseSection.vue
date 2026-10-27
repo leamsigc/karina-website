@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const { t } = useI18n()
+const { t, locale } = useI18n()
 
 interface Props {
   showAll?: boolean;
@@ -9,9 +9,15 @@ withDefaults(defineProps<Props>(), {
   showAll: false
 })
 
+// `contentPathForLocale` resolves the mapped pair (the EN slug is different),
+// so the guide link works in both locales.
+const successionGuide = computed(() =>
+  contentPathForLocale('/blog/juicio-sucesorio-oaxaca-intestamentario-testamentario-costo', locale.value === 'en' ? 'en' : 'es')
+)
+
 const services = computed(() => [
   { key: 'mercantil', link: '/services/derecho-mercantil-oaxaca' },
-  { key: 'civil', link: '/services/derecho-civil-oaxaca' },
+  { key: 'civil', link: '/services/derecho-civil-oaxaca', guide: successionGuide.value },
   { key: 'familiar', link: '/services/derecho-familiar-oaxaca' },
   { key: 'administrativo', link: '/services/derecho-administrativo-oaxaca' },
   { key: 'municipal', link: '/services/derecho-municipal-oaxaca' }
@@ -51,6 +57,11 @@ to="/services"
               class="text-xs tracking-widest uppercase font-medium text-gold opacity-50 group-hover:opacity-100 transition-opacity">
               {{ t('common.read_more') }} →
             </NuxtLinkLocale>
+            <NuxtLink
+v-if="service.guide" :to="service.guide"
+              class="mt-3 block text-xs tracking-widest uppercase font-medium text-cream-dark hover:text-gold transition-colors">
+              {{ t('home.expertise.guide.successions') }} →
+            </NuxtLink>
           </div>
         </div>
       </div>

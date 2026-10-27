@@ -27,6 +27,9 @@
             "subtitle": "Especialidad",
             "description": "Nuestra práctica se centra en áreas críticas del derecho en Oaxaca, donde la precisión y la estrategia determinan el éxito del caso.",
             "cta": "Ver todos los servicios",
+            "guide": {
+                "successions": "Guía: juicio sucesorio"
+            },
             "services": {
                 "municipal": {
                     "title": "Derecho Municipal",
@@ -154,6 +157,18 @@
                     "title": "Gestoría Notarial",
                     "excerpt": "Asesoría y gestión en trámites notariales, testamentos, contratos y regularización de documentos ante el Registro Civil.",
                     "image": "/img/layer-meeting.jpg"
+                },
+                {
+                    "slug": "juicio-sucesorio-oaxaca",
+                    "title": "Juicio Sucesorio",
+                    "excerpt": "Herencias y adjudicación de bienes: sucesión intestamentaria y testamentaria, avalúos y escrituración notarial.",
+                    "image": "/img/layer-office-building.jpg"
+                },
+                {
+                    "slug": "cobranza-mercantil-oaxaca",
+                    "title": "Cobranza Mercantil",
+                    "excerpt": "Cobro de pagarés, facturas y cheques: requerimiento, juicio ejecutivo y embargo precautorio.",
+                    "image": "/img/layer-accounting.jpg"
                 }
             ]
         },

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Karina Orocio Cruz | Abogada en Oaxaca"
+title: "Abogado en Oaxaca | Divorcio y Familia"
 description: "Abogada en Oaxaca: divorcio incausado 1-3 meses, pensión alimenticia, usucapión y reducción de predial. Consulta gratis al 951-615-3010."
 image:
   src: '/img/karina-hero.png'
