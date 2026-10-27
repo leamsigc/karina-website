@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lawyer in Oaxaca FAQ | Divorce, Family & Property"
+title: "Lawyer in Oaxaca FAQ | Divorce & Family"
 description: "Direct answers for anyone searching for a lawyer in Oaxaca: divorce, child support, custody, probate, usucapión and property tax. Free first consultation."
 lastReviewed: "2026-10-27"
 image:
@@ -84,9 +84,12 @@ faqs:
   - question: "Do you work with clients in other states or abroad?"
     answer: "Yes. Representation can be arranged through a notarized or consular power of attorney, and communication is maintained by video call and WhatsApp. Coverage includes Oaxaca de Juárez, the Central Valleys, Puerto Escondido, Huatulco, the Isthmus and other regions of the state."
 ---
+<div class="prose prose-xl prose-slate dark:prose-invert  mx-auto max-w-4xl my-16 font-serif font-light text-xl">
+
+
+# Frequently asked questions: lawyer in Oaxaca
 
 ## Quick answer
-
 Karina Orocio Cruz is a practicing attorney in Oaxaca de Juárez. She handles family, civil, commercial, administrative and municipal law; works in Spanish and English; represents clients living abroad through a consular power of attorney; and the first consultation is free.
 
 | Fact | Answer |
@@ -266,3 +269,5 @@ The first consultation is free and confidential. Tell us about your case and we 
 - **Email:** [karina@abogada-karina-oaxaca.com](mailto:karina@abogada-karina-oaxaca.com)
 - **Office:** Oaxaca de Juárez, Oaxaca, México
 - [Book a consultation](/en/contact)
+
+</div>

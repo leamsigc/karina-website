@@ -118,6 +118,11 @@ for (const [url, html] of pages) {
   if (!lang?.startsWith(expectedLang))
     problems.push(`wrong <html lang> "${lang}" on ${url} (expected ${expectedLang})`)
 
+  // One H1 per page is a baseline the audit verified; guard it after content edits.
+  const h1Count = (html.match(/<h1[\s>]/g) || []).length
+  if (h1Count !== 1)
+    problems.push(`${h1Count === 0 ? 'missing' : 'multiple'} H1 (${h1Count}) on ${url}`)
+
   const pageAlternates = [...html.matchAll(/<link[^>]*rel="alternate"[^>]*>/g)].map(([tag]) => ({
     hreflang: tag.match(/hreflang="([^"]+)"/)?.[1],
     href: (tag.match(/href="([^"]+)"/)?.[1] ?? '').replace(siteUrl, '') || '/',

@@ -85,8 +85,9 @@ faqs:
     answer: "Sí. La representación puede instrumentarse con poder notarial o consular, y la comunicación se mantiene por videollamada y WhatsApp. La cobertura incluye Oaxaca de Juárez, Valles Centrales, Puerto Escondido, Huatulco, el Istmo y otras regiones del estado."
 ---
 
-## Respuesta rápida
+# Preguntas frecuentes: abogado en Oaxaca
 
+## Respuesta rápida
 Karina Orocio Cruz es abogada postulante en Oaxaca de Juárez. Atiende derecho familiar, civil, mercantil, administrativo y municipal; trabaja en español e inglés; representa a clientes que viven en el extranjero mediante poder notarial consular; y la primera consulta es gratuita.
 
 | Dato | Respuesta |

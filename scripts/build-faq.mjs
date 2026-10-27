@@ -89,7 +89,7 @@ const es = {
 }
 
 const en = {
-  title: 'Lawyer in Oaxaca FAQ | Divorce, Family & Property',
+  title: 'Lawyer in Oaxaca FAQ | Divorce & Family',
   description: 'Direct answers for anyone searching for a lawyer in Oaxaca: divorce, child support, custody, probate, usucapión and property tax. Free first consultation.',
   keywords: 'lawyer in oaxaca, english speaking lawyer oaxaca, divorce lawyer oaxaca, child support oaxaca, custody oaxaca, probate oaxaca, usucapion oaxaca, expat lawyer oaxaca',
   ogTitle: 'Lawyer in Oaxaca — Frequently Asked Questions',
@@ -212,8 +212,9 @@ faqs:
 ${yamlFaqs}
 ---
 
-## ${locale === 'es' ? 'Respuesta rápida' : 'Quick answer'}
+# ${locale === 'es' ? 'Preguntas frecuentes: abogado en Oaxaca' : 'Frequently asked questions: lawyer in Oaxaca'}
 
+## ${locale === 'es' ? 'Respuesta rápida' : 'Quick answer'}
 ${data.quick}
 
 | ${locale === 'es' ? 'Dato' : 'Fact'} | ${locale === 'es' ? 'Respuesta' : 'Answer'} |
