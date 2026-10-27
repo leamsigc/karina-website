@@ -54,7 +54,7 @@ schemaOrg:
     datePublished: "2026-09-16"
     dateModified: "2026-09-16"
     image: "https://abogada-karina-oaxaca.com/img/layer-family-law.jpg"
-    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/international-child-custody-travel-permissions-mexico"
+    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/custodia-internacional-permisos-viaje-menores-oaxaca"
     inLanguage: "en-US"
   - "@type": "FAQPage"
     mainEntity:

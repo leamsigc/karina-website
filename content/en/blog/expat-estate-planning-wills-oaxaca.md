@@ -75,6 +75,25 @@ Before incorporating property into your estate plan, verifying clear title is es
 
 ---
 
+## 4. Why a Foreign Will Is Not Enough in Mexico
+
+A will executed in the US, Canada, or Europe is recognized in theory, but using it in Oaxaca is not practical:
+
+- Enforcing it requires a court validation proceeding (*exequátur*) in Mexico.
+- It requires international apostilles and certified translations by a Mexican court translator.
+- A **Mexican will executed before a local notary** is recorded in the National Will Registry (*RNAT*) and the local property registry, which allows the estate to transfer without litigation.
+
+---
+
+## 5. Requirements to Execute a Will in Oaxaca
+
+- **Official ID:** passport (foreigners) or Mexican residency card.
+- **Asset and title details:** deeds, contracts, or bank trust documents.
+- **Beneficiaries and alternate heirs:** full legal names and relationship.
+- **Certified translator:** required when the testator does not speak or read Spanish.
+
+---
+
 ## Consult an Estate Planning Attorney in Oaxaca
 
 **Lic. Karina Orocio Cruz** assists international residents and property owners in structuring resilient estate plans and reviewing real estate contracts.

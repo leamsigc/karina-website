@@ -64,6 +64,8 @@ En el Estado de Oaxaca no existe un porcentaje fijo único, sino que el Juez de 
 | **Trabajador Independiente / Profesional** | Investigaciones de nivel de vida, cuentas y Registro Público | Equivalente a UMAS o Salarios Mínimos |
 | **Múltiples Hijos / Dependientes** | Techo proporcional respetando mínimo vital del deudor | Máximo **50% a 60%** del ingreso neto total |
 
+Guía detallada con criterios, aumento, reducción y defensa del deudor: [cálculo de la pensión alimenticia en Oaxaca](/blog/pension-alimenticia-oaxaca-calculo-aumento-disminucion).
+
 ---
 
 ## Preguntas Frecuentes sobre Pensión Alimenticia en Oaxaca

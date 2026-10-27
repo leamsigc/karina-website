@@ -100,12 +100,21 @@ Para que la unión libre surta efectos jurídicos plenos en Oaxaca:
 
 ---
 
-## 💡 Derechos Legalmente Garantizados
+## 💡 Derechos Legalmente Garantizados para Concubinos
 
-1. **Pensión Alimenticia Compensatoria:** Derecho a una pensión mensual por un tiempo igual a la duración de la convivencia si la persona se dedicó al hogar o al cuidado de hijos.
-2. **Derechos Hereditarios Intestados:** En caso de fallecimiento sin testamento, el concubino/a sobreviviente hereda en la misma proporción que un cónyuge.
-3. **Seguridad Social:** Afiliación como beneficiario en el IMSS, ISSSTE o PENSIONES y derecho a pensión por viudez.
-4. **Compensación Económica de Bienes:** Derecho a solicitar hasta el 50% de los bienes adquiridos durante la convivencia en caso de haberse dedicado al trabajo del hogar.
+Una vez acreditado el concubinato en Oaxaca, la ley reconoce los siguientes derechos:
+
+### 1. Pensión Alimenticia Compensatoria
+Al terminar la convivencia, el concubino o concubina que se dedicó preponderantemente al cuidado del hogar o de los hijos tiene derecho a una **pensión alimenticia mensual por un periodo igual a la duración de la unión libre**.
+
+### 2. Derechos Hereditarios (Sucesión Intestada)
+En caso de fallecimiento de uno de los concubinos sin testamento, el sobreviviente tiene **derecho a heredar en la misma proporción que un cónyuge**, por encima de otros parientes lejanos.
+
+### 3. Seguridad Social e Indemnizaciones
+Derecho a ser registrado como beneficiario ante el IMSS, ISSSTE o PENSIONES, así como a cobrar pensiones por viudez o indemnizaciones laborales por riesgo de trabajo.
+
+### 4. Compensación de Bienes
+Si durante el concubinato la pareja adquirió patrimonio y una de las partes se dedicó al hogar, los jueces familiares en Oaxaca autorizan una **compensación económica de hasta el 50% de los bienes adquiridos**.
 
 ---
 
@@ -115,6 +124,7 @@ Para acreditar formalmente la unión libre ante dependencias, bancos e instituci
 
 - **Diligencia de Jurisdicción Voluntaria:** Ante el Juzgado de lo Familiar.
 - **Escritura Notarial:** Ante Notario Público con presentación de testigos de vecindad.
+- **Registro Civil:** Inscripción oficial del concubinato para obtener el certificado de estado civil.
 
 ---
 

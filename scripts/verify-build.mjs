@@ -56,11 +56,38 @@ const sitemap = readFileSync(join(root, 'sitemap.xml'), 'utf8')
 const sitemapUrls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)]
   .map(([, loc]) => loc.replace(siteUrl, '') || '/')
 
+// Retired URLs are allowed as <a href> targets (they 301), everything else must be a built page.
+const { redirects: retiredUrls } = JSON.parse(readFileSync(resolve(process.cwd(), 'shared/retired-urls.json'), 'utf8'))
+const builtOrRedirect = new Set([...pages.keys(), ...Object.keys(retiredUrls)])
+
 for (const url of sitemapUrls) {
   if (!pages.has(url))
     problems.push(`sitemap URL was not prerendered: ${url}`)
   else if (isRedirectStub(pages.get(url)))
     problems.push(`sitemap URL is a redirect stub: ${url}`)
+}
+
+// Internal links must resolve to a built page (or a declared 301), so deleting a
+// page without updating its inbound links fails here instead of in production.
+const inbound = new Map(sitemapUrls.map(url => [url, 0]))
+for (const [url, html] of pages) {
+  if (isRedirectStub(html))
+    continue
+  for (const [, href] of html.matchAll(/<a[^>]+href="(\/[^"#?]*)"/g)) {
+    if (href.startsWith('//'))
+      continue
+    if (!builtOrRedirect.has(href))
+      problems.push(`broken internal link on ${url}: ${href}`)
+    if (inbound.has(href) && href !== url)
+      inbound.set(href, inbound.get(href) + 1)
+  }
+}
+
+// Orphan pages are the reason 10 pages were sitemapped but never crawled; a page
+// must have at least one internal link pointing at it.
+for (const [url, count] of inbound) {
+  if (count === 0)
+    problems.push(`orphan page (0 inbound internal links): ${url}`)
 }
 
 // 3 + 4. JSON-LD, lang, hreflang

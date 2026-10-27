@@ -88,7 +88,7 @@ benefits:
 
 Los conflictos familiares son de los más difíciles que enfrentará en su vida. Afectan sus emociones, su economía, su vivienda y —lo más importante— el bienestar de sus hijos. Contar con un **abogado de familia en Oaxaca** con experiencia real ante los Juzgados Familiares del Centro y el Tribunal Superior de Justicia del Estado de Oaxaca puede determinar si usted logra un acuerdo digno o si pierde derechos que le corresponden.
 
-En el despacho de **Karina Orocio Cruz**, abordamos cada caso familiar con la discreción, el tacto y la determinación que la situación exige. Entendemos la realidad oaxaqueña: familias extensas, bienes sin escrituras, parejas en unión libre de décadas, y la complejidad de las comunidades bilingües del estado. Si busca una visión general de cada materia, consulte a nuestros [abogados de lo familiar en Oaxaca](/abogados-de-lo-familiar-oaxaca).
+En el despacho de **Karina Orocio Cruz**, abordamos cada caso familiar con la discreción, el tacto y la determinación que la situación exige. Entendemos la realidad oaxaqueña: familias extensas, bienes sin escrituras, parejas en unión libre de décadas, y la complejidad de las comunidades bilingües del estado.
 
 ---
 
@@ -124,7 +124,7 @@ La **guarda y custodia en Oaxaca** define quién ejerce el cuidado diario del me
 - **Custodia monoparental**: uno de los padres ejerce la guarda; el otro tiene régimen de visitas.
 - **Custodia compartida o alterna**: ambos padres comparten el tiempo con los hijos, modelo que los jueces oaxaqueños aplican cuando es favorable al interés superior del menor.
 
-Tramitamos convenios de guarda, custodia y regímenes de convivencia, y defendemos sus derechos como padre o madre en caso de que el otro progenitor obstaculice la relación con los hijos.
+Tramitamos convenios de guarda, custodia y regímenes de convivencia, y defendemos sus derechos como padre o madre en caso de que el otro progenitor obstaculice la relación con los hijos. Guía completa: [guarda y custodia compartida en Oaxaca](/blog/guarda-custodia-oaxaca-padre-madre-compartida).
 
 ### Reconocimiento de Paternidad y Filiación en Oaxaca
 
@@ -141,6 +141,14 @@ Si usted o sus hijos están en riesgo, gestionamos de forma urgente:
 - **Órdenes de protección** de emergencia ante el Ministerio Público o Juzgado Familiar.
 - Denuncias por violencia familiar ante la Fiscalía General del Estado de Oaxaca.
 - Asesoría coordinada con la CEDH y el Sistema DIF Oaxaca.
+
+### Rectificación y Aclaración de Actas del Registro Civil en Oaxaca
+
+Corrección de errores mecanográficos, nombres, fechas o apellidos en actas de nacimiento, matrimonio o defunción ante el Registro Civil de Oaxaca, incluida la aclaración del acta cuando se utiliza como prueba en un juicio familiar.
+
+### Cobro de Pensiones Vencidas y Defensa de Deudores Alimentarios
+
+Además de fijar la pensión, gestionamos el cobro de pensiones vencidas o retroactivas, el embargo precautorio de bienes y la defensa de quien recibe un porcentaje desproporcionado a sus ingresos.
 
 ---
 

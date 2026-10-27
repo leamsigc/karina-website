@@ -72,4 +72,4 @@ Do not let the 15-day deadline expire. Contact us today to analyze the legality 
 ::
 
 ---
-*Related service: [Defense against excessive fines & taxes](/en/services/derecho-municipal-oaxaca) · [Schedule a free consultation](/en/contact)*
+*Related service: [Defense against excessive fines & taxes](/en/services/municipal-law-oaxaca) · [Schedule a free consultation](/en/contact)*

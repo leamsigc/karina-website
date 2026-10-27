@@ -54,7 +54,7 @@ schemaOrg:
     datePublished: "2026-09-16"
     dateModified: "2026-09-16"
     image: "https://abogada-karina-oaxaca.com/img/layer-family-law.jpg"
-    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/divorce-incausado-oaxaca-requirements-cost-time"
+    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/divorcio-incausado-oaxaca-requisitos-costo-tiempo"
     inLanguage: "en-US"
   - "@type": "FAQPage"
     mainEntity:

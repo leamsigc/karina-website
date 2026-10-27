@@ -1,4 +1,4 @@
-import { readdirSync } from 'node:fs'
+import { readdirSync, readFileSync } from 'node:fs'
 import { join, resolve } from 'node:path'
 import type { NuxtPage } from 'nuxt/schema'
 import { ES_TO_EN_CONTENT_PATHS } from './app/utils/i18n-content-paths.ts'
@@ -45,6 +45,24 @@ for (const [esPath, enPath] of Object.entries(ES_TO_EN_CONTENT_PATHS)) {
   if (!enPrerenderRoutes.includes(enPath))
     throw new Error(`[i18n-content-paths] ${enPath} has no file in content/en`)
 }
+
+// Retired URLs (duplicate-intent consolidation). One JSON file feeds both the
+// Nuxt redirect rules below and `public/_redirects` (scripts/generate-redirects.mjs),
+// so dev/preview and production cannot disagree.
+const { redirects: retiredUrls } = JSON.parse(
+  readFileSync(resolve(projectRoot, 'shared/retired-urls.json'), 'utf8'),
+) as { redirects: Record<string, string> }
+
+// A redirect must not mask a page that still exists: if the file is still in the
+// content tree the route would be prerendered and never reach the 301.
+for (const from of Object.keys(retiredUrls)) {
+  if (contentPrerenderRoutes.includes(from))
+    throw new Error(`[retired-urls] ${from} still has a content file — delete it or drop the redirect`)
+}
+
+const retiredUrlRules = Object.fromEntries(
+  Object.entries(retiredUrls).map(([from, to]) => [from, { redirect: { to, statusCode: 301 } }]),
+)
 
 export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
@@ -96,16 +114,7 @@ export default defineNuxtConfig({
     '@nuxt/fonts'
   ],
   routeRules: {
-    // `/services-index` duplicated `/services` (same title/description) and its
-    // content files are gone; keep the old URL resolving with a one-hop 301.
-    '/services-index': { redirect: { to: '/services', statusCode: 301 } },
-    '/en/services-index': { redirect: { to: '/en/services', statusCode: 301 } },
-
-    // Wrong-language URLs (audit P0-2): the ES slug only exists in English and
-    // vice versa. The cross-locale content fallback is removed, so these must
-    // point at the page that actually exists in the matching language.
-    '/services/divorce-cost-oaxaca': { redirect: { to: '/services/cuanto-cuesta-divorcio-oaxaca', statusCode: 301 } },
-    '/en/services/cuanto-cuesta-divorcio-oaxaca': { redirect: { to: '/en/services/divorce-cost-oaxaca', statusCode: 301 } },
+    ...retiredUrlRules,
   },
   fonts: {
     defaults: {

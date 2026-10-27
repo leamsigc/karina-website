@@ -23,12 +23,12 @@ const locations = [
 const specializedPages = computed(() => locale.value === 'es'
   ? [
       { label: 'Abogado de Divorcio en Oaxaca', to: '/abogado-de-divorcio-oaxaca' },
-      { label: 'Abogados de lo Familiar en Oaxaca', to: '/abogados-de-lo-familiar-oaxaca' },
+      { label: 'Abogados de lo Familiar en Oaxaca', to: '/services/derecho-familiar-oaxaca' },
       { label: 'Divorce Lawyer in Oaxaca (English)', to: '/en/divorce-lawyer-oaxaca' },
     ]
   : [
       { label: 'Divorce Lawyer in Oaxaca', to: '/en/divorce-lawyer-oaxaca' },
-      { label: 'Family Lawyers in Oaxaca', to: '/en/abogados-de-lo-familiar-oaxaca' },
+      { label: 'Family Lawyers in Oaxaca', to: '/en/services/derecho-familiar-oaxaca' },
       { label: 'Child Support Lawyer in Oaxaca', to: '/en/services/child-support-alimony-lawyer-oaxaca' },
     ])
 

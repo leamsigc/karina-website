@@ -54,7 +54,7 @@ schemaOrg:
     datePublished: "2026-08-25"
     dateModified: "2026-08-25"
     image: "https://abogada-karina-oaxaca.com/img/layer-office-building.jpg"
-    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/probate-succession-oaxaca-intestate-testate-cost"
+    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/juicio-sucesorio-oaxaca-intestamentario-testamentario-costo"
     inLanguage: "en-US"
   - "@type": "FAQPage"
     mainEntity:

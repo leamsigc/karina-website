@@ -33,33 +33,10 @@
   status = 301
   force = true
 
-# --- Retired / wrong-language URLs (audit P0-1, P0-2) -------------------------
-# `/services-index` was a duplicate of `/services` in both locales.
-[[redirects]]
-  from = "/services-index"
-  to = "/services"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/en/services-index"
-  to = "/en/services"
-  status = 301
-  force = true
-
-# The ES slug only exists as English content and the EN slug only exists as
-# Spanish content; send each request to the page in its own language.
-[[redirects]]
-  from = "/services/divorce-cost-oaxaca"
-  to = "/services/cuanto-cuesta-divorcio-oaxaca"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/en/services/cuanto-cuesta-divorcio-oaxaca"
-  to = "/en/services/divorce-cost-oaxaca"
-  status = 301
-  force = true
+# --- Retired / wrong-language URLs -------------------------------------------
+# Slug-level 301s live in `public/_redirects`, generated from
+# `shared/retired-urls.json` by scripts/generate-redirects.mjs (single source of
+# truth, also used by Nuxt routeRules for dev/preview). Do not duplicate them here.
 
 [[redirects]]
   from = "/api/*"

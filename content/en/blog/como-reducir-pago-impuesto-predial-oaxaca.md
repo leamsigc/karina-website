@@ -75,4 +75,4 @@ We analyze your bill at no cost to determine if a nullity trial is viable. Prote
 ::
 
 ---
-*Related service: [Defense against excessive fines & taxes](/en/services/derecho-municipal-oaxaca) · [Schedule a free consultation](/en/contact)*
+*Related service: [Defense against excessive fines & taxes](/en/services/municipal-law-oaxaca) · [Schedule a free consultation](/en/contact)*

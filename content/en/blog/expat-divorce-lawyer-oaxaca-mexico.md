@@ -54,7 +54,7 @@ schemaOrg:
     datePublished: "2026-09-16"
     dateModified: "2026-09-16"
     image: "https://abogada-karina-oaxaca.com/img/layer-family-law.jpg"
-    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/expat-divorce-lawyer-oaxaca-mexico"
+    mainEntityOfPage: "https://abogada-karina-oaxaca.com/en/blog/divorcio-extranjeros-mexico-oaxaca"
     inLanguage: "en-US"
   - "@type": "FAQPage"
     mainEntity:
@@ -115,6 +115,22 @@ Upon final judgment by the Oaxaca Family Court Judge:
 - We secure official marginal registration on your Civil Registry marriage record.
 - We obtain certified court copies of the final divorce decree.
 - We process the **State Apostille of Oaxaca** to ensure seamless recognition (*Exequatur*) by foreign courts and immigration agencies.
+
+---
+
+## ⚖️ What a family lawyer handles in Oaxaca
+
+Oaxaca's Family Courts (Ciudad Judicial, Reyes Mantecón) hear:
+
+- No-fault divorce (*divorcio incausado*) — unilateral, no grounds required
+- Child support (*pensión alimenticia*) and its enforcement
+- Child custody, visitation and loss of parental rights
+- Paternity and filiation
+- Protective orders in domestic violence cases
+
+**Oaxaca-specific context:** extended families, property held without deeds, long common-law unions (*concubinato*), and bilingual communities. For expats: common-law unions with a Mexican partner, property held through a *fideicomiso*, children born in Oaxaca, or a divorce started while living abroad — jurisdiction follows where the marriage was registered or where the children live.
+
+Deep dives: [no-fault divorce in Oaxaca](/en/blog/divorce-incausado-oaxaca-requirements-cost-time) · [child support calculation](/en/blog/child-support-alimony-oaxaca-calculation-increase) · [child custody](/en/blog/child-custody-oaxaca-father-mother-joint).
 
 ---
 
