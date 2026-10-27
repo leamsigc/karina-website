@@ -48,8 +48,8 @@ to="/contact"
           </div>
           <div class="w-px h-12 bg-gold/30"/>
           <div>
-            <p class="font-serif text-3xl text-charcoal mb-1">98%</p>
-            <p class="text-xs tracking-widest uppercase font-medium text-charcoal-light">{{ t('home.stats.success') }}</p>
+            <p class="font-serif text-3xl text-charcoal mb-1">ES/EN</p>
+            <p class="text-xs tracking-widest uppercase font-medium text-charcoal-light">{{ t('home.stats.bilingual') }}</p>
           </div>
         </div>
       </div>
