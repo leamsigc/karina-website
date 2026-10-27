@@ -31,18 +31,43 @@ const finalPath = computed(() => {
   return locale.value === 'es' ? normalizedSlug.value : `/en${normalizedSlug.value}`
 })
 
-const fallbackPath = computed(() => {
-  if (normalizedSlug.value === '/')
-    return locale.value === 'es' ? '/en' : '/'
-  return locale.value === 'es' ? `/en${normalizedSlug.value}` : normalizedSlug.value
+// Content path of the current page and of its translation. Most slugs are the
+// same in both locales, but a few use a locale-correct slug (see
+// `app/utils/i18n-content-paths.ts`), so the translation is never guessed by
+// prefixing `/en`.
+const currentContentPath = computed(() => normalizedSlug.value === '/'
+  ? (locale.value === 'es' ? '/' : '/en')
+  : (locale.value === 'es' ? normalizedSlug.value : `/en${normalizedSlug.value}`))
+
+const esContentPath = computed(() => {
+  if (locale.value === 'es')
+    return currentContentPath.value
+  return EN_TO_ES_CONTENT_PATHS[currentContentPath.value] ?? (normalizedSlug.value === '/' ? '/' : normalizedSlug.value)
 })
 
+const enContentPath = computed(() => {
+  if (locale.value === 'en')
+    return currentContentPath.value
+  return ES_TO_EN_CONTENT_PATHS[currentContentPath.value] ?? (normalizedSlug.value === '/' ? '/en' : `/en${normalizedSlug.value}`)
+})
+
+const translationPath = computed(() => locale.value === 'es' ? enContentPath.value : esContentPath.value)
+
 const { data: page } = await useAsyncData(`page-${locale.value}-${normalizedSlug.value}`, async () => {
-  const primary = await queryCollection(collectionName.value).path(finalPath.value).first()
-  if (primary)
-    return primary
-  const fallbackCollection = (locale.value === 'es' ? 'content_en' : 'content_es') as keyof Collections
-  return await queryCollection(fallbackCollection).path(fallbackPath.value).first()
+  // No cross-locale body fallback: serving the other locale's page under this
+  // locale's URL/canonical produced two wrong-language URLs (audit P0-2).
+  // A missing translation now 404s, and the URL is 301'd instead.
+  return await queryCollection(collectionName.value).path(finalPath.value).first()
+}, {
+  watch: [() => locale.value, () => route.path]
+})
+
+// Used to emit hreflang only for translations that really exist, so no
+// alternate ever points at a 404 (audit P0-5).
+const { data: hasTranslation } = await useAsyncData(`translation-${locale.value}-${normalizedSlug.value}`, async () => {
+  const otherCollection = (locale.value === 'es' ? 'content_en' : 'content_es') as keyof Collections
+  const translation = await queryCollection(otherCollection).path(translationPath.value).first()
+  return Boolean(translation)
 }, {
   watch: [() => locale.value, () => route.path]
 })
@@ -61,7 +86,7 @@ const pageImage = computed(() => {
 
 const pageTitle = computed(() => page.value?.title || 'Karina Orocio Cruz - Abogada Postulante')
 const pageDescription = computed(() => page.value?.description || 'Especialista en asesoría legal patrimonial en Oaxaca')
-const canonicalUrl = computed(() => `https://abogada-karina-oaxaca.com${route.path}`)
+const canonicalUrl = computed(() => `https://abogada-karina-oaxaca.com${withoutTrailingSlash(route.path)}`)
 
 useHead(() => page.value?.head || {})
 
@@ -78,19 +103,29 @@ useSeoMeta({
 // cannot infer alternates for this catch-all route (locale lives in the
 // content collection, not in distinct route records), so production HTML
 // was shipping with zero hreflang and EN/ES competed in the index.
-const switchLocalePath = useSwitchLocalePath()
+// Alternates are only emitted for a translation that exists (audit P0-5).
 const siteBase = 'https://abogada-karina-oaxaca.com'
+
 const hreflangLinks = computed(() => {
-  const esPath = switchLocalePath('es')
-  const enPath = switchLocalePath('en')
+  if (!page.value)
+    return []
   const links: { rel: string, hreflang: string, href: string }[] = []
-  if (esPath)
-    links.push({ rel: 'alternate', hreflang: 'es', href: `${siteBase}${esPath}` })
-  if (enPath)
-    links.push({ rel: 'alternate', hreflang: 'en', href: `${siteBase}${enPath}` })
-  // x-default points at the Spanish canonical (default locale, served at `/`)
-  if (esPath)
-    links.push({ rel: 'alternate', hreflang: 'x-default', href: `${siteBase}${esPath}` })
+  const esHref = `${siteBase}${esContentPath.value}`
+  const enHref = `${siteBase}${enContentPath.value}`
+  const translationExists = hasTranslation.value === true
+
+  if (locale.value === 'en') {
+    if (translationExists)
+      links.push({ rel: 'alternate', hreflang: 'es', href: esHref })
+    links.push({ rel: 'alternate', hreflang: 'en', href: enHref })
+    if (translationExists)
+      links.push({ rel: 'alternate', hreflang: 'x-default', href: esHref })
+  } else {
+    links.push({ rel: 'alternate', hreflang: 'es', href: esHref })
+    if (translationExists)
+      links.push({ rel: 'alternate', hreflang: 'en', href: enHref })
+    links.push({ rel: 'alternate', hreflang: 'x-default', href: esHref })
+  }
   return links
 })
 
@@ -167,55 +202,45 @@ if (page.value) {
   }
   // E-E-A-T: Attorney identity on the about pages (no credential number
   // published until Karina provides her cédula — the field is simply omitted).
+  // Emitted through nuxt-schema-org (custom `@type` node) so it joins the
+  // shared @graph instead of a hand-rolled <script> that never rendered.
   if (normalizedSlug.value === '/about') {
-    useHead({
-      script: [
-        {
-          type: 'application/ld+json',
-          children: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'Attorney',
-            'name': 'Karina Orocio Cruz',
-            'url': 'https://abogada-karina-oaxaca.com/about',
-            'image': 'https://abogada-karina-oaxaca.com/img/karina-orocio-cruz.png',
-            'telephone': '+529516153010',
-            'email': 'karina@abogada-karina-oaxaca.com',
-            'jobTitle': locale.value === 'es' ? 'Abogada Postulante' : 'Attorney at Law',
-            'foundingDate': '2021',
-            'address': {
-              '@type': 'PostalAddress',
-              'addressLocality': 'Oaxaca de Juárez',
-              'addressRegion': 'Oaxaca',
-              'postalCode': '68000',
-              'addressCountry': 'MX'
-            },
-            'knowsAbout': ['Derecho familiar', 'Divorcio incausado', 'Pensión alimenticia', 'Derecho civil', 'Usucapión', 'Derecho administrativo', 'Juicio de nulidad'],
-            'areaServed': { '@type': 'State', 'name': 'Oaxaca' }
-          })
-        }
-      ]
-    })
+    useSchemaOrg([
+      {
+        '@type': 'Attorney',
+        'name': 'Karina Orocio Cruz',
+        'url': 'https://abogada-karina-oaxaca.com/about',
+        'image': 'https://abogada-karina-oaxaca.com/img/karina-orocio-cruz.png',
+        'telephone': '+529516153010',
+        'email': 'karina@abogada-karina-oaxaca.com',
+        'jobTitle': locale.value === 'es' ? 'Abogada Postulante' : 'Attorney at Law',
+        'foundingDate': '2021',
+        'address': {
+          '@type': 'PostalAddress',
+          'addressLocality': 'Oaxaca de Juárez',
+          'addressRegion': 'Oaxaca',
+          'postalCode': '68000',
+          'addressCountry': 'MX'
+        },
+        'knowsAbout': ['Derecho familiar', 'Divorcio incausado', 'Pensión alimenticia', 'Derecho civil', 'Usucapión', 'Derecho administrativo', 'Juicio de nulidad'],
+        'areaServed': { '@type': 'State', 'name': 'Oaxaca' }
+      }
+    ])
   }
   if (page.value.faqs && Array.isArray(page.value.faqs) && page.value.faqs.length > 0) {
-    useHead({
-      script: [
-        {
-          type: 'application/ld+json',
-          children: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'FAQPage',
-            'mainEntity': page.value.faqs.map((faq: { question: string, answer: string }) => ({
-              '@type': 'Question',
-              'name': faq.question,
-              'acceptedAnswer': {
-                '@type': 'Answer',
-                'text': faq.answer
-              }
-            }))
-          })
-        }
-      ]
-    })
+    useSchemaOrg([
+      {
+        '@type': 'FAQPage',
+        'mainEntity': page.value.faqs.map((faq: { question: string, answer: string }) => ({
+          '@type': 'Question',
+          'name': faq.question,
+          'acceptedAnswer': {
+            '@type': 'Answer',
+            'text': faq.answer
+          }
+        }))
+      }
+    ])
   }
 }
 </script>
