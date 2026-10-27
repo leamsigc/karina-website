@@ -1,4 +1,50 @@
+import { readdirSync } from 'node:fs'
+import { join, resolve } from 'node:path'
 import type { NuxtPage } from 'nuxt/schema'
+import { ES_TO_EN_CONTENT_PATHS } from './app/utils/i18n-content-paths.ts'
+
+/**
+ * Walk a content directory and map every markdown file to the URL it renders at.
+ * Keeps `nitro.prerender.routes` in sync with the content tree so pages that are
+ * not reachable through internal links are still emitted by `nuxt generate`
+ * (orphan pages were silently 404ing while still listed in the sitemap).
+ *
+ * index.md maps to its directory URL (`content/es/index.md` → `/`,
+ * `content/es/blog/index.md` → `/blog`).
+ */
+function contentRoutes(dir: string, prefix = ''): string[] {
+  const routes: string[] = []
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    if (entry.name.startsWith('.'))
+      continue
+    const fullPath = join(dir, entry.name)
+    if (entry.isDirectory()) {
+      routes.push(...contentRoutes(fullPath, `${prefix}/${entry.name}`))
+      continue
+    }
+    if (!entry.name.endsWith('.md'))
+      continue
+    const base = entry.name.replace(/\.md$/, '')
+    routes.push(base === 'index' ? (prefix || '/') : `${prefix}/${base}`)
+  }
+  return routes
+}
+
+// `import.meta.dirname` is the folder this config lives in, so the walk works
+// regardless of the shell's working directory.
+const projectRoot = import.meta.dirname
+const esPrerenderRoutes = contentRoutes(resolve(projectRoot, 'content/es'))
+const enPrerenderRoutes = contentRoutes(resolve(projectRoot, 'content/en'), '/en')
+const contentPrerenderRoutes = [...esPrerenderRoutes, ...enPrerenderRoutes]
+
+// A stale entry in the ES↔EN slug map silently breaks hreflang, so fail the
+// build instead of shipping a page whose translation points nowhere.
+for (const [esPath, enPath] of Object.entries(ES_TO_EN_CONTENT_PATHS)) {
+  if (!esPrerenderRoutes.includes(esPath))
+    throw new Error(`[i18n-content-paths] ${esPath} has no file in content/es`)
+  if (!enPrerenderRoutes.includes(enPath))
+    throw new Error(`[i18n-content-paths] ${enPath} has no file in content/en`)
+}
 
 export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
@@ -27,22 +73,9 @@ export default defineNuxtConfig({
       crawlLinks: true,
       autoSubfolderIndex: false,
       failOnError: false,
-      routes: [
-        '/en/divorce-lawyer-oaxaca',
-        '/abogado-de-divorcio-oaxaca',
-        '/abogados-de-lo-familiar-oaxaca',
-        '/en/services/derecho-municipal-oaxaca',
-        '/services/abogado-de-pension-alimenticia-oaxaca',
-        '/en/services/child-support-alimony-lawyer-oaxaca',
-        '/en/blog/adverse-possession-usucapion-oaxaca-requirements',
-        '/en/blog/child-custody-oaxaca-father-mother-joint',
-        '/en/blog/child-support-alimony-oaxaca-calculation-increase',
-        '/en/blog/divorce-incausado-oaxaca-requirements-cost-time',
-        '/en/blog/family-lawyer-oaxaca-divorce-custody-expats',
-        '/en/blog/probate-succession-oaxaca-intestate-testate-cost',
-        '/services/cuanto-cuesta-divorcio-oaxaca',
-        '/en/services/divorce-cost-oaxaca',
-      ]
+      // Generated from the content tree (see `contentRoutes` above), not hardcoded:
+      // every markdown file gets a prerendered route, including orphans.
+      routes: contentPrerenderRoutes,
     }
   },
 
@@ -62,18 +95,18 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxt/fonts'
   ],
-  // routeRules: {
-  //   '/blog/**': {
-  //     seoMeta: {
-  //       ogType: 'article'
-  //     }
-  //   },
-  //   '/tools/**': {
-  //     seoMeta: {
-  //       ogType: 'tools'
-  //     }
-  //   }
-  // },
+  routeRules: {
+    // `/services-index` duplicated `/services` (same title/description) and its
+    // content files are gone; keep the old URL resolving with a one-hop 301.
+    '/services-index': { redirect: { to: '/services', statusCode: 301 } },
+    '/en/services-index': { redirect: { to: '/en/services', statusCode: 301 } },
+
+    // Wrong-language URLs (audit P0-2): the ES slug only exists in English and
+    // vice versa. The cross-locale content fallback is removed, so these must
+    // point at the page that actually exists in the matching language.
+    '/services/divorce-cost-oaxaca': { redirect: { to: '/services/cuanto-cuesta-divorcio-oaxaca', statusCode: 301 } },
+    '/en/services/cuanto-cuesta-divorcio-oaxaca': { redirect: { to: '/en/services/divorce-cost-oaxaca', statusCode: 301 } },
+  },
   fonts: {
     defaults: {
       weights: [400, 500, 600, 700],
@@ -102,14 +135,24 @@ export default defineNuxtConfig({
     disallow: ['/success', '/en/success']
   },
   sitemap: {
-    autoI18n: true,
+    // Slug parity across locales is not in place yet: the canonical slugs for a
+    // handful of topics differ per locale (e.g. `/services/cuanto-cuesta-divorcio-oaxaca`
+    // vs `/en/services/divorce-cost-oaxaca`). `autoI18n` derives alternates from the
+    // same slug and therefore invents URLs that do not exist (it was listing a
+    // phantom `/services/divorce-cost-oaxaca` and dropping the real EN page).
+    // Locale alternates are emitted per page in `<head>` and existence-checked in
+    // `app/pages/[...slug].vue`, so the sitemap does not need to guess.
+    autoI18n: false,
     autoLastmod: true,
     discoverImages: true,
     discoverVideos: true,
     chunks: false,
     exclude: [
       '/success',
-      '/en/success'
+      '/en/success',
+      // Removed duplicate hub (301 → /services); must not be listed as canonical.
+      '/services-index',
+      '/en/services-index',
     ]
   },
 

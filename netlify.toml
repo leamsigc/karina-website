@@ -5,6 +5,62 @@
 [build.environment]
   NODE_VERSION = "24"
 
+# --- URL variants: one canonical form (https + apex + no trailing slash) ------
+# Audit P0-6. These were already returning 301 at the CDN level; declared here so
+# the behaviour is versioned in the repo and cannot silently regress.
+[[redirects]]
+  from = "http://abogada-karina-oaxaca.com/*"
+  to = "https://abogada-karina-oaxaca.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.abogada-karina-oaxaca.com/*"
+  to = "https://abogada-karina-oaxaca.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.abogada-karina-oaxaca.com/*"
+  to = "https://abogada-karina-oaxaca.com/:splat"
+  status = 301
+  force = true
+
+# Any path except `/` served with a trailing slash → same path without it.
+[[redirects]]
+  from = "/*/"
+  to = "/:splat"
+  status = 301
+  force = true
+
+# --- Retired / wrong-language URLs (audit P0-1, P0-2) -------------------------
+# `/services-index` was a duplicate of `/services` in both locales.
+[[redirects]]
+  from = "/services-index"
+  to = "/services"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/services-index"
+  to = "/en/services"
+  status = 301
+  force = true
+
+# The ES slug only exists as English content and the EN slug only exists as
+# Spanish content; send each request to the page in its own language.
+[[redirects]]
+  from = "/services/divorce-cost-oaxaca"
+  to = "/services/cuanto-cuesta-divorcio-oaxaca"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/services/cuanto-cuesta-divorcio-oaxaca"
+  to = "/en/services/divorce-cost-oaxaca"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
