@@ -114,7 +114,7 @@ Yes. If either you or your spouse resides in Oaxaca, local Family Courts have ju
 Not necessarily. By granting a formal Power of Attorney (*Poder Notarial para Pleitos y Cobranzas*) through a Mexican Consulate or local notary, Attorney Karina Orocio can represent your legal interests directly in court on your behalf.
 
 ### How much does a divorce cost in Oaxaca?
-We offer flat-rate, transparent legal fees tailored to the complexity of your case (uncontested vs. contested terms). Contact us for an itemized estimate with zero hidden costs.
+We offer flat-rate, transparent legal fees tailored to the complexity of your case (uncontested vs. contested terms). Contact us for an itemized estimate with zero hidden costs. See the full breakdown in our [divorce cost guide for Oaxaca](/en/services/divorce-cost-oaxaca).
 
 ---
 

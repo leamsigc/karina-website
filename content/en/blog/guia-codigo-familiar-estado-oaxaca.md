@@ -10,6 +10,7 @@ tags:
   - child custody oaxaca
 date: "2026-09-24"
 publishedAt: "2026-09-24"
+featured: true
 category: "Family Law"
 type: "blog"
 author:

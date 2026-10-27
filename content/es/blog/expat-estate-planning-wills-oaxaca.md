@@ -10,6 +10,7 @@ tags:
   - abogada inmobiliaria oaxaca
 date: "2026-09-24"
 publishedAt: "2026-09-24"
+featured: true
 category: "Derecho Civil y Patrimonial"
 type: "blog"
 author:

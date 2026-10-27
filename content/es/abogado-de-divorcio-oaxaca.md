@@ -100,7 +100,7 @@ Para iniciar el trámite ante el juzgado familiar en Oaxaca, requerimos los sigu
 En Oaxaca **el divorcio se concede de todos modos**. La negativa del otro cónyuge no detiene la disolución del matrimonio. Únicamente se continuará el procedimiento sobre los puntos no acordados (pensión o bienes), pero la sentencia de divorcio es inevitable.
 
 ### ¿Cuánto cuesta un divorcio en Oaxaca?
-El costo depende de si existe acuerdo en la custodia y pensión o si requiere litigio contencioso. En nuestra primera consulta evaluamos tu caso y te brindamos un presupuesto fijo y facilidades de pago.
+El costo depende de si existe acuerdo en la custodia y pensión o si requiere litigio contencioso. En nuestra primera consulta evaluamos tu caso y te brindamos un presupuesto fijo y facilidades de pago. Consulta el desglose completo en la guía de [cuánto cuesta un divorcio en Oaxaca](/services/cuanto-cuesta-divorcio-oaxaca).
 
 ### ¿Puedo tramitar mi divorcio si vivo en otro municipio o en el extranjero?
 Sí. Podemos representarte mediante un poder notarial para pleitos y cobranzas para llevar todo el juicio en los juzgados de Oaxaca sin que tengas que viajar constantemente.

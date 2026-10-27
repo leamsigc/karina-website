@@ -10,6 +10,7 @@ tags:
   - mexican wills expat
 date: "2026-09-24"
 publishedAt: "2026-09-24"
+featured: true
 category: "Civil & Real Estate Law"
 type: "blog"
 author:

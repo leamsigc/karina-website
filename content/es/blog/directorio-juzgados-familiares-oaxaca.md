@@ -10,6 +10,7 @@ tags:
   - tribunal superior de justicia oaxaca
 date: "2026-09-24"
 publishedAt: "2026-09-24"
+featured: true
 category: "Derecho Familiar"
 type: "blog"
 author:
