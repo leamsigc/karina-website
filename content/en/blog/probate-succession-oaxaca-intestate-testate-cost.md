@@ -145,9 +145,6 @@ In 3 payments. Notary 1.5-3% separate.
 
 📱 **WhatsApp 951-615-3010** — send "PROBATE" today.
 
-::
-
----
 *Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Probate service in Oaxaca](/en/services/probate-oaxaca) · [Schedule a free consultation](/en/contact)*
 
 

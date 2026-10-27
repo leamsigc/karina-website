@@ -84,6 +84,8 @@ faqs:
   - question: "¿Atienden clientes de otros estados o del extranjero?"
     answer: "Sí. La representación puede instrumentarse con poder notarial o consular, y la comunicación se mantiene por videollamada y WhatsApp. La cobertura incluye Oaxaca de Juárez, Valles Centrales, Puerto Escondido, Huatulco, el Istmo y otras regiones del estado."
 ---
+<div class="prose prose-xl prose-slate dark:prose-invert  mx-auto max-w-4xl my-16 font-serif font-light text-xl">
+
 
 # Preguntas frecuentes: abogado en Oaxaca
 
@@ -267,3 +269,6 @@ La primera consulta es gratuita y confidencial. Cuéntenos su caso y le decimos 
 - **Email:** [karina@abogada-karina-oaxaca.com](mailto:karina@abogada-karina-oaxaca.com)
 - **Oficina:** Oaxaca de Juárez, Oaxaca, México
 - [Agendar consulta](/contact)
+
+
+</div>

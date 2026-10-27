@@ -35,7 +35,6 @@ title: "Lawyer in Tuxtepec: Divorce, Property Tax & Civil | Karina Orocio"
 result: "Compulsory Contract Enforcement"
 description: "We obtained a favorable judgment for a local producer cooperative against a national packing company that breached purchase terms, securing payment for the harvest and compensation for damages."
 ---
-::
 
 ## Legal Services in San Juan Bautista Tuxtepec
 
@@ -93,6 +92,7 @@ Free first consultation. We respond within 24 hours.
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

@@ -64,9 +64,7 @@ strategy: "Conocemos los procedimientos y requisitos específicos de los diferen
 
 outcome: "Gracias a nuestra experiencia y conocimiento de los procedimientos municipales, logramos obtener el número oficial para la propiedad de nuestra clienta en menos de un mes, un tiempo récord que sorprendió gratamente a la clienta, quien esperaba un proceso mucho más largo y tedioso."
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

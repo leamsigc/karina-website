@@ -64,9 +64,9 @@ strategy: "We analyzed in detail the sale transaction and the calculations used 
 
 outcome: "We filed the corresponding administrative appeal and demonstrated to the municipal authority that there were errors in the property tax calculation. As a result, a correction was made in the tax determination, achieving that our client paid an amount that was fair and appropriate to the reality of her property, representing significant savings compared to the original bill."
 ---
-::
 
 
----
 
 *Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*
+
+::

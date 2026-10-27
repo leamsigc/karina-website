@@ -60,7 +60,6 @@ title: "Coastal Property Regularization for Foreign Investor"
 result: "Fideicomiso Secured and Title Regularized in 4 Months"
 description: "We structured a fideicomiso and regularized an ejidal possession for a US buyer in Zicatela, converting a risky private-contract purchase into a bank-trust protected title, enabling legal resale."
 ---
-::
 
 ## Legal Services in Puerto Escondido
 
@@ -115,12 +114,12 @@ Yes via usucapión if 5/10 years possession + proof (tax, CFE, witnesses). We ev
 
 Free first consultation.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

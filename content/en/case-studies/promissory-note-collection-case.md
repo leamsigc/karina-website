@@ -65,9 +65,8 @@ strategy: "We designed a robust legal strategy based on filing a Commercial Exec
 
 outcome: "Thanks to the flawless execution of the strategy, we not only achieved a court order for the immediate return of the principal amount lent, but also obtained a judgment compelling the payment of default interest generated throughout the period of non-compliance. This case reflects the importance of having timely legal advice to enforce legal instruments and ensure the fulfillment of asset obligations."
 ---
-::
 
 
----
 
 *Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*
+::

@@ -166,9 +166,6 @@ No dejes que el miedo o un "no te voy a firmar el divorcio" te detengan. Tienes 
 📲 **Envía un mensaje por WhatsApp al: [+52 951 615 3010](https://wa.me/529516153010)**
 📍 *Atención en Oaxaca de Juárez y asesoría virtual para connacionales en todo México y Estados Unidos.*
 
-::
-
----
 *Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*
 
 

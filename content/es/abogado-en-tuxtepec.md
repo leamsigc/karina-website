@@ -35,7 +35,6 @@ title: "Abogado en Tuxtepec: Divorcio, Predial y Civil | Karina Orocio"
 result: "Cumplimiento Forzoso de Contrato"
 description: "Logramos sentencia favorable para una cooperativa de productores locales contra una empacadora nacional que incumplió los términos de compra, asegurando el pago de la cosecha y el resarcimiento por daños y perjuicios."
 ---
-::
 
 ## Servicios Legales en San Juan Bautista Tuxtepec
 
@@ -77,7 +76,6 @@ Solo su acta de matrimonio, identificación oficial y CURP. El divorcio incausad
 **¿Puedo demandar a un inquilino que no paga renta en Tuxtepec?**
 Sí. Mediante un juicio de rescisión de contrato de arrendamiento más pago de rentas adeudadas. El juez ordena el desalojo y el pago de los meses atrasados. En Tuxtepec, estos juicios suelen resolverse en 2 a 3 meses.
 
----
 
 ## Contáctenos en Tuxtepec
 
@@ -93,7 +91,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
-
+::
 ::ServiceCta
 ---
 title: "Abogado en Tuxtepec: Divorcio, Predial y Civil | Karina Orocio"

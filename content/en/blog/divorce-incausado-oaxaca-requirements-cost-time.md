@@ -154,9 +154,6 @@ Don't let legal fears or an uncooperative spouse hold you back. Get clear, hones
 📲 **Send a WhatsApp message to: [+52 951 615 3010](https://wa.me/529516153010)**
 📍 *Serving Oaxaca de Juárez, with virtual consultations for clients nationwide and in the USA.*
 
-::
-
----
 *Related service: [Family law: divorce, support & custody](/en/services/derecho-familiar-oaxaca) · [Schedule a free consultation](/en/contact)*
 
 

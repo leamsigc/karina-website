@@ -73,7 +73,5 @@ Tu patrimonio es fruto de años de esfuerzo. No permitas que cobros municipales 
 **¿Tu predial subió de forma injustificada este año?**
 Analizamos tu boleta sin costo para determinar si es viable un juicio de nulidad. Protege tu propiedad con una estrategia legal profesional.
 
-::
 
----
 *Servicio relacionado: [Defensa contra cobros y multas excesivas](/services/derecho-municipal-oaxaca) · [Agendar consulta gratuita](/contact)*

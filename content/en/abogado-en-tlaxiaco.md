@@ -35,7 +35,6 @@ title: "Lawyer in Tlaxiaco: Divorce, Probate & Property Tax | Karina Orocio"
 result: "Obtaining Property Titles"
 description: "We successfully carried out a series of adverse possession (usucapión) proceedings for families who had lived on their properties for decades without titles, finally granting them legal certainty and commercial value for their homes."
 ---
-::
 
 ## Legal Services in Heroica Ciudad de Tlaxiaco
 
@@ -93,7 +92,7 @@ Free first consultation. We respond within 24 hours.
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
-
+::
 ::ServiceCta
 ---
 title: "Lawyer in Tlaxiaco: Divorce, Probate & Property Tax | Karina Orocio"

@@ -110,7 +110,7 @@ Frequently imponen requisitos nuevos sin fundamento. Evaluamos gratuitamente si 
 **¿Cuanto tiempo toma regularizar una propiedad en Huatulco?**
 Depends del tipo de regularizacion. Algunas toman 3-6 meses, otras hasta un año. Le damos un cronograma claro desde el inicio.
 
----
+
 
 ## Contactenos para Huatulco
 
@@ -121,12 +121,12 @@ Depends del tipo de regularizacion. Algunas toman 3-6 meses, otras hasta un año
 Primera consulta gratuita.
 
 
-::
 
 ## Servicios legales relacionados
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
+::
 
 ::ServiceCta
 ---

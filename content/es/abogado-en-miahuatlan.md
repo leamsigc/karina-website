@@ -125,21 +125,19 @@ Podemos iniciar un juicio ejecutivo mercantil si tiene contratos o pedidos firma
 **¿Puedo vender mi terreno si solo tengo un documento de posesion?**
 Legalmente no es recomendable. Primero debemos regularizarlo mediante usucapion para que pueda otorgar escrituras y certeza al comprador.
 
----
-
 ## Contactenos en Miahuatlan
 
 WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Primera consulta gratuita. Evaluamos su caso con atencion personalizada.
 
-::
 
 ## Servicios legales relacionados
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
 
+::
 ::ServiceCta
 ---
 title: "Abogado en Miahuatlán: Divorcio, Custodia y Escrituras | Karina Orocio"

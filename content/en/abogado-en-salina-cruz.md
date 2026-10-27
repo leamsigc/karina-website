@@ -35,7 +35,6 @@ title: "Lawyer in Salina Cruz: Divorce, Property Tax & Corporate | Karina Orocio
 result: "100% Recovery of Past-Due Portfolio"
 description: "We successfully represented a maritime services provider in the judicial collection of multi-million peso invoices from contractors in the region, achieving the precautionary seizure of bank accounts and full payment of the debt plus legal interest."
 ---
-::
 
 ## Legal Services in Salina Cruz
 
@@ -93,6 +92,7 @@ Free first consultation. We respond within 24 hours.
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

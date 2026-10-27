@@ -73,7 +73,4 @@ Your assets are the result of years of effort. Do not allow arbitrary municipal 
 **Did your property tax increase unjustifiably this year?**
 We analyze your bill at no cost to determine if a nullity trial is viable. Protect your property with a professional legal strategy.
 
-::
-
----
 *Related service: [Defense against excessive fines & taxes](/en/services/municipal-law-oaxaca) · [Schedule a free consultation](/en/contact)*

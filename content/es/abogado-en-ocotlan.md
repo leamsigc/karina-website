@@ -132,7 +132,6 @@ El divorcio voluntario tarda de 2 a 4 meses. El incausado (sin acuerdo) puede ta
 **¿Puedo vender mi propiedad si tengo un contrato de compraventa pero no escrituras?**
 Formalmente no. Necesita primero regularizar mediante usucapion para poder otorgar escrituras publicas al comprador. Nosotros realizamos todo el proceso.
 
----
 
 ## Contactenos en Ocotlan
 
@@ -140,12 +139,13 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Primera consulta gratuita. Le atendemos personalmente.
 
-::
 
 ## Servicios legales relacionados
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
+
+::
 
 ::ServiceCta
 ---

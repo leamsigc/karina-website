@@ -132,13 +132,14 @@ Principalmente: certificado de posesion municipal, constancia de pago de predial
 WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Primera consulta gratuita. Estamos para servirle.
-
-::
+---
 
 ## Servicios legales relacionados
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
+
+::
 
 ::ServiceCta
 ---

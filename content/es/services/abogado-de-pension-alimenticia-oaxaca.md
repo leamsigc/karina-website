@@ -32,6 +32,26 @@ head:
     - name: 'robots'
       content: 'index, follow, max-image-preview:large'
 ---
+::ServiceDetailHero
+---
+title: "Pensión Alimenticia"
+subtitle: "Abogado de Pensión Alimenticia en Oaxaca"
+image: "/img/layer-family-law.jpg"
+---
+::
+
+::ServiceDetailContent
+---
+title: "Pensión Alimenticia"
+description: "La pensión alimenticia es un derecho prioritario e irrenunciable diseñado para garantizar la alimentación, vivienda, vestuario, atención médica y educación de los hijos y dependientes económicos en el Estado de Oaxaca."
+benefits:
+  - pension alimenticia oaxaca
+  - abogado pension alimenticia oaxaca
+  - embargo de sueldo por pension alimenticia oaxaca
+  - incremento de pension alimenticia oaxaca
+  - pension alimenticia retroactiva oaxaca
+  
+---
 
 # Abogado Especialista en Pensión Alimenticia en Oaxaca
 

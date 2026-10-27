@@ -141,7 +141,6 @@ Sí. La acción cambiaria tiene plazos de prescripción que corren desde el venc
 ### ¿Puedo cobrar una factura sin contrato firmado?
 Sí, si se acredita la relación comercial: factura, orden de compra, acuse de recibo, correos y pagos parciales. La calidad de los documentos determina si procede la vía ejecutiva o una acción ordinaria.
 
----
 
 **Siguiente paso:** envíenos el título o la factura y le decimos si hay vía ejecutiva, qué se puede asegurar y cuánto costaría. [Consulta gratuita](/contact) · [Derecho mercantil](/services/derecho-mercantil-oaxaca).
 

@@ -64,9 +64,7 @@ strategy: "Interpusimos un Juicio de Nulidad ante el Tribunal de Justicia Admini
 
 outcome: "El Tribunal dictó sentencia declarando la nulidad de los cobros excesivos. Se ordenó a la autoridad municipal emitir nuevas boletas prediales aplicando los valores correctos, lo que resultó en una reducción del 75% del monto originalmente exigido, protegiendo las finanzas de la empresa."
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

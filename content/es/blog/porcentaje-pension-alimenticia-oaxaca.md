@@ -145,7 +145,4 @@ Sí. Las circunstancias pueden modificarse por vía incidental: escolaridad, enf
 
 **Fuentes oficiales:** [Código Familiar para el Estado de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (última reforma, agosto 2026) — H. Congreso del Estado de Oaxaca. Consultado el 27 de octubre de 2026.
 
-::
-
----
 *Servicio relacionado: [Pensión alimenticia: cálculo y ejecución](/services/abogado-de-pension-alimenticia-oaxaca) · [Agendar consulta gratuita](/contact)*

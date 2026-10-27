@@ -35,7 +35,6 @@ title: "Lawyer in Pochutla: Divorce, Property Tax & Coast | Karina Orocio"
 result: "Nullification of Government Action"
 description: "We defended a group of local merchants against attempted closures and unlawful municipal tax collections, obtaining the nullification of the actions through the State Administrative Justice Court."
 ---
-::
 
 ## Legal Services in San Pedro Pochutla
 
@@ -93,7 +92,7 @@ Free first consultation. We respond within 24 hours.
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
-
+::
 ::ServiceCta
 ---
 title: "Lawyer in Pochutla: Divorce, Property Tax & Coast | Karina Orocio"

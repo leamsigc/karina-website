@@ -35,7 +35,7 @@ title: "Abogado en Juchitán: Divorcio, Predial y Eólico | Karina Orocio"
 result: "Renegociación Exitosa y Aumento de Regalías"
 description: "Asesoramos a un grupo de propietarios de tierras en la revisión y renegociación de contratos de usufructo con empresas de energía eólica, corrigiendo cláusulas abusivas y logrando un incremento del 40% en las contraprestaciones económicas."
 ---
-::
+
 
 ## Servicios Legales en Juchitán de Zaragoza
 
@@ -88,11 +88,12 @@ Sí. Si la construcción o operación del parque eólico ha causado afectaciones
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
-
+---
 ## Servicios legales relacionados
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
+::
 
 ::ServiceCta
 ---

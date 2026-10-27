@@ -60,7 +60,6 @@ title: "Nullity of Administrative Fine and Municipal Closure"
 result: "Saving $1.2M MXN and Immediate Reopening"
 description: "We achieved outright nullity of an arbitrary fine imposed by the municipality on a local construction company, proving serious due process violations and achieving removal of closure seals in under 48 hours via amparo."
 ---
-::
 
 ## Legal Services in Oaxaca de Juárez
 
@@ -152,13 +151,13 @@ Business operated uninterrupted.
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Free first consultation. We respond within 24 hours.
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
 
+::
 ::ServiceCta
 ---
 title: "Need a lawyer in Oaxaca de Juárez?"

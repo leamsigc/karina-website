@@ -60,7 +60,6 @@ title: "Defense Against FONATUR and PROFEPA Closure"
 result: "Definitive Suspension and Continuous Operation"
 description: "We obtained federal amparo protection for a local boutique hotel, reversing an irregular closure order for alleged environmental administrative faults, allowing the business to operate uninterrupted during high season."
 ---
-::
 
 ## Legal Services in Huatulco
 
@@ -121,12 +120,13 @@ Depends on type: some 3-6 months, others up to a year. We give a clear timeline 
 
 Free first consultation.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+
+::
 
 ::ServiceCta
 ---

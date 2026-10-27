@@ -62,9 +62,7 @@ challenge: "Nuestro cliente David R. es propietario de varios departamentos en O
 strategy: "Tras una consulta detallada con David, comprendimos que necesitaba contratos personalizados adaptados a cada tipo de propiedad. Desarrollamos un enfoque integral que incluyó la preparación de diversos modelos de contratos de arrendamiento, considerando las particularidades de cada inmueble: desde rentas a corto plazo hasta contratos de largo plazo, con diferentes términos de pago y mantenimiento."
 outcome: "Gracias a nuestro enfoque, David recibió contratos de arrendamiento personalizados que satisfacen plenamente sus necesidades y protegen sus intereses como propietario. Cada contrato fue adaptado a la situación específica: algunos incluyen condiciones para inquilinos con mascotas, mientras que otros cuentan con disposiciones especiales sobre el pago de servicios. Hoy, David renta sus departamentos con total seguridad, sabiendo que sus intereses legales están protegidos."
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

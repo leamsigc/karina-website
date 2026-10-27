@@ -64,9 +64,7 @@ strategy: "We conducted a thorough legal audit of the original contracts, identi
 
 outcome: "We got the transnational company to the negotiation table, resulting in the signing of amendment agreements. The abusive restrictive clauses were eliminated and a 40% increase in economic considerations (royalties) was achieved in favor of the landowners, ensuring fair treatment for the use of their lands."
 ---
-::
 
-
----
 
 *Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*
+::

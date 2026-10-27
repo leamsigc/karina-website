@@ -62,7 +62,6 @@ title: "Lawyer in Huajuapan: Divorce, Property Tax & Probate | Karina Orocio"
 result: "Deed and Property Title"
 description: "We represented three generations of a corn-farming family in Huajuapan who had occupied a 12-hectare plot since 1975 without a property title. Through an agrarian adverse possession proceeding, we obtained a favorable judgment granting them legal certainty, enabling them to access FIRA credits and agricultural support programs."
 ---
-::
 
 ## Legal Services in Huajuapan de Leon
 
@@ -135,12 +134,13 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Free initial consultation. We evaluate your case with no obligation.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+
+::
 
 ::ServiceCta
 ---

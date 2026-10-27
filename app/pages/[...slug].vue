@@ -264,11 +264,6 @@ if (page.value) {
 <template>
   <div v-if="page">
     <ContentRenderer :value="page" />
-    <div v-if="lastReviewedLabel" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10">
-      <p class="text-[11px] uppercase tracking-widest text-charcoal-light/70">
-        {{ t('common.last_reviewed') }}: {{ lastReviewedLabel }}
-      </p>
-    </div>
   </div>
   <div v-else class="min-h-[60vh] flex flex-col items-center justify-center text-center px-4">
     <h1 class="font-serif text-4xl text-charcoal mb-4">
@@ -277,10 +272,10 @@ if (page.value) {
     <p class="text-charcoal-light mb-8">
       {{ t('page_not_found_subtitle') }}
     </p>
-    <NuxtLinkLocale to="/" class="bg-charcoal text-cream px-6 py-3 text-xs tracking-widest uppercase font-medium hover:bg-gold hover:text-charcoal transition-colors">
+    <NuxtLinkLocale to="/"
+      class="bg-charcoal text-cream px-6 py-3 text-xs tracking-widest uppercase font-medium hover:bg-gold hover:text-charcoal transition-colors">
       {{ t('back_to_home') }}
     </NuxtLinkLocale>
   </div>
 </template>
-<style scoped>
-</style>
+<style scoped></style>

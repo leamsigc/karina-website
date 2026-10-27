@@ -69,9 +69,7 @@ outcome: "En menos de 48 horas, el Juez de Distrito concedió la suspensión, or
 ---
 serviceTitle: "derecho administrativo"
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

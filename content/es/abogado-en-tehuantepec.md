@@ -35,7 +35,7 @@ title: "Abogado en Tehuantepec: Sucesiones, Predial y Linderos | Karina Orocio"
 result: "Adjudicación Pacífica de Bienes"
 description: "Resolvimos un litigio familiar de más de 10 años sobre una herencia intestada con múltiples propiedades comerciales. Mediante mediación estratégica y litigio civil, logramos la partición justa y la escrituración a favor de nuestros clientes."
 ---
-::
+
 
 ## Servicios Legales en Santo Domingo Tehuantepec
 
@@ -77,7 +77,6 @@ Sí. Si ha poseído el inmueble de forma pacífica por más de 5 años, puede tr
 **¿Qué diferencia hay entre testamento y sucesión intestamentaria?**
 El testamento es un acto voluntario en vida donde usted designa herederos. La sucesión intestamentaria ocurre cuando alguien fallece sin testamento, y la ley determina quiénes heredan. Siempre recomendamos testamentarse para ahorrar tiempo y dinero a la familia.
 
----
 
 ## Contáctenos en Tehuantepec
 
@@ -93,7 +92,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
-
+::
 ::ServiceCta
 ---
 title: "Abogado en Tehuantepec: Sucesiones, Predial y Linderos | Karina Orocio"

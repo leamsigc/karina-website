@@ -31,6 +31,29 @@ head:
       content: 'index, follow, max-image-preview:large'
 ---
 
+::ServiceDetailHero
+---
+title: "Child Support Lawyer Oaxaca"
+subtitle: "Child Support Lawyer Oaxaca, family lawyer oaxaca, divorce attorney near me, expat divorce law mexico, child custody oaxaca, child support mexico, legal services oaxaca"
+image: "/img/layer-family-law.jpg"
+---
+::
+
+::ServiceDetailContent
+---
+title: "Child Support Lawyer Oaxaca"
+description: "Emergency child support orders, garnishment, and modifications for expats and locals in Oaxaca."
+benefits:
+  - Emergency child support orders, garnishment, and modifications for expats and locals in Oaxaca.
+  - Child support & alimony attorney in Oaxaca.
+  - Family lawyer oaxaca.
+  - Divorce attorney near me.
+  - Expat divorce law mexico.
+  - Child custody oaxaca.
+  - Child support mexico.
+---
+
+
 # Child Support & Alimony Attorney in Oaxaca
 
 Child support (*pensión alimenticia*) in the State of Oaxaca is a strictly enforced legal right designed to secure living expenses, education, health care, and housing for children and eligible spouses.

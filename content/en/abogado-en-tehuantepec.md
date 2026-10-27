@@ -35,7 +35,6 @@ title: "Lawyer in Tehuantepec: Probate, Property Tax & Boundaries | Karina Oroci
 result: "Peaceful Asset Adjudication"
 description: "We resolved a family dispute spanning more than 10 years over an intestate estate involving multiple commercial properties. Through strategic mediation and civil litigation, we achieved a fair partition and titling in favor of our clients."
 ---
-::
 
 ## Legal Services in Santo Domingo Tehuantepec
 
@@ -93,6 +92,7 @@ Free first consultation. We respond within 24 hours.
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

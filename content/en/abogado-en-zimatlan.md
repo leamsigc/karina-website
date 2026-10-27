@@ -62,7 +62,6 @@ title: "Lawyer in Zimatlán: Divorce, Custody & Property Tax | Karina Orocio"
 result: "Legal Certainty and Access to Expansion Credit"
 description: "We represented a family of textile artisans in Zimatlan who had operated their workshop on a plot without deeds for three generations. Through an adverse possession proceeding followed by asset division among heirs, we secured the property title, enabling them to access an $800,000 MXN credit to purchase equipment and expand their artisanal rug production."
 ---
-::
 
 ## Legal Services in Zimatlan de Alvarez
 
@@ -135,12 +134,13 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Free initial consultation. We are here to serve you.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+
+::
 
 ::ServiceCta
 ---

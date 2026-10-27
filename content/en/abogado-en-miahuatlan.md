@@ -62,7 +62,6 @@ title: "Lawyer in Miahuatlán: Divorce, Custody & Land Title | Karina Orocio"
 result: "Property Title and Access to Premium Market"
 description: "We advised a family of artisanal mezcal producers in Miahuatlan who had operated their distillery on a plot without deeds for over 30 years. Through adverse possession and boundary rectification, we secured the parcel's title, enabling them to obtain the Mezcal Denomination of Origin certificate and market their product internationally at a 3x price premium."
 ---
-::
 
 ## Legal Services in Miahuatlan de Porfirio Diaz
 
@@ -135,12 +134,12 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Free initial consultation. We evaluate your case with personalized attention.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

@@ -64,9 +64,6 @@ strategy: "Analizamos detalladamente la operación de compraventa y los cálculo
 
 outcome: "Interpusimos el recurso administrativo correspondiente y demostramos ante la autoridad municipal que existían errores en el cálculo del impuesto predial. Como resultado, se realizó una corrección en la determinación del tributo, logrando que nuestra clienta pagara un monto justo y adecuado a la realidad de su propiedad, representando un ahorro significativo en comparación con la boleta original."
 ---
-::
 
-
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

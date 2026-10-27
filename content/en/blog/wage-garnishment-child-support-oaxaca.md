@@ -155,7 +155,4 @@ Do not let unpaid child support jeopardize your family's future, and do not suff
 📲 **WhatsApp / Direct Line:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
-::
-
----
 *Related service: [Child support: calculation & enforcement](/en/services/child-support-alimony-lawyer-oaxaca) · [Schedule a free consultation](/en/contact)*

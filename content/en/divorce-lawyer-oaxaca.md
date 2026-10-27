@@ -47,7 +47,28 @@ head:
     - name: "description"
       content: "English-speaking divorce & family lawyer in Oaxaca. No-fault divorce in 1–3 months, child custody, alimony & asset protection. Free consultation: +52 951 615 3010."
 ---
-<div class="prose prose-xl prose-slate dark:prose-invert  mx-auto max-w-4xl my-16 font-serif font-light text-xl">
+::ServiceDetailHero
+---
+title: "Divorce Lawyer Oaxaca"
+subtitle: "divorce lawyer oaxaca, family lawyer oaxaca, divorce attorney near me, expat divorce law mexico, child custody oaxaca, child support mexico, legal services oaxaca"
+image: "/img/layer-family-law.jpg"
+---
+::
+
+::ServiceDetailContent
+---
+title: "Divorce Lawyer Oaxaca"
+description: "English-speaking divorce & family lawyer in Oaxaca. No-fault divorce in 1–3 months, child custody, alimony & asset protection. Call +52 951 615 3010."
+benefits:
+  - divorce lawyer oaxaca
+  - family lawyer oaxaca
+  - divorce attorney near me
+  - expat divorce law mexico
+  - child custody oaxaca
+  - child support mexico
+  - legal services oaxaca
+---
+
 
 # Divorce Lawyer & Family Attorney in Oaxaca, Mexico
 
@@ -136,8 +157,8 @@ Do not navigate Mexican family court alone. Get immediate, expert legal advice f
   </a>
 </div>
 
-</div>
-
----
-
 **Primary sources:** [Family Code of the State of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (last amendment published August 2026) · [Code of Civil Procedure of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — Congress of the State of Oaxaca. Accessed 27 October 2026.
+
+
+
+

@@ -35,7 +35,6 @@ title: "Lawyer in Juchitán: Divorce, Property Tax & Wind Energy | Karina Orocio
 result: "Successful Renegotiation and Royalty Increase"
 description: "We advised a group of landowners in the review and renegotiation of usufruct contracts with wind energy companies, correcting abusive clauses and achieving a 40% increase in economic compensation."
 ---
-::
 
 ## Legal Services in Juchitán de Zaragoza
 
@@ -93,6 +92,7 @@ Free first consultation. We respond within 24 hours.
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

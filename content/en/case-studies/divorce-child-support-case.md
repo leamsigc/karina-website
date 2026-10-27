@@ -65,9 +65,7 @@ strategy: "We implemented a strategy based on conciliation and conflict preventi
 
 outcome: "The result was an agile and effective formalization before the family courts of Oaxaca de Juárez. We managed to avoid a conflictive process of several years, obtaining a favorable resolution in record time. This case demonstrates the importance of legal advice that not only protects the client's legal interests but also prioritizes the best interests of the minors, achieving lasting family peace."
 ---
-::
 
-
----
 
 *Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*
+::

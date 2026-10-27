@@ -127,7 +127,4 @@ Protect your capital and ensure seamless property transactions in Mexico. We pro
 📲 **WhatsApp Direct:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
-::
-
----
 *Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*

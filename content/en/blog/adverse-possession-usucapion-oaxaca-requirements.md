@@ -155,9 +155,6 @@ Un-deeded property cannot be safely resold or mortgaged. Secure your family's re
 📱 **WhatsApp [+52 951 615 3010](https://wa.me/529516153010)** — send "USUCAPION + Property Location" for an immediate initial consultation.  
 📍 Physical offices in Oaxaca de Juárez, offering remote representation for property owners across Mexico, USA, and Canada.
 
-::
-
----
 *Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*
 
 

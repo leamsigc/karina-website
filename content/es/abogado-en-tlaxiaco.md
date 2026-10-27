@@ -35,7 +35,6 @@ title: "Abogado en Tlaxiaco: Divorcio, Sucesiones y Predial | Karina Orocio"
 result: "Obtención de Títulos de Propiedad"
 description: "Llevamos a cabo con éxito una serie de juicios de prescripción adquisitiva (usucapión) para familias que habitaban sus propiedades por décadas sin escrituras, otorgándoles finalmente certeza jurídica y valor comercial a sus hogares."
 ---
-::
 
 ## Servicios Legales en Heroica Ciudad de Tlaxiaco
 
@@ -77,7 +76,6 @@ Las propiedades ejidales requieren un procedimiento especial ante el Tribunal Un
 **¿Qué documentos necesito para iniciar una rectificación de acta?**
 Necesita el acta original con el error, su identificación oficial, actas de nacimiento de sus hijos (si aplica), y cualquier documento que acredite el dato correcto (IFE, pasaporte, cédula profesional). Le guiamos en cada paso.
 
----
 
 ## Contáctenos en Tlaxiaco
 
@@ -93,7 +91,7 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
-
+::
 ::ServiceCta
 ---
 title: "Abogado en Tlaxiaco: Divorcio, Sucesiones y Predial | Karina Orocio"

@@ -65,9 +65,7 @@ strategy: "Implementamos una estrategia basada en la conciliación y la prevenci
 
 outcome: "El resultado fue una formalización ágil y efectiva ante los juzgados familiares de Oaxaca de Juárez. Se logró evitar un proceso conflictivo de varios años, obteniendo una resolución favorable en un tiempo récord. Este caso demuestra la importancia de una asesoría jurídica que no solo protege los intereses legales del cliente, sino que también prioriza el bienestar superior de los menores, logrando una paz familiar duradera."
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

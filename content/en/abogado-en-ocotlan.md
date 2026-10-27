@@ -62,7 +62,6 @@ title: "Lawyer in Ocotlán: Divorce, Property Tax & Mezcal | Karina Orocio"
 result: "Full Payment of $350,000 MXN in 45 Days"
 description: "We represented a wholesale grocery merchant in Ocotlan carrying an overdue portfolio of over $350,000 MXN from 5 delinquent clients. Through strategic commercial enforcement proceedings and precautionary asset attachments, we achieved full debt recovery in just 45 days, saving their business from bankruptcy and setting a precedent for the remaining debtors."
 ---
-::
 
 ## Legal Services in Ocotlan de Morelos
 
@@ -142,12 +141,12 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Free initial consultation. We attend to you personally.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

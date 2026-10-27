@@ -144,7 +144,4 @@ Avoid unnecessary international flights and legal delays. We provide transparent
 📲 **WhatsApp Direct:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Website:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
-::
-
----
 *Related service: [Family law: divorce, support & custody](/en/services/derecho-familiar-oaxaca) · [Schedule a free consultation](/en/contact)*

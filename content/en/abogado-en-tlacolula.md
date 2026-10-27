@@ -62,7 +62,6 @@ title: "Lawyer in Tlacolula: Divorce, Property Tax & Commerce | Karina Orocio"
 result: "Property Title and Permanent Commercial Permit"
 description: "We advised a family that had operated a barbacoa and mole stall at the Tlacolula market for over 25 years without a property title or regularized municipal permit. We carried out the adverse possession proceeding and managed the regularization of the operating permit with the municipality, ensuring business continuity and its transfer to future generations."
 ---
-::
 
 ## Legal Services in Tlacolula de Matamoros
 
@@ -137,12 +136,12 @@ WhatsApp: [+52 951 615 3010](https://wa.me/529516153010)
 
 Free initial consultation. We look forward to helping you.
 
-::
 
 ## Related legal services
 - [Family law: divorce & child support](/en/services/derecho-familiar-oaxaca)
 - [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca)
 - [Defense against excessive property tax](/en/services/municipal-law-oaxaca)
+::
 
 ::ServiceCta
 ---

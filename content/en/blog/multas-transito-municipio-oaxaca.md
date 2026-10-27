@@ -70,7 +70,4 @@ Fighting a traffic fine is not just a matter of money; it is a matter of legalit
 **Were you unfairly fined in Oaxaca de Juárez?**
 Do not let the 15-day deadline expire. Contact us today to analyze the legality of your violation and defend your assets.
 
-::
-
----
 *Related service: [Defense against excessive fines & taxes](/en/services/municipal-law-oaxaca) · [Schedule a free consultation](/en/contact)*

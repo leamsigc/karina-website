@@ -132,7 +132,4 @@ Protege los derechos de tu hijo con abogadas expertas en juicio de paternidad en
 📲 **WhatsApp / Teléfono Directo:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
-::
-
----
 *Servicio relacionado: [Derecho familiar: divorcio, pensión y custodia](/services/derecho-familiar-oaxaca) · [Agendar consulta gratuita](/contact)*

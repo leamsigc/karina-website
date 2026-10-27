@@ -39,6 +39,9 @@ withDefaults(defineProps<Props>(), {
         </slot>
       </div>
     </div>
+    <section>
+      <slot></slot>
+    </section>
 
   </div>
 </template>

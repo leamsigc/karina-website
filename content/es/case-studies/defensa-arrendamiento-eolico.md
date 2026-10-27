@@ -64,9 +64,7 @@ strategy: "Realizamos una auditoría legal exhaustiva de los contratos originale
 
 outcome: "Logramos sentar a la empresa transnacional a la mesa de negociación, resultando en la firma de convenios modificatorios. Se eliminaron las cláusulas restrictivas abusivas y se logró un incremento del 40% en las contraprestaciones económicas (regalías) a favor de los propietarios, asegurando un trato justo por el uso de sus tierras."
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

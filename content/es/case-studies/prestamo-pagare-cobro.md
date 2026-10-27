@@ -65,9 +65,7 @@ strategy: "Diseñamos una estrategia legal contundente basada en la interposici�
 
 outcome: "Gracias a la ejecución impecable de la estrategia, no solo logramos que el juez ordenara la devolución inmediata del monto principal prestado, sino que también obtuvimos una sentencia que obligó al pago de los intereses moratorios generados durante todo el tiempo del incumplimiento. Este caso refleja la importancia de contar con asesoría jurídica oportuna para hacer valer los instrumentos legales y asegurar el cumplimiento de las obligaciones patrimoniales."
 ---
-::
 
 
----
 
 *Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

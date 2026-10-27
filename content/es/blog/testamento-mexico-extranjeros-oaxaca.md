@@ -128,7 +128,4 @@ Elabora tu testamento con máxima certeza jurídica. Ofrecemos asesoría integra
 📲 **WhatsApp Directo:** [+52 951 615 3010](https://wa.me/529516153010)  
 🌐 **Sitio Web:** [abogada-karina-oaxaca.com](https://abogada-karina-oaxaca.com)
 
-::
-
----
 *Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*

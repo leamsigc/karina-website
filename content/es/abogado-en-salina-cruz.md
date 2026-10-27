@@ -35,7 +35,7 @@ title: "Abogado en Salina Cruz: Divorcio, Predial y Corporativo | Karina Orocio"
 result: "Recuperación del 100% de la Cartera Vencida"
 description: "Representamos exitosamente a una empresa proveedora de servicios marítimos en el cobro judicial de facturas millonarias a contratistas de la región, logrando el embargo precauctorio de cuentas y el pago total de la deuda más intereses legales."
 ---
-::
+
 
 ## Servicios Legales en Salina Cruz
 
@@ -88,11 +88,13 @@ Requiere autorización de la API Salina Cruz, además de permisos municipales, d
 💻 **Website:** https://abogada-karina-oaxaca.com
 
 Primera consulta gratuita. Le respondemos en menos de 24 horas.
-
+---
 ## Servicios legales relacionados
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
+
+::
 
 ::ServiceCta
 ---

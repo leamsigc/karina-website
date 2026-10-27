@@ -47,7 +47,27 @@ head:
     - name: "description"
       content: "Abogada especialista en divorcio en Oaxaca. Divorcio incausado rápido (1-3 meses), pensión alimenticia justa y reparto de bienes. Primera consulta gratis — 951 615 3010."
 ---
-<div class="prose prose-xl prose-slate dark:prose-invert mx-auto max-w-4xl my-16 font-serif font-light text-xl">
+
+::ServiceDetailHero
+---
+title: "Abogado de Divorcio en Oaxaca"
+subtitle: "Abogada especialista en divorcio en Oaxaca. Divorcio incausado rápido (1-3 meses), pensión alimenticia justa y reparto de bienes."
+image: "/img/layer-family-law.jpg"
+---
+::
+
+::ServiceDetailContent
+---
+title: "Abogado de Divorcio en Oaxaca"
+description: ""
+benefits:
+  - abogado de divorcio oaxaca
+  - divorcio incausado oaxaca
+  - divorcio express oaxaca
+  - abogada de divorcio
+  - lic de divorcio oaxaca
+---
+
 
 # Abogado de Divorcio en Oaxaca: Trámite Rápido y Legalmente Seguro
 
@@ -125,8 +145,6 @@ No dejes pasar el tiempo. Toma el control de tu tranquilidad y tu futuro patrimo
   </a>
 </div>
 
-</div>
-
----
-
 **Fuentes oficiales:** [Código Familiar para el Estado de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (última reforma publicada en agosto de 2026) · [Código de Procedimientos Civiles de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — H. Congreso del Estado de Oaxaca. Consultados el 27 de octubre de 2026.
+
+

@@ -64,9 +64,8 @@ strategy: "We know the specific procedures and requirements of the different mun
 
 outcome: "Thanks to our experience and knowledge of municipal procedures, we managed to obtain the official number for our client's property in less than a month, a record time that pleasantly surprised María G., who expected a much longer and more tedious process."
 ---
-::
 
 
----
 
 *Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*
+::

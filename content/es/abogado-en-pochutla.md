@@ -35,7 +35,7 @@ title: "Abogado en Pochutla: Divorcio, Predial y Costa | Karina Orocio"
 result: "Nulidad de Acto de Autoridad"
 description: "Defendimos a un grupo de comerciantes locales ante intentos de clausura y cobros de impuestos municipales fuera de la ley, obteniendo la nulidad de los actos a través del Tribunal de Justicia Administrativa del Estado."
 ---
-::
+
 
 ## Servicios Legales en San Pedro Pochutla
 
@@ -77,7 +77,6 @@ Sí. Cuando el municipio realiza obras o actos administrativos que afectan su pr
 **¿Qué necesito para iniciar un divorcio en Pochutla?**
 Solo requiere su acta de matrimonio, identificación oficial y la manifestación de su voluntad de divorciarse. No es necesario señalar una causa. El divorcio incausado se tramita de forma ágil y sin confrontación.
 
----
 
 ## Contáctenos en Pochutla
 
@@ -93,6 +92,9 @@ Primera consulta gratuita. Le respondemos en menos de 24 horas.
 - [Derecho familiar: divorcio y pensión alimenticia](/services/derecho-familiar-oaxaca)
 - [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca)
 - [Defensa contra cobros prediales excesivos](/services/derecho-municipal-oaxaca)
+
+
+::
 
 ::ServiceCta
 ---

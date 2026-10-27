@@ -84,7 +84,6 @@ Desconfíe de quien le da un precio por teléfono sin conocer su caso. Un presup
 
 El verdadero costo de un mal divorcio no son los honorarios, sino una pensión mal calculada o una custodia perdida. Conozca cómo gestionamos la [pensión alimenticia](/services/abogado-de-pension-alimenticia-oaxaca) y revise el panorama completo de nuestro [derecho familiar](/services/derecho-familiar-oaxaca) antes de decidir.
 
----
 
 ## Solicite su presupuesto gratuito hoy
 

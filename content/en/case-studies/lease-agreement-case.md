@@ -63,9 +63,8 @@ strategy: "After consulting with David, we understood that he needed personalize
 
 outcome: "Thanks to our approach, David received personalized lease contracts that fully meet his needs and protect his interests as an owner. Each contract was adapted to the specific situation: some include conditions for tenants with pets, others have special provisions for utility payment arrangements. Today, David confidently rents his apartments, knowing that his legal interests are well protected."
 ---
-::
 
 
----
 
 *Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*
+::
