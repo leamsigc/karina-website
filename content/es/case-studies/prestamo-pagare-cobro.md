@@ -1,10 +1,10 @@
 ---
 layout: case-studies
-title: "Préstamo y Pagaré: Edenia López"
+title: "Préstamo y Pagaré: Edenia L."
 description: "Caso de éxito: Recuperación de capital e intereses derivados de un pagaré en Oaxaca de Juárez mediante una demanda ejecutiva mercantil exitosa."
 type: case
 caseOverview:
-  client: "Edenia López"
+  client: "Edenia L."
   location: "Oaxaca de Juárez"
   result: "Recuperación de Capital e Intereses"
   category: "Derecho Mercantil"
@@ -14,7 +14,7 @@ tags:
   - pagaré oaxaca
   - recuperación de capital
   - derecho mercantil oaxaca
-  - Edenia López
+  - Edenia L.
 author:
   name: 'Karina Orocio Cruz'
   role: 'Abogada Postulante'
@@ -22,21 +22,22 @@ author:
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/karina-hero.png'
-  alt: 'Recuperación de Pagaré Edenia López'
+  alt: 'Recuperación de Pagaré Edenia L.'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Caso de Éxito: Recuperación de Pagaré'
-    description: 'Recuperación de capital e intereses para Edenia López en Oaxaca.'
+    description: 'Recuperación de capital e intereses para Edenia L. en Oaxaca.'
     image: '/img/karina-hero.png'
     headline: 'Caso de Éxito'
 publishedAt: '2024-05-15'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, pagaré, Edenia López, Karina Orocio Cruz, cobranza mercantil'
+      content: 'caso de exito oaxaca, pagaré, Edenia L., Karina Orocio Cruz, cobranza mercantil'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
@@ -48,7 +49,7 @@ head:
 ::CaseStudyDetailHero
 ---
 title: "Préstamo II Pagaré"
-client: "Edenia López"
+client: "Edenia L."
 location: "Oaxaca de Juárez"
 result: "Recuperación de Capital e Intereses"
 category: "Derecho Mercantil"
@@ -58,10 +59,15 @@ image: "/img/karina-hero.png"
 
 ::CaseStudyDetailContent
 ---
-challenge: "La señora Edenia López enfrentaba una situación crítica: había prestado una suma importante de dinero a conocidos basada en la confianza y respaldada por la firma de un pagaré. Sin embargo, al llegar la fecha de vencimiento, los deudores se negaban sistemáticamente a cumplir con su obligación de pago, poniendo en riesgo el patrimonio de nuestra clienta."
+challenge: "La clienta enfrentaba una situación crítica: había prestado una suma importante de dinero a conocidos basada en la confianza y respaldada por la firma de un pagaré. Sin embargo, al llegar la fecha de vencimiento, los deudores se negaban sistemáticamente a cumplir con su obligación de pago, poniendo en riesgo el patrimonio de nuestra clienta."
 
 strategy: "Diseñamos una estrategia legal contundente basada en la interposición de una Demanda Ejecutiva Mercantil. Aprovechamos la naturaleza del pagaré como título ejecutivo que trae aparejada ejecución, lo que nos permitió solicitar el embargo precautorio de bienes para garantizar el pago desde el inicio del proceso. Realizamos un seguimiento técnico puntual del expediente ante los juzgados de Oaxaca de Juárez para evitar dilaciones procesales."
 
 outcome: "Gracias a la ejecución impecable de la estrategia, no solo logramos que el juez ordenara la devolución inmediata del monto principal prestado, sino que también obtuvimos una sentencia que obligó al pago de los intereses moratorios generados durante todo el tiempo del incumplimiento. Este caso refleja la importancia de contar con asesoría jurídica oportuna para hacer valer los instrumentos legales y asegurar el cumplimiento de las obligaciones patrimoniales."
 ---
 ::
+
+
+---
+
+*Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

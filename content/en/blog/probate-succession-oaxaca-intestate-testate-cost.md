@@ -1,18 +1,19 @@
 ---
 layout: blog
-title: "Probate Oaxaca 2025: Intestate vs Testate"
-description: "Probate in Oaxaca 2025: intestate vs testate, cost $18k-$45k, time 6-12 months. Requirements, stages and how to avoid family fights. Free consult 951-615-3010."
+title: "Probate Oaxaca 2026: Intestate vs Testate"
+description: "Probate in Oaxaca 2026: intestate vs testate, cost $18k-$45k, time 6-12 months. Requirements, stages and how to avoid family fights. Free consult 951-615-3010."
 image:
   src: '/img/layer-office-building.jpg'
   alt: 'Probate succession in Oaxaca - intestate and testate'
 ogImage:
   component: BlogOgImage
   props:
-    title: 'Probate Oaxaca 2025'
+    title: 'Probate Oaxaca 2026'
     description: 'Intestate vs testate: cost, time and requirements to inherit without conflict.'
     image: '/img/layer-office-building.jpg'
     headline: 'Civil Law'
 publishedAt: '2026-08-25'
+lastReviewed: "2026-10-27"
 date: '2026-08-25'
 category: 'Civil Law'
 featured: true
@@ -36,10 +37,10 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Probate Oaxaca 2025: intestate vs testate, $18k-$45k, 6-12 months. Requirements. Free consult 951-615-3010.'
+      content: 'Probate Oaxaca 2026: intestate vs testate, $18k-$45k, 6-12 months. Requirements. Free consult 951-615-3010.'
 schemaOrg:
   - "@type": "BlogPosting"
-    headline: "Probate in Oaxaca 2025: Intestate vs Testate - Cost and Timeline"
+    headline: "Probate in Oaxaca 2026: Intestate vs Testate - Cost and Timeline"
     description: "Guide: probate in Oaxaca intestate and testate, cost, time and stages."
     author:
       "@type": "Person"
@@ -67,7 +68,7 @@ schemaOrg:
 
 ::BlogPost
 ---
-title: "Probate in Oaxaca 2025: Intestate vs Testate - Cost and Timeline"
+title: "Probate in Oaxaca 2026: Intestate vs Testate - Cost and Timeline"
 publishedAt: "2026-08-25"
 author:
   name: "Karina Orocio Cruz"
@@ -116,7 +117,7 @@ No unanimity needed — notified heirs in default, case continues.
 
 ---
 
-## Cost 2025
+## Cost 2026
 
 | Scenario | Fees | Rights | Total |
 |----------|------|--------|-------|
@@ -148,3 +149,8 @@ If no deed: probate over possession, then usucapión.
 
 ---
 *Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*
+
+
+---
+
+**Primary sources:** [Family Code of the State of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (last amendment published August 2026) · [Code of Civil Procedure of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — Congress of the State of Oaxaca. Accessed 27 October 2026.

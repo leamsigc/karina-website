@@ -64,6 +64,16 @@ const retiredUrlRules = Object.fromEntries(
   Object.entries(retiredUrls).map(([from, to]) => [from, { redirect: { to, statusCode: 301 } }]),
 )
 
+// Cross-locale slug guesses: `/en` + an ES slug, or an EN slug without `/en`.
+// No such page exists, but hreflang/crawler requests used to prerender a 200
+// "not found" page for them, which then leaked into the sitemap (10 URLs).
+const crossLocaleGuesses = [...new Set(
+  Object.entries(ES_TO_EN_CONTENT_PATHS).flatMap(([esPath, enPath]) => [
+    `/en${esPath}`,
+    enPath.replace(/^\/en/, ''),
+  ]),
+)].filter(path => !contentPrerenderRoutes.includes(path))
+
 export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
 
@@ -91,6 +101,8 @@ export default defineNuxtConfig({
       crawlLinks: true,
       autoSubfolderIndex: false,
       failOnError: false,
+      // Never prerender a URL that only exists as a wrong-locale slug guess.
+      ignore: crossLocaleGuesses,
       // Generated from the content tree (see `contentRoutes` above), not hardcoded:
       // every markdown file gets a prerendered route, including orphans.
       routes: contentPrerenderRoutes,

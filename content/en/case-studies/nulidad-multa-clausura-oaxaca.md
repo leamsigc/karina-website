@@ -31,6 +31,7 @@ ogImage:
     image: '/img/layer-office-building.jpg'
     headline: 'Success Case'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -71,3 +72,8 @@ outcome: "In less than 48 hours, the District Judge granted the suspension, orde
 serviceTitle: "administrative law"
 ---
 ::
+
+
+---
+
+*Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*

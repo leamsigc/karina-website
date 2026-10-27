@@ -14,6 +14,7 @@ ogImage:
     image: '/img/layer-office-building.jpg'
     headline: 'Juchitán'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -42,7 +43,7 @@ description: "Asesoramos a un grupo de propietarios de tierras en la revisión y
 Juchitán es el epicentro de la energía eólica en Oaxaca, con decenas de parques eólicos operando en la región. Muchos propietarios de tierras firman contratos de usufructo sin entender completamente las cláusulas de duración, contraprestaciones y servidumbre. Revisamos cada contrato para garantizar que reciba regalías justas y que sus derechos de propiedad no se vean comprometidos a largo plazo.
 
 ### Defensa Comercial para Empresas Locales
-El crecimiento del corredor comercial del Istmo ha traído oportunidades, pero también conflictos entre proveedores, distribuidores y contratistas. Litigamos juicios mercantiles, ejecutivos y cobro de cartera vencida con resultados comprobables ante los juzgados de la región.
+El crecimiento del corredor comercial del Istmo ha traído oportunidades, pero también conflictos entre proveedores, distribuidores y contratistas. Litigamos juicios mercantiles, ejecutivos y cobro de cartera vencida ante los juzgados de la región.
 
 ### Derecho Familiar y Sucesiones
 Las familias juchitecas enfrentan retos legales que van desde divorcios y pensiones alimenticias hasta juicios sucesorios intestamentarios. Brindamos acompañamiento sensible y profesional para resolver conflictos familiares sin desgastar las relaciones personales.
@@ -52,7 +53,7 @@ Las familias juchitecas enfrentan retos legales que van desde divorcios y pensio
 ## ¿Por qué elegir nuestra firma en Juchitán?
 
 - **Más de 10 años de experiencia** en tribunales oaxaqueños
-- **98% de casos de éxito** documentados
+- **Seguimiento directo de cada expediente** por la licenciada
 - Representación ante **todos los tribunales locales y federales** de la zona
 - Honorarios claros - primera consulta gratuita
 - Atención personalizada directamente con la licenciada

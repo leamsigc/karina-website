@@ -45,6 +45,7 @@ schemaOrg:
           "@type": "Answer"
           text: "No-fault divorce allows either spouse to dissolve the marriage without proving fault or grounds. It is faster and less adversarial."
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -171,3 +172,8 @@ When your family needs it, you need the best legal support. We act with firmness
 **Confidential consultation is free.** Tell us your story and let us help.
 
 ::
+
+
+---
+
+**Primary sources:** [Family Code of the State of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (last amendment published August 2026) · [Code of Civil Procedure of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — Congress of the State of Oaxaca. Accessed 27 October 2026.

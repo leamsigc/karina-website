@@ -8,11 +8,12 @@ image:
 ogImage:
   component: BlogOgImage
   props:
-    title: 'Juicio Sucesorio Oaxaca 2025'
+    title: 'Juicio Sucesorio Oaxaca 2026'
     description: 'Intestado vs testamentario: costo, tiempo y requisitos para heredar sin conflicto.'
     image: '/img/layer-office-building.jpg'
     headline: 'Derecho Civil'
 publishedAt: '2026-08-25'
+lastReviewed: "2026-10-27"
 date: '2026-08-25'
 category: 'Derecho Civil'
 featured: true
@@ -36,11 +37,11 @@ head:
     - name: 'author'
       content: 'Karina Orocio Cruz'
     - name: 'description'
-      content: 'Juicio sucesorio Oaxaca 2025: intestado vs testamentario, costo $18k-$45k, tiempo 6-12 meses. Requisitos y etapas. Consulta gratis 951-615-3010.'
+      content: 'Juicio sucesorio Oaxaca 2026: intestado vs testamentario, costo $18k-$45k, tiempo 6-12 meses. Requisitos y etapas. Consulta gratis 951-615-3010.'
 schemaOrg:
   - "@type": "BlogPosting"
-    headline: "Juicio Sucesorio Oaxaca 2025: Intestamentario vs Testamentario - Costo y Tiempo"
-    description: "Guía 2025: juicio sucesorio en Oaxaca intestamentario y testamentario, costo, tiempo, requisitos y etapas para heredar sin conflicto."
+    headline: "Juicio Sucesorio Oaxaca 2026: Intestamentario vs Testamentario - Costo y Tiempo"
+    description: "Guía 2026: juicio sucesorio en Oaxaca intestamentario y testamentario, costo, tiempo, requisitos y etapas para heredar sin conflicto."
     author:
       "@type": "Person"
       name: "Karina Orocio Cruz"
@@ -64,7 +65,7 @@ schemaOrg:
           "@type": "Answer"
           text: "Es el juicio para heredar cuando no hay testamento. El juez identifica herederos según Código Civil Oaxaca (hijos, cónyuge, padres), nombra albacea, inventaría bienes y adjudica. Tarda 6-12 meses sin conflicto."
       - "@type": "Question"
-        name: "¿Cuánto cuesta un juicio sucesorio en Oaxaca en 2025?"
+        name: "¿Cuánto cuesta un juicio sucesorio en Oaxaca en 2026?"
         acceptedAnswer:
           "@type": "Answer"
           text: "Intestamentario sin conflicto $18k-$28k honorarios + $3k-$6k derechos/avalúos. Con conflicto o múltiples inmuebles $28k-$45k. Testamentario es 20% más barato por ser menos pruebas. En 3 pagos."
@@ -86,7 +87,7 @@ schemaOrg:
 ---
 ::BlogPost
 ---
-title: "Juicio Sucesorio Oaxaca 2025: Intestamentario vs Testamentario - Costo y Tiempo"
+title: "Juicio Sucesorio Oaxaca 2026: Intestamentario vs Testamentario - Costo y Tiempo"
 publishedAt: "2026-08-25"
 author:
   name: "Karina Orocio Cruz"
@@ -99,7 +100,7 @@ Cuando fallece un familiar en Oaxaca, la casa, el terreno y las cuentas no pasan
 
  El **juicio sucesorio intestamentario** (sin testamento) identifica herederos, nombra albacea, inventaría y adjudica. Tarda **6-12 meses sin conflicto**, **12-18 con conflicto**. Cuesta **$18k-$45k** según inmuebles y conflicto. Con testamento es más rápido (4-8 meses). Se tramita en **Juzgados Civiles Familiares del Centro**.
 
-¿Buscas **juicio sucesorio Oaxaca**, **juicio intestado oaxaca costo** o **qué hacer si no hay testamento**? Esta guía trae requisitos, etapas, tiempos y costos reales 2025.
+¿Buscas **juicio sucesorio Oaxaca**, **juicio intestado oaxaca costo** o **qué hacer si no hay testamento**? Esta guía trae requisitos, etapas, tiempos y costos reales 2026.
 
 > **Asesoría gratis — WhatsApp 951-615-3010.** Envía “SUCESORIO + acta defunción + si hay testamento” y te digo si es intestado o testamentario con presupuesto cerrado.
 
@@ -119,7 +120,7 @@ Cuando fallece un familiar en Oaxaca, la casa, el terreno y las cuentas no pasan
 
 ---
 
-## Requisitos 2025 (checklist)
+## Requisitos 2026 (checklist)
 
 **Para intestamentario:**
 1. **Acta de defunción** del autor
@@ -154,7 +155,7 @@ El Código de Procedimientos Civiles Oaxaca divide el sucesorio en **4 secciones
 
 > **Tip Oaxaca:** La Sección I es la más litigada — hermanos que “no sabían” del hermano fuera de matrimonio aparecen en edictos. Por eso el albacea debe publicar y notificar bien; si no, la sentencia se puede nulificar después.
 
-**Tiempos reales 2025:**
+**Tiempos reales 2026:**
 - **Testamentario sin conflicto:** 4-6 meses a adjudicación
 - **Intestamentario sin conflicto (2-3 herederos, 1 casa):** 6-10 meses
 - **Con heredero ilocalizable (edictos + oficios):** 12-15 meses
@@ -173,7 +174,7 @@ El Código de Procedimientos Civiles Oaxaca divide el sucesorio en **4 secciones
 
 ---
 
-## Costo 2025 transparente
+## Costo 2026 transparente
 
 | Escenario | Honorarios | Derechos + avalúo + edictos | Total |
 |-----------|------------|-----------------------------|-------|
@@ -213,3 +214,8 @@ El plazo para reclamar herencia es 10 años, pero los pleitos, ventas irregulare
 
 ---
 *Servicio relacionado: [Derecho civil: propiedades, herencias y contratos](/services/derecho-civil-oaxaca) · [Agendar consulta gratuita](/contact)*
+
+
+---
+
+**Fuentes oficiales:** [Código Familiar para el Estado de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (última reforma publicada en agosto de 2026) · [Código de Procedimientos Civiles de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — H. Congreso del Estado de Oaxaca. Consultados el 27 de octubre de 2026.

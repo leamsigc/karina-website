@@ -14,6 +14,7 @@ ogImage:
     image: '/img/tres.jpeg'
     headline: 'Tlacolula de Matamoros'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''

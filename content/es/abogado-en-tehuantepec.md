@@ -14,6 +14,7 @@ ogImage:
     image: '/img/layer-family-law.jpg'
     headline: 'Tehuantepec'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -52,7 +53,7 @@ Atendemos divorcios, pensiones alimenticias, guarda y custodia, y controversias 
 ## ¿Por qué elegir nuestra firma en Tehuantepec?
 
 - **Más de 10 años de experiencia** en tribunales oaxaqueños
-- **98% de casos de éxito** documentados
+- **Seguimiento directo de cada expediente** por la licenciada
 - Representación ante **todos los tribunales locales y federales** de la zona
 - Honorarios claros - primera consulta gratuita
 - Atención personalizada directamente con la licenciada

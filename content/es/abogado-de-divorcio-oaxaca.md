@@ -10,6 +10,7 @@ tags:
   - abogada de divorcio
   - lic de divorcio oaxaca
 date: "2026-09-11"
+lastReviewed: "2026-10-27"
 publishedAt: "2026-09-11"
 category: "Derecho Familiar"
 featured: true
@@ -69,7 +70,7 @@ En el estado de Oaxaca, **ya no es necesario comprobar causas de divorcio ni con
 
 1. **Rapidez Garantizada (1 a 3 Meses)**: Presentación inmediata de la demanda en el Juzgado de lo Familiar.
 2. **Honestidad y Honorarios Claros**: Presupuesto cerrado y transparente desde la primera sesión, sin cargos ocultos.
-3. **98% de Eficiencia Judicial**: Década de experiencia postulando en los juzgados de Oaxaca de Juárez, Santa Lucía, Xoxocotlán y la Costa.
+3. **Experiencia litigiosa**: Práctica constante en los juzgados de Oaxaca de Juárez, Santa Lucía, Xoxocotlán y la Costa.
 4. **Atención Directa y Personalizada**: Tu expediente lo atiende directamente la Licenciada Karina Orocio, no pasantes.
 
 ---
@@ -125,3 +126,7 @@ No dejes pasar el tiempo. Toma el control de tu tranquilidad y tu futuro patrimo
 </div>
 
 </div>
+
+---
+
+**Fuentes oficiales:** [Código Familiar para el Estado de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (última reforma publicada en agosto de 2026) · [Código de Procedimientos Civiles de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — H. Congreso del Estado de Oaxaca. Consultados el 27 de octubre de 2026.

@@ -1,10 +1,10 @@
 ---
 layout: case-studies
-title: "Divorce & Child Support: Leticia Cabrera"
+title: "Divorce & Child Support: Leticia C."
 description: "Success story: Agile resolution of a divorce with minor children in Oaxaca de Juárez, ensuring fair child support and the children's well-being."
 type: case
 caseOverview:
-  client: "Leticia Cabrera"
+  client: "Leticia C."
   location: "Oaxaca de Juárez"
   result: "Agile and Favorable Resolution"
   category: "Family Law"
@@ -14,7 +14,7 @@ tags:
   - no-fault divorce oaxaca
   - child support oaxaca
   - children well-being
-  - Leticia Cabrera
+  - Leticia C.
 author:
   name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
@@ -22,21 +22,22 @@ author:
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/karina-hero.png'
-  alt: 'Divorce and Child Support Leticia Cabrera'
+  alt: 'Divorce and Child Support Leticia C.'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Success Case: Divorce and Child Support'
-    description: 'Agile formalization of divorce and child support for Leticia Cabrera.'
+    description: 'Agile formalization of divorce and child support for Leticia C..'
     image: '/img/karina-hero.png'
     headline: 'Success Case'
 publishedAt: '2024-06-20'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, no-fault divorce, child support, Leticia Cabrera, Karina Orocio Cruz, family law'
+      content: 'success case oaxaca, no-fault divorce, child support, Leticia C., Karina Orocio Cruz, family law'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
@@ -48,7 +49,7 @@ head:
 ::CaseStudyDetailHero
 ---
 title: "No-Fault Divorce & Child Support"
-client: "Leticia Cabrera"
+client: "Leticia C."
 location: "Oaxaca de Juárez"
 result: "Agile and Favorable Resolution"
 category: "Family Law"
@@ -58,10 +59,15 @@ image: "/img/karina-hero.png"
 
 ::CaseStudyDetailContent
 ---
-challenge: "Ms. Leticia Cabrera needed to formalize her legal status through a divorce, but the main challenge was to guarantee the future well-being of her minor children. A prolonged or poorly managed judicial process could have led to unnecessary family conflicts and a lack of certainty about the children's maintenance."
+challenge: "Ms. Leticia C. needed to formalize her legal status through a divorce, but the main challenge was to guarantee the future well-being of her minor children. A prolonged or poorly managed judicial process could have led to unnecessary family conflicts and a lack of certainty about the children's maintenance."
 
 strategy: "We implemented a strategy based on conciliation and conflict prevention. We designed a comprehensive prior agreement that clearly and in detail established the rights and obligations of both parties. This document not only addressed the dissolution of the marriage bond, but also set a child support amount proportional to the needs of the children and the possibilities of the parents, as well as a healthy visitation regime."
 
 outcome: "The result was an agile and effective formalization before the family courts of Oaxaca de Juárez. We managed to avoid a conflictive process of several years, obtaining a favorable resolution in record time. This case demonstrates the importance of legal advice that not only protects the client's legal interests but also prioritizes the best interests of the minors, achieving lasting family peace."
 ---
 ::
+
+
+---
+
+*Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*

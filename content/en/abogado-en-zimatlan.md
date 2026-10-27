@@ -14,6 +14,7 @@ ogImage:
     image: '/img/one.jpeg'
     headline: 'Zimatlan de Alvarez'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''

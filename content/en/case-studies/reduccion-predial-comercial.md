@@ -30,6 +30,7 @@ ogImage:
     image: '/img/layer-accounting.jpg'
     headline: 'Success Case'
 publishedAt: '2024-03-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -64,3 +65,8 @@ strategy: "We filed a Nullification Lawsuit before the Administrative Justice Co
 outcome: "The Court issued a judgment declaring the nullity of the excessive charges. The municipal authority was ordered to issue new property tax bills applying the correct values, resulting in a 75% reduction of the originally demanded amount, protecting the company's finances."
 ---
 ::
+
+
+---
+
+*Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*

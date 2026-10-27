@@ -20,16 +20,19 @@ const locations = [
 
 // Locale-aware high-intent links: plain NuxtLink would leak ES URLs onto EN
 // pages (and vice versa), so resolve per active locale and use NuxtLinkLocale.
+// Locale-relative paths only: `NuxtLinkLocale` adds/strips the `/en` prefix.
+// Do not put `/en/...` here — on a Spanish page it would be localised back to
+// the Spanish URL.
 const specializedPages = computed(() => locale.value === 'es'
   ? [
       { label: 'Abogado de Divorcio en Oaxaca', to: '/abogado-de-divorcio-oaxaca' },
       { label: 'Abogados de lo Familiar en Oaxaca', to: '/services/derecho-familiar-oaxaca' },
-      { label: 'Divorce Lawyer in Oaxaca (English)', to: '/en/divorce-lawyer-oaxaca' },
+      { label: 'Pensión Alimenticia en Oaxaca', to: '/services/abogado-de-pension-alimenticia-oaxaca' },
     ]
   : [
-      { label: 'Divorce Lawyer in Oaxaca', to: '/en/divorce-lawyer-oaxaca' },
-      { label: 'Family Lawyers in Oaxaca', to: '/en/services/derecho-familiar-oaxaca' },
-      { label: 'Child Support Lawyer in Oaxaca', to: '/en/services/child-support-alimony-lawyer-oaxaca' },
+      { label: 'Divorce Lawyer in Oaxaca', to: '/divorce-lawyer-oaxaca' },
+      { label: 'Family Lawyers in Oaxaca', to: '/services/derecho-familiar-oaxaca' },
+      { label: 'Child Support Lawyer in Oaxaca', to: '/services/child-support-alimony-lawyer-oaxaca' },
     ])
 
 </script>

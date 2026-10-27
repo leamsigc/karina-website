@@ -35,8 +35,11 @@ export const ES_TO_EN_CONTENT_PATHS: Record<string, string> = {
   '/abogado-de-divorcio-oaxaca': '/en/divorce-lawyer-oaxaca',
 
   // Case studies
-  '/case-studies/divorcio-pension-leticia-cabrera': '/en/case-studies/divorce-child-support-leticia-cabrera',
-  '/case-studies/prestamo-pagare-edenia-lopez': '/en/case-studies/loan-promissory-note-edenia-lopez',
+  '/case-studies/divorcio-pension-alimenticia-caso': '/en/case-studies/divorce-child-support-case',
+  '/case-studies/prestamo-pagare-cobro': '/en/case-studies/promissory-note-collection-case',
+  '/case-studies/numero-oficial-tramite': '/en/case-studies/official-address-number-case',
+  '/case-studies/contrato-arrendamiento-caso': '/en/case-studies/lease-agreement-case',
+  '/case-studies/reduccion-predial-caso': '/en/case-studies/property-tax-reduction-case',
 }
 
 /**
@@ -45,3 +48,21 @@ export const ES_TO_EN_CONTENT_PATHS: Record<string, string> = {
 export const EN_TO_ES_CONTENT_PATHS: Record<string, string> = Object.fromEntries(
   Object.entries(ES_TO_EN_CONTENT_PATHS).map(([esPath, enPath]) => [enPath, esPath]),
 )
+
+/**
+ * Resolve the URL of the current page in the other locale.
+ *
+ * `switchLocalePath` only knows how to add/strip the `/en` prefix, which produces
+ * a 404 for every page whose ES and EN slugs differ (the language switcher used
+ * to emit `/en/<spanish-slug>` on those pages). This uses the explicit map and
+ * falls back to prefixing for routes that have no content entry (e.g. `/success`).
+ */
+export function contentPathForLocale(currentPath: string, targetLocale: 'es' | 'en'): string {
+  const path = currentPath.replace(/\/+$/, '') || '/'
+  const isEn = path === '/en' || path.startsWith('/en/')
+  const currentEs = isEn ? (path.replace(/^\/en/, '') || '/') : path
+  const currentEn = isEn ? path : (path === '/' ? '/en' : `/en${path}`)
+  const esPath = isEn ? (EN_TO_ES_CONTENT_PATHS[currentEn] ?? currentEs) : currentEs
+  const enPath = isEn ? currentEn : (ES_TO_EN_CONTENT_PATHS[currentEs] ?? currentEn)
+  return targetLocale === 'en' ? enPath : esPath
+}

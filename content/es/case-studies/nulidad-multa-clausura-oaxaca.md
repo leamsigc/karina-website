@@ -31,6 +31,7 @@ ogImage:
     image: '/img/layer-office-building.jpg'
     headline: 'Caso de Éxito'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -69,3 +70,8 @@ outcome: "En menos de 48 horas, el Juez de Distrito concedió la suspensión, or
 serviceTitle: "derecho administrativo"
 ---
 ::
+
+
+---
+
+*Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

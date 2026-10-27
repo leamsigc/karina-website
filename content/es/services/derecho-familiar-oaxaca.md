@@ -26,6 +26,7 @@ ogImage:
     image: '/img/layer-family-law.jpg'
     headline: 'Familiar'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -224,3 +225,8 @@ Cuando su familia lo necesita, usted necesita el mejor apoyo legal. Actuamos con
 ::
 
 
+
+
+---
+
+**Fuentes oficiales:** [Código Familiar para el Estado de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (última reforma publicada en agosto de 2026) · [Código de Procedimientos Civiles de Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — H. Congreso del Estado de Oaxaca. Consultados el 27 de octubre de 2026.

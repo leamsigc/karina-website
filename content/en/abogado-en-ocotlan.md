@@ -14,6 +14,7 @@ ogImage:
     image: '/img/layer-services-1.jpg'
     headline: 'Ocotlan de Morelos'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''

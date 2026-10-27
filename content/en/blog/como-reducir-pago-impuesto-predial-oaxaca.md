@@ -24,6 +24,7 @@ ogImage:
     image: '/img/layer-accounting.jpg'
     headline: 'Secure Assets'
 publishedAt: '2024-02-20'
+lastReviewed: "2026-10-27"
 ---
 ::BlogPost
 ---

@@ -1,14 +1,14 @@
 ---
 layout: case-studies
-title: "Contrato de Arrendamiento: David Reyes"
+title: "Contrato de Arrendamiento: David R."
 description: "Caso de éxito: Elaboración de contrato de arrendamiento residencial a la medida para propietario en Oaxaca por la Lic. Karina Orocio."
 type: case
 caseOverview:
-  client: "David Reyes"
+  client: "David R."
   location: "Oaxaca de Juárez"
   result: "Contrato de arrendamiento hecho a la medida"
   category: "Derecho Civil"
-  summary: "David Reyes tenía varios departamentos y necesitaba contratos de arrendamiento personalizados. La Lic. Elisa realizó contratos conformes a sus necesidades específicas."
+  summary: "David R. tenía varios departamentos y necesitaba contratos de arrendamiento personalizados. La Lic. Elisa realizó contratos conformes a sus necesidades específicas."
 tags:
   - caso de exito oaxaca
   - contrato de arrendamiento oaxaca
@@ -21,21 +21,22 @@ author:
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/layer-office-building.jpg'
-  alt: 'Contrato de Arrendamiento David Reyes'
+  alt: 'Contrato de Arrendamiento David R.'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Caso de Éxito: Contrato de Arrendamiento'
-    description: 'Elaboración de contrato de arrendamiento para David Reyes.'
+    description: 'Elaboración de contrato de arrendamiento para David R..'
     image: '/img/layer-office-building.jpg'
     headline: 'Caso de Éxito'
 publishedAt: '2024-07-15'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'caso de exito oaxaca, contrato de arrendamiento, David Reyes, Karina Orocio Cruz'
+      content: 'caso de exito oaxaca, contrato de arrendamiento, David R., Karina Orocio Cruz'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
@@ -46,7 +47,7 @@ head:
 ::CaseStudyDetailHero
 ---
 title: "Elaboración de Contrato de Arrendamiento"
-client: "David Reyes"
+client: "David R."
 location: "Oaxaca de Juárez"
 result: "Contrato de arrendamiento hecho a la medida"
 category: "Derecho Civil"
@@ -56,9 +57,14 @@ image: "/img/layer-office-building.jpg"
 
 ::CaseStudyDetailContent
 ---
-challenge: "Nuestro cliente David Reyes es propietario de varios departamentos en Oaxaca que destina al arrendamiento. Sin embargo, cada vez más inquilinos le solicitaban un contrato de arrendamiento formal, y David no sabía cómo elaborar un contrato que protegiera sus intereses y se adaptara a las particularidades de su situación patrimonial, ya que tenía diferentes tipos de propiedades con distintas necesidades."
+challenge: "Nuestro cliente David R. es propietario de varios departamentos en Oaxaca que destina al arrendamiento. Sin embargo, cada vez más inquilinos le solicitaban un contrato de arrendamiento formal, y David no sabía cómo elaborar un contrato que protegiera sus intereses y se adaptara a las particularidades de su situación patrimonial, ya que tenía diferentes tipos de propiedades con distintas necesidades."
 
 strategy: "Tras una consulta detallada con David, comprendimos que necesitaba contratos personalizados adaptados a cada tipo de propiedad. Desarrollamos un enfoque integral que incluyó la preparación de diversos modelos de contratos de arrendamiento, considerando las particularidades de cada inmueble: desde rentas a corto plazo hasta contratos de largo plazo, con diferentes términos de pago y mantenimiento."
 outcome: "Gracias a nuestro enfoque, David recibió contratos de arrendamiento personalizados que satisfacen plenamente sus necesidades y protegen sus intereses como propietario. Cada contrato fue adaptado a la situación específica: algunos incluyen condiciones para inquilinos con mascotas, mientras que otros cuentan con disposiciones especiales sobre el pago de servicios. Hoy, David renta sus departamentos con total seguridad, sabiendo que sus intereses legales están protegidos."
 ---
 ::
+
+
+---
+
+*Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

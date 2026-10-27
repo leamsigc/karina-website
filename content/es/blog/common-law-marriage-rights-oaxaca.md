@@ -13,6 +13,7 @@ ogImage:
     image: '/img/layer-family-law.jpg'
     headline: 'Derecho Familiar'
 publishedAt: '2026-09-16'
+lastReviewed: "2026-10-27"
 date: '2026-09-16'
 category: 'Derecho Familiar'
 featured: true
@@ -54,7 +55,7 @@ schemaOrg:
     datePublished: "2026-09-16"
     dateModified: "2026-09-16"
     image: "https://abogada-karina-oaxaca.com/img/layer-family-law.jpg"
-    mainEntityOfPage: "https://abogada-karina-oaxaca.com/es/blog/common-law-marriage-rights-oaxaca"
+    mainEntityOfPage: "https://abogada-karina-oaxaca.com/blog/common-law-marriage-rights-oaxaca"
     inLanguage: "es-MX"
   - "@type": "FAQPage"
     mainEntity:

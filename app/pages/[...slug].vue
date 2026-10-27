@@ -88,6 +88,22 @@ const pageTitle = computed(() => page.value?.title || 'Karina Orocio Cruz - Abog
 const pageDescription = computed(() => page.value?.description || 'Especialista en asesoría legal patrimonial en Oaxaca')
 const canonicalUrl = computed(() => `https://abogada-karina-oaxaca.com${withoutTrailingSlash(route.path)}`)
 
+// Visible E-E-A-T signal: only rendered when the page carries a real review date.
+const lastReviewedLabel = computed(() => {
+  const value = page.value?.lastReviewed
+  if (!value)
+    return null
+  const date = new Date(`${value}T12:00:00`)
+  if (Number.isNaN(date.getTime()))
+    return null
+  return new Intl.DateTimeFormat(locale.value === 'es' ? 'es-MX' : 'en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  }).format(date)
+})
+
+
 useHead(() => page.value?.head || {})
 
 useSeoMeta({
@@ -152,7 +168,7 @@ if (page.value) {
         description: page.value.description,
         image: pageImage.value.startsWith('http') ? pageImage.value : `https://abogada-karina-oaxaca.com${pageImage.value}`,
         datePublished: page.value.publishedAt || page.value.date || '2026-01-01',
-        dateModified: page.value.publishedAt || page.value.date || '2026-01-01',
+        dateModified: page.value.lastReviewed || page.value.publishedAt || page.value.date || '2026-01-01',
         author: {
           name: page.value.author?.name || 'Karina Orocio Cruz',
           url: 'https://abogada-karina-oaxaca.com/about'
@@ -246,7 +262,14 @@ if (page.value) {
 </script>
 
 <template>
-  <ContentRenderer v-if="page" :value="page" />
+  <div v-if="page">
+    <ContentRenderer :value="page" />
+    <div v-if="lastReviewedLabel" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+      <p class="text-[11px] uppercase tracking-widest text-charcoal-light/70">
+        {{ t('common.last_reviewed') }}: {{ lastReviewedLabel }}
+      </p>
+    </div>
+  </div>
   <div v-else class="min-h-[60vh] flex flex-col items-center justify-center text-center px-4">
     <h1 class="font-serif text-4xl text-charcoal mb-4">
       {{ t('page_not_found') }}

@@ -44,6 +44,9 @@ const blogSchema = z.object({
   tags: z.array(z.string()).optional(),
   date: z.string().optional(),
   publishedAt: z.string().optional(),
+  // Editorial freshness: the date a human last checked this page. Drives the
+  // visible "last reviewed" line and schema `dateModified`. Never bulk-assign it.
+  lastReviewed: z.string().optional(),
   head: headSchema,
   category: z.string().optional(),
   featured: z.boolean().default(false),

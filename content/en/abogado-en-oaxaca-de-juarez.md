@@ -14,6 +14,7 @@ ogImage:
     image: '/img/layer-meeting.jpg'
     headline: 'Oaxaca de Juárez'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -102,7 +103,7 @@ The most common problem in the capital: **the municipality overcharges**. Increa
 ## Why choose our firm in Oaxaca de Juárez?
 
 - **10+ years of experience** in Oaxaca courts
-- **98% documented success rate**
+- **Direct case-file follow-up** by the attorney
 - Representation before **all local and federal courts**
 - Clear fees - first consultation free
 - Personal attention directly with the attorney

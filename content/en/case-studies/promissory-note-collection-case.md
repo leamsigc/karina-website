@@ -1,10 +1,10 @@
 ---
 layout: case-studies
-title: "Loan & Promissory Note: Edenia López"
+title: "Loan & Promissory Note: Edenia L."
 description: "Success story: Recovery of capital and interest from a promissory note in Oaxaca de Juárez through a successful commercial executive lawsuit."
 type: case
 caseOverview:
-  client: "Edenia López"
+  client: "Edenia L."
   location: "Oaxaca de Juárez"
   result: "Capital and Interest Recovery"
   category: "Commercial Law"
@@ -14,7 +14,7 @@ tags:
   - promissory note oaxaca
   - capital recovery
   - commercial law oaxaca
-  - Edenia López
+  - Edenia L.
 author:
   name: 'Karina Orocio Cruz'
   role: 'Attorney at Law'
@@ -22,21 +22,22 @@ author:
   social: 'https://wa.me/529516153010'
 image:
   src: '/img/karina-hero.png'
-  alt: 'Promissory Note Recovery Edenia López'
+  alt: 'Promissory Note Recovery Edenia L.'
 ogImage:
   component: BlogOgImage
   props:
     title: 'Success Case: Promissory Note Recovery'
-    description: 'Recovery of capital and interest for Edenia López in Oaxaca.'
+    description: 'Recovery of capital and interest for Edenia L. in Oaxaca.'
     image: '/img/karina-hero.png'
     headline: 'Success Case'
 publishedAt: '2024-05-15'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
   meta:
     - name: 'keywords'
-      content: 'success case oaxaca, promissory note, Edenia López, Karina Orocio Cruz, commercial collection'
+      content: 'success case oaxaca, promissory note, Edenia L., Karina Orocio Cruz, commercial collection'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
@@ -48,7 +49,7 @@ head:
 ::CaseStudyDetailHero
 ---
 title: "Loan & Promissory Note"
-client: "Edenia López"
+client: "Edenia L."
 location: "Oaxaca de Juárez"
 result: "Capital and Interest Recovery"
 category: "Commercial Law"
@@ -58,10 +59,15 @@ image: "/img/karina-hero.png"
 
 ::CaseStudyDetailContent
 ---
-challenge: "Ms. Edenia López faced a critical situation: she had lent a significant amount of money to acquaintances based on trust and backed by a signed promissory note. However, upon the maturity date, the debtors systematically refused to fulfill their payment obligation, putting our client's assets at risk."
+challenge: "Ms. Edenia L. faced a critical situation: she had lent a significant amount of money to acquaintances based on trust and backed by a signed promissory note. However, upon the maturity date, the debtors systematically refused to fulfill their payment obligation, putting our client's assets at risk."
 
 strategy: "We designed a robust legal strategy based on filing a Commercial Executive Lawsuit (Demanda Ejecutiva Mercantil). We took advantage of the nature of the promissory note as an executive title that carries execution, which allowed us to request the precautionary seizure of assets to guarantee payment from the beginning of the process. We carried out precise technical follow-up of the file before the courts of Oaxaca de Juárez to avoid procedural delays."
 
 outcome: "Thanks to the flawless execution of the strategy, we not only achieved a court order for the immediate return of the principal amount lent, but also obtained a judgment compelling the payment of default interest generated throughout the period of non-compliance. This case reflects the importance of having timely legal advice to enforce legal instruments and ensure the fulfillment of asset obligations."
 ---
 ::
+
+
+---
+
+*Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*

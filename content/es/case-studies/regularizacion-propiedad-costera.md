@@ -30,6 +30,7 @@ ogImage:
     image: '/img/layer-beach-property.jpg'
     headline: 'Caso de Éxito'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -68,3 +69,8 @@ outcome: "Obtuvimos una sentencia judicial ejecutoriada que declaró a nuestros 
 serviceTitle: "derecho civil"
 ---
 ::
+
+
+---
+
+*Nota de confidencialidad: los nombres de las personas clientes se abrevian a nombre e inicial para proteger su identidad. Los hechos y el resultado corresponden al expediente atendido; no se garantiza el mismo resultado en asuntos futuros.*

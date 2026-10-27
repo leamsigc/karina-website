@@ -14,6 +14,7 @@ ogImage:
     image: '/img/layer-family-law.jpg'
     headline: 'Tehuantepec'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -52,7 +53,7 @@ We handle divorces, child support, child custody, and family disputes with sensi
 ## Why Choose Our Firm in Tehuantepec?
 
 - **Over 10 years of experience** in Oaxaca courts
-- **98% documented success rate**
+- **Direct case-file follow-up** by the attorney
 - Representation before **all local and federal courts** in the area
 - Clear fees - first consultation free
 - Personalized attention directly with the attorney

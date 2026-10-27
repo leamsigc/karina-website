@@ -24,6 +24,7 @@ ogImage:
     image: '/img/one.jpeg'
     headline: 'Citizen Guide'
 publishedAt: '2024-04-10'
+lastReviewed: "2026-10-27"
 ---
 
 ::BlogPost

@@ -24,6 +24,7 @@ ogImage:
     image: '/img/layer-family-law.jpg'
     headline: 'Pensión Alimenticia'
 publishedAt: '2026-09-11'
+lastReviewed: "2026-10-27"
 head:
   meta:
     - name: 'keywords'

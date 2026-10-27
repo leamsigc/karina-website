@@ -9,6 +9,7 @@ tags:
   - juzgados familiares oaxaca
   - abogado familiar oaxaca
 date: "2026-09-24"
+lastReviewed: "2026-10-27"
 publishedAt: "2026-09-24"
 featured: true
 category: "Derecho Familiar"

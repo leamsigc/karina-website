@@ -13,6 +13,7 @@ ogImage:
     image: '/img/layer-office-building.jpg'
     headline: 'Civil Law'
 publishedAt: '2026-08-25'
+lastReviewed: "2026-10-27"
 date: '2026-08-25'
 category: 'Civil Law'
 featured: true
@@ -158,3 +159,8 @@ Un-deeded property cannot be safely resold or mortgaged. Secure your family's re
 
 ---
 *Related service: [Civil law: property, inheritance & contracts](/en/services/derecho-civil-oaxaca) · [Schedule a free consultation](/en/contact)*
+
+
+---
+
+**Primary sources:** [Civil Code of the State of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Civil_del_Estado_de_Oaxaca_%28Ref_dto_1570_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_secc_1_agosto_2026%29.pdf) (last amendment published August 2026) · [Code of Civil Procedure of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — Congress of the State of Oaxaca. Accessed 27 October 2026.

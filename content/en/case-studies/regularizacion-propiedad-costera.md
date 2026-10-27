@@ -30,6 +30,7 @@ ogImage:
     image: '/img/layer-beach-property.jpg'
     headline: 'Success Case'
 publishedAt: '2024-01-01'
+lastReviewed: "2026-10-27"
 head:
   bodyAttrs:
     class: ''
@@ -70,3 +71,8 @@ outcome: "We obtained a final court judgment declaring our clients as legitimate
 serviceTitle: "civil law"
 ---
 ::
+
+
+---
+
+*Confidentiality note: client names are shortened to a first name and initial to protect their identity. Facts and outcome are taken from the case file; the same result is not guaranteed in future matters.*

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { t, locale, setLocale } = useI18n()
+const route = useRoute()
 
 const links = computed(() => [
     { label: t('nav.home'), to: '/', icon: 'i-heroicons-home' },
@@ -8,6 +9,11 @@ const links = computed(() => [
     { label: t('nav.blog'), to: '/blog' },
     { label: t('nav.contact'), to: '/contact' }
 ])
+
+// The language switcher must land on the translated page. `switchLocalePath`
+// only adds/strips `/en`, so it 404s whenever the slug differs per locale
+// (case studies, most blog posts, several service pages). Use the explicit map.
+const localeSwitcherHref = (lang: 'en' | 'es') => contentPathForLocale(route.path, lang)
 
 const toggleLanguage = (lang: 'en' | 'es') => {
     setLocale(lang)
@@ -43,19 +49,19 @@ to="/contact"
                 </nav>
 
                 <div class="flex items-center gap-2">
-                    <SwitchLocalePathLink
-locale="es" 
+                    <NuxtLink
+:to="localeSwitcherHref('es')"
                         :class="['text-xs tracking-widest uppercase font-medium transition-colors', locale === 'es' ? 'text-gold' : 'text-charcoal hover:text-gold']"
                         @click="toggleLanguage('es')">
                         ES
-                    </SwitchLocalePathLink>
+                    </NuxtLink>
                     <span class="text-gold">|</span>
-                    <SwitchLocalePathLink
-locale="en" 
+                    <NuxtLink
+:to="localeSwitcherHref('en')"
                         :class="['text-xs tracking-widest uppercase font-medium transition-colors', locale === 'en' ? 'text-gold' : 'text-charcoal hover:text-gold']"
                         @click="toggleLanguage('en')">
                         EN
-                    </SwitchLocalePathLink>
+                    </NuxtLink>
                 </div>
             </div>
         </div>

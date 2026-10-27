@@ -10,6 +10,7 @@ tags:
   - expat divorce oaxaca
   - mexican family law
 date: "2026-09-11"
+lastReviewed: "2026-10-27"
 publishedAt: "2026-09-11"
 category: "Family Law"
 featured: true
@@ -136,3 +137,7 @@ Do not navigate Mexican family court alone. Get immediate, expert legal advice f
 </div>
 
 </div>
+
+---
+
+**Primary sources:** [Family Code of the State of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_%28ref_dto_1571_aprob_LXVI_Legis_7_julio_2026_PO_31_10a_seccion_1_agosto_2026%29.pdf) (last amendment published August 2026) · [Code of Civil Procedure of Oaxaca](https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_%28Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021%29.pdf) — Congress of the State of Oaxaca. Accessed 27 October 2026.
